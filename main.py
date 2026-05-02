@@ -1,7 +1,6 @@
 import asyncio
 
 from src.scraper import (
-    get_client,
     get_since_date,
     load_existing_tweets,
     merge_tweets,
@@ -19,8 +18,7 @@ async def main():
     # Stage 1: Scrape
     print("=== Stage 1: Scraping tweets ===")
     since = get_since_date()
-    client = await get_client()
-    new_tweets = await scrape_tweets(since, client)
+    new_tweets = await scrape_tweets(since)
     existing = load_existing_tweets()
     all_tweets = merge_tweets(existing, new_tweets)
     save_tweets(all_tweets)

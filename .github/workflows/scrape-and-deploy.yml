@@ -27,9 +27,8 @@ jobs:
 
       - name: Run scraper and analysis
         env:
-          X_USERNAME: ${{ secrets.X_USERNAME }}
-          X_EMAIL: ${{ secrets.X_EMAIL }}
-          X_PASSWORD: ${{ secrets.X_PASSWORD }}
+          X_AUTH_TOKEN: ${{ secrets.X_AUTH_TOKEN }}
+          X_CT0: ${{ secrets.X_CT0 }}
         run: python main.py
 
       - name: Commit updated data

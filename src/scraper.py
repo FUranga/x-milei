@@ -6,7 +6,7 @@ import os
 from datetime import datetime, timezone
 from pathlib import Path
 
-from twikit import Client
+import httpx
 
 from .config import (
     DATA_DIR,
@@ -16,64 +16,184 @@ from .config import (
     TARGET_USER,
 )
 
-COOKIES_PATH = Path("cookies.json")
+GRAPHQL_USER_BY_SCREEN_NAME = "https://x.com/i/api/graphql/xmU6X_CKVnQ5lSrCbAmJsg/UserByScreenName"
+GRAPHQL_USER_TWEETS = "https://x.com/i/api/graphql/Y4NfYuQ4BNRXgUDHuz1Cxg/UserTweets"
+
+FEATURES = {
+    "rweb_tipjar_consumption_enabled": True,
+    "responsive_web_graphql_exclude_directive_enabled": True,
+    "verified_phone_label_enabled": False,
+    "creator_subscriptions_tweet_preview_api_enabled": True,
+    "responsive_web_graphql_timeline_navigation_enabled": True,
+    "responsive_web_graphql_skip_user_profile_image_extensions_enabled": False,
+    "communities_web_enable_tweet_community_results_fetch": True,
+    "c9s_tweet_anatomy_moderator_badge_enabled": True,
+    "articles_preview_enabled": True,
+    "responsive_web_edit_tweet_api_enabled": True,
+    "graphql_is_translatable_rweb_tweet_is_translatable_enabled": True,
+    "view_counts_everywhere_api_enabled": True,
+    "longform_notetweets_consumption_enabled": True,
+    "responsive_web_twitter_article_tweet_consumption_enabled": True,
+    "tweet_awards_web_tipping_enabled": False,
+    "creator_subscriptions_quote_tweet_preview_enabled": False,
+    "freedom_of_speech_not_reach_fetch_enabled": True,
+    "standardized_nudges_misinfo": True,
+    "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": True,
+    "rweb_video_timestamps_enabled": True,
+    "longform_notetweets_rich_text_read_enabled": True,
+    "longform_notetweets_inline_media_enabled": True,
+    "responsive_web_enhance_cards_enabled": False,
+    "tweetypie_unmention_optimization_enabled": True,
+    "responsive_web_text_conversations_enabled": False,
+    "interactive_text_enabled": True,
+    "responsive_web_media_download_video_enabled": False,
+    "premium_content_api_read_enabled": False,
+}
 
 
-async def get_client() -> Client:
-    client = Client("en-US")
-    if COOKIES_PATH.exists():
-        client.load_cookies(str(COOKIES_PATH))
-    else:
-        await client.login(
-            auth_info_1=os.environ["X_USERNAME"],
-            auth_info_2=os.environ["X_EMAIL"],
-            password=os.environ["X_PASSWORD"],
-        )
-        client.save_cookies(str(COOKIES_PATH))
-    return client
-
-
-def parse_tweet_date(date_str: str) -> datetime:
-    return datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y")
-
-
-def tweet_to_dict(tweet) -> dict:
-    is_repost = tweet.retweeted_tweet is not None
+def _build_headers() -> dict:
+    auth_token = os.environ["X_AUTH_TOKEN"]
+    ct0 = os.environ["X_CT0"]
     return {
-        "id": tweet.id,
-        "created_at": tweet.created_at,
-        "full_text": tweet.full_text,
-        "is_repost": is_repost,
-        "type": "Repost" if is_repost else "Post",
+        "authorization": "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA",
+        "cookie": f"auth_token={auth_token}; ct0={ct0}",
+        "x-csrf-token": ct0,
+        "x-twitter-active-user": "yes",
+        "x-twitter-auth-type": "OAuth2Session",
+        "x-twitter-client-language": "en",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
     }
 
 
-async def scrape_tweets(since_date: datetime, client: Client) -> list[dict]:
-    user = await client.get_user_by_screen_name(TARGET_USER)
+async def _get_user_id(client: httpx.AsyncClient, screen_name: str) -> str:
+    variables = {
+        "screen_name": screen_name,
+        "withSafetyModeUserFields": True,
+    }
+    params = {
+        "variables": json.dumps(variables),
+        "features": json.dumps(FEATURES),
+    }
+    resp = await client.get(GRAPHQL_USER_BY_SCREEN_NAME, params=params)
+    resp.raise_for_status()
+    data = resp.json()
+    return data["data"]["user"]["result"]["rest_id"]
+
+
+def _parse_tweet_date(date_str: str) -> datetime:
+    return datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y")
+
+
+def _extract_tweets_from_timeline(data: dict) -> tuple[list[dict], str | None]:
     tweets = []
+    cursor = None
+    instructions = data["data"]["user"]["result"]["timeline_v2"]["timeline"]["instructions"]
 
-    results = await client.get_user_tweets(user.id, "Tweets", count=40)
+    for instruction in instructions:
+        if instruction.get("type") == "TimelineAddEntries":
+            entries = instruction.get("entries", [])
+        elif instruction.get("type") == "TimelineAddToModule":
+            entries = instruction.get("moduleItems", [])
+        else:
+            continue
 
-    while results:
-        stop = False
-        for tweet in results:
-            tweet_date = parse_tweet_date(tweet.created_at)
-            if tweet_date < since_date:
-                stop = True
+        for entry in entries:
+            entry_id = entry.get("entryId", "")
+
+            if entry_id.startswith("cursor-bottom"):
+                cursor = entry["content"]["value"]
+                continue
+
+            content = entry.get("content", {})
+            if content.get("entryType") != "TimelineTimelineItem":
+                continue
+
+            tweet_result = content.get("itemContent", {}).get("tweet_results", {}).get("result", {})
+            if not tweet_result:
+                continue
+
+            typename = tweet_result.get("__typename", "")
+            if typename == "TweetWithVisibilityResults":
+                tweet_result = tweet_result.get("tweet", {})
+
+            legacy = tweet_result.get("legacy", {})
+            if not legacy:
+                continue
+
+            is_repost = "retweeted_status_result" in legacy
+            full_text = legacy.get("full_text", "")
+            created_at = legacy.get("created_at", "")
+            tweet_id = legacy.get("id_str", tweet_result.get("rest_id", ""))
+
+            tweets.append({
+                "id": tweet_id,
+                "created_at": created_at,
+                "full_text": full_text,
+                "is_repost": is_repost,
+                "type": "Repost" if is_repost else "Post",
+            })
+
+    return tweets, cursor
+
+
+async def scrape_tweets(since_date: datetime) -> list[dict]:
+    headers = _build_headers()
+    all_tweets = []
+
+    async with httpx.AsyncClient(headers=headers, timeout=30.0) as client:
+        user_id = await _get_user_id(client, TARGET_USER)
+        print(f"User ID for @{TARGET_USER}: {user_id}")
+
+        cursor = None
+        page = 0
+
+        while True:
+            page += 1
+            variables = {
+                "userId": user_id,
+                "count": 40,
+                "includePromotedContent": False,
+                "withQuickPromoteEligibilityTweetFields": True,
+                "withVoice": True,
+                "withV2Timeline": True,
+            }
+            if cursor:
+                variables["cursor"] = cursor
+
+            params = {
+                "variables": json.dumps(variables),
+                "features": json.dumps(FEATURES),
+            }
+
+            resp = await client.get(GRAPHQL_USER_TWEETS, params=params)
+            if resp.status_code == 429:
+                print("Rate limited, waiting 60s...")
+                await asyncio.sleep(60)
+                continue
+            resp.raise_for_status()
+
+            data = resp.json()
+            tweets, cursor = _extract_tweets_from_timeline(data)
+
+            stop = False
+            for tweet in tweets:
+                if not tweet["created_at"]:
+                    continue
+                tweet_date = _parse_tweet_date(tweet["created_at"])
+                if tweet_date < since_date:
+                    stop = True
+                    break
+                all_tweets.append(tweet)
+
+            print(f"Page {page}: got {len(tweets)} tweets (total: {len(all_tweets)})")
+
+            if stop or not cursor or not tweets:
                 break
-            tweets.append(tweet_to_dict(tweet))
 
-        if stop:
-            break
+            await asyncio.sleep(2)
 
-        await asyncio.sleep(2)
-        try:
-            results = await results.next()
-        except Exception:
-            break
-
-    print(f"Scraped {len(tweets)} tweets since {since_date.isoformat()}")
-    return tweets
+    print(f"Scraped {len(all_tweets)} tweets since {since_date.isoformat()}")
+    return all_tweets
 
 
 def load_existing_tweets() -> list[dict]:
