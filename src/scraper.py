@@ -16,8 +16,8 @@ from .config import (
     TARGET_USER,
 )
 
-GRAPHQL_USER_BY_SCREEN_NAME = "https://x.com/i/api/graphql/xmU6X_CKVnQ5lSrCbAmJsg/UserByScreenName"
-GRAPHQL_USER_TWEETS = "https://x.com/i/api/graphql/Y4NfYuQ4BNRXgUDHuz1Cxg/UserTweets"
+GRAPHQL_USER_BY_SCREEN_NAME = "https://x.com/i/api/graphql/sLVLhk0bGj3MVFEKTdax1w/UserByScreenName"
+GRAPHQL_USER_TWEETS = "https://x.com/i/api/graphql/HuTx74BxAnezK1gWvYY7zg/UserTweets"
 
 FEATURES = {
     "rweb_tipjar_consumption_enabled": True,
