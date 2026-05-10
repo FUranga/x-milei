@@ -2,17 +2,10 @@ from __future__ import annotations
 
 import re
 from collections import Counter
-from datetime import datetime, timedelta, timezone
 
 import pandas as pd
 
-from .config import SPANISH_STOP_WORDS
-
-ART = timezone(timedelta(hours=-3))
-
-
-def parse_date(date_str: str) -> datetime:
-    return datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y").astimezone(ART)
+from .config import SPANISH_STOP_WORDS, parse_tweet_date
 
 
 def tokenize(text: str) -> list[str]:
@@ -29,7 +22,7 @@ def word_frequencies_by_day(tweets: list[dict], top_n: int = 15) -> pd.DataFrame
     rows = []
     by_day = {}
     for tweet in original_posts:
-        dt = parse_date(tweet["created_at"])
+        dt = parse_tweet_date(tweet["created_at"])
         day = dt.strftime("%Y-%m-%d")
         by_day.setdefault(day, []).append(tweet["full_text"])
 
@@ -47,10 +40,10 @@ def word_frequencies_by_day(tweets: list[dict], top_n: int = 15) -> pd.DataFrame
 def posts_per_hour(tweets: list[dict]) -> pd.Series:
     hours = []
     for tweet in tweets:
-        dt = parse_date(tweet["created_at"])
+        dt = parse_tweet_date(tweet["created_at"])
         hours.append(dt.hour)
 
     series = pd.Series(hours, name="hour").value_counts().sort_index()
     full_hours = pd.Series(0, index=range(24), name="count")
-    full_hours.update(series)
+    full_hours = series.reindex(range(24), fill_value=0)
     return full_hours

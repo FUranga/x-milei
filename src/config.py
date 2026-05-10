@@ -1,5 +1,9 @@
+from __future__ import annotations
+
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from datetime import datetime, timezone
+
+ART = timezone(timedelta(hours=-3))
 
 TARGET_USER = "JMilei"
 SCRAPE_START_DATE = datetime(2025, 4, 20, tzinfo=timezone.utc)
@@ -14,6 +18,10 @@ RAW_TWEETS_PATH = DATA_DIR / "raw_tweets.json"
 LAST_RUN_PATH = DATA_DIR / "last_run.json"
 EXCEL_PATH = DATA_DIR / "milei_tweets.xlsx"
 EXCEL_DOCS_PATH = DOCS_DATA_DIR / "milei_tweets.xlsx"
+
+def parse_tweet_date(date_str: str) -> datetime:
+    return datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y").astimezone(ART)
+
 
 SPANISH_STOP_WORDS = {
     # Articles

@@ -1,11 +1,9 @@
 from __future__ import annotations
 
-from datetime import datetime, timedelta, timezone
+from datetime import datetime
 from pathlib import Path
 
-from .config import DOCS_DIR
-
-ART = timezone(timedelta(hours=-3))
+from .config import ART, DOCS_DIR, parse_tweet_date
 
 HTML_TEMPLATE = """\
 <!DOCTYPE html>
@@ -182,14 +180,12 @@ def generate_index_html(tweets: list[dict]):
         dates = []
         for t in tweets:
             try:
-                from datetime import datetime as dt
-                d = dt.strptime(t["created_at"], "%a %b %d %H:%M:%S %z %Y")
-                dates.append(d)
+                dates.append(parse_tweet_date(t["created_at"]))
             except (ValueError, KeyError):
                 pass
         if dates:
-            min_d = min(dates).astimezone(ART)
-            max_d = max(dates).astimezone(ART)
+            min_d = min(dates)
+            max_d = max(dates)
             date_range = f"{min_d.strftime('%d/%m')} - {max_d.strftime('%d/%m/%Y')}"
         else:
             date_range = "N/A"
