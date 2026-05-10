@@ -1,18 +1,11 @@
 from __future__ import annotations
 
 import shutil
-from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import pandas as pd
 
-from .config import DOCS_DATA_DIR, EXCEL_DOCS_PATH, EXCEL_PATH, RAW_TWEETS_PATH
-
-ART = timezone(timedelta(hours=-3))
-
-
-def parse_date(date_str: str) -> datetime:
-    return datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y").astimezone(ART)
+from .config import DOCS_DATA_DIR, EXCEL_DOCS_PATH, EXCEL_PATH, parse_tweet_date
 
 
 def export_to_excel(tweets: list[dict], output_path: Path | None = None):
@@ -20,7 +13,7 @@ def export_to_excel(tweets: list[dict], output_path: Path | None = None):
         output_path = EXCEL_PATH
 
     df = pd.DataFrame(tweets)
-    df["parsed_dt"] = df["created_at"].apply(parse_date)
+    df["parsed_dt"] = df["created_at"].apply(parse_tweet_date)
     df["Fecha"] = df["parsed_dt"].dt.strftime("%d/%m/%Y")
     df["Hora"] = df["parsed_dt"].dt.strftime("%H:%M:%S")
     df["Texto"] = df["full_text"]

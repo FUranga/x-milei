@@ -14,6 +14,7 @@ from .config import (
     RAW_TWEETS_PATH,
     SCRAPE_START_DATE,
     TARGET_USER,
+    parse_tweet_date,
 )
 
 GRAPHQL_USER_BY_SCREEN_NAME = "https://x.com/i/api/graphql/sLVLhk0bGj3MVFEKTdax1w/UserByScreenName"
@@ -52,9 +53,12 @@ FEATURES = {
 
 
 def _build_headers() -> dict:
-    auth_token = os.environ["X_AUTH_TOKEN"]
-    ct0 = os.environ["X_CT0"]
+    auth_token = os.environ.get("X_AUTH_TOKEN")
+    ct0 = os.environ.get("X_CT0")
+    if not auth_token or not ct0:
+        raise RuntimeError("Missing X_AUTH_TOKEN or X_CT0 env vars. Extract from browser DevTools > Application > Cookies > x.com")
     return {
+        # Public bearer token shared by all Twitter web clients (not a secret)
         "authorization": "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA",
         "cookie": f"auth_token={auth_token}; ct0={ct0}",
         "x-csrf-token": ct0,
@@ -78,10 +82,6 @@ async def _get_user_id(client: httpx.AsyncClient, screen_name: str) -> str:
     resp.raise_for_status()
     data = resp.json()
     return data["data"]["user"]["result"]["rest_id"]
-
-
-def _parse_tweet_date(date_str: str) -> datetime:
-    return datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y")
 
 
 def _extract_tweets_from_timeline(data: dict) -> tuple[list[dict], str | None]:
@@ -179,7 +179,7 @@ async def scrape_tweets(since_date: datetime) -> list[dict]:
             for tweet in tweets:
                 if not tweet["created_at"]:
                     continue
-                tweet_date = _parse_tweet_date(tweet["created_at"])
+                tweet_date = parse_tweet_date(tweet["created_at"])
                 if tweet_date < since_date:
                     stop = True
                     break
@@ -207,7 +207,11 @@ def merge_tweets(existing: list[dict], new: list[dict]) -> list[dict]:
     by_id = {t["id"]: t for t in existing}
     for t in new:
         by_id[t["id"]] = t
-    merged = sorted(by_id.values(), key=lambda t: t["created_at"], reverse=True)
+    merged = sorted(
+        (t for t in by_id.values() if t.get("created_at")),
+        key=lambda t: parse_tweet_date(t["created_at"]),
+        reverse=True,
+    )
     return merged
 
 
