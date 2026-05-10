@@ -56,8 +56,9 @@ def _build_headers() -> dict:
     auth_token = os.environ.get("X_AUTH_TOKEN")
     ct0 = os.environ.get("X_CT0")
     if not auth_token or not ct0:
-        raise SystemExit("Missing X_AUTH_TOKEN or X_CT0 env vars. Extract from browser DevTools > Application > Cookies > x.com")
+        raise RuntimeError("Missing X_AUTH_TOKEN or X_CT0 env vars. Extract from browser DevTools > Application > Cookies > x.com")
     return {
+        # Public bearer token shared by all Twitter web clients (not a secret)
         "authorization": "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA",
         "cookie": f"auth_token={auth_token}; ct0={ct0}",
         "x-csrf-token": ct0,
@@ -206,7 +207,11 @@ def merge_tweets(existing: list[dict], new: list[dict]) -> list[dict]:
     by_id = {t["id"]: t for t in existing}
     for t in new:
         by_id[t["id"]] = t
-    merged = sorted(by_id.values(), key=lambda t: parse_tweet_date(t["created_at"]), reverse=True)
+    merged = sorted(
+        (t for t in by_id.values() if t.get("created_at")),
+        key=lambda t: parse_tweet_date(t["created_at"]),
+        reverse=True,
+    )
     return merged
 
 
