@@ -44,6 +44,5 @@ def posts_per_hour(tweets: list[dict]) -> pd.Series:
         hours.append(dt.hour)
 
     series = pd.Series(hours, name="hour").value_counts().sort_index()
-    full_hours = pd.Series(0, index=range(24), name="count")
     full_hours = series.reindex(range(24), fill_value=0)
     return full_hours

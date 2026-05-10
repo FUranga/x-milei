@@ -14,6 +14,7 @@ from .config import (
     RAW_TWEETS_PATH,
     SCRAPE_START_DATE,
     TARGET_USER,
+    parse_tweet_date,
 )
 
 GRAPHQL_USER_BY_SCREEN_NAME = "https://x.com/i/api/graphql/sLVLhk0bGj3MVFEKTdax1w/UserByScreenName"
@@ -80,10 +81,6 @@ async def _get_user_id(client: httpx.AsyncClient, screen_name: str) -> str:
     resp.raise_for_status()
     data = resp.json()
     return data["data"]["user"]["result"]["rest_id"]
-
-
-def _parse_tweet_date(date_str: str) -> datetime:
-    return datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y")
 
 
 def _extract_tweets_from_timeline(data: dict) -> tuple[list[dict], str | None]:
@@ -181,7 +178,7 @@ async def scrape_tweets(since_date: datetime) -> list[dict]:
             for tweet in tweets:
                 if not tweet["created_at"]:
                     continue
-                tweet_date = _parse_tweet_date(tweet["created_at"])
+                tweet_date = parse_tweet_date(tweet["created_at"])
                 if tweet_date < since_date:
                     stop = True
                     break
@@ -209,7 +206,7 @@ def merge_tweets(existing: list[dict], new: list[dict]) -> list[dict]:
     by_id = {t["id"]: t for t in existing}
     for t in new:
         by_id[t["id"]] = t
-    merged = sorted(by_id.values(), key=lambda t: _parse_tweet_date(t["created_at"]), reverse=True)
+    merged = sorted(by_id.values(), key=lambda t: parse_tweet_date(t["created_at"]), reverse=True)
     return merged
 
 

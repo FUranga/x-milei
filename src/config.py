@@ -19,6 +19,7 @@ LAST_RUN_PATH = DATA_DIR / "last_run.json"
 EXCEL_PATH = DATA_DIR / "milei_tweets.xlsx"
 EXCEL_DOCS_PATH = DOCS_DATA_DIR / "milei_tweets.xlsx"
 
+
 def parse_tweet_date(date_str: str) -> datetime:
     return datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y").astimezone(ART)
 
