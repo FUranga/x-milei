@@ -1,5 +1,586 @@
 [
   {
+    "id": "2053934043591229514",
+    "created_at": "Mon May 11 20:23:30 +0000 2026",
+    "full_text": "RT @aetchebarne: La inflación de CABA bajó de 3.5% en marzo al 2.5% en abril. Para nosotros, mayo debiera estar en 2% o menos… salvo que te…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053933990231380309",
+    "created_at": "Mon May 11 20:23:18 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | ARGENTINA SALE ADELANTE: El Banco Central adquirió 136 millones de dólares en el mercado de divisas y encadenó 8…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053933957557694514",
+    "created_at": "Mon May 11 20:23:10 +0000 2026",
+    "full_text": "RT @ViejoLibertario: - Che, ¿Viste que bajó más de un 2%?\n- ¿Qué cosa, la imagen de Milei?\n- No salame, el Riesgo País, perforó la barrera…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053933900733280487",
+    "created_at": "Mon May 11 20:22:56 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Menos de 500 puntos. Argentina vuelve al radar del capital serio.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053933878448910545",
+    "created_at": "Mon May 11 20:22:51 +0000 2026",
+    "full_text": "RT @nnairob: Arjantin'de ülke riski tekrardan 500 baz puanın altına düştü.\n\nVIVA LA LIBERTAD CARAJO...!!! https://t.co/j1UhxT29AO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053933830000554429",
+    "created_at": "Mon May 11 20:22:39 +0000 2026",
+    "full_text": "RT @agarra_pala: 🔥🔥“KUKAS FORROS, AYER SE INAUGURÓ Y ARRANCÓ CON  2500 PUESTOS DE LABURO. NADIE LO DICE, SON UNOS SINVERGUENZAS, ESTOS PERI…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053933360666320953",
+    "created_at": "Mon May 11 20:20:48 +0000 2026",
+    "full_text": "RT @MinSalud_Ar: El personal de enfermería es fundamental en el sistema de salud. Su labor es clave en el seguimiento de los pacientes y el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053933333139116280",
+    "created_at": "Mon May 11 20:20:41 +0000 2026",
+    "full_text": "RT @DiegoMac227: Este jueves a las 18 hs programa especial con Milei en Neura. https://t.co/Qm9yLR72v4",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053933199831519333",
+    "created_at": "Mon May 11 20:20:09 +0000 2026",
+    "full_text": "RT @animaenvivo: APRIETAN FISCALES, TIRAN CAUSAS Y ARMAN CAUSAS \nAsí funciona el circuito paralelo a la justicia. https://t.co/Gb7XUvc9WK",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053933085268246923",
+    "created_at": "Mon May 11 20:19:42 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷👏 “HAY QUE TRABAJAR MÁS, ESA ES LA SOLUCIÓN, ANTES LA GENTE ESTABA ACOSTUMBRADA A VIVIR DE ARRIBA”\n\n“NO ME QUEJO DEL GOB…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053932884465946829",
+    "created_at": "Mon May 11 20:18:54 +0000 2026",
+    "full_text": "RT @AcostashowJuan: Todos los opositores dependen del fracaso de Milei, en cambio los que queremos un Argentina grande, queremos que a @JMi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053932823233392643",
+    "created_at": "Mon May 11 20:18:39 +0000 2026",
+    "full_text": "RT @leocifelli: Invirtiendo donde corresponde. Sin dar un solo peso a la publicidad. Así es. VLLC! 💪",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053932792614944996",
+    "created_at": "Mon May 11 20:18:32 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: ¿En cinco horas el Hot Sale facturó 4500 millones? Mierda que no hay consumo!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053932745370308963",
+    "created_at": "Mon May 11 20:18:21 +0000 2026",
+    "full_text": "RT @RodriCa85: Índice Construya abril 2026, +5% mensual. https://t.co/BJbOWc8zQJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053932474925805985",
+    "created_at": "Mon May 11 20:17:16 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | HIJO DE PUTA: El mercenario \"viejo meado\" Baby Etchecopar admitió que el periodismo opera contra el Gobierno de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053930633257185373",
+    "created_at": "Mon May 11 20:09:57 +0000 2026",
+    "full_text": "TMAP. \nMAGA.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2053930560037249036",
+    "created_at": "Mon May 11 20:09:40 +0000 2026",
+    "full_text": "RT @Felii_N: Cerramos en 496ptos \n🦁🇦🇷📈\n⚓️⚓️⚓️ https://t.co/hHmqyzUSe2",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053926742398513540",
+    "created_at": "Mon May 11 19:54:30 +0000 2026",
+    "full_text": "RT @julianyosovitch: Este jueves 18hs vendrá el presidente @JMilei a un especial de #Aftermarket en @neuramedia !!!\n\nImperdible! Análisis m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053919619770110144",
+    "created_at": "Mon May 11 19:26:11 +0000 2026",
+    "full_text": "RT @javierlanari: Récord histórico de visitantes y de ventas (+20%). La Feria del Libro ya no es un espacio donde se imponen ideas por la f…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053918557126508994",
+    "created_at": "Mon May 11 19:21:58 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷🦁 URGENTE | FANTINO ANUNCIÓ LA ENTREVISTA DEL PRESIDENTE MILEI CON JULIÁN YOSOVITCH EN NEURA ESTE JUEVES!!\n\n“MANO A MANO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053917855909908791",
+    "created_at": "Mon May 11 19:19:11 +0000 2026",
+    "full_text": "RT @fargosi: No lo vas a ver en los medios",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053917835173224632",
+    "created_at": "Mon May 11 19:19:06 +0000 2026",
+    "full_text": "RT @tronco: Feria del Libro récord.\n-No, pero la gente va a caminar.\n\nTodos los shoppings estallados.\n-Ah, pero la gente va a caminar.\n\nEn…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053917769901682858",
+    "created_at": "Mon May 11 19:18:50 +0000 2026",
+    "full_text": "RT @DiegoMac227: Qué sería hoy el riesgo país si hubieran seguido los pirómanos de siempre, los que usaban la maquinita para financiar popu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053916895909134496",
+    "created_at": "Mon May 11 19:15:22 +0000 2026",
+    "full_text": "RT @LaPatonetaB: La Libertad Avanza, les guste o no. https://t.co/TOun5YVJT7",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053916462633386249",
+    "created_at": "Mon May 11 19:13:39 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: En 2026 se registró el mejor primer cuatrimestre de la historia para la actividad aerocomercial\n\n✅ Según datos de la Admi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053914809368715371",
+    "created_at": "Mon May 11 19:07:05 +0000 2026",
+    "full_text": "RT @animaenvivo: SE CREEN FISCALES, JUECES Y DICTAN SENTENCIAS \nPero la justicia es la única que puede determinar inocencia o culpabilidad.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053896959375626252",
+    "created_at": "Mon May 11 17:56:09 +0000 2026",
+    "full_text": "RT @javiernegre10: El alcalde socialista de Nueva York Mamdani ha quebrado la ciudad más rica del mundo en tan solo 4 meses.\n\nJavier Milei…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053896473704587320",
+    "created_at": "Mon May 11 17:54:13 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: SE DESPLOMA EL RIESGO PAÍS https://t.co/1cJarSkuYS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053896423138025570",
+    "created_at": "Mon May 11 17:54:01 +0000 2026",
+    "full_text": "RT @Bangershell11: Argentina's Country Risk — a key indicator for investment and bonds — has plummeted under Javier Milei, nearing its lowe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053896382625313196",
+    "created_at": "Mon May 11 17:53:51 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | NOLSALP: El ministro de Economía de Milei, @LuisCaputoAR, destruyó al periodista Walter Schmidt por tergiversar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053895665936122252",
+    "created_at": "Mon May 11 17:51:00 +0000 2026",
+    "full_text": "RT @dlacalle_IA: Argentina country risk",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053895642246713423",
+    "created_at": "Mon May 11 17:50:55 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨EL IPC DE CABA BAJA AL MENOR NIVEL DESDE NOV25🚨\n➡️El IPC CABA cayó al 2,5% mensual en ABR26\n➡️Se registra una fuerte…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053894066476085343",
+    "created_at": "Mon May 11 17:44:39 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: AVANZA LA ETAPA II-B DE LA RED FEDERAL DE CONCESIONES\n\nSe realizó la apertura de la oferta técnica para la licitación d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053893992874394057",
+    "created_at": "Mon May 11 17:44:22 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI LO HIZO: El Riesgo País cayó un 2,35% y quebró la barrera de los 500 puntos básicos tras la mejora en la c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053893782215577632",
+    "created_at": "Mon May 11 17:43:31 +0000 2026",
+    "full_text": "RT @Adriel_Mzz: La realidad duele para algunos: periodistas, sindicalistas, abogados y economistas son las profesiones más odiadas según lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053893659834057020",
+    "created_at": "Mon May 11 17:43:02 +0000 2026",
+    "full_text": "RT @AcostashowJuan: Dan pena ajena! https://t.co/d6q8TBNAWC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053893455235961072",
+    "created_at": "Mon May 11 17:42:13 +0000 2026",
+    "full_text": "RT @dlaje1: El riesgo país abajo de 500 puntos después de casi una década...\n🤔\nAh... pero hoy Milei hoy \"me dijo nana\" en Twitter...\n🙄",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053893254278476163",
+    "created_at": "Mon May 11 17:41:25 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: La exportación de carne bovina continúa creciendo y consolidando su presencia en los mercados internacionales. Más expo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053893208510218484",
+    "created_at": "Mon May 11 17:41:15 +0000 2026",
+    "full_text": "RT @OzymLib1: Acabo de salir del súper con mi abuela  y grita. ¿Viste, nena?\" le grita mi abuela a la cajera. \"Por fin dejaron de remarcar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053893118156497092",
+    "created_at": "Mon May 11 17:40:53 +0000 2026",
+    "full_text": "TMAP. \nMAGA.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2053893048413643265",
+    "created_at": "Mon May 11 17:40:36 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: IMPORTANTE!👇\n\nSe realizó la apertura de sobres para la licitación de los tramos de la Etapa II-B de la Red Federal de Con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053892929307935227",
+    "created_at": "Mon May 11 17:40:08 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | ARGENTINA SE MODERNIZA: El CEO de YPF, Horacio Marín, celebró la inauguración de la primera estación \"YPF Black\"…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053892898945417226",
+    "created_at": "Mon May 11 17:40:01 +0000 2026",
+    "full_text": "RT @catalanlisandro: El presidente @JMilei está llevando adelante las transformaciones que la Argentina necesita.\nEs momento de terminar, d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053892873108463773",
+    "created_at": "Mon May 11 17:39:55 +0000 2026",
+    "full_text": "RT @argeliberal: Se viene una muy mala semana para ser Kirchnerista.\n\nRiesgo país rompiendo los 500 puntos.\nDato de inflación con una marca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053892783237222745",
+    "created_at": "Mon May 11 17:39:33 +0000 2026",
+    "full_text": "RT @julianyosovitch: Gran caida del IPC de CABA al 2,5% mensual, el menor valor desde NOV25. El jueves llega el dato de IPC Nacional y se e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053892698839355544",
+    "created_at": "Mon May 11 17:39:13 +0000 2026",
+    "full_text": "RT @tealdif: Inflación CABA oficial del mes de Abril: 2.5% \nRegulados por encima del promedio.\n\nBuen dato. https://t.co/2Q0oPOVNw1",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053892583168868769",
+    "created_at": "Mon May 11 17:38:45 +0000 2026",
+    "full_text": "RT @cristiannmillo: ATH para la producción minera. \nEl techo es el mismo cielo. El futuro de la minería es grandioso. https://t.co/2QqKlHkP…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053881575285100870",
+    "created_at": "Mon May 11 16:55:01 +0000 2026",
+    "full_text": "RT @ingdemiller: DATO MATA RELATO.\n\nCon @JMilei vivimos la época con menor riesgo país desde hace DÉCADAS.\n\nAsí se ven los gráficos cuando…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053881504493617593",
+    "created_at": "Mon May 11 16:54:44 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | NOLSALP: Javier Milei estalló contra los periodistas de LN+ que fueron expuestos por operar impunemente contra l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053881450873626753",
+    "created_at": "Mon May 11 16:54:31 +0000 2026",
+    "full_text": "RT @ViejoLibertario: ARGENTINA SERÁ GRANDE NUEVAMENTE.\nESO ES INEVITABLE.\n\nMuy a pesar de:\n\n⛔️los detractores,\n⛔️los que apuestan al fracas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053881304903507976",
+    "created_at": "Mon May 11 16:53:57 +0000 2026",
+    "full_text": "RT @SIDE_Argentina: El litio es uno de los minerales más disputados del siglo XXI, clave para la fabricación de baterías, la movilidad eléc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053881268689875166",
+    "created_at": "Mon May 11 16:53:48 +0000 2026",
+    "full_text": "RT @Santiago_Oria: SUSCRIBO A CADA PALABRA\n\nSON CARETAS, SON HIPÓCRITAS \n\nCUANDO MASSA REDUJO EL FINANCIAMIENTO -EL UNICO QUE LO HIZO, NO M…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053881231725428813",
+    "created_at": "Mon May 11 16:53:39 +0000 2026",
+    "full_text": "RT @mediceneljefe: Havanna no solo fabrica los mejores alfajores, ahora también fabrica futuro. El trabajo de @JMilei es que cada empresa a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053881169100292575",
+    "created_at": "Mon May 11 16:53:24 +0000 2026",
+    "full_text": "RT @OzymLib1: 🇩🇪🇦🇷 | ¿Decían que Milei nos aislaba del mundo?\nAlemania confirma inversión de USD 110M y la inauguración del Centro Industri…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053881044349096092",
+    "created_at": "Mon May 11 16:52:54 +0000 2026",
+    "full_text": "RT @cristiannmillo: Esto veo que no tuvo mucha difusión. Pero es clave para el mundo empresarial 👇\n\nLa reglamentación RIFLE reduce los apor…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053880919639900439",
+    "created_at": "Mon May 11 16:52:25 +0000 2026",
+    "full_text": "RT @DarioEpstein: Una vez más se viene nuestro evento de economía y finanzas en Argentina!!!\nEsta vez, además de lo que hacemos anualmente,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053869075487408338",
+    "created_at": "Mon May 11 16:05:21 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2053869048249606222",
+    "created_at": "Mon May 11 16:05:14 +0000 2026",
+    "full_text": "RT @martinvars: Al argentino le va mejor, pero no te enteras porque al periodismo argentino le va peor.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053854472892235865",
+    "created_at": "Mon May 11 15:07:19 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Cuando se hacen las cosas bien, los resultados llegan.\n\nEl riesgo país vuelve a caer por debajo de los 500 puntos básic…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053844709651403077",
+    "created_at": "Mon May 11 14:28:32 +0000 2026",
+    "full_text": "RT @patoenero: https://t.co/mHXt6nH9t2",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053844530504348015",
+    "created_at": "Mon May 11 14:27:49 +0000 2026",
+    "full_text": "RT @JMilei: NOL$ALP.\nAquí una clara muestra en la que un periodista típico se cree por encima no sólo de la ley sino también de la Constitu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053844326132662456",
+    "created_at": "Mon May 11 14:27:00 +0000 2026",
+    "full_text": "RT @fargosi: ¿No era que \"la gente\" no llega a fin de mes? https://t.co/1w8WG5wGix",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053844148554191235",
+    "created_at": "Mon May 11 14:26:18 +0000 2026",
+    "full_text": "RT @GordoVlad: Excelente trabajo el de @elduckpost \n\nMe tomo el atrevimiento de ponerlos así juntos solo para observar la magnitud de lo gr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053844085534855540",
+    "created_at": "Mon May 11 14:26:03 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Estimado periodista Walter Schmidt, ya he explicado esto varias veces, pero al igual que algunos colegas suyos,  veo que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053844019260612854",
+    "created_at": "Mon May 11 14:25:47 +0000 2026",
+    "full_text": "RT @DiegoMac227: Mas claro imposible\nExcelente Tomás Dente. https://t.co/IFhP6yJlt0",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843999887118623",
+    "created_at": "Mon May 11 14:25:42 +0000 2026",
+    "full_text": "RT @AleMonteoliva: ¿SANTO REMEDIO?\n\nLa fachada: una santería. Detrás de los artículos religiosos: droga. La usaban como pantalla para escon…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843977355276326",
+    "created_at": "Mon May 11 14:25:37 +0000 2026",
+    "full_text": "RT @tonyaracre: Qué cerca del 2% que va a estar la del INDEC el jueves dios mío…\n\nNo te cuento la de mayo que seguro perfore ese numerito.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843772518125737",
+    "created_at": "Mon May 11 14:24:48 +0000 2026",
+    "full_text": "RT @lazaromanu: El periodista argentino promedio es tan inútil y mediocre que sin pauta estatal no sabe sobrevivir.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843710316618238",
+    "created_at": "Mon May 11 14:24:33 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Importante 👇\n\n✅ En el primer trimestre del año las exportaciones de carne bovina crecieron 54% en relación a igual períod…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843655534747762",
+    "created_at": "Mon May 11 14:24:20 +0000 2026",
+    "full_text": "TMAP.\nMAGA.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2053843609120641284",
+    "created_at": "Mon May 11 14:24:09 +0000 2026",
+    "full_text": "RT @Felii_N: Caballeros, el riesgo país se encuentra en los 498 ptos en estos momentos.\n🦁🇦🇷📈",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843482196722144",
+    "created_at": "Mon May 11 14:23:39 +0000 2026",
+    "full_text": "RT @cristiannmillo: Atentos: Infla CABA oficial: 2.5 MOM Abril. Desciende vs 3% de Marzo. Buen dato.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843395064242554",
+    "created_at": "Mon May 11 14:23:18 +0000 2026",
+    "full_text": "RT @ThomasSowell: Javier: “When we came to power, Argentina was on its way to becoming Cuba with a stopover in Venezuela. We went from bein…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843335870026043",
+    "created_at": "Mon May 11 14:23:04 +0000 2026",
+    "full_text": "RT @fargosi: De acuerdo con el colega @jorgemonasOK \n\nTraté de hacerlo entender el otro día por TN, con el panel en contra \n\nLa función per…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843294833020933",
+    "created_at": "Mon May 11 14:22:54 +0000 2026",
+    "full_text": "RT @BenArgentino: Hola periodistas: \n\nEstoy convencido que la mayoría de la gente no piensa como uds quieren imponer que pensemos, ni tiene…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843234007183444",
+    "created_at": "Mon May 11 14:22:40 +0000 2026",
+    "full_text": "RT @tealdif: ARGY se corta sola hoy. \nSuben bonos en un dia complicado para la renta fija mundial 🇦🇷.\n\nEsto traerá mas baja del Riesgo País…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843182757052817",
+    "created_at": "Mon May 11 14:22:27 +0000 2026",
+    "full_text": "RT @DiegoMac227: Los medios: el consumo no para de caer.\n\nLa realidad: fila enorme en el DOT para comprar. https://t.co/dAHBG8SmJh",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843149894602901",
+    "created_at": "Mon May 11 14:22:20 +0000 2026",
+    "full_text": "RT @patoenero: Caso ANDIS.\n\nEl Gobierno denunció sobreprecios en prótesis y medicamentos. \n\nSi, el Gobierno. 💪\n\n#KirchnerismoNuncaMás https…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053843067220660610",
+    "created_at": "Mon May 11 14:22:00 +0000 2026",
+    "full_text": "RT @travaglinigra: Esperabas otra cosa de esta basura ....",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053842949679562868",
+    "created_at": "Mon May 11 14:21:32 +0000 2026",
+    "full_text": "RT @luisrodriguezrm: Diego Iglesias: \"Soy periodista, mi trabajo es criticar\"\n\nTodavía no salió a decir nada de las coimas de las SIRA. Al…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053842803076001977",
+    "created_at": "Mon May 11 14:20:57 +0000 2026",
+    "full_text": "RT @JaviGarcia_Ok: El oportunismo político es fácil de detectar: son los que cambian de discurso cuando cambia el clima, no cuando cambian…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053842715763151250",
+    "created_at": "Mon May 11 14:20:36 +0000 2026",
+    "full_text": "RT @OzymLib1: 🟣 Eliminó el Impuesto PAÍS\n🟣 Redujo retenciones a soja, trigo y maíz\n🟣 Eliminó retenciones al petróleo convencional\n🟣 Eliminó…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2053842668782858464",
+    "created_at": "Mon May 11 14:20:25 +0000 2026",
+    "full_text": "RT @fargosi: Lunes 07:00 empiezan las operetas contra @JMilei \n\nLa Nación titula que \"El Gobierno admitió sobreprecios ... en Discapacidad\"…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2053828937797579103",
     "created_at": "Mon May 11 13:25:51 +0000 2026",
     "full_text": "RT @agarra_pala: 💣🔥 “BURROS LEAN UNA LEY!! NO ES TAN DIFICIL ¿NO SABEN LEER?”\n\n“EL DESFINANCIAMIENTO MÁS GRANDE LO HIZO MASSA, COMUNISTAS V…",
