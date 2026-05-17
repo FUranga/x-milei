@@ -1,5 +1,383 @@
 [
   {
+    "id": "2055848592707879122",
+    "created_at": "Sun May 17 03:11:14 +0000 2026",
+    "full_text": "RT @RubenSoto785: @JMilei @crisvllc Cómo siempre hay cientos de miles de muertos, de vidas arruinadas de atraso, miles de millones perdidos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055848274142044565",
+    "created_at": "Sun May 17 03:09:59 +0000 2026",
+    "full_text": "RT @HerreroLiberal: @JMilei El tiempo pone todo en su lugar!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055848259210346893",
+    "created_at": "Sun May 17 03:09:55 +0000 2026",
+    "full_text": "RT @lilialemoine: @JMilei Ojalá los wokes se hagan cargo de esto y no lo borren de la historia.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055848244056318362",
+    "created_at": "Sun May 17 03:09:51 +0000 2026",
+    "full_text": "RT @TommyShelby_30: @JMilei OCCIDENTE GRANDE OTRA VEZ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055848233570648281",
+    "created_at": "Sun May 17 03:09:49 +0000 2026",
+    "full_text": "RT @ElTrumpista: @JMilei GRACIAS MILEI Y TRUMP POR DERROTAR EL WOKISMO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055848216516542554",
+    "created_at": "Sun May 17 03:09:45 +0000 2026",
+    "full_text": "RT @Santiago_Oria: @JMilei Que feliz ser contemporáneo en esta guerra cultural, con la generación que derrotó al wokismo, cancer de occiden…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055848207414874601",
+    "created_at": "Sun May 17 03:09:43 +0000 2026",
+    "full_text": "RT @agustinromm: @JMilei Vamos Javi querido 🇦🇷🇦🇷🇦🇷🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055848053781795167",
+    "created_at": "Sun May 17 03:09:06 +0000 2026",
+    "full_text": "RT @TommyShelby_30: LOS VALORES QUE HICIERON GRANDE A OCCIDENTE LE GANARÁN A LA MIERDA WOKISTA.\n\nTMAP",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055820007418835325",
+    "created_at": "Sun May 17 01:17:39 +0000 2026",
+    "full_text": "RT @FerHodler: 🇦🇷 Qué casualidad: siempre el móvil en Constitución, siempre la peor cara del país y siempre “todo explota mañana”. \n\nEl rat…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055819146793734400",
+    "created_at": "Sun May 17 01:14:14 +0000 2026",
+    "full_text": "LA DERROTA DEL WOKISMO\nParece que algunos la habíamos visto antes y aquí, los extremadamente limitados intelectualmente, sin poder pensar más allá de lo que les han impuesto nos condenaron.\nSin embargo, el desastre es cada vez más evidente. Pensar que alguien dijo Occidente está",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2055818060473286916",
+    "created_at": "Sun May 17 01:09:55 +0000 2026",
+    "full_text": "RT @brivael: Je veux présenter mes excuses, au nom des Français, pour avoir enfanté la French Theory (qui a enfanté la pire des merdes idéo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055785784993620275",
+    "created_at": "Sat May 16 23:01:40 +0000 2026",
+    "full_text": "RT @TommyShelby_30: El mejor equipo económico de la historia. https://t.co/UIJHZHczTP",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055784799474692313",
+    "created_at": "Sat May 16 22:57:45 +0000 2026",
+    "full_text": "RT @lilialemoine: Sigo a @JMilei porque el encarna completamente los ideales en los que creo. Y coincido en que para este momento histórico…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055783349302558986",
+    "created_at": "Sat May 16 22:51:59 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨 HORACIO MARIN PRESENTÓ EL NUEVO RIGI POR U$D25.000.000.000,00 Y MOSTRÓ QUE MILEI VINO A CAMBIAR EL PAÍS PARA SIEMPRE\n\n🔥…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055783323591414231",
+    "created_at": "Sat May 16 22:51:53 +0000 2026",
+    "full_text": "RT @Williamsmoreeh: 📣🔥INOCENTE JOSÉ LUIS ESPERT🔥📣\n\nAhora quiero ver a todos los periodistas operadores y medios BASURAS pedir disculpas des…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055783291471405413",
+    "created_at": "Sat May 16 22:51:45 +0000 2026",
+    "full_text": "RT @IlleanaOz: https://t.co/pKjTHWtxrb",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055783232017203696",
+    "created_at": "Sat May 16 22:51:31 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇴 | \"Mi más profundo agradecimiento al presidente @JMilei por el invaluable apoyo brindado a Bolivia\": El presiden…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055782467253031270",
+    "created_at": "Sat May 16 22:48:29 +0000 2026",
+    "full_text": "RT @Diego_Hartfield: Gracias por ser mi amigo @AdrianRavier  https://t.co/2S1MtG5X9s",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055782442309411039",
+    "created_at": "Sat May 16 22:48:23 +0000 2026",
+    "full_text": "RT @MaritoMilenio3: ¡Me encanta este post del presidente Milei desde su cuenta de Instagram!\n\nResumen de la semana: 👇 https://t.co/s01JQw9b…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055782425276350961",
+    "created_at": "Sat May 16 22:48:19 +0000 2026",
+    "full_text": "RT @patoenero: NOL$ALP",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055782327343624656",
+    "created_at": "Sat May 16 22:47:56 +0000 2026",
+    "full_text": "RT @Rafa_Libertario: El Periodismo QEPD... https://t.co/7LJfCRdpRI",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055781937868910776",
+    "created_at": "Sat May 16 22:46:23 +0000 2026",
+    "full_text": "RT @agarra_pala: 🥊🔥 TIPITO ENOJADO SE LA PUDRIÓ AL PERIODISMO ENSOBRADO Y LE ENVIÓ UN MENSAJE A LAURA DI MARCO TRAS LA ENTREVISTA A ALFREDO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055781782339870785",
+    "created_at": "Sat May 16 22:45:46 +0000 2026",
+    "full_text": "RT @Rafa_Libertario: No se dejen PSICOPATEAR por el periodismo basura...\nTienen un solo objetivo, perjudicar a @JMilei por la abstinencia d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055781708146892834",
+    "created_at": "Sat May 16 22:45:28 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇴 | El presidente derechista Rodrigo Paz agradeció a Javier Milei por el apoyo de la Argentina con el envío de un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055781517993914673",
+    "created_at": "Sat May 16 22:44:43 +0000 2026",
+    "full_text": "RT @dievalen: Belgrano no aportó solo la gesta militar o la creación de la bandera. Veamos las ideas económicas que proyectó sobre la Argen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055781472078880860",
+    "created_at": "Sat May 16 22:44:32 +0000 2026",
+    "full_text": "RT @stanleybostero: Conclusión: La campaña de Espert no fue financiada por el narcotrafico.\n\nIgual a Espert ya le cagaron la vida. Y todo a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055781318340792612",
+    "created_at": "Sat May 16 22:43:55 +0000 2026",
+    "full_text": "RT @PregoneroL: 🇵🇱🇦🇷Así era la Polonia comunista en 1989, gente haciendo cola para conseguir un pedazo de pan duro, estaciones de servicio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055781148345659860",
+    "created_at": "Sat May 16 22:43:14 +0000 2026",
+    "full_text": "RT @CarajoStream: \"Quiero que Argentina sea el país más libre del mundo\" Presidente Javier Milei https://t.co/GGjBGtmvHu",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055781117777658048",
+    "created_at": "Sat May 16 22:43:07 +0000 2026",
+    "full_text": "RT @agarra_pala: LOS HOMBRES HUMILDES E INTELIGENTES SABEN DECIR NO SÉ\n@JMilei https://t.co/saUHkTQl7y",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055780986118357361",
+    "created_at": "Sat May 16 22:42:36 +0000 2026",
+    "full_text": "RT @JMilei: VAAAAAAAAMOOOOOO \nVLLC!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055780968108085417",
+    "created_at": "Sat May 16 22:42:32 +0000 2026",
+    "full_text": "RT @DiegoMac227: No me extraña, fue una clase excelente.\nDigna de verse nuevamente o tal vez una parte 2 seria genial, Julián y su equipo g…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055780939653853695",
+    "created_at": "Sat May 16 22:42:25 +0000 2026",
+    "full_text": "RT @fargosi: Es con @JMilei 👏👏👏👏👏👏👏👏",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055780903767425214",
+    "created_at": "Sat May 16 22:42:16 +0000 2026",
+    "full_text": "RT @ElDecretoMedia: 🚨🇦🇷 — Rafael Grossi, director del OIEA y candidato a liderar la ONU, elogió a @JMilei:\n\n✍🏻 “Es, creo yo, el presidente…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055780637282275708",
+    "created_at": "Sat May 16 22:41:13 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | #OPINIÓN La Argentina eligió volver a estar del lado correcto de la historia.\n\n✍🏻 Por el canciller de Milei, @Pab…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055780552175722828",
+    "created_at": "Sat May 16 22:40:52 +0000 2026",
+    "full_text": "RT @_EncuestAR_: GeoPark busca aprovechar los incentivos del RIGI de Milei para invertir más de US$1.000 millones en Vaca Muerta, sumándose…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055777602137145592",
+    "created_at": "Sat May 16 22:29:09 +0000 2026",
+    "full_text": "RT @lilialemoine: Al final la denuncia de Grabois terminó como TODAS LAS DENUNCIAS DE GRABOIS... en la nada. Porque no son denuncias, son O…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055777461544100059",
+    "created_at": "Sat May 16 22:28:35 +0000 2026",
+    "full_text": "DESENMASCARANDO A MIERDAS HUMANAS (95%).\nNOL$ALP.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2055777245352874456",
+    "created_at": "Sat May 16 22:27:44 +0000 2026",
+    "full_text": "RT @agarra_pala: TIPITO TE MUESTRA CÓMO LOS PERIOSOBRES TIRAN FAKE NEWS SOBRE MILEI Y SOLO BUSCAN DESTRUIR LA CREDIBILIDAD\n@JMilei @tipitoe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055773107529367765",
+    "created_at": "Sat May 16 22:11:17 +0000 2026",
+    "full_text": "RT @pabloquirno: 🇦🇷🤝🇧🇴 https://t.co/impSRMz2Jm",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055773085937156475",
+    "created_at": "Sat May 16 22:11:12 +0000 2026",
+    "full_text": "RT @Cancilleria_Ar: https://t.co/g8WTpb7uSC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055767767517634629",
+    "created_at": "Sat May 16 21:50:04 +0000 2026",
+    "full_text": "RT @DiegoMac227: El viceministto de economía José Luis Daza, da una clase magistral en la Bolsa de Comercio de Córdoba",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055767728409993583",
+    "created_at": "Sat May 16 21:49:55 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: FALSO. BURDA MANIPULACIÓN.\n\nExponemos la grosera descontextualización que LN+ cometió en el programa de Laura Di Marco…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055767633450983469",
+    "created_at": "Sat May 16 21:49:32 +0000 2026",
+    "full_text": "RT @JoseLuisDazaAR: Ley planetaria.  En todos los países y en todos los tiempos.\n\nImportante diferencia en eficiencia entre sector privado…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055767284589678962",
+    "created_at": "Sat May 16 21:48:09 +0000 2026",
+    "full_text": "RT @LLA_Cba: 😳 LANZAMOS https://t.co/78pTcCpj5C\n\nFrente a cientos de dirigentes y militantes de La Libertad Avanza de toda la provincia, @B…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055766410261901633",
+    "created_at": "Sat May 16 21:44:41 +0000 2026",
+    "full_text": "RT @slcaputo: La hoja de ruta. No hay nada (ni nadie) más importante que eso. El Presidente solía decir en campaña que no era el chef, sino…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055755184513425576",
+    "created_at": "Sat May 16 21:00:04 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇺🇳 | El argentino director del Organismo Internacional de Energía Atómica, Rafael Grossi, candidato a Secretario Ge…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055755122202853797",
+    "created_at": "Sat May 16 20:59:49 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨 LA FISCALIA DEJÓ CAER EL CARGO DE NARCOTRÁFICO A FRED MACHADO. GRABOIS LE INTENTÓ CAGAR LA VIDA A ESPERT POR NADA\n\n💥 NUN…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055754977994297731",
+    "created_at": "Sat May 16 20:59:15 +0000 2026",
+    "full_text": "RT @AleMonteoliva: ¡SALUD, CAMPEONAS!\n\nQuiero felicitar al equipo de la Agrupación Albatros de la PNA por ganar el Desafío Tactico Femenino…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055754372743647351",
+    "created_at": "Sat May 16 20:56:51 +0000 2026",
+    "full_text": "RT @patoenero: Se le nota demasiado al \"periodista\", Franco Mercuriali, la envidia y el resentimiento, así como, también lo hizo con Adorni…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055744419500814456",
+    "created_at": "Sat May 16 20:17:18 +0000 2026",
+    "full_text": "RT @DiegoMac227: La envidia, uno de los pecados capitales.\n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055744286474297854",
+    "created_at": "Sat May 16 20:16:46 +0000 2026",
+    "full_text": "RT @MatiasGarate15: Milei tenía razón en no querer bajar a Espert. No hay que ceder nunca más con nada.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055743780561523000",
+    "created_at": "Sat May 16 20:14:45 +0000 2026",
+    "full_text": "RT @MaritoMilenio3: \"Milei gobierna con huevos y sin robar. Por eso los medios zurdos y sus militantes lo atacan con mentiras. Les duele qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055740619113332819",
+    "created_at": "Sat May 16 20:02:12 +0000 2026",
+    "full_text": "RT @DonDrPr_4ever: El presidente argentino @JMilei tiene los cojones necesarios para llamar a las cosas por su nombre.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2055740548724502969",
+    "created_at": "Sat May 16 20:01:55 +0000 2026",
+    "full_text": "RT @LaBrownAR: Domar: Acto de desarmar, refutar o neutralizar un argumento colectivista o estatista mediante la lógica, los datos histórico…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2055740125724684515",
     "created_at": "Sat May 16 20:00:14 +0000 2026",
     "full_text": "RT @AlberdianosOk: @JMilei NOL$ALP https://t.co/v8iimo8dpg",
