@@ -1,5 +1,831 @@
 [
   {
+    "id": "2056936335504474211",
+    "created_at": "Wed May 20 03:13:33 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | BASADO: \"Toto\" Caputo humilló a los \"econochantas\" que comparan al Gobierno de @JMilei con el de Macri.\n\n\"En polí…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056934907792781753",
+    "created_at": "Wed May 20 03:07:52 +0000 2026",
+    "full_text": "RT @KarenReichardt1: 🇦🇷🇫🇷 El Gobierno llevará una nueva edición de “Argentina Week” a París para atraer inversiones y fortalecer vínculos c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056934269734248740",
+    "created_at": "Wed May 20 03:05:20 +0000 2026",
+    "full_text": "RT @maquepd: El periodismo militante no es un fenómeno nuevo. Es el resultado lógico de 20 años en que el Estado fue el principal cliente d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056933609370464746",
+    "created_at": "Wed May 20 03:02:43 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷 “ME TENÍA QUE SENTIR ORGULLOSO, MI PAÍS ME ESTÁ PIDIENDO”\n\nEL GENDARME ARGENTINO NAHUEL GALLO SOBRE EL ENCUENTRO CON PA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056916795559231515",
+    "created_at": "Wed May 20 01:55:54 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Los periodistas en contra del gobierno y por lo tanto del avance del país. La juventud, a favor. Son más los jóvenes qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056909289252409449",
+    "created_at": "Wed May 20 01:26:04 +0000 2026",
+    "full_text": "RT @KamikazeMilei: Javier Milei defendió su programa de estabilización y aseguró que buscará convertir a Argentina en un país “investment g…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056908972024648118",
+    "created_at": "Wed May 20 01:24:49 +0000 2026",
+    "full_text": "RT @maquepd: El periodismo argentino tiene una asimetría llamativa: investiga con lupa los anuncios del gobierno actual y acepta con buena…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056908422784672146",
+    "created_at": "Wed May 20 01:22:38 +0000 2026",
+    "full_text": "RT @Soylibrecarajo: El problema no fue lo que dijo @JMilei ...  fue que millones pensaron: ‘tiene razón’",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056908262214074737",
+    "created_at": "Wed May 20 01:21:59 +0000 2026",
+    "full_text": "RT @Soylibrecarajo: La operación se les cayó en vivo…\ny delante de todo el país quedó el verdadero show. 🎭🔥\n@JMilei  dijo lo que millones p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056907046977454095",
+    "created_at": "Wed May 20 01:17:10 +0000 2026",
+    "full_text": "RT @agarra_pala: CON LOS K INAUGURABAN CANILLAS, CON MILEI ESTAMOS HACIENDO UN OLEODUCTO QUE UNE LA CORDILLERA CON EL MAR QUE VA A PERMITIR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056905644179947952",
+    "created_at": "Wed May 20 01:11:35 +0000 2026",
+    "full_text": "RT @animaenvivo: EL RIESGO DE ARGENTINA NO ES ECONÓMICO, ES POLÍTICO\n@fededomin https://t.co/N7T4pSYu7M",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056905059368079361",
+    "created_at": "Wed May 20 01:09:16 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🦁 ¡MILEI CONFIRMÓ LA RECOMPOSICIÓN DE LOS SALARIOS Y LAS JUBILACIONES!\n🎙️ Explicó que el salario real de los argentinos d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056904973112209571",
+    "created_at": "Wed May 20 01:08:55 +0000 2026",
+    "full_text": "RT @Santiago_Oria: CASO VIVIANA CANOSA\n\nCRIMINAL DEL MICRÓFONO, HOY VIO LA JUSTICIA\n\nAca @AngiePaier explica COMPLETA esta historia terribl…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056904841444605982",
+    "created_at": "Wed May 20 01:08:24 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🚀 ¡MILEI CONFIRMÓ QUE LAS INVERSIONES DEL RIGI YA ALCANZARON LOS 140 MIL MILLONES DE DÓLARES!\n🎙️ Aseguró que respetar el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056904673299185711",
+    "created_at": "Wed May 20 01:07:44 +0000 2026",
+    "full_text": "RT @neuramedia: ¿Argentina puede converger con los países desarrollados? 📈\n\nEl presidente Javier Milei analiza la teoría de la convergencia…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056904635776893233",
+    "created_at": "Wed May 20 01:07:35 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 MILEI LE VOLVIÓ A RECORDAR LA FEROZ DERROTA QUE SUFRIERON LOS K EL AÑO PASADO Y LOS VOLVIÓ A DOMAR EN VIVO\n\n💥 \"Magistral…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056904078798581868",
+    "created_at": "Wed May 20 01:05:22 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | Javier Milei explotó contra el kirchnerismo por el ataque golpista contra su plan económico en las elecciones le…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056903020781162930",
+    "created_at": "Wed May 20 01:01:10 +0000 2026",
+    "full_text": "RT @agarra_pala: 🦁 UUHH ESTO QUE DIJO MILEI EN VIVO, PRENDIÓ POR COMPLETO FUEGO A TODOS LOS KUKAS\n\n👉 \"Nuestra intención es SEGUIR BAJANDO I…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056902827218178241",
+    "created_at": "Wed May 20 01:00:24 +0000 2026",
+    "full_text": "RT @DiegoMac227: Siempre existirán ese tipo de personas que con tal de hacer daño, inventan todo tipo de cosas, no les importa nada, miente…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056902752735813819",
+    "created_at": "Wed May 20 01:00:06 +0000 2026",
+    "full_text": "RT @BreakPointMP: 📈 ¡MILEI RATIFICÓ QUE ARGENTINA RESPONDE BIEN ANTE LOS SHOCKS INTERNACIONALES!\n🎙️ Destacó la compra de más de US$ 8.500 m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056900756364509341",
+    "created_at": "Wed May 20 00:52:10 +0000 2026",
+    "full_text": "RT @DiegoMac227: Se siguen bajando los impuestos.\n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056898846823756033",
+    "created_at": "Wed May 20 00:44:35 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣💰 “140 MIL MILLONES DE DOLARES Y SE VIENEN ANUNCIOS MAS FUERTES”\n\nEL PRESIDENTE MILEI SOBRE LAS INVERSIONES QUE SE VIENEN…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056898755832565911",
+    "created_at": "Wed May 20 00:44:13 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🔥 ¡MILEI EXPUSO LOS INTENTOS DE GOLPE INSTITUCIONAL DE LA OPOSICIÓN DURANTE EL DEBATE PARLAMENTARIO!\n🎙️ Reveló que intent…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056898736433909816",
+    "created_at": "Wed May 20 00:44:08 +0000 2026",
+    "full_text": "RT @neuramedia: Las fuerzas que empujan la inflación 📊\n\nEl presidente Javier Milei analiza qué factores impactan sobre el nivel de precios,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056898706373280021",
+    "created_at": "Wed May 20 00:44:01 +0000 2026",
+    "full_text": "RT @BreakPointMP: 📈 ¡MILEI EXPLICÓ EL REZAGO MONETARIO Y ANTICIPÓ UNA FUERTE CAÍDA DE LA INFLACIÓN!\n🎙️ Detalló que los efectos del freno de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056898682537034068",
+    "created_at": "Wed May 20 00:43:55 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 MILEI TIRÓ UN BOMBAZO POR LA MEGA BOMBA QUE LOS KUKAS INTENTARON PLANTAR EN EL PAÍS\n\n💥 \"Cuando llegamos estabamos al BOR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056898646474445186",
+    "created_at": "Wed May 20 00:43:47 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | ARGENTINA SERÁ PRÓSPERA: El presidente @JMilei aseguró que la inflación y el Riesgo País colapsarán gracias a su…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056897766983393650",
+    "created_at": "Wed May 20 00:40:17 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇮🇷 | El presidente Milei destacó la fortaleza de su plan económico ante el shock externo derivado de la guerra en I…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056897712688140498",
+    "created_at": "Wed May 20 00:40:04 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣🇦🇷 CAYÓ EL PRESIDENTE MILEI EN NEURA Y TIRÓ UN BOMBAZO SOBRE EL INTENTO DE GOLPE INSTITUCIONAL Y DEJÓ MUDA A JULIETA TARR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056897672183775632",
+    "created_at": "Wed May 20 00:39:55 +0000 2026",
+    "full_text": "RT @marcelazadoff: Tal cual, un TIPAZO metimos en la Presidencia. Genera sentimientos fuertes, yo lo admiro a @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056897511214719115",
+    "created_at": "Wed May 20 00:39:16 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🦅 ¡HACER ARGENTINA GRANDE OTRA VEZ! \n🇦🇷Javier Milei ratificó su compromiso absoluto con el país. Con el orden fiscal como…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056897487718236308",
+    "created_at": "Wed May 20 00:39:11 +0000 2026",
+    "full_text": "RT @neuramedia: “Es algo que le han plantado a Martín Menem” 💬\n\nLa interna libertaria y las diferencias con la gestión de Mauricio Macri en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056897254795993138",
+    "created_at": "Wed May 20 00:38:15 +0000 2026",
+    "full_text": "RT @DiegoMac227: He leído este libro y es magistral, se los recomiendo.\n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056897178367332624",
+    "created_at": "Wed May 20 00:37:57 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷💰 BOMBAZO EN A24 SOBRE STANLEY DRUCKENMILLER, LEYENDA DE WALL STREET QUE DECIDIÓ INVERTIR EN ARGENTINA\n\n“UNO DE LOS GRAN…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056896287274848662",
+    "created_at": "Wed May 20 00:34:24 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei, en Neura, resalta el crecimiento del 11% en 2 años frente al menos del 1% del último siglo y la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056896257201717589",
+    "created_at": "Wed May 20 00:34:17 +0000 2026",
+    "full_text": "RT @DiegoMac227: Para nosotros, un programa de estabilización es definir una política fiscal, y claramente que lo hicimos; es la política d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056896221881503951",
+    "created_at": "Wed May 20 00:34:09 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | El presidente @JMilei explicó el proceso de crecimiento que impulsa para sacar a la Argentina del pozo kirchneris…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056896183226831292",
+    "created_at": "Wed May 20 00:34:00 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨 LA MINISTRA DE SEGURIDAD MONTEOLIVA SOBRE LA CONFIANZA DEL PRESIDENTE MILEI Y LA MESA POLÍTICA\n\n“TENEMOS LA CONFIANZA Y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056896149412343950",
+    "created_at": "Wed May 20 00:33:51 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | Javier Milei destruyó al kirchnerismo por hundir a los argentinos en la miseria: \"Los precios estaban distorsiona…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895945917317231",
+    "created_at": "Wed May 20 00:33:03 +0000 2026",
+    "full_text": "RT @neuramedia: Qué explica la baja de la tasa de interés 💰\n\nEl presidente Javier Milei analizó el vínculo entre déficit fiscal, riesgo paí…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895918759182499",
+    "created_at": "Wed May 20 00:32:56 +0000 2026",
+    "full_text": "RT @xestadominimo: \"El estado no crea riqueza, el estado la destruye, la creación de riqueza viene del sector privado\".\n\n- Javier Milei - h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895845262319933",
+    "created_at": "Wed May 20 00:32:39 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷🦁 EL PRESIDENTE MILEI ESCUPIÓ FACTOS SOBRE LA COMPARACIÓN CON EL GOBIERNO DE MAURICIO MACRI\n\n“ESTE GOBIERNO NO SE PARECE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895816556478587",
+    "created_at": "Wed May 20 00:32:32 +0000 2026",
+    "full_text": "RT @DiegoMac227: Vaya \"casualidad\" que tres operadores piensen igual.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895660436128020",
+    "created_at": "Wed May 20 00:31:55 +0000 2026",
+    "full_text": "RT @manuelquintar: 🇦🇷 ⏐🗣️@JMilei: \"Nosotros tenemos una política de apretón monetario y estamos convencidos en seguir en ese camino hasta q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895616991576407",
+    "created_at": "Wed May 20 00:31:45 +0000 2026",
+    "full_text": "RT @infobae: Quién es Stanley Druckenmiller: la leyenda de Wall Street que decidió invertir fuerte en Argentina tras escuchar a Milei en Da…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895603146203529",
+    "created_at": "Wed May 20 00:31:41 +0000 2026",
+    "full_text": "RT @mileibarrial: Argentina será grande nuevamente",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895518291210639",
+    "created_at": "Wed May 20 00:31:21 +0000 2026",
+    "full_text": "RT @julianyosovitch: Se reinicia el proceso de desinflacion por que el mercado lo ve así. Los break even de inflación, el REM y las consult…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895442600759457",
+    "created_at": "Wed May 20 00:31:03 +0000 2026",
+    "full_text": "RT @DiegoMac227: 📖l Hace unos minutos Milei brindo una entrevista en Neura y en un punto de hablo del dolar y la eliminación del BCRA, para…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056895237449023666",
+    "created_at": "Wed May 20 00:30:14 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷💣 “VA A SEGUIR CAYENDO EL RIESGO PAÍS, VA A CAER LA INFLACIÓN, VA A HABER MÁS INVERSIÓN, MÁS TRABAJO Y UNA ACTIVIDAD CRE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056894910544982402",
+    "created_at": "Wed May 20 00:28:56 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇦🇷 “EL SEÑOR PRESIDENTE ES UNA PERSONA CON  CONVICCIONES FIRMES”\n\nLA MINISTRA DE SEGURIDAD MONTEOLIVA LLENÓ DE ELOGIOS AL…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056894840969855063",
+    "created_at": "Wed May 20 00:28:40 +0000 2026",
+    "full_text": "RT @Jairo_Henoch: 🚨 AHORA: La Ministra Alejandra Monteoliva proyecta que los Argentinos podrán viajar a Estados Unidos SIN VISA a partir de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056894770199294179",
+    "created_at": "Wed May 20 00:28:23 +0000 2026",
+    "full_text": "RT @DiegoMac227: Esto demuestra que Milei siempre ha tenido la razón,  el año pasado existió un riesgo kuka (y lo siendo estando), esa caíd…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056894381966200840",
+    "created_at": "Wed May 20 00:26:50 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷💰 FEINMANN MUESTRA LOS ELOGIOS DE STANLEY DRUCKENMILLER, LEYENDA DE WALL STREET QUE INVERTIRÁ EN ARGENTINA TRAS ESCUCHAR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056894346834669793",
+    "created_at": "Wed May 20 00:26:42 +0000 2026",
+    "full_text": "RT @pabloquirno: Recibí a la Assistant Secretary of State para Asuntos Consulares, Mora Namdar (@AsstSecStateCA), con quien pude conversar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056894294506549413",
+    "created_at": "Wed May 20 00:26:29 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: HIPOCRESÍA ABSOLUTA: SILENCIO CÓMPLICE DURANTE DÉCADAS, LLANTO ELECTORALISTA AHORA\n\nEl kirchnerismo, hoy bajo el mando…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056894229801029877",
+    "created_at": "Wed May 20 00:26:14 +0000 2026",
+    "full_text": "RT @jmilei_english: Argentina is opening its doors to the world. We are forging trade deals with the US and Europe to expand markets, incre…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056894155410833667",
+    "created_at": "Wed May 20 00:25:56 +0000 2026",
+    "full_text": "RT @HippiesConOsde: Todos hablan como si la Argentina antes de Milei hubiese sido Suiza.\nNo hay que dejarse psicopatear por los kukas pero…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056894114696720559",
+    "created_at": "Wed May 20 00:25:46 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | NO PARAN DE LLOVER DÓLARES: El Banco Central compró USD 144 millones para sus reservas y extendió su racha positi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056887856153378906",
+    "created_at": "Wed May 20 00:00:54 +0000 2026",
+    "full_text": "RT @tealdif: ¿Pero no estamos en recesión con consumo que no repunta? Lo vi en LN+ https://t.co/Y2apXK7EWx",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056887749056090273",
+    "created_at": "Wed May 20 00:00:29 +0000 2026",
+    "full_text": "RT @mileibarrial: Se expanden las ideas de la libertad en todo el mundo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056887660099051678",
+    "created_at": "Wed May 20 00:00:07 +0000 2026",
+    "full_text": "RT @Felii_N: https://t.co/lROq11jzFw",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056887541182210106",
+    "created_at": "Tue May 19 23:59:39 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"va a seguir el equilibrio fiscal. Por ende, va a seguir cayendo el riesgo país. Vamos a seguir manteniendo esta política…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056887524962828380",
+    "created_at": "Tue May 19 23:59:35 +0000 2026",
+    "full_text": "RT @jultarres: El link al programa completo de hoy en @neuramedia \n👉 https://t.co/vbCPw99hGE",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056887265482199383",
+    "created_at": "Tue May 19 23:58:33 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: MENOS BUROCRACIA PARA EL EQUIPO DE SALUD\n\nLos médicos que se recibían de universidades nacionales tenían que tramitar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056887201280008198",
+    "created_at": "Tue May 19 23:58:18 +0000 2026",
+    "full_text": "RT @ViejoLibertario: FEROZ ATAQUE AL PERIODISMO.\n\nExisten tres grupos que están destruyendo al periodismo argentino. Y sospecho que esto se…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056886914796454040",
+    "created_at": "Tue May 19 23:57:10 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Por primera vez en años, una licitación estratégica avanza sin cuestionamientos y con apoyo del sector productivo.\n\nTra…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056886179283206520",
+    "created_at": "Tue May 19 23:54:14 +0000 2026",
+    "full_text": "RT @ManuScrimizzi: Esa mina llevo el termino \"Resentida de mierda\" a nuevos niveles nunca antes vistos...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056886004124962844",
+    "created_at": "Tue May 19 23:53:33 +0000 2026",
+    "full_text": "RT @axelwahnish: Fenómeno barrial.\n\nDurante el acto oficial por el Día Nacional de Jerusalén, el Primer Ministro de Israel, Benjamín Netany…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056885855252271586",
+    "created_at": "Tue May 19 23:52:57 +0000 2026",
+    "full_text": "RT @mileibarrial: Javier Milei es faro y ejemplo para todo el mundo libre",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056885766119174554",
+    "created_at": "Tue May 19 23:52:36 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei, en Neura, responde sobre el camino que no cambia, sin controles de precios, sin cercenar libert…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056885636083093669",
+    "created_at": "Tue May 19 23:52:05 +0000 2026",
+    "full_text": "RT @julianyosovitch: El mercado siempre confió en que el rebote del IPC desde MAY25 fue transitorio. Esto fue gracias a que el Gobierno man…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056885577983603134",
+    "created_at": "Tue May 19 23:51:51 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: ¿Viviana Canosa puede ensuciar a cualquiera con denuncias falsas sin que exista ningún tipo de consecuencia? https://t…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056885428670677350",
+    "created_at": "Tue May 19 23:51:15 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | El presidente @JMilei destruyó las comparaciones de su gobierno con el del tibio Mauricio Macri: \"La Ley de Alqu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056885036993945708",
+    "created_at": "Tue May 19 23:49:42 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"¿cómo funciona el proceso de crecimiento? El proceso de crecimiento funciona básicamente acumulando capital físico, acumu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056884989975732631",
+    "created_at": "Tue May 19 23:49:31 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei, en Neura, responde sobre la Argentina que le está demostrando al mundo con hechos y no con pala…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056884855938433375",
+    "created_at": "Tue May 19 23:48:59 +0000 2026",
+    "full_text": "RT @PotusAmarillo: \"Si sostenemos este camino, vamos a lograr lo que siempre soñamos: hacer Argentina grande nuevamente.\"\nMilei habló hoy a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056884762317344814",
+    "created_at": "Tue May 19 23:48:37 +0000 2026",
+    "full_text": "RT @Carriesnip3r: “La pregunta es cuándo vamos a seguir bajando impuestos, porque ya bajamos 2,7 puntos (del PBI) en impuestos, casi 15 mil…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056883542617997599",
+    "created_at": "Tue May 19 23:43:46 +0000 2026",
+    "full_text": "RT @Mente_estoico: https://t.co/76m4pBwxue",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056883475160994202",
+    "created_at": "Tue May 19 23:43:30 +0000 2026",
+    "full_text": "RT @varelacorina1: La gente está haciendo justicia 👇 https://t.co/ZDRJjosWMO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056883342230929609",
+    "created_at": "Tue May 19 23:42:58 +0000 2026",
+    "full_text": "RT @javierlanari: Otra buena noticia. La matrícula digital sin vencimiento y gratuita es un reconocimiento a quienes se forman para cuidar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056883170872537583",
+    "created_at": "Tue May 19 23:42:17 +0000 2026",
+    "full_text": "RT @CroArg: Archivaron la denuncia por presunta pedofilia de Viviana Canosa contra Lizy Tagliani. \n\nLe van a preguntar a Viviana Canosa por…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056883114329231475",
+    "created_at": "Tue May 19 23:42:04 +0000 2026",
+    "full_text": "RT @AdrianRavier: Hoy estuve presente en el seminario sobre el acuerdo MERCOSUR–EFTA en la Cámara de Diputados.\n\nLa EFTA es la Asociación E…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056882744387387671",
+    "created_at": "Tue May 19 23:40:35 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | Javier Milei anticipó que los salarios se recuperarán fuertemente en términos reales conforme a la caída de la in…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056882349363622119",
+    "created_at": "Tue May 19 23:39:01 +0000 2026",
+    "full_text": "RT @ingdemiller: Mi viejo perdió los ahorros en el corralito. Mi mamá hacía colas para comprar dólares. Yo crecí con cepo, inflación y mied…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056882255390249284",
+    "created_at": "Tue May 19 23:38:39 +0000 2026",
+    "full_text": "RT @mila_manfredi: Hables con quien hables, el futuro de la Argentina es completamente optimista. El desafío es resistir los embates de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056882057423233387",
+    "created_at": "Tue May 19 23:37:52 +0000 2026",
+    "full_text": "RT @anellogaby: Vamoooooo Jose",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056881988812882139",
+    "created_at": "Tue May 19 23:37:35 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🇺🇸 | EXCELENTE: El ministro de Economía de Milei, Luis \"Toto\" Caputo, se reunió con representantes de Apple para con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056881939127099809",
+    "created_at": "Tue May 19 23:37:23 +0000 2026",
+    "full_text": "RT @dievalen: Gracias por la charla al profe Juan Carlos De Pablo: en la Academia Nacional de Ciencias Económicas pudimos compartir la hist…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056881589393457658",
+    "created_at": "Tue May 19 23:36:00 +0000 2026",
+    "full_text": "RT @DiegoMac227: Vamos a seguir abriendo la economía, eso permite más rendimientos crecientes, por lo tanto, más crecimiento económico. Vam…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056881331443728642",
+    "created_at": "Tue May 19 23:34:59 +0000 2026",
+    "full_text": "RT @agarra_pala: LN PERDIÓ EL 50% DE AUDIENCIA Y NO PARA LA OPERACIÓN A MILEI. ÁMA LA ARGENTINA, APAGÁ LA NACIÓN.\n@JMilei https://t.co/D2YK…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056858794735378520",
+    "created_at": "Tue May 19 22:05:25 +0000 2026",
+    "full_text": "RT @Santiago_Oria: SE HIZO JUSTICIA\n\nLa CRIMINAL DEL MICROFONO Viviana Canosa cayó.\n\nAcuso a Lizy Tagliani de estar vinculada a una RED DE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056857419825742312",
+    "created_at": "Tue May 19 21:59:58 +0000 2026",
+    "full_text": "RT @pike_capit3704: HABLÓ MILEI SOBRE LA \"INTERNA\" DEL GOBIERNO\n\n- Lo de Martín Menem es todo humo, él no posteó nada\n- Santiago Caputo es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056857029365391597",
+    "created_at": "Tue May 19 21:58:25 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"Y el otro componente tiene que ver con la política cambiaria. Si ustedes se fijan, conforme ha pasado el tiempo, Argentin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056856906803695772",
+    "created_at": "Tue May 19 21:57:55 +0000 2026",
+    "full_text": "RT @tanoturi: Excelente evento de @valo_arg\nGracias Sr Presidente por su distinguida presencia!\n@JMilei…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056856718189994033",
+    "created_at": "Tue May 19 21:57:10 +0000 2026",
+    "full_text": "RT @mediceneljefe: .@LuisCaputoAR sepultó la opereta de que somos similares al Gobierno de Macri. El PRO mantuvo el déficit dos años buscan…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056856697428185314",
+    "created_at": "Tue May 19 21:57:05 +0000 2026",
+    "full_text": "RT @maquepd: “No vamos a ceder ni un ápice en la lucha contra la inflación\"\n\nEs lo que voté 💪🏻 https://t.co/OlMCZ9tQMd",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056856226546241602",
+    "created_at": "Tue May 19 21:55:13 +0000 2026",
+    "full_text": "RT @ViejoLibertario: LA FATAL ARROGANCIA DEL PERIODISMO.\n\nNo, no hablaremos de Hayek, pero si de la arrogancia de muchísmos periodistas.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056855216843112551",
+    "created_at": "Tue May 19 21:51:12 +0000 2026",
+    "full_text": "RT @JMilei: Me estás diciendo que MIERDOSA denunció y acusó a un montón de personas sin pruebas?\nLa verdad no me sorprende. Además, siendo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056855009724129376",
+    "created_at": "Tue May 19 21:50:23 +0000 2026",
+    "full_text": "RT @JMilei: MIERDOSA TELÉFONO...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056854333346472189",
+    "created_at": "Tue May 19 21:47:42 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: ✅ El Índice de Precios Internos al por Mayor (IPIM) registró una variación de 5,2% mensual y 30,8% interanual en abril\n✅…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056854309933838580",
+    "created_at": "Tue May 19 21:47:36 +0000 2026",
+    "full_text": "RT @DiegoMac227: Totalmente de acuerdo con Milei, nunca se había visto una divergencia tan clara entre los datos y lo que los medios de com…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056854283212013979",
+    "created_at": "Tue May 19 21:47:30 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Gran explicación.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056854253126193259",
+    "created_at": "Tue May 19 21:47:23 +0000 2026",
+    "full_text": "RT @aetchebarne: Vale la pena escuchar a @LuisCaputoAR  https://t.co/a3jCM0YEF9",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056854233182318760",
+    "created_at": "Tue May 19 21:47:18 +0000 2026",
+    "full_text": "RT @DiegoMac227: Nuestra intención es seguir bajando impuestos, es seguir sacando restricciones a la economía,  es hacer que la economía se…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056854149531046382",
+    "created_at": "Tue May 19 21:46:58 +0000 2026",
+    "full_text": "RT @Felii_N: 🦁🇦🇷📈",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056854122813440120",
+    "created_at": "Tue May 19 21:46:52 +0000 2026",
+    "full_text": "RT @Titanfdc: “Argentina debería tener una clasificación de riesgo de B+, pero el problema es el miedo a la vuelta del kirchnerismo”.\n\nMile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056854023324496102",
+    "created_at": "Tue May 19 21:46:28 +0000 2026",
+    "full_text": "Así es MIERDOSA...\nLa gran mayoría del periodismo (95%) no es muy distinto a la siniestra. Es más, el periodismo político en su gran mayoría son chimenteros de peluquería barata con pretensiones de grandes intelectuales...\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2056853304299159578",
+    "created_at": "Tue May 19 21:43:36 +0000 2026",
+    "full_text": "RT @mediceneljefe: Lo dijo clarito: nadie le preguntó nada a @ViviCanosaOk. El mismo periodismo que se llena la boca de libertad de prensa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056851929154654376",
+    "created_at": "Tue May 19 21:38:09 +0000 2026",
+    "full_text": "RT @mediceneljefe: .@LuisCaputoAR trazó el mapa del crecimiento real. Si nos convencemos, Argentina puede crecer al 8% anual. ¿El premio? E…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056851856274460856",
+    "created_at": "Tue May 19 21:37:51 +0000 2026",
+    "full_text": "RT @ChadAbrazo: Esto es lo que le molesta al círculo rojo: que un hijo de colectiveros haya llegado a ser presidente de la Nación. Que un t…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056851623767363722",
+    "created_at": "Tue May 19 21:36:56 +0000 2026",
+    "full_text": "RT @pabloquirno: Fue un verdadero placer recibir hoy en el auditorio del @ISENArg en la Cancillería a los estudiantes del Huntsman Program…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056851499091628506",
+    "created_at": "Tue May 19 21:36:26 +0000 2026",
+    "full_text": "RT @PatoBullrich: Dato mata relato: arreglando el desastre financiero y de deuda del kirchnerismo.\n\nHoy en el Senado dimos un primer paso p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056851273031274587",
+    "created_at": "Tue May 19 21:35:32 +0000 2026",
+    "full_text": "RT @AleMonteoliva: NARCOAVIADOR COLOMBIANO, AFUERA\n\nEn Argentina, no hay lugar para los delincuentes. Ley y Orden. https://t.co/UDDY3IWlk5",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056851179120775454",
+    "created_at": "Tue May 19 21:35:10 +0000 2026",
+    "full_text": "RT @MinSalud_Ar: MENOS BUROCRACIA PARA LOS PROFESIONALES DE LA SALUD\n\nLos médicos que egresan de universidades nacionales podrán obtener su…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056851014322434396",
+    "created_at": "Tue May 19 21:34:30 +0000 2026",
+    "full_text": "RT @Felii_N: Como todo en Argentina, los profetas del Apocalipsis ya no hablan mas de las reservas pero se sigue pudiendo acumular SIN modi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056850851084316849",
+    "created_at": "Tue May 19 21:33:51 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Excelente encuentro en el Ministerio de Economía junto al secretario de Coordinación de Producción, @PALavigne83, y repre…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056837485208936664",
+    "created_at": "Tue May 19 20:40:45 +0000 2026",
+    "full_text": "RT @JPedroaquino: Cuando vos te preguntes por qué tantos ataques contra el gobierno de @JMilei seguro lo entenderás. #LLA https://t.co/Juk6…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2056837072204243179",
+    "created_at": "Tue May 19 20:39:06 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Mantuvimos una reunión muy productiva junto al secretario de Coordinación de Producción, @PALavigne83, el presidente de l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2056814571025817667",
     "created_at": "Tue May 19 19:09:42 +0000 2026",
     "full_text": "RT @DiegoMac227: “Nosotros tenemos una política de apretón monetario y estamos convencidos en seguir en ese camino hasta que no terminemos…",
