@@ -1,5 +1,166 @@
 [
   {
+    "id": "2057429421049471239",
+    "created_at": "Thu May 21 11:52:53 +0000 2026",
+    "full_text": "RT @radiomitre: 📢 Martín Menem respaldó las medidas de Javier Milei: “Nunca en la historia hubo un Gobierno con una minoría tan pequeña”\n\n📻…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057425734629519762",
+    "created_at": "Thu May 21 11:38:14 +0000 2026",
+    "full_text": "RT @fargosi: Como explica @JMilei, al derogar la nefasta Ley de Alquileres se duplicó la oferta y los precios reales bajaron.\n\nSiempre, sie…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057424874851745947",
+    "created_at": "Thu May 21 11:34:49 +0000 2026",
+    "full_text": "RT @martinvars: La estructura familiar importa más para el rendimiento educativo que el gasto público por alumno. Los niños de familias est…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057421585762427122",
+    "created_at": "Thu May 21 11:21:45 +0000 2026",
+    "full_text": "RT @ivancarrino: No hacían falta miles de páginas de políticas sectoriales para exportar más. Era simplemente cuestión de dejar de castigar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057420234479337678",
+    "created_at": "Thu May 21 11:16:23 +0000 2026",
+    "full_text": "RT @fedesturze: Ayer en Viena presenté el programa de desregulación del presidente @JMilei. El programa de gobierno del presidente concita…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057419437590843465",
+    "created_at": "Thu May 21 11:13:13 +0000 2026",
+    "full_text": "RT @FundacionFIL: CARLOS RODRÍGUEZ BRAUN | Sobre la falacia del Estado de bienestar. https://t.co/rrRDL0rlzo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057418404546363864",
+    "created_at": "Thu May 21 11:09:07 +0000 2026",
+    "full_text": "RT @ImperioEstoico: https://t.co/Om7YPSpZOg",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057417875078443428",
+    "created_at": "Thu May 21 11:07:01 +0000 2026",
+    "full_text": "RT @pabloelantik: La debacle económica argentina no empezó ayer.  \nEl quiebre real comenzó en 2011, cuando el kirchnerismo agotó el modelo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057416711083590109",
+    "created_at": "Thu May 21 11:02:23 +0000 2026",
+    "full_text": "RT @agarra_pala: ASÍ SE LES GANA A LOS KUKAS EN DIPUTADOS\n@JMilei https://t.co/j8MANh9pQK",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057408164601934243",
+    "created_at": "Thu May 21 10:28:25 +0000 2026",
+    "full_text": "RT @fedesturze: También nos llevamos la cuota del arroz? Las exportaciones industriales suben 40%? Argentina sólidamente en un proceso de c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057408097119830066",
+    "created_at": "Thu May 21 10:28:09 +0000 2026",
+    "full_text": "RT @FerIglesias: De cazar en el zoológico a exportar a todo el planeta. La desindustrialización más loca del mundo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057408055545934054",
+    "created_at": "Thu May 21 10:27:59 +0000 2026",
+    "full_text": "RT @lilialemoine: La pena para quienes meten falsas denuncias con esa malicia y desde un medio masivo debería ser la carcel. \n\nArruinar la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057408005583274457",
+    "created_at": "Thu May 21 10:27:47 +0000 2026",
+    "full_text": "RT @SalvaDiStefano: Lo único q saben hacer es intervenir mercados, expropiar dinero e imponer la coerción del Estado",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057407771868295546",
+    "created_at": "Thu May 21 10:26:52 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇦🇷 “ES UN ALIVIO PARA LOS ARGENTINOS ESTÁ MODIFICACIÓN”\n\nLA DIPUTADA DE LLA PATO VASQUEZ TRAS APROBARSE EL CAMBIO  DEL RÉ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057407523963994585",
+    "created_at": "Thu May 21 10:25:53 +0000 2026",
+    "full_text": "RT @IrvingGatell: ¿Que Piketty se equivocó y @JMilei tuvo razón?\nHombre, pero si a nadie debería sorprenderle eso. Era lo más lógico y pred…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057407291603751363",
+    "created_at": "Thu May 21 10:24:57 +0000 2026",
+    "full_text": "RT @TFTC21: Jeff Bezos responds to AOC saying  \"you can't earn a billion dollars.\"\n\n\"The way you make a billion dollars is you create a ser…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057406917530574896",
+    "created_at": "Thu May 21 10:23:28 +0000 2026",
+    "full_text": "RT @CAronitpereira: “Be stubborn on your vision but flexible on details.”\n\n- Jeff Bezos https://t.co/HNLLoCksFB",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057405336269603217",
+    "created_at": "Thu May 21 10:17:11 +0000 2026",
+    "full_text": "RT @Ultranormalidad: 🔴🇦🇷🇺🇸 EL LIBRO QUE SE LEYÓ EL PELAO JEFF BEZOS DE AMAZON: https://t.co/5uudDig6QO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057405249363607560",
+    "created_at": "Thu May 21 10:16:50 +0000 2026",
+    "full_text": "RT @brivael: . @JMilei a genius friend\n\nChainsaw grandmaster",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057405053716095380",
+    "created_at": "Thu May 21 10:16:04 +0000 2026",
+    "full_text": "RT @JonhernandezIA: “The real disruption is not AI replacing people. It’s people with AI replacing everyone else.”\n\nJeff Bezos, founder of…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057404779811287169",
+    "created_at": "Thu May 21 10:14:58 +0000 2026",
+    "full_text": "RT @martinvars: La movilidad social depende mucho más de la estructura familiar estable que del gasto público en educación. Dos padres pres…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057403781810159974",
+    "created_at": "Thu May 21 10:11:00 +0000 2026",
+    "full_text": "RT @Ultranormalidad: No, pero si los medios me dijeron que fue gestión del Chiqui Tapia: https://t.co/Qm8TRn1Ws5",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057403674045878643",
+    "created_at": "Thu May 21 10:10:35 +0000 2026",
+    "full_text": "RT @CaligulaMMIV: Otra Jornada haciendo lo que dijimos que íbamos a hacer y haciendo lo que hay que hacer, que es  justamente hacer a Argen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2057315389625753833",
     "created_at": "Thu May 21 04:19:46 +0000 2026",
     "full_text": "RT @Ultranormalidad: QUE HONOR ESTAR DE ESTE LADO. CORONADOS DE GLORIA VIVIREMOS. SERÁ HASTA LA GLORIA ETERNA 💜🇦🇷🇨🇺🇺🇸. https://t.co/ZSs0rSD…",
