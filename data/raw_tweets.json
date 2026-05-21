@@ -1,5 +1,474 @@
 [
   {
+    "id": "2057563902355898447",
+    "created_at": "Thu May 21 20:47:16 +0000 2026",
+    "full_text": "RT @pajaromartino: En 2026 suben TODAS las exportaciones industriales , incluidas textiles . sobresaliente , el camino es por acá , sigamos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057563644032893114",
+    "created_at": "Thu May 21 20:46:15 +0000 2026",
+    "full_text": "RT @rcas1: Nivel de actividad en nuevo récord histórico\n\nLa economía creció un 9,3% desde Dic-23 https://t.co/r8w7TSxq1e",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057555184327266577",
+    "created_at": "Thu May 21 20:12:38 +0000 2026",
+    "full_text": "RT @marcos_galperin: Que rara está la recesión.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057555155751518636",
+    "created_at": "Thu May 21 20:12:31 +0000 2026",
+    "full_text": "RT @pajaromartino: Muy buenos números de la economía en marzo, sin dudas el Camino es por acá , sigamos apoyando el cambio cultural de @JMi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057551211243389369",
+    "created_at": "Thu May 21 19:56:50 +0000 2026",
+    "full_text": "RT @AndreaFreguia: .@JMilei Les cerró la boca a todos los creadores de relatos. Gestión pura, eficiencia y fin del choreo. ¡Gracias, Presid…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057546316767429079",
+    "created_at": "Thu May 21 19:37:23 +0000 2026",
+    "full_text": "RT @Santiago_Oria: EL GLORIOSO BLOQUE DE DIPUTADOS DE LA LIBERTAD AVANZA https://t.co/DF1tPobtHB",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057545847835861208",
+    "created_at": "Thu May 21 19:35:32 +0000 2026",
+    "full_text": "RT @Felii_N: Pero como puede ser que la actividad haya crecido 3,5% en marzo, 0,3% trimestral y 5,5% interanual si TODOS los medios y TODA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057539910060449857",
+    "created_at": "Thu May 21 19:11:56 +0000 2026",
+    "full_text": "ACTIVIDAD VOLANDO...!!!\nTMAP.\nMAGA.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2057539794364686839",
+    "created_at": "Thu May 21 19:11:28 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: EL NIVEL DE ACTIVIDAD ECONÓMICA ALCANZÓ UN NUEVO MÁXIMO HISTÓRICO EN MARZO\n\n✅ En marzo el Estimador Mensual de Actividad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057536232557613367",
+    "created_at": "Thu May 21 18:57:19 +0000 2026",
+    "full_text": "RT @TommyShelby_30: El campo argentino, sumado a Vaca Muerta, hará a Argentina Grande Nuevamente a pesar de los kukas inmundos.\n\nVLLC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057533234431332823",
+    "created_at": "Thu May 21 18:45:24 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🚀 | El Índice de Confianza del Consumidor elaborado por la UTDT aumentó un 1,3% en mayo gracias a la caída de la inf…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532989609750894",
+    "created_at": "Thu May 21 18:44:26 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El Viceministro de Economía, @JoseLuisDazaAR, participó en el programa “Pulso Financiero”, conducido por @GuillermoLabo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532973230985622",
+    "created_at": "Thu May 21 18:44:22 +0000 2026",
+    "full_text": "RT @Felii_N: MASTERCLASS de Joseph.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532950552445351",
+    "created_at": "Thu May 21 18:44:17 +0000 2026",
+    "full_text": "RT @LLA_Diputados: 🇦🇷 A esto vinimos, a hacer Argentina grande nuevamente. @JMilei \n\n@MenemMartin @BornoroniG @SilvanaGiudici @Turios https…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532898182365406",
+    "created_at": "Thu May 21 18:44:04 +0000 2026",
+    "full_text": "RT @DiegoMac227: Hoy recibí una llamada de una persona muy muy importante de Colombia y la conversación duro casi 2 horas, donde el tema ce…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532838862266483",
+    "created_at": "Thu May 21 18:43:50 +0000 2026",
+    "full_text": "RT @PatoBullrich: Av. Bullrich https://t.co/b5JZL7nlsf",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532791525433747",
+    "created_at": "Thu May 21 18:43:39 +0000 2026",
+    "full_text": "RT @mileibarrial: Avanzan las ideas de la libertad en todo el mundo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532707056345448",
+    "created_at": "Thu May 21 18:43:19 +0000 2026",
+    "full_text": "RT @ingdemiller: Sin controles de precios la inflación bajó. \nSin emisión la economía creció. \nSin cepo el dólar se estabilizó. \nSin défici…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532668087079250",
+    "created_at": "Thu May 21 18:43:09 +0000 2026",
+    "full_text": "RT @JesseLib0: Militar el déficit fiscal es militar la destrucción del salario. Nosotros cortamos la joda de raíz: saneamos la macro, clava…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532563648848081",
+    "created_at": "Thu May 21 18:42:44 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨GRAN RACHA COMPRADORA USD DEL BCRA🚨\n➡️El BCRA compró u$s 328 M ayer en el MLC\n➡️Fue la segunda mayor adquisición de l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532480979108167",
+    "created_at": "Thu May 21 18:42:25 +0000 2026",
+    "full_text": "RT @HoplitaLiberal: Maria Pauta llevo a La Nacion Menos al fabricante de Fantoche: record de fabricacion y venta. La ignota economista que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057532210807185698",
+    "created_at": "Thu May 21 18:41:20 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | SENTIDO COMÚN: El exsecretario de Energía, Emilio Apud, explicó la importancia de la reforma al régimen de Zonas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057531942774386935",
+    "created_at": "Thu May 21 18:40:16 +0000 2026",
+    "full_text": "RT @martinvars: Too many education systems prioritize ideology over real skills. School choice and competition would serve kids far better…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057531828639056266",
+    "created_at": "Thu May 21 18:39:49 +0000 2026",
+    "full_text": "RT @DiputadoAsseff: @Kicillofok Como explicas que mientras acusas a @JMilei de desfinanciar a la salud, tu gobierno adeuda al Garrahan $644…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057519592302387204",
+    "created_at": "Thu May 21 17:51:12 +0000 2026",
+    "full_text": "RT @mediceneljefe: La transformación de la Argentina es el resultado de una tarea titánica en equipo. El liderazgo de @JMilei, la articulac…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057519540116861399",
+    "created_at": "Thu May 21 17:50:59 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El Viceministro @JoseLuisDazaAR en el @cronistastream: “El programa financiero para el 2026 está absolutamente cerrado…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057519527751995501",
+    "created_at": "Thu May 21 17:50:56 +0000 2026",
+    "full_text": "RT @DiegoMac227: Masterclass del Viceministro de economía, José Luis Daza. https://t.co/cUIJHo7DGp",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057519496101802437",
+    "created_at": "Thu May 21 17:50:49 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El Viceministro @JoseLuisDazaAR, en el programa “Pulso Financiero” con @GuillermoLabord y @fbbarragan, afirmó: “Hoy ten…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057519477692956732",
+    "created_at": "Thu May 21 17:50:45 +0000 2026",
+    "full_text": "RT @julianyosovitch: Llamtivo. Eso que dijo Milei lo menciono en @neuramedia en la entrevista que nos dio el jueves pasado\n\n Me pregunto po…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057519416187719817",
+    "created_at": "Thu May 21 17:50:30 +0000 2026",
+    "full_text": "RT @Felii_N: Se VOLÓ el ICC.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057519371568759200",
+    "created_at": "Thu May 21 17:50:19 +0000 2026",
+    "full_text": "RT @mileibarrial: Importante hilo \nArgentina será grande nuevamente",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057519338551140569",
+    "created_at": "Thu May 21 17:50:11 +0000 2026",
+    "full_text": "RT @julianyosovitch: Excelentes datos en la balanza comercial \n\nLlamativo caso de atraso cambiario en Argentina!!! https://t.co/qs4eOiKmu8",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057518972589727920",
+    "created_at": "Thu May 21 17:48:44 +0000 2026",
+    "full_text": "RT @JesseLib0: El superávit fiscal no es un fetiche de números en una planilla, es el acta de defunción de la inflación. Al quitarle la máq…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057518903035617766",
+    "created_at": "Thu May 21 17:48:27 +0000 2026",
+    "full_text": "RT @maquepd: ⚖️ CAPUTO SE REÚNE CON CONTADORES Y MEJORA LA LEY DE INOCENCIA FISCAL ANTES DE SU IMPLEMENTACIÓN\n\nEscucharon sugerencias, inco…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057518384237920677",
+    "created_at": "Thu May 21 17:46:24 +0000 2026",
+    "full_text": "RT @LLAenPBA: La Legislatura bonaerense no funciona. El oficialismo prioriza internas políticas en lugar de gestionar. Por eso, 2 millones…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057518239136039092",
+    "created_at": "Thu May 21 17:45:49 +0000 2026",
+    "full_text": "RT @DiegoMac227: El derecho natural parte de una idea sencilla pero profundamente revolucionaria, los derechos del individuo no nacen del p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057518011460751453",
+    "created_at": "Thu May 21 17:44:55 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: ARGENTINA SERÁ PRÓSPERA, ARGENTINA SERÁ GRANDE NUEVAMENTE. https://t.co/R0yeI35qkc",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057517980825608466",
+    "created_at": "Thu May 21 17:44:48 +0000 2026",
+    "full_text": "RT @julianyosovitch: El audio está recortado de la entrevista en @neuramedia y se esforzaron en no mostrarlo\nAdemás, está totalmente sacado…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057517648473215453",
+    "created_at": "Thu May 21 17:43:28 +0000 2026",
+    "full_text": "RT @bergems: Es la primera vez en mas 40 años de profesion que veo  a un Ministro de Economía reunirse con un grupo de colegas para escucha…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057517580558963109",
+    "created_at": "Thu May 21 17:43:12 +0000 2026",
+    "full_text": "RT @SoleMondacaDip: El \"Estado presente\" de Kicillof es una estafa que cuesta vidas. Les encanta llenarse la boca hablando de la salud públ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057517557943247171",
+    "created_at": "Thu May 21 17:43:07 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: PAGUEN LO QUE DEBEN YA\n\nEfectivamente, esa es la deuda real que tienen con los chicos con cáncer, Ministro: $9.151.216…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057517519263432991",
+    "created_at": "Thu May 21 17:42:58 +0000 2026",
+    "full_text": "RT @mediceneljefe: Muy bueno esto que marca @FedeDomin: en una década la Argentina va camino a ser un país desarrollado, tal como le pasó a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057517411193033175",
+    "created_at": "Thu May 21 17:42:32 +0000 2026",
+    "full_text": "RT @julianyosovitch: Extraño caso de atraso cambiario...\n\nEl superávit comercial volvió a sorprender al alza y alcanzó u$s 2711 M \nFue el m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057517260441301286",
+    "created_at": "Thu May 21 17:41:56 +0000 2026",
+    "full_text": "RT @DamianArabia: EMOCIONA ARGENTINA https://t.co/96WesCvIl3",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057517237297197490",
+    "created_at": "Thu May 21 17:41:50 +0000 2026",
+    "full_text": "RT @fargosi: Es con @JMilei + @fedesturze 👏👏👏",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057517031251935724",
+    "created_at": "Thu May 21 17:41:01 +0000 2026",
+    "full_text": "RT @MinDesreg_Ar: Durante años, Argentina acumuló leyes y normas que quedaron desactualizadas u obsoletas. Muchas siguen vigentes y continú…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057516801987084463",
+    "created_at": "Thu May 21 17:40:07 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: En el programa “Pulso Financiero”, el Viceministro @JoseLuisDazaAR señaló que “estamos en un equilibrio ideal donde el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057514088587030979",
+    "created_at": "Thu May 21 17:29:20 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Excelente reunión con el grupo de contadores, que nos explicaron en detalle sus sugerencias con respecto a la ley de inoc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057507170795614564",
+    "created_at": "Thu May 21 17:01:50 +0000 2026",
+    "full_text": "RT @fedesturze: MENOS PROHIBICIONES ABSURDAS EN COSMÉTICA. Argentina prohibía el uso de algunos ingredientes en la cosmética que el mundo e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057507023478997127",
+    "created_at": "Thu May 21 17:01:15 +0000 2026",
+    "full_text": "RT @FerIglesias: Dato mata relato. \n#DATOmataRELATO https://t.co/VL0yhiznoV",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057507001538609374",
+    "created_at": "Thu May 21 17:01:10 +0000 2026",
+    "full_text": "RT @cristiannmillo: Atentos 👇\n\nEL ÍNDICE DE CONFIANZA DEL CONSUMIDOR (ICC) SUBE 1,3% EN MAYO - UTDT-\n\nRepunta.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057506924971618668",
+    "created_at": "Thu May 21 17:00:52 +0000 2026",
+    "full_text": "RT @fargosi: Desgraciadamente, ese silencio revela la total parcialidad de la gran mayoría de los medios y periodistas, que censuran cualqu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057506865567682796",
+    "created_at": "Thu May 21 17:00:38 +0000 2026",
+    "full_text": "RT @anellogaby: NOTO UN ENORME SILENCIO ANTE ESTA NOTICIA QUE ME PARECE TAPA DE TODOS LOS DIARIOS Y TRASCENDENTAL \n\nMe encanta el crecimien…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057506565796548768",
+    "created_at": "Thu May 21 16:59:26 +0000 2026",
+    "full_text": "RT @peladodelatv: Decisión histórica de @JMilei: los fondos robados por el kirchnerismo vuelven a los porteños gracias a nuestro Presidente…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057506525556412750",
+    "created_at": "Thu May 21 16:59:16 +0000 2026",
+    "full_text": "RT @varelacorina1: Me emociona escucharlo 🥹",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057505208859566580",
+    "created_at": "Thu May 21 16:54:03 +0000 2026",
+    "full_text": "RT @fargosi: Comparto el análisis de la enorme diferencia entre lo \"ilícito\" y lo \"prohibido\" que escribimos con M. Florencia Anhielo @flor…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057477090094575803",
+    "created_at": "Thu May 21 15:02:19 +0000 2026",
+    "full_text": "RT @DiegoMac227: La moral en la política. \n\n👇🏼 https://t.co/5sn8fxuPIs",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057476791439131059",
+    "created_at": "Thu May 21 15:01:07 +0000 2026",
+    "full_text": "RT @fargosi: Es con @JMilei \n\nEs un hecho, no una opinión, porque huevos produjimos siempre y nunca antes se logró esto.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057476488920744369",
+    "created_at": "Thu May 21 14:59:55 +0000 2026",
+    "full_text": "RT @MinSeguridad_Ar: OPERATIVO \"CONSTRU-DROGA\"\n\nDesarticulamos una red narco que trasladaba droga desde Salta a Córdoba en un camión que si…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057475446116077738",
+    "created_at": "Thu May 21 14:55:47 +0000 2026",
+    "full_text": "RT @mediceneljefe: .@JMilei explicando con matemáticas puras la diferencia entre un Gobierno liberal y una murga colectivista. Bajamos la i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057475363958038837",
+    "created_at": "Thu May 21 14:55:27 +0000 2026",
+    "full_text": "RT @Mex_Libertario: Clase Magistral de Javier #Milei: “Inflación y desempleo: el debate inválido”.\n\nVéala ahora aquí: https://t.co/rVVq3iRa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057474546093981833",
+    "created_at": "Thu May 21 14:52:12 +0000 2026",
+    "full_text": "RT @mila_manfredi: Presentación de la Unión Europea sobre el posicionamiento actual del país. Todo optimismo. Vamos Argentina 🇦🇷 https://t.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057474393555542470",
+    "created_at": "Thu May 21 14:51:36 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Newsletter 20 de mayo \nhttps://t.co/TAFp1it1Q1 https://t.co/VTR4au7P4M",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057473806155817199",
+    "created_at": "Thu May 21 14:49:16 +0000 2026",
+    "full_text": "EL RESURGIR.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2057473720197767630",
+    "created_at": "Thu May 21 14:48:55 +0000 2026",
+    "full_text": "RT @tonyaracre: El ÍNDICE DE CONFIANZA (ICC) al consumidor de la UTDT aumenta 1,26% en MAYO, mucho más proporcionalmente entre la gente de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057471323295613217",
+    "created_at": "Thu May 21 14:39:24 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | #OPINIÓN La “Reforma Gary Becker” para las universidades nacionales.\n\n✍️🏻 Por \"El Profe\" @AleCiroAlvarez en excl…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057471193985212456",
+    "created_at": "Thu May 21 14:38:53 +0000 2026",
+    "full_text": "RT @FinanzasArgy: 🇦🇷 BGH espera una recuperación del consumo de electrodomésticos hacia fines de 2026\n\nSegún Bloomberg Línea, la empresa de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2057429421049471239",
     "created_at": "Thu May 21 11:52:53 +0000 2026",
     "full_text": "RT @radiomitre: 📢 Martín Menem respaldó las medidas de Javier Milei: “Nunca en la historia hubo un Gobierno con una minoría tan pequeña”\n\n📻…",
