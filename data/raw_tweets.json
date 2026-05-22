@@ -1,5 +1,922 @@
 [
   {
+    "id": "2057922610478854638",
+    "created_at": "Fri May 22 20:32:39 +0000 2026",
+    "full_text": "RT @SPettovelloOK: No se van a usar datos personales . Son datos generales y estadísticos, y anonimizados",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057920234011468138",
+    "created_at": "Fri May 22 20:23:12 +0000 2026",
+    "full_text": "RT @nunadel90: TIPAZO!!\n\nMILEI 2027",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057920079216472153",
+    "created_at": "Fri May 22 20:22:35 +0000 2026",
+    "full_text": "RT @Hombre__Manzana: Siguen las compras 🚀",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057918569501896915",
+    "created_at": "Fri May 22 20:16:35 +0000 2026",
+    "full_text": "RT @Walterelunico71: Tenemos el mejor PRESIDENTE de la historia, @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057918411708006904",
+    "created_at": "Fri May 22 20:15:58 +0000 2026",
+    "full_text": "RT @FinanzasArgy: 📉🚜 Las retenciones a la soja podrían caer a 0% en diciembre de 2030 bajo el esquema anunciado por Milei si se aplica la b…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057918106891141449",
+    "created_at": "Fri May 22 20:14:45 +0000 2026",
+    "full_text": "LA LIBERTAD AVANZA \nVIVA LA LIBERTAD CARAJO",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2057917999022010390",
+    "created_at": "Fri May 22 20:14:19 +0000 2026",
+    "full_text": "RT @madorni: En lo que queda de la jornada estaremos enviando al Congreso de la Nación los siguientes proyectos de ley:\n\n- Ley de Ludopatía…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057917253782253650",
+    "created_at": "Fri May 22 20:11:22 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: ARGENTINA RECUPERA SOBERANÍA SANITARIA\n\nLa salud de los argentinos se decide en nuestro país. Hoy la Asamblea Mundial…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057917224942280793",
+    "created_at": "Fri May 22 20:11:15 +0000 2026",
+    "full_text": "RT @rcas1: 2026:\nRécord PBI (&gt;4%)\nRécord Exportaciones (&gt;USD100MM)\nRécord Cosecha (&gt;160M Tns)\nRécord Petróleo (superando '90)\nRécord Gas (s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057917113679888447",
+    "created_at": "Fri May 22 20:10:48 +0000 2026",
+    "full_text": "RT @DiegoMac227: Así se le responde a un mentiroso y operador.\n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057916941184942365",
+    "created_at": "Fri May 22 20:10:07 +0000 2026",
+    "full_text": "RT @fedesturze: Un paso imprescindible para la producción y la seguridad vial. Y ni se imaginan lo próximo que el Ministro @LuisCaputoAR ti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057913987166019824",
+    "created_at": "Fri May 22 19:58:23 +0000 2026",
+    "full_text": "RT @DiegoMac227: 📈l El nivel de actividad económica alcanzó un nuevo máximo historico en marzo. https://t.co/keHEDm8LEM",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057913936570179703",
+    "created_at": "Fri May 22 19:58:11 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨CRASH EN LA POSICION VENDIDA DE DOLA FUTURO🚨\n➡️El BCRA reportó su posición de futuros a ABR26\n➡️Los contratos de dóla…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057911591291486595",
+    "created_at": "Fri May 22 19:48:52 +0000 2026",
+    "full_text": "RT @dievalen: ¿Por qué algunos intendentes bajamos tasas e impuestos y otros van a contramano de la inversión y el trabajo? 👇 https://t.co/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057906247827853430",
+    "created_at": "Fri May 22 19:27:38 +0000 2026",
+    "full_text": "RT @Santiago_Oria: No queremos lo suficiente a @SPettovelloOK",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057906220845900029",
+    "created_at": "Fri May 22 19:27:31 +0000 2026",
+    "full_text": "RT @SoleMondacaDip: Se terminó el paradigma ineficiente de la obra pública estatal. Con el sector privado liderando la inversión, más de 9.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057906171671925152",
+    "created_at": "Fri May 22 19:27:20 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: Mientras el kirchnerismo usaba el pasado como política de Estado, Milei usa el futuro como horizonte. Unos te hablaban…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057906054139166770",
+    "created_at": "Fri May 22 19:26:52 +0000 2026",
+    "full_text": "RT @braga_dito: https://t.co/e9QrXoydzc",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057906015232831778",
+    "created_at": "Fri May 22 19:26:42 +0000 2026",
+    "full_text": "RT @ekammerath: Excelente noticia. Menos dependencia de burocracias globalistas es más soberanía para Argentina.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057905682985230827",
+    "created_at": "Fri May 22 19:25:23 +0000 2026",
+    "full_text": "RT @DarioEpstein: Si el mundo demanda proteínas, energía y minerales, entonces ofrécele eso.\nLa demanda mundial no depende de la visión de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057905488658895158",
+    "created_at": "Fri May 22 19:24:37 +0000 2026",
+    "full_text": "RT @Patriesoprano: Mientras otros defienden el pasado, Argentina acelera hacia el futuro.\nInnovación, inteligencia artificial y libertad pa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057905395801198764",
+    "created_at": "Fri May 22 19:24:15 +0000 2026",
+    "full_text": "RT @joacobl75: BAJA GRADUAL DE RETENCIONES A LA SOJA…A CERO?\n\nNo lo vas a leer en la mayor parte de los medios.\n\nNuestro Presidente @JMilei…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057900972244922413",
+    "created_at": "Fri May 22 19:06:40 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2057900949381734529",
+    "created_at": "Fri May 22 19:06:34 +0000 2026",
+    "full_text": "RT @fedesturze: Hola @luisnovaresio! Espero estés muy bien! Gracias por comentar la Ley de Desregulación que prontamente estamos mandando a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057894617001906412",
+    "created_at": "Fri May 22 18:41:25 +0000 2026",
+    "full_text": "RT @DiegoMac227: ✅️ https://t.co/w835c8se5U",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057894607669588212",
+    "created_at": "Fri May 22 18:41:22 +0000 2026",
+    "full_text": "RT @lucabassua: Arrancar el día leyendo una buena noticia de toto ya se volvió costumbre.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057894573829988444",
+    "created_at": "Fri May 22 18:41:14 +0000 2026",
+    "full_text": "RT @ig271025: Del saqueo fiscal del kirchnerismo a un modelo donde producir vuelve a valer la pena. Mientras antes el Estado castigaba al c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057894505865458112",
+    "created_at": "Fri May 22 18:40:58 +0000 2026",
+    "full_text": "RT @argypotencia: 📈 NUEVO MÁXIMO ACTIVIDAD ECONOMICA - MARZO 2026 🇦🇷\n\nLa actividad económica de Argentina en su medición desestacionalizada…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057894349887652334",
+    "created_at": "Fri May 22 18:40:21 +0000 2026",
+    "full_text": "RT @fargosi: https://t.co/Aa04GJTMIi",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057894282564874384",
+    "created_at": "Fri May 22 18:40:05 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: La actividad crecía y ellos seguían relatando recesión.\nErrarle tan fuerte ya exige explicación.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057894016411156845",
+    "created_at": "Fri May 22 18:39:01 +0000 2026",
+    "full_text": "RT @Refugiozeta: El crimen organizado suvbersivo peronista sabe muy bien que si Milei es reelecto la transformacion absoluta de argentina q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057893941261807980",
+    "created_at": "Fri May 22 18:38:44 +0000 2026",
+    "full_text": "RT @patoenero: Quienes lo detestan, son los corporativistas y algunos que todavía no entendieron que la economía y el progreso del país no…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057893842376900816",
+    "created_at": "Fri May 22 18:38:20 +0000 2026",
+    "full_text": "RT @pabloquirno: La Asamblea Mundial de la Salud ratificó hoy, por consenso, el retiro de la República Argentina de la Organización Mundial…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057893671358378209",
+    "created_at": "Fri May 22 18:37:39 +0000 2026",
+    "full_text": "RT @Titanfdc: 🇦🇷🚀 EL NIVEL DE ACTIVIDAD ECONÓMICA MÁS ALTO DE LA HISTORIA ARGENTINA \n\n➡️ En marzo, el EMAE creció 5,5%\n\n➡️ 14 de 15 sectore…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057893065973551574",
+    "created_at": "Fri May 22 18:35:15 +0000 2026",
+    "full_text": "RT @ViejoLibertario: Sin lugar a dudas, Argentina será un ejemplo, un caso de éxito, que el mundo querrá copiar.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057889974758879360",
+    "created_at": "Fri May 22 18:22:58 +0000 2026",
+    "full_text": "RT @DiegoMac227: Excelente \n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057889949244908029",
+    "created_at": "Fri May 22 18:22:52 +0000 2026",
+    "full_text": "RT @enelojodelpoder: Lo del presidente Milei es único!. Va a quedar en los libros de historia.\nEstá liberando a los Argentinos de tanta opr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057889746190246257",
+    "created_at": "Fri May 22 18:22:03 +0000 2026",
+    "full_text": "RT @rcas1: Para Milei, son 30.000\nPara CFK, menos de 10.000 https://t.co/uW3LAmzbjh",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057889723134157157",
+    "created_at": "Fri May 22 18:21:58 +0000 2026",
+    "full_text": "RT @_EncuestAR_: La economía argentina repuntó mucho más de lo esperado en marzo, mostrando señales de recuperación más fuertes que las pro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057889090016559324",
+    "created_at": "Fri May 22 18:19:27 +0000 2026",
+    "full_text": "RT @ronnie__rr: Nos decían que Milei bajó la inflación a costa de destruir la economía pero en marzo la actividad estuvo un 7% por arriba d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057888696515362985",
+    "created_at": "Fri May 22 18:17:53 +0000 2026",
+    "full_text": "RT @javierlanari: La IA al servicio de la gente 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057888652793946345",
+    "created_at": "Fri May 22 18:17:43 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Argentina se adelanta al futuro.\n\nPor primera vez, nuestro país lidera el futuro social.\n\nEl Ministerio de Capital Humano…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057888590944698474",
+    "created_at": "Fri May 22 18:17:28 +0000 2026",
+    "full_text": "RT @AndresLeoneOk: 163,2 millones de toneladas. Récord histórico en la campaña 2025/2026.\n\nEstos números no son casualidad: son el resultad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057887886465282432",
+    "created_at": "Fri May 22 18:14:40 +0000 2026",
+    "full_text": "RT @luispetri: La Ruta 7 es la columna vertebral de Mendoza. Entra en la licitación el Tramo Cuyo de la Red Federal de Concesiones con inve…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057887575860248939",
+    "created_at": "Fri May 22 18:13:26 +0000 2026",
+    "full_text": "RT @_EncuestAR_: El FMI aprobó la revisión del programa con Argentina y destrabó un desembolso de US$1.000 millones, permitiendo la continu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057887491324059872",
+    "created_at": "Fri May 22 18:13:06 +0000 2026",
+    "full_text": "RT @javierlanari: Dato. El Gobierno de Milei es, por lejos, el que más dólares compró (30.000 millones de dólares). En lo que va del año ac…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057887269013291100",
+    "created_at": "Fri May 22 18:12:13 +0000 2026",
+    "full_text": "RT @lucabassua: Milei confirmó que, de conseguir la reelección, las retenciones pasarían a 0% en su segundo mandato. La idea es clara, deja…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057887188222644401",
+    "created_at": "Fri May 22 18:11:54 +0000 2026",
+    "full_text": "RT @ViejoLibertario: Ayer te anticipé que la noticia saldría con \"peros\". (Ver tuit citado)\n\nNo falla. https://t.co/18fE1Qh08Q",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057887105666179216",
+    "created_at": "Fri May 22 18:11:34 +0000 2026",
+    "full_text": "RT @ajmechet: Argentina tiene que ser pionera en la implementación de IA en el Estado.\n\nTodos sentimos que el Estado es ineficiente y nos a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057883365202649411",
+    "created_at": "Fri May 22 17:56:42 +0000 2026",
+    "full_text": "RT @NapoliJuan: Tremendo Toto",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057882809922879512",
+    "created_at": "Fri May 22 17:54:30 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: VLLC!!!! https://t.co/ZoqJh0v8GY",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057882638786916499",
+    "created_at": "Fri May 22 17:53:49 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Otro de los espectaculares gráficos de Ramiro",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057882617781887017",
+    "created_at": "Fri May 22 17:53:44 +0000 2026",
+    "full_text": "RT @mediceneljefe: El sector privado va a hacer grande a Argentina. VLLC!!! https://t.co/JAiiZjSjRi",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057882542519296332",
+    "created_at": "Fri May 22 17:53:26 +0000 2026",
+    "full_text": "RT @NapoliJuan: Denos descanso Presi @JMilei \nUna buena atrás de otra…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057882491663339702",
+    "created_at": "Fri May 22 17:53:14 +0000 2026",
+    "full_text": "RT @FernandoMarull: Soja. Asi quedaria la historia de las retenciones en ultimos 30 maños. \n\nNestor 14%  \nCFK 35%  \nMacri 25%  \nBeto 33%…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057882215254569337",
+    "created_at": "Fri May 22 17:52:08 +0000 2026",
+    "full_text": "RT @DiegoMac227: Gran trabajo de la ministra Sandra Pettovello.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057882199286751233",
+    "created_at": "Fri May 22 17:52:04 +0000 2026",
+    "full_text": "RT @casigol66: Milei sigue cumpliendo con lo prometido, sigue bajando impuestos.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057881000902832468",
+    "created_at": "Fri May 22 17:47:18 +0000 2026",
+    "full_text": "RT @patoenero: \"El kirchnerismo eligió al campo como el sector a combatir y como una caja para cuando necesitaban plata, subirles las reten…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057880674804117785",
+    "created_at": "Fri May 22 17:46:01 +0000 2026",
+    "full_text": "RT @Walterelunico71: Cómo dijo un poeta contemporáneo, Argentina se va para arriba como Pedo de buzo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057880244862718162",
+    "created_at": "Fri May 22 17:44:18 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | El Gobierno de Milei prepara un nuevo paquete de desregulaciones para reducir costos e impulsar la competencia en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057880209257300194",
+    "created_at": "Fri May 22 17:44:10 +0000 2026",
+    "full_text": "RT @DiegoMac227: Estoy seguro que así será.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057880075723276608",
+    "created_at": "Fri May 22 17:43:38 +0000 2026",
+    "full_text": "RT @DiegoMac227: Tal como dice el ministro, este equipo está haciendo historia en nuestra industria aerocomercial, llevando hasta las nubes…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057880051681493167",
+    "created_at": "Fri May 22 17:43:32 +0000 2026",
+    "full_text": "RT @fededomin: No solo eso, sino que hubo crecimiento interanual en todos los sectores, con la excepción de la administración pública, que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057879923931423042",
+    "created_at": "Fri May 22 17:43:02 +0000 2026",
+    "full_text": "RT @PabloAbrazo_: Es increíble que todos los días hay una buena noticia en la que Argentina hace algo por primera vez en su historia, o pio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057878980640792963",
+    "created_at": "Fri May 22 17:39:17 +0000 2026",
+    "full_text": "RT @SilvanaGiudici: Con esta herramienta de avanzada se podrá medir el impacto real de los programas sociales y planificar el diseño de cad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057878960474652989",
+    "created_at": "Fri May 22 17:39:12 +0000 2026",
+    "full_text": "RT @javierlanari: La baja del gasto público y el superávit fiscal es lo que permitió que Milei pueda bajar y eliminar retenciones al campo.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057878922486849688",
+    "created_at": "Fri May 22 17:39:03 +0000 2026",
+    "full_text": "RT @AdrianRavier: No es fácil cambiar el modelo empobrecedor kirchnerista. Pero avanzamos sin pausa todos los días con orden macroeconómico…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057878767339454791",
+    "created_at": "Fri May 22 17:38:26 +0000 2026",
+    "full_text": "RT @SPettovelloOK: https://t.co/zV1q1sdU7h\n@JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057878746632184192",
+    "created_at": "Fri May 22 17:38:21 +0000 2026",
+    "full_text": "RT @rcas1: Para juntar 30.000 millones, Milei compra dólares contra demanda de pesos.\n\nPara juntar 30.000 millones, el Peronismo saqueaba a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057878705297305912",
+    "created_at": "Fri May 22 17:38:11 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | BASADO: Javier Milei humilló al kirchnerismo al destacar que la economía argentina ya crece cuatro veces más rápi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057878621226782794",
+    "created_at": "Fri May 22 17:37:51 +0000 2026",
+    "full_text": "RT @FerIglesias: Ah, pero @LANACION https://t.co/9EBczNorBw",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057878590033699032",
+    "created_at": "Fri May 22 17:37:44 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨LA CAJA MILLONARIA QUE MIRAN LOS KIRCHNERISTAS🚨\n➡️Según estimaciones oficiales entre mineria y energia generarán expo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057877844458443156",
+    "created_at": "Fri May 22 17:34:46 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: EFECTO MILEI https://t.co/7j7HrNsjgR",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057877721020051537",
+    "created_at": "Fri May 22 17:34:16 +0000 2026",
+    "full_text": "RT @fargosi: Dice @JMilei “A partir de julio de 2026 hasta junio de 2027 a la industria automotriz, a la industria petroquímica y a maquina…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057877301690314979",
+    "created_at": "Fri May 22 17:32:36 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2057877273571655948",
+    "created_at": "Fri May 22 17:32:30 +0000 2026",
+    "full_text": "RT @PhilippBagus: Mein Buch \"Die Ära Milei\" jetzt auch auf rumänisch. VLLC https://t.co/Hsw8YEiCHI",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057876807454458354",
+    "created_at": "Fri May 22 17:30:39 +0000 2026",
+    "full_text": "RT @Felii_N: ✅ Completadas las licitaciones de los primeros 9000 km de rutas.\n🦁🇦🇷📈",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057875530096034300",
+    "created_at": "Fri May 22 17:25:34 +0000 2026",
+    "full_text": "RT @javierlanari: En 2026 las exportaciones rondarían los 104.000 millones de dólares. Es un aumento del 20% respecto a 2025. Son 17.300 mi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057875468158743042",
+    "created_at": "Fri May 22 17:25:19 +0000 2026",
+    "full_text": "RT @xestadominimo: “La libertad económica no garantiza el éxito, pero la falta de libertad garantiza el fracaso”.\n\n- Miguel Anxo Bastos - h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057875256115597654",
+    "created_at": "Fri May 22 17:24:29 +0000 2026",
+    "full_text": "RT @AXELKAISER: Nuevo estudio demuestra que no existe prácticamente ninguna relación entre la desigualdad y la criminalidad. https://t.co/U…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057875136422858758",
+    "created_at": "Fri May 22 17:24:00 +0000 2026",
+    "full_text": "RT @OzymLib1: Derribamos la mentira estructural de que el Estado tiene que vivir en rojo para que la economía funcione. Hoy el superávit co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057875048480882896",
+    "created_at": "Fri May 22 17:23:39 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: RÉCORD HISTÓRICO: LA BALANZA COMERCIAL ENERGÉTICA NUNCA HABÍA ALCANZADO ESTE NIVEL\n\nEn abril de 2026, el superávit ene…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057874896902832282",
+    "created_at": "Fri May 22 17:23:03 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ NICOLAS PINO SE LA PICÓ TODA A LOS KUKAS Y LOS DEJÓ AL BORDE DEL PATATÚS TOTAL\n\n🔥 \"Permanentemente estamos cambiando me…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057874043420725350",
+    "created_at": "Fri May 22 17:19:40 +0000 2026",
+    "full_text": "RT @MileiSays: Milei condemns “socialist madness” at the UN https://t.co/MWqw6eFOf2",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057873066122723507",
+    "created_at": "Fri May 22 17:15:47 +0000 2026",
+    "full_text": "CONCESIÓN DE 9.000 KM DE RUTAS\nTMAP.\nMAGA.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2057872678615122057",
+    "created_at": "Fri May 22 17:14:14 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: IMPORTANTE!👇\n\nSe realizó la apertura de sobres para la licitación de los tramos de la Etapa III de la Red Federal de Conc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057872497173729350",
+    "created_at": "Fri May 22 17:13:31 +0000 2026",
+    "full_text": "RT @JMilei: @aetchebarne ESA ES LA IDEA...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057872379154424112",
+    "created_at": "Fri May 22 17:13:03 +0000 2026",
+    "full_text": "RT @JMilei: ARGENTINA SE ADELANTA AL FUTURO, PORQUE EL FUTURO NO ESPERA\nPor primera vez, nuestro país lidera el futuro social.\nEl Ministeri…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057872323080790147",
+    "created_at": "Fri May 22 17:12:49 +0000 2026",
+    "full_text": "RT @PatoBullrich: Excelente integrar la Inteligencia Artificial en las políticas sociales de nuestro país: datos, transparencia y velocidad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057872294739870037",
+    "created_at": "Fri May 22 17:12:43 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Argentina se adelanta al futuro.\n\nPor primera vez, nuestro país lidera el futuro social.\n\nEl Ministerio de Capital Human…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057872217283641607",
+    "created_at": "Fri May 22 17:12:24 +0000 2026",
+    "full_text": "RT @Turios: Annuntio vobis gaudium magnum",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057872182420590854",
+    "created_at": "Fri May 22 17:12:16 +0000 2026",
+    "full_text": "RT @KarenReichardt1: El presidente Javier Milei anunció una nueva baja de retenciones para el trigo y la cebada 🌾\n\nPrimero ordenamos las cu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057872170248770030",
+    "created_at": "Fri May 22 17:12:13 +0000 2026",
+    "full_text": "RT @FerIglesias: “A partir de julio de 2026 hasta junio de 2027 a la industria automotriz, a la industria petroquímica y a maquinarias les…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057872161549828499",
+    "created_at": "Fri May 22 17:12:11 +0000 2026",
+    "full_text": "RT @danielscioli: ARGENTINA SERÁ GRANDE NUEVAMENTE 🇦🇷\n\nCc @JMilei https://t.co/pXJtI7503Y",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057871719709221036",
+    "created_at": "Fri May 22 17:10:26 +0000 2026",
+    "full_text": "RT @aetchebarne: Y en un segundo mandato de @JMilei no tengo ninguna duda de que van a ir a 0% de retenciones.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057871647693029812",
+    "created_at": "Fri May 22 17:10:08 +0000 2026",
+    "full_text": "RT @Felii_N: Verguenza.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057871433863205123",
+    "created_at": "Fri May 22 17:09:17 +0000 2026",
+    "full_text": "RT @AleMonteoliva: ESTAFADOR, ¡ADENTRO!\n\nEste falso empleado portuario, con pedido de captura, ofrecía todo tipo de productos de alta gama,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057871403597070491",
+    "created_at": "Fri May 22 17:09:10 +0000 2026",
+    "full_text": "RT @lilialemoine: El Ministerio de Desregulación, también conocido como el de \"Los Rendimientos Crecientes\" yo también lo llamaría \"Ministe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057868566355914766",
+    "created_at": "Fri May 22 16:57:54 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2057868521195847954",
+    "created_at": "Fri May 22 16:57:43 +0000 2026",
+    "full_text": "RT @PhilippBagus: Mi libro \"La era Milei\" ya está disponible en 11 idiomas. La última incorporación: \nRUMANO.\nTitulo: Fenomenul Javier Mile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057862925109375202",
+    "created_at": "Fri May 22 16:35:29 +0000 2026",
+    "full_text": "RT @dievalen: La apertura comercial explica también el crecimiento de las exportaciones y genera más incentivos para producir.\n\nArgentina a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057855342709493826",
+    "created_at": "Fri May 22 16:05:21 +0000 2026",
+    "full_text": "RT @rmrojas58: El desafío del liberalismo en el siglo XXI es encontrar limitaciones eficientes para evitar el avance del Estado sobre las p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057855274812072367",
+    "created_at": "Fri May 22 16:05:05 +0000 2026",
+    "full_text": "RT @braga_dito: Milei \"evita a los ministros\". Dos párrafos después:  \"los fulminó en el último encuentro\". No se puede evitar y fulminar a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057854454414606532",
+    "created_at": "Fri May 22 16:01:49 +0000 2026",
+    "full_text": "RT @Santiago_Oria: FENOMENO BARRIAL\n\nEn EE.UU. están viendo que los medios argentinos le hacen la guerra a @JMilei por cuestiones puramente…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057854192895533513",
+    "created_at": "Fri May 22 16:00:47 +0000 2026",
+    "full_text": "RT @martinvars: Argentina acaba de registrar la cosecha más grande de su historia. Ciento sesenta y tres millones de toneladas de granos en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057833427710156932",
+    "created_at": "Fri May 22 14:38:16 +0000 2026",
+    "full_text": "SE VIENE...\n🦁🦁",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2057833001950597469",
+    "created_at": "Fri May 22 14:36:35 +0000 2026",
+    "full_text": "RT @pabloquirno: Vine a reunirme con el Presidente @JMilei para darle “la Buena Noticia” que hará feliz a todo el pueblo argentino. Solo re…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057827982048145712",
+    "created_at": "Fri May 22 14:16:38 +0000 2026",
+    "full_text": "RT @UnionEditorial: #NOVEDAD\n\nLA BATALLA POR LA MACROECONOMÍA \n@JMilei y @AdrianRavier\n\nhttps://t.co/yLFK80gUfW https://t.co/ehRY9U3TRA",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057827959998713930",
+    "created_at": "Fri May 22 14:16:32 +0000 2026",
+    "full_text": "RT @AdrianRavier: Este libro ya se puede conseguir también en España gracias a @UnionEditorial 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057827928637923425",
+    "created_at": "Fri May 22 14:16:25 +0000 2026",
+    "full_text": "RT @CortesSteve: .@JMilei blocks a monopolistic merger...so U.S. media targets him with propaganda???\n\nMy latest, on our key ally:\n\n\"In the…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057827735334965575",
+    "created_at": "Fri May 22 14:15:39 +0000 2026",
+    "full_text": "RT @maquepd: Hay políticos que llevan 30 años en el Estado sin haber trabajado un solo día en el sector privado explicando cómo funciona la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057827477620166975",
+    "created_at": "Fri May 22 14:14:37 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2057826372010082387",
+    "created_at": "Fri May 22 14:10:14 +0000 2026",
+    "full_text": "RT @fargosi: Periodismo \"independiente\": con pauta, todo. Por ej, ver lo que logran Kicillof y Llaryora \n\nPeriodismo \"independiente\" sin pa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057825830173065405",
+    "created_at": "Fri May 22 14:08:05 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Por qué repiten la pelotudez esa de la \"gestión paralizada\" cuando el gobierno no para de anotar logros? Qué clase de i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057825562127634631",
+    "created_at": "Fri May 22 14:07:01 +0000 2026",
+    "full_text": "RT @LoboArgy: +desregulación\n+baja de impuestos\n+RIGI\n+Estabilidad macro\n= récord de exportaciones, señores. \nY esto RECÉN empieza... \nAjus…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057825504225276121",
+    "created_at": "Fri May 22 14:06:47 +0000 2026",
+    "full_text": "RT @agarra_pala: 🦁 HERMOSA MAÑANA, ¿VERDAD? TODO SON BUENAS NOTICIAS Y LOS KUKAS NO SE LO PUEDEN CREER\n\n💥 Todo marcha de acuerdo al plan, e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057825423501717506",
+    "created_at": "Fri May 22 14:06:28 +0000 2026",
+    "full_text": "RT @AdrianRavier: Recuperamos el crecimiento 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057825396586889360",
+    "created_at": "Fri May 22 14:06:21 +0000 2026",
+    "full_text": "RT @LaVonHayek: La actividad económica volando como respuesta a todo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057825366526300429",
+    "created_at": "Fri May 22 14:06:14 +0000 2026",
+    "full_text": "RT @cristiannmillo: Dato: los bancos indicaron que la morosidad crediticia parece haber dejado de empeorar y está comenzando a estabilizars…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057825289963442292",
+    "created_at": "Fri May 22 14:05:56 +0000 2026",
+    "full_text": "RT @JaviGarcia_Ok: Para el kirchnerismo, destruir la moneda y multiplicar la pobreza era inclusión. Pero estabilizar la economía, q baje la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057825212150739359",
+    "created_at": "Fri May 22 14:05:37 +0000 2026",
+    "full_text": "RT @FerHodler: 🇦🇷 “Gasté la garganta diciendo que la inflación es siempre y en todo lugar un fenómeno monetario generado por un exceso de o…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057824006938439765",
+    "created_at": "Fri May 22 14:00:50 +0000 2026",
+    "full_text": "RT @Diego_Hartfield: Este gráfico de @rcas1 es una locura. Ni en la época de Néstor con dólar y soja altísimo se compraron tantas reservas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057823971412722071",
+    "created_at": "Fri May 22 14:00:41 +0000 2026",
+    "full_text": "RT @carmenAlvarezR: 2026 Año de la Grandeza Argentina 🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057823944552354049",
+    "created_at": "Fri May 22 14:00:35 +0000 2026",
+    "full_text": "RT @Felii_N: https://t.co/BRxICyTQQN",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057823876969545730",
+    "created_at": "Fri May 22 14:00:19 +0000 2026",
+    "full_text": "RT @fargosi: Antes de que algunos salgan a mentir que el crecimiento es solo por Vaca muerta, les cuento que crecieron 14 de los 15 sectore…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057818685641826445",
+    "created_at": "Fri May 22 13:39:41 +0000 2026",
+    "full_text": "RT @Rafa_Libertario: 🚨MUY IMPORTANTE🚨\nEscuchá a esta señora:\n\"El Gobierno NO está para dar de comer al pueblo, el Gobierno está para admini…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057818587843170466",
+    "created_at": "Fri May 22 13:39:18 +0000 2026",
+    "full_text": "RT @fargosi: Excelente síntesis de @JMilei: https://t.co/SYJhTAQytx",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057818572693426403",
+    "created_at": "Fri May 22 13:39:14 +0000 2026",
+    "full_text": "RT @anellogaby: La Nota que anoche hicimos con Nicolás Pino (Pte Sociedad Rural) demuestra claramente el incentivo productivo que genera el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057818543899488321",
+    "created_at": "Fri May 22 13:39:07 +0000 2026",
+    "full_text": "RT @fedesturze: MÁS DESREGULACIÓN EN EL SECTOR AERONÁUTICO. La @ANACargentina, con firma de su Administrador @oscar_villabona, publicó hoy…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057818513897673108",
+    "created_at": "Fri May 22 13:39:00 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Es verdad, el humor social cambió: hay más tranquilidad, una sensación de alivio, y también hay entusiasmo por el poten…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2057818451872203003",
+    "created_at": "Fri May 22 13:38:46 +0000 2026",
+    "full_text": "MAGA!\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
     "id": "2057814810520137776",
     "created_at": "Fri May 22 13:24:17 +0000 2026",
     "full_text": "ARGENTINA SE ADELANTA AL FUTURO, PORQUE EL FUTURO NO ESPERA\nPor primera vez, nuestro país lidera el futuro social.\nEl Ministerio de Capital Humano presenta el Gemelo Digital: un cambio de paradigma en la política social con el uso de Inteligencia Artificial.\nMAGA.\nVLLC! https://t.co/4DY1Wexziq",
