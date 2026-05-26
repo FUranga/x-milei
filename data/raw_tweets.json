@@ -1,5 +1,236 @@
 [
   {
+    "id": "2059269964725383344",
+    "created_at": "Tue May 26 13:46:33 +0000 2026",
+    "full_text": "TMAP.\nMAGA.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2059269910690148480",
+    "created_at": "Tue May 26 13:46:20 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: NUEVO RÉCORD HISTÓRICO PARA LAS EXPORTACIONES AGROINDUSTRIALES\n\n✅ En el primer cuatrimestre de 2026 las exportaciones del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059269880738685437",
+    "created_at": "Tue May 26 13:46:13 +0000 2026",
+    "full_text": "RT @julianyosovitch: Apertura alcista en los bonos USD... https://t.co/2A5QUwE4ko",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059269778036974047",
+    "created_at": "Tue May 26 13:45:49 +0000 2026",
+    "full_text": "RT @nadiajmarquez: “Necesitamos que las #provincias bajen impuestos! Necesitamos que los #municipios bajen impuestos!”\n\n¿Estás de acuerdo?…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059269764032152065",
+    "created_at": "Tue May 26 13:45:45 +0000 2026",
+    "full_text": "RT @braga_dito: https://t.co/FrXrekgl9R",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268897627353543",
+    "created_at": "Tue May 26 13:42:19 +0000 2026",
+    "full_text": "RT @Antitodo01: Javier Milei sobre los dichos de Garcia Cuerva del terrorismo en las redes:\n\n“No me parece que personas diciendo lo que pie…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268775887700389",
+    "created_at": "Tue May 26 13:41:50 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Hay que seguir los análisis de Gustavo Arabia. Un trabajo detallado y distinto.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268752554840193",
+    "created_at": "Tue May 26 13:41:44 +0000 2026",
+    "full_text": "RT @empaladosok: POR FAVOR ESCUCHEN ESTA PALIZA DE JUAN ACOSTA A LOS ACTORES K 💣\n\n\"Yo veo la ideología antes que la persona, mucha gente vi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268701325562006",
+    "created_at": "Tue May 26 13:41:32 +0000 2026",
+    "full_text": "RT @fedesturze: SEGUIMOS ELIMINANDO KIOSKOS. AHORA EN SEGURIDAD. El año pasado cuando desregulamos el régimen de navegación, una de las cos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268682287595594",
+    "created_at": "Tue May 26 13:41:27 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇨🇴🇺🇸🇦🇷🇸🇻 | LA DERECHA SEA UNIDA: El candidato derechista colombiano Abelardo de la Espriella destacó el liderazgo de D…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268632211812464",
+    "created_at": "Tue May 26 13:41:15 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 MILEI SALIÓ DE SORPRESA EN LO DE FEINMANN Y TIRÓ UN BOMBAZO TREMENDO QUE HACE LLORAR A LOS KUKAS\n\n💥 \"Si hacemos UN BUEN…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268368167784488",
+    "created_at": "Tue May 26 13:40:12 +0000 2026",
+    "full_text": "RT @DiegoMac227: Entrevista completa a Milei en Radio Mitre. \n\n👇🏼\n\nhttps://t.co/yFGjNyFY6G",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268309061612001",
+    "created_at": "Tue May 26 13:39:58 +0000 2026",
+    "full_text": "RT @fargosi: No lo vas a ver en los medios https://t.co/5yhAhPH90q",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268264333574240",
+    "created_at": "Tue May 26 13:39:48 +0000 2026",
+    "full_text": "RT @rcas1: Los que nunca entendieron el impacto de la capitalización de intereses de las leliqs, necesitaron la hiper del 2023 para entende…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268212244574617",
+    "created_at": "Tue May 26 13:39:35 +0000 2026",
+    "full_text": "RT @DiegoMac227: Milei sobre la visita del Papa León XIV:\n\n\"es altamente probable que el Papa León XIV viaje a Argentina en noviembre\" http…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059268009647038936",
+    "created_at": "Tue May 26 13:38:47 +0000 2026",
+    "full_text": "RT @javierlanari: Los octógonos soviéticos son un símbolo del fracaso de una política pública (como Alquileres y Góndolas). Una intervenció…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059267959093071965",
+    "created_at": "Tue May 26 13:38:35 +0000 2026",
+    "full_text": "RT @FerIglesias: Durante décadas nos explicaron, con tono doctoral, que la economía argentina no lograba crecer por la \"restricción externa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059267809910112374",
+    "created_at": "Tue May 26 13:37:59 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: FALSO\n\nACERCA DE JUAN MANUEL MEJUTO:\n\n1. No tiene ni tuvo participación política alguna.\n2. ⁠No hay ni una sentencia,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059267732995023165",
+    "created_at": "Tue May 26 13:37:41 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ MILEI SE LA PICÓ TODA A TODOS LOS KUKARDO Y PRENDIÓ FUEGO TODO EL ESTUDIO DE RADIO MITRE\n\n🔥 \"La economía está al 11% AR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059213230245916817",
+    "created_at": "Tue May 26 10:01:07 +0000 2026",
+    "full_text": "RT @JMilei: LAS OPERETAS VIENEN MARCHANDO...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059213133294563568",
+    "created_at": "Tue May 26 10:00:43 +0000 2026",
+    "full_text": "RT @lilialemoine: @leostreet33 La finalidad de las Pagano es que se rompa todo y no dejar gobernar.\n\nEsta es mi forma de alertar a todos lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059212992802173088",
+    "created_at": "Tue May 26 10:00:10 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨 “TE BLOQUEO, HABLAS TODO EL TIEMPO DE ADORNI”\n\nEL ACTOR JUAN ACOSTA SE HARTÓ Y DEJÓ EN LA LONA A PANELISTA DE TN @Acosta…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059210894651937120",
+    "created_at": "Tue May 26 09:51:50 +0000 2026",
+    "full_text": "RT @ViejoLibertario: A la campaña sucia y a las relaciones de MP y FB hay que sumar a ex parejas. El sentmiento n cmún que tiene Pagano y a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059210472528785558",
+    "created_at": "Tue May 26 09:50:09 +0000 2026",
+    "full_text": "RT @empaladosok: EL ACTOR JUAN ACOSTA SE LA PICÓ TODA EN LA CARA A SAVOIA EN TN 🔥\n\n\"El gobierno de Milei es el mejor que está trascendiendo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059210030239346739",
+    "created_at": "Tue May 26 09:48:24 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Los jóvenes argentinos ya no quieren sobrevivir dentro del sistema. Quieren transformarlo. Y lo están haciendo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059209885007380780",
+    "created_at": "Tue May 26 09:47:49 +0000 2026",
+    "full_text": "RT @Adriel_Mzz: Benjamin Netanyahu se sumó a las celebraciones del 25 de Mayo con un mensaje claro: “Patria”. \n\nUn gesto que demuestra cómo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059209809648288078",
+    "created_at": "Tue May 26 09:47:31 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: El déficit no era solo un problema económico. Era una estructura cultural.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059208793213288717",
+    "created_at": "Tue May 26 09:43:29 +0000 2026",
+    "full_text": "RT @varelacorina1: Cada vez somos más 🙌\nLeones despertando, diciendole las verdades en la cara.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059208215259181173",
+    "created_at": "Tue May 26 09:41:11 +0000 2026",
+    "full_text": "RT @axelwahnish: https://t.co/JXZkmOtTrF",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059207704850113023",
+    "created_at": "Tue May 26 09:39:09 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: La nueva generación argentina parece tener menos culpa por querer ganar dinero, crecer y progresar. Eso culturalmente…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059207647291666588",
+    "created_at": "Tue May 26 09:38:55 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Los periodistas se enojan, pero no están a la altura: están viviendo una transformación histórica del país… y la reduc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059207596121248125",
+    "created_at": "Tue May 26 09:38:43 +0000 2026",
+    "full_text": "RT @slcaputo: En resumidas cuentas, acá está definido el proyecto nacional argentino de los próximos 20 años. La política lo único que tien…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059207581042725184",
+    "created_at": "Tue May 26 09:38:40 +0000 2026",
+    "full_text": "RT @fededomin: El mundo está atravesando lo que puede ser la mayor revolución industrial de su historia, en medio de fuertes tensiones geop…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2059125345031209151",
     "created_at": "Tue May 26 04:11:53 +0000 2026",
     "full_text": "RT @fededomin: Lo único que está en recesión en Argentina es el Estado. \n\nEl EMAE de marzo (+5,5% interanual) registró expansión en todos l…",
