@@ -1,5 +1,516 @@
 [
   {
+    "id": "2059738042345136330",
+    "created_at": "Wed May 27 20:46:32 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: La decadencia argentina empezó cuando dejamos de admirar al que hacía bien las cosas y empezamos a justificar al que e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059737906067964180",
+    "created_at": "Wed May 27 20:45:59 +0000 2026",
+    "full_text": "RT @tealdif: Raro que no veo esta pantallita que suben siempre que está todo rojo. \n\nLa subo yo, quizás se olvidaron. https://t.co/0uTKNCma…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059737878440157407",
+    "created_at": "Wed May 27 20:45:52 +0000 2026",
+    "full_text": "RT @juanrallo: Riesgo kuka.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059737855363018802",
+    "created_at": "Wed May 27 20:45:47 +0000 2026",
+    "full_text": "RT @ElGladiadorLLA: La deuda flotante de Argentina se desplomó un 20% intermensual en abril y acumuló una caída del 11,6% interanual gracia…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059737828569858185",
+    "created_at": "Wed May 27 20:45:41 +0000 2026",
+    "full_text": "RT @travaglinigra: Los ensobrados no te lo cuentan https://t.co/4VRCp54jgO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059737807568916901",
+    "created_at": "Wed May 27 20:45:36 +0000 2026",
+    "full_text": "RT @stanleybostero: 🔴 Riesgo País un día después de la victoria del kirchnerismo en PBA: Subió 22.3% en un día y superó los 1100 puntos bás…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059737759456121184",
+    "created_at": "Wed May 27 20:45:24 +0000 2026",
+    "full_text": "RT @agarra_pala: EMOCIONANTE VÍDEO DE MILEI CANTANDO CON GRANADERO A CABALLO\n@JMilei https://t.co/BmshzdhbVe",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059737670641762354",
+    "created_at": "Wed May 27 20:45:03 +0000 2026",
+    "full_text": "RT @rcas1: En economías cerradas florece el populismo, el tongo y la cometa. El brurócrata con poder q decide quién y cómo se hacen los neg…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059737391460417963",
+    "created_at": "Wed May 27 20:43:56 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: La Secretaría de Finanzas anuncia que en la licitación del día de hoy adjudicó un total de $12,57 billones habiendo rec…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059737216608264585",
+    "created_at": "Wed May 27 20:43:15 +0000 2026",
+    "full_text": "TMAP. \nMAGA.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2059737165907493002",
+    "created_at": "Wed May 27 20:43:03 +0000 2026",
+    "full_text": "RT @Felii_N: La Secretaría de Finanzas anuncia que en la licitación del día de hoy adjudicó un total de $12,57 billones habiendo recibido o…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059735611737567671",
+    "created_at": "Wed May 27 20:36:52 +0000 2026",
+    "full_text": "RT @agarra_pala: LA CIUDAD SIN PIQUETES ES GRACIAS A BULLRICH Y MILEI\n@JMilei @PatoBullrich https://t.co/SFWgw619vM",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059735353007685778",
+    "created_at": "Wed May 27 20:35:50 +0000 2026",
+    "full_text": "RT @AleMonteoliva: SECUESTRADORES Y USUREROS: 3 DETENIDOS\n\nPrestaban plata a los más vulnerables y si no pagaban, los secuestraban para ext…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059732775440122088",
+    "created_at": "Wed May 27 20:25:36 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🚀 | ARGENTINA SE VA PARA ARRIBA: Las acciones argentinas se disparan hasta 9% en la bolsa de Wall Street mientras el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059732742762287476",
+    "created_at": "Wed May 27 20:25:28 +0000 2026",
+    "full_text": "RT @FinanzasArgy: 📉🇦🇷 El riesgo país argentino vuelve a perforar los 500 puntos https://t.co/l5L2oIAb4t",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059732671664726181",
+    "created_at": "Wed May 27 20:25:11 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: El kirchnerismo no solo administró mal. Construyó una estética de la decadencia: resentimiento, dependencia, épica de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059732611929395305",
+    "created_at": "Wed May 27 20:24:57 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: La ministra Sandra Pettovello fue recibida por el ministro de Educación y Mérito de Italia, Giuseppe Valditara, con quien…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059731843813945481",
+    "created_at": "Wed May 27 20:21:54 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI BAJA LA DEUDA: La deuda flotante de Argentina se desplomó un 20% intermensual en abril y acumuló una caída…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059731818903937163",
+    "created_at": "Wed May 27 20:21:48 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Comunicado oficial.\n\n@JMilei https://t.co/vCEbSIkbIt",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059731802604941574",
+    "created_at": "Wed May 27 20:21:44 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Un país cambia cuando cambia lo que admira. Argentina durante años admiró astucia, acomodo y relato. Hoy empieza a mir…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059731763933360237",
+    "created_at": "Wed May 27 20:21:35 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: La inflación fue una pedagogía cultural del corto plazo: destruyó ahorro, paciencia, inversión y confianza. Bajar la i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059731081226580281",
+    "created_at": "Wed May 27 20:18:52 +0000 2026",
+    "full_text": "RT @ingdemiller: RIESGO PAÍS:\n\n08/09/2025: 1.108 puntos. +22,30% en el día.\n27/05/2026: 500 puntos. -1,57% en el día.\n\nEn 8 meses cayó a me…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059731005133439064",
+    "created_at": "Wed May 27 20:18:34 +0000 2026",
+    "full_text": "RT @fargosi: El negocio de los DDHH: https://t.co/NoYkDTZrO8",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059730982530334832",
+    "created_at": "Wed May 27 20:18:28 +0000 2026",
+    "full_text": "RT @Walterelunico71: TODO ES FELICIDAD GRACIAS JAVO...\n\nTODO TRISTEZA PARA LOS KUKAS💀",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059730946316751121",
+    "created_at": "Wed May 27 20:18:20 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Fabrizio Rizzitelli, presidente la Fundación ITS ICT Academy y director de la Academia Informática ente di formazione e a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059730851353498108",
+    "created_at": "Wed May 27 20:17:57 +0000 2026",
+    "full_text": "RT @InversorPerga: $YPF MEGA MÁXIMOS APUNTANDO A IR A + USD 60,00 🇦🇷🛢️ https://t.co/cVVRnc9lHc",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059730811029463431",
+    "created_at": "Wed May 27 20:17:47 +0000 2026",
+    "full_text": "RT @MinDesreg_Ar: Menos costos en el transporte fluvial. \n\nEn diálogo con NG Federal, el Ministro @fedesturze explicó los beneficios de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059730778292981854",
+    "created_at": "Wed May 27 20:17:40 +0000 2026",
+    "full_text": "RT @rubiademilei: Argentina tiene todo para salir adelante si deja de ponerle trabas al que quiere progresar.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059730541868388437",
+    "created_at": "Wed May 27 20:16:43 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: INFORMACIÓN NUTRICIONAL SIN SELLOS QUE CONFUNDEN\n\nEl Gobierno del Presidente Javier Milei presentó al Congreso el proy…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059730068398653718",
+    "created_at": "Wed May 27 20:14:50 +0000 2026",
+    "full_text": "RT @DiegoMac227: Riesgo kuka vs una economía que se esta fortaleciendo gracias a Milei. https://t.co/8FvqAZjgvu",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059729958323331134",
+    "created_at": "Wed May 27 20:14:24 +0000 2026",
+    "full_text": "RT @aetchebarne: Positivo:  El riesgo país vuelve a perforar 500.\nOjalá lo veamos perforar 400 en la segunda mitad del año… https://t.co/tp…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059729798990090245",
+    "created_at": "Wed May 27 20:13:46 +0000 2026",
+    "full_text": "RT @juanbmahiques: Firmamos los convenios de adhesión al PRONADEM con las provincias de Chaco y Corrientes, sumando nuevos integrantes a es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059729676554195300",
+    "created_at": "Wed May 27 20:13:17 +0000 2026",
+    "full_text": "RT @MandrilandiaX: Días de acciones al alza, riesgo país desplomándose, récord de exportación, repunte fuerte del consumo e inflación con i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059729637077324133",
+    "created_at": "Wed May 27 20:13:08 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Como parte de su agenda en la República Italiana, la ministra Sandra Pettovello recorrió ITS Academy Digital Lazio, una i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059729497046261937",
+    "created_at": "Wed May 27 20:12:34 +0000 2026",
+    "full_text": "RT @xestadominimo: “El Estado nunca quiebra porque puede obligarte a pagar sus errores”.\n\n- Miguel Anxo Bastos - https://t.co/FOeNbJp0bg",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059729420500267512",
+    "created_at": "Wed May 27 20:12:16 +0000 2026",
+    "full_text": "RT @KalinaAnnGG: Sabían que Paulón anunció el proyecto de eutanasia a EXACTAMENTE 2 MESES del asesinato de Noelia Castillo? El tipo es real…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059723190029488306",
+    "created_at": "Wed May 27 19:47:30 +0000 2026",
+    "full_text": "RT @lilialemoine: El ex amante de Marcela Pagano haciendo comentarios GOLPISTAS contra Milei. https://t.co/bkJtcUAFhF",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059723120836030776",
+    "created_at": "Wed May 27 19:47:14 +0000 2026",
+    "full_text": "RT @lilialemoine: \"Denuncias permanentes contra miembros del PRO\"\nEs LO MISMO que están haciendo Bindi y Pagano contra LLA y algunos funcio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059722614134727100",
+    "created_at": "Wed May 27 19:45:13 +0000 2026",
+    "full_text": "RT @DiegoMac227: Riesgo país perfora a la baja los 500 puntos. https://t.co/cc94TGpFTY",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059721379881066890",
+    "created_at": "Wed May 27 19:40:19 +0000 2026",
+    "full_text": "RT @julianyosovitch: El CCL esta 15% debajo del techo de la banda y spot esta 24% del techo.  Mientras siga la calma en el FX, la banda sup…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059720747140981127",
+    "created_at": "Wed May 27 19:37:48 +0000 2026",
+    "full_text": "RT @ElTrumpista: ✅ Riesgo Pais perfora los 500 puntos\n✅Acciones Argentinas en Wall Street suben 9%\n\nIMPRESIONANTE 🇦🇷 https://t.co/t1S1LW7K5E",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059715558547812643",
+    "created_at": "Wed May 27 19:17:11 +0000 2026",
+    "full_text": "RT @indignadoxd: Los medios no te lo van a mostrar y se cae el relato kuka: impresionante crecimiento del consumo e-commerce, que avanzó 40…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059715496166002916",
+    "created_at": "Wed May 27 19:16:56 +0000 2026",
+    "full_text": "RT @DiegoMac227: Excelente artículo sobre la manipulación de la información que hace los medios.\n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059715322156916842",
+    "created_at": "Wed May 27 19:16:15 +0000 2026",
+    "full_text": "RT @xestadominimo: “El único que puede generar riqueza en este país y en el mundo es el empresario, no el político. El político no sabe cóm…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059715148651106359",
+    "created_at": "Wed May 27 19:15:33 +0000 2026",
+    "full_text": "RT @SPettovelloOK: La ministra Sandra Pettovello fue recibida por el ministro de Educación y Mérito de Italia, Giuseppe Valditara, con quie…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059715041054662949",
+    "created_at": "Wed May 27 19:15:08 +0000 2026",
+    "full_text": "RT @porquettfin: “Boom de e-commerce en Argentina”\n\nPorque el canal online volvió a mostrar una señal muy fuerte de crecimiento: según la c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059714995517095994",
+    "created_at": "Wed May 27 19:14:57 +0000 2026",
+    "full_text": "RT @fargosi: Otra ayuda de Gustavo Arabia para discernir la manipulación mediática anti-@JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059714967020949550",
+    "created_at": "Wed May 27 19:14:50 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: AlmaSADI: se presentaron 235 proyectos de almacenamiento de energía eléctrica en baterías por más de 8.300 MW.\n\nLas ofe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059712239976771839",
+    "created_at": "Wed May 27 19:04:00 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🚀 | ARGENTINA SALE ADELANTE: El Riesgo País volvió a quebrar la barrera de los 500 y se ubica en 498 puntos básicos,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059712214592839737",
+    "created_at": "Wed May 27 19:03:54 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Argentina acaba de perforar los 500 puntos básicos https://t.co/KhDFFs4wZX",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059712196892848247",
+    "created_at": "Wed May 27 19:03:49 +0000 2026",
+    "full_text": "RT @tipitoenojado: Uhhhhhhhhhhhhhhhhhh\nSE VIENE?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059712063014908053",
+    "created_at": "Wed May 27 19:03:18 +0000 2026",
+    "full_text": "RT @Jefatura_Ar: El Jefe de Gabinete, Manuel Adorni, encabezó una reunión de trabajo con el Ministro de Desregulación y Transformación del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059711964335546671",
+    "created_at": "Wed May 27 19:02:54 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Como parte de su agenda en Italia, la ministra Sandra Pettovello recorrió ITS Academy Digital Lazio, una institución de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059711773578567695",
+    "created_at": "Wed May 27 19:02:09 +0000 2026",
+    "full_text": "RT @Tomidiazcueto: 🚨LOS KUKAS SE SIGUEN MATANDO ENTRE ELLOS CON CAUSAS DE CORRUPCIÓN🚨\n\nEl nefasto de Schoklender declaró en la causa Sueños…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059711702585762213",
+    "created_at": "Wed May 27 19:01:52 +0000 2026",
+    "full_text": "RT @KarenReichardt1: En la próxima reforma penal, es esencial incluir penas más duras para quienes maltratan a los animales. Todos merecen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059711600303444066",
+    "created_at": "Wed May 27 19:01:27 +0000 2026",
+    "full_text": "TMAP.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2059711551817253350",
+    "created_at": "Wed May 27 19:01:16 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: IMPORTANTE!👇\nUn éxito absoluto resultó la licitación de baterías para almacenamiento de energía que realizó Cammesa por i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059710884591624687",
+    "created_at": "Wed May 27 18:58:37 +0000 2026",
+    "full_text": "RT @pajaromartino: Con Alberto , Cristina y Axel  YPF valía USD 3 , con un país libre de populismo vale USD 51  . Es el valor de tener un p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059710793000583491",
+    "created_at": "Wed May 27 18:58:15 +0000 2026",
+    "full_text": "RT @ingdemiller: Antes el productor miraba el dólar soja antes de vender.\n\nHoy mira el precio internacional y decide libremente.\n\nEsa difer…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059709459472015815",
+    "created_at": "Wed May 27 18:52:57 +0000 2026",
+    "full_text": "RT @romidiezok: PAUTA CERO: LA VERDAD NO SE COMPRA.\n\nEn la Provincia de Santa Fe, en 40 ciudades, se presenta el proyecto de Pauta Cero.\nPo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059701336036229380",
+    "created_at": "Wed May 27 18:20:40 +0000 2026",
+    "full_text": "RT @Felii_N: Damas y caballeros, el riesgo país nuevamente abajo de 500 ptos (498ptos).\n🦁🇦🇷📈\n⚓️⚓️⚓️ https://t.co/J2B5bJOVTh",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059701272421323118",
+    "created_at": "Wed May 27 18:20:25 +0000 2026",
+    "full_text": "RT @Felii_N: Mal día, mala semana, mal mes, mal año y mala futura década para los apóstoles del Apocalipsis. https://t.co/EsgtM90skc",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059700389981642993",
+    "created_at": "Wed May 27 18:16:55 +0000 2026",
+    "full_text": "RT @fededomin: Subas en toda la curva de bonos soberanos. Acciones con subas de hasta 10%. Riesgo país en zona de 480. 💪🏻🇦🇷 https://t.co/K2…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059700308436009219",
+    "created_at": "Wed May 27 18:16:35 +0000 2026",
+    "full_text": "RT @mila_manfredi: BAJO EL RIESGO PAÍS Y EN LO QUE VA DE MAYO ACUMULA UNA BAJA DE 67 PUNTOS \n\nLo cuento yo porque el periodismo argentino p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059700281336594886",
+    "created_at": "Wed May 27 18:16:29 +0000 2026",
+    "full_text": "RT @MadeInAncapia: ✒️| \"El Estado nada produce. Solo puede confiscar lo que otros han producido.\"\n\n- Murray Rothbard. https://t.co/orr6NIMd…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059699411261817148",
+    "created_at": "Wed May 27 18:13:01 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: MILEI: “Si nosotros hacemos un buen gobierno vamos a ser reelectos. No compito contra otros espacios políticos, compito…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059699162304623092",
+    "created_at": "Wed May 27 18:12:02 +0000 2026",
+    "full_text": "RT @MileiSays: “Economic freedom, limited government, and unlimited respect for private property are essential elements for economic growth…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059699020138696831",
+    "created_at": "Wed May 27 18:11:28 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Lo de $YPF es una LOCURA.\n\nSe multiplicó x17 desde la caída de los Kukas del gobierno. Argentina será grande nuevamente…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059698475952914863",
+    "created_at": "Wed May 27 18:09:18 +0000 2026",
+    "full_text": "RT @rcas1: Acción de YPF:\n\nHoy 50 dólares\nCon el Peronismo 3 dólares.\n\nx17 en dos años y medio.\n\nSimple:\nComunistas, NUNCA MÁS https://t.co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059698235791253755",
+    "created_at": "Wed May 27 18:08:21 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: LA MEJOR POLÍTICA DE SALUD ES LA PREVENCIÓN \n\nCada año más de 50 mil argentinos sufren un accidente cerebrovascular, y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059698147798991106",
+    "created_at": "Wed May 27 18:08:00 +0000 2026",
+    "full_text": "RT @fargosi: No lo vas a ver en los medios https://t.co/ww2PF2NhHq",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059698131332112695",
+    "created_at": "Wed May 27 18:07:56 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Los periodistas son los trapitos de la información. “¿Le cuido el gobierno, sr?”. Y si no les das plata te lo arruinan.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2059694037032923456",
+    "created_at": "Wed May 27 17:51:40 +0000 2026",
+    "full_text": "RT @NielsenEcon: Revisando la agenda de emprendimientos conjuntos con Paraguay https://t.co/4huNSfGOpH",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2059641109853151516",
     "created_at": "Wed May 27 14:21:21 +0000 2026",
     "full_text": "RT @agarra_pala: 💣 LAJE TIRÓ UN BOMBAZO TERRIBLE POR SU ENTREVISTA CON FEINMANN Y DEJÓ A LOS KUKAS AL BORDE DE LAS LÁGRIMAS\n\n💥 \"No tenes qu…",
