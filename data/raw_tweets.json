@@ -1,5 +1,222 @@
 [
   {
+    "id": "2060928414744269090",
+    "created_at": "Sun May 31 03:36:38 +0000 2026",
+    "full_text": "RT @CubaOrtografia: https://t.co/NatqbiqzXa",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060912447498702851",
+    "created_at": "Sun May 31 02:33:12 +0000 2026",
+    "full_text": "RT @BalboaMilei: 🥹\"Gracias Milei por salvarnos, te amamos\"\n\n👉El futuro será 100% liberal🦁 https://t.co/PSgc6ItEdw",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060856010617634896",
+    "created_at": "Sat May 30 22:48:56 +0000 2026",
+    "full_text": "PATÉTICO.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2060855781461832028",
+    "created_at": "Sat May 30 22:48:01 +0000 2026",
+    "full_text": "RT @manuel_llamas: España se está convirtiendo en un país fallido\n\nPero nada de esto es casual... Todo tiene una razón y un por qué: se lla…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060855681641541739",
+    "created_at": "Sat May 30 22:47:38 +0000 2026",
+    "full_text": "RT @MinDefensa_Ar: Así se vivió el primer día de la #ExpoEjército2026 🇦🇷\n\nFamilias, jóvenes y visitantes recorrieron la Plaza de Armas del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060855102777213276",
+    "created_at": "Sat May 30 22:45:19 +0000 2026",
+    "full_text": "RT @Walterelunico71: Resumen de la semana 👇\n✅Deuda flotante -11,6%\n✅Riesgo País 493PB\n✅Exportaciones Pymes +32%\n✅Inversión CAEME 8000M\n✅RIG…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060854677957148801",
+    "created_at": "Sat May 30 22:43:38 +0000 2026",
+    "full_text": "RT @alejandronimoAr: Nos detestan los estatistas que no quieren que se les terminen los kioscos Diego, pero como dice el Gran Profesor: est…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060854586114494565",
+    "created_at": "Sat May 30 22:43:16 +0000 2026",
+    "full_text": "RT @DiegoMac227: Totalmente de acuerdo https://t.co/MpLgfng59b",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060854545421341010",
+    "created_at": "Sat May 30 22:43:07 +0000 2026",
+    "full_text": "RT @IngenieroLiber: Lo de \"Las fuerzas del cariño\" van a llorar cuando vean esto. https://t.co/B5YLOpLCM8",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060854508876435564",
+    "created_at": "Sat May 30 22:42:58 +0000 2026",
+    "full_text": "RT @DiegoMac227: Que raro que es esa caída del consumo que tanto menciona los medios, con filas largas para entrar a comprar en el DOT. htt…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060854186951033129",
+    "created_at": "Sat May 30 22:41:41 +0000 2026",
+    "full_text": "RT @MiltonFriedmanW: Milton Friedman on Hayek’s contributions:\n\n“There is no figure who had more of an influence on the intellectuals behin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853994281439289",
+    "created_at": "Sat May 30 22:40:55 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: La teoría económica y la evidencia empírica demuestran que tenemos que seguir por este camino: mantener el equilibrio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853867802140848",
+    "created_at": "Sat May 30 22:40:25 +0000 2026",
+    "full_text": "RT @DiegoMac227: Recuerdo las palabras de Toto Caputo y comparto todo lo que dice.\n\nEl presidente se defiende, el ataque es del periodismo.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853794515095639",
+    "created_at": "Sat May 30 22:40:08 +0000 2026",
+    "full_text": "RT @MileiSays: Javier Milei:\n\n“One of the methods of 21st-century socialism is to scare people... They said I was going to close universiti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853760067338388",
+    "created_at": "Sat May 30 22:39:59 +0000 2026",
+    "full_text": "RT @julianyosovitch: Riesgo pais cerro la semana debajo de 500pb. Good!!! \n\nChart @IebMas https://t.co/vmjfFCMsE8",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853683345035645",
+    "created_at": "Sat May 30 22:39:41 +0000 2026",
+    "full_text": "RT @AleMonteoliva: OTRA ORGANIZACIÓN HECHA CASCOTES\n\nUn golpe más al narcotráfico y otra organización que termina en la cárcel. \n\nGuerra si…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853626172473844",
+    "created_at": "Sat May 30 22:39:27 +0000 2026",
+    "full_text": "RT @AcostashowJuan: Cuando te sientas abatido recordá que hubo gente que voto a Massa y a Riquelme el mismo año, vas a ver qué se te pasa!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853597198250364",
+    "created_at": "Sat May 30 22:39:21 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Muy adecuado ajuste de perspectivas, @braga_dito sigue haciendo un gran trabajo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853558992416903",
+    "created_at": "Sat May 30 22:39:11 +0000 2026",
+    "full_text": "RT @tronco: Sí. https://t.co/eT3gaARUwA",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853435667218884",
+    "created_at": "Sat May 30 22:38:42 +0000 2026",
+    "full_text": "RT @fededomin: Algo que demuestra las mentiras de muchos periodistas es que, en este gobierno, incluso los más afines coinciden en que no e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853313801748816",
+    "created_at": "Sat May 30 22:38:13 +0000 2026",
+    "full_text": "RT @fargosi: Exacto.\n\nVale hacerles una pregunta a tantos periodistas tan sólidos y sabios:\n\nDos años, miles de notas, opiniones y editoria…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060853216691073517",
+    "created_at": "Sat May 30 22:37:50 +0000 2026",
+    "full_text": "RT @fargosi: La educación en modo kirchnerista.\n\nSon el mal.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060852991666606137",
+    "created_at": "Sat May 30 22:36:56 +0000 2026",
+    "full_text": "RT @rcas1: Cómo reconocer un degenerado fiscal:\n\nSimple, en 28 meses de gestión suelen acumular más de 125 BILLONES de pesos de déficit fis…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060852302114648114",
+    "created_at": "Sat May 30 22:34:12 +0000 2026",
+    "full_text": "RT @pbarbieri: Es realmente movilizante escuchar que hay cada día más gente que quiere venir a vivir an Argentina. Eso es algo espectacular…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060852203221389544",
+    "created_at": "Sat May 30 22:33:48 +0000 2026",
+    "full_text": "RT @aetchebarne: Imperdible @AlejRozitchner y @DiegoJRecalde  https://t.co/OuG8Z7TSk1",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060849206403702804",
+    "created_at": "Sat May 30 22:21:54 +0000 2026",
+    "full_text": "RT @AlejandraM37880: Los datos que no admiten relatos maliciosos.\nTMAP\nMAGA\n@JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060845307286442202",
+    "created_at": "Sat May 30 22:06:24 +0000 2026",
+    "full_text": "RT @IvanDuboisok: EPICO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060837609027301800",
+    "created_at": "Sat May 30 21:35:49 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🚀 MINDLIN RESPALDÓ A MILEI Y RATIFICÓ EL IMPACTO DEL RIGI\n📈Aseguró que el rumbo es el correcto y el crecimiento del país…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060833335660761306",
+    "created_at": "Sat May 30 21:18:50 +0000 2026",
+    "full_text": "RT @Jpjaimepadilla1: 😄😄😄😄 https://t.co/8NdTbGWGVu",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2060833150700331417",
+    "created_at": "Sat May 30 21:18:06 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2060833097470341515",
+    "created_at": "Sat May 30 21:17:53 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 TOMAS DENTE ESTALLÓ CONTRA LOS ACTORES KUKAS QUE NO LEYERON LA LEY DE GLACIARES\n\n💥 \"BURRA, ¿LEÍSTE LA LEY? LEAN, es LEER…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2060802512446210055",
     "created_at": "Sat May 30 19:16:21 +0000 2026",
     "full_text": "RT @elduckpost: EL BANCO CENTRAL YA CUMPLIÓ CASI TODA SU META ANUAL DE COMPRA DE DÓLARES 🚨\n\nCompró US$ 447 millones el jueves y US$ 70 mill…",
