@@ -1,5 +1,845 @@
 [
   {
+    "id": "2062634893570412589",
+    "created_at": "Thu Jun 04 20:37:35 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Sencillamente genial esta reflexión de @ale_fantino. Milei es un agente transformador de la historia, por eso las placas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062631120924016650",
+    "created_at": "Thu Jun 04 20:22:35 +0000 2026",
+    "full_text": "RT @nnairob: Arjantin başkanı Javier Milei, Financial Times'ta \"Arjantin, kendisini özgürleştirmek için yapay zekâyı davet ediyor.\" isimli…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062631091568103680",
+    "created_at": "Thu Jun 04 20:22:28 +0000 2026",
+    "full_text": "RT @DiegoMac227: Gran artículo, como siempre claro y directo. \n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062630044732711344",
+    "created_at": "Thu Jun 04 20:18:19 +0000 2026",
+    "full_text": "RT @ministrocaputo: 📉 el riesgo país cae 486 psb https://t.co/wH08RCyJ3S",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062622673285304817",
+    "created_at": "Thu Jun 04 19:49:01 +0000 2026",
+    "full_text": "EL INICIO DE LA RECONSTRUCCIÓN DE LA JUSTICIA: en un verdadero hito se aprobaron 74 pliegos.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062622307047145596",
+    "created_at": "Thu Jun 04 19:47:34 +0000 2026",
+    "full_text": "RT @juanbmahiques: Gracias Presidente @JMilei por iniciar el camino de la reconstrucción del Poder Judicial! Y gracias a Karina Milei por s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062621938808197615",
+    "created_at": "Thu Jun 04 19:46:06 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | ARGENTINA SERÁ PRÓSPERA: Javier Milei celebró su nota en el Financial Times y agradeció la labor de su ministro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062621070520094746",
+    "created_at": "Thu Jun 04 19:42:39 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Cada niño y adolescente tiene derecho a crecer en entornos libres de violencia y con oportunidades que favorezcan su desa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062620846464663704",
+    "created_at": "Thu Jun 04 19:41:46 +0000 2026",
+    "full_text": "RT @ArgMilei: LONG LIVE FREEDOM DAMMIT!💪\n@JMilei \n👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062620816244637818",
+    "created_at": "Thu Jun 04 19:41:38 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | FARO DEL MUNDO: El ministro \"Toto\" Caputo celebró la columna que Javier Milei publicó en Financial Times sobre e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062620784653140126",
+    "created_at": "Thu Jun 04 19:41:31 +0000 2026",
+    "full_text": "RT @LLAenPBA: Kicillof prefiere hacerte pagar multas millonarias antes que abrir la competencia.\n\nMientras en gran parte del país se avanza…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062619910753198543",
+    "created_at": "Thu Jun 04 19:38:03 +0000 2026",
+    "full_text": "RT @fededomin: Javier Milei “Let Buenos Aires become for AI what Amsterdam was for the age of sail — the place where the legal imagination…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062619172794782159",
+    "created_at": "Thu Jun 04 19:35:07 +0000 2026",
+    "full_text": "RT @pldocmd: Working together as true partners USA @Southcom and Argentina @MinDefensa_Ar",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614778640544196",
+    "created_at": "Thu Jun 04 19:17:39 +0000 2026",
+    "full_text": "RT @nnairob: Walter Block: Defendiendo a Javier Milei frente a la hostilidad de The New York Times\n\n\"Roger Cohen odia y detesta a Javier Mi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614722973778107",
+    "created_at": "Thu Jun 04 19:17:26 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Luego de años de abandono, el Tren 25 de Mayo volvió a ponerse en marcha. Fue reacondicionado en los talleres ferroviario…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614689792635001",
+    "created_at": "Thu Jun 04 19:17:18 +0000 2026",
+    "full_text": "RT @javierlanari: Una inversión de $ 1,3 millones, un predio logístico de 11.000 metros cuadrados y 900 nuevos empleos. La crisis de consum…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614517582819361",
+    "created_at": "Thu Jun 04 19:16:37 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇪🇺 | \"FENÓMENO BARRIAL\": Javier Milei celebró la publicación de su columna de opinión en Financial Times, en la cua…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614472494096526",
+    "created_at": "Thu Jun 04 19:16:26 +0000 2026",
+    "full_text": "RT @fededomin: Javier Milei “Que Buenos Aires se convierta para la inteligencia artificial en lo que Ámsterdam fue para la era de la navega…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614450184573212",
+    "created_at": "Thu Jun 04 19:16:21 +0000 2026",
+    "full_text": "RT @juanfloreschaar: Reconocimiento oficial a los verdaderos héroes del Garrahan. Son un ejemplo de compromiso real con la salud. ✨",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614407524327778",
+    "created_at": "Thu Jun 04 19:16:10 +0000 2026",
+    "full_text": "RT @lMartinezAlvaro: Algunos ven a la IA como una amenaza.\n\nNosotros la vemos como una herramienta para crear, invertir y crecer.\n\n@JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614391829258331",
+    "created_at": "Thu Jun 04 19:16:07 +0000 2026",
+    "full_text": "RT @FlavioArenales: EL HOSPITAL GARRAHAN LE SALVO LA VIDA A MÍ HIJO, GRACIAS A EL TRANSPLANTE DE RIÑÓN.\n ES EL HOSPITAL MAS COMPLEJO DEL PA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614300724773210",
+    "created_at": "Thu Jun 04 19:15:45 +0000 2026",
+    "full_text": "RT @LaVonHayek: Masterclass de Javote para Financial Times. \nTop 3 notas más leídas del día. https://t.co/FxEeiV2zBh",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062614117836288077",
+    "created_at": "Thu Jun 04 19:15:01 +0000 2026",
+    "full_text": "RT @manusolanet: Razonamiento resentido del periodista: Si te va bien y a mi no, te castigo con un impuesto.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062613928102834607",
+    "created_at": "Thu Jun 04 19:14:16 +0000 2026",
+    "full_text": "RT @Felii_N: Importante aclaración del Ministro. El periodismo te cambia cosas que parecen detalles pero no lo son. Meta hay una sola, no s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062613840957734982",
+    "created_at": "Thu Jun 04 19:13:55 +0000 2026",
+    "full_text": "RT @CarolinaPiparo: Haber pretendido tomar de rehenes a niños enfermos y a sus familias no tiene perdón.\n\nGracias a los que se ocuparon de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062613784355602710",
+    "created_at": "Thu Jun 04 19:13:42 +0000 2026",
+    "full_text": "RT @tronco: Imperdible columna del presidente @JMilei en el Financial Times.\n\n\"...por mucho que la revolución industrial nos haya liberado…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062613478939021532",
+    "created_at": "Thu Jun 04 19:12:29 +0000 2026",
+    "full_text": "RT @fargosi: El fenómeno barrial: @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062613295266144549",
+    "created_at": "Thu Jun 04 19:11:45 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: @fede_machado_b El 10 es consistente con esos 8 de acumulación de acuerdo al programa financiero acordado con el Fondo. N…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062613202790179160",
+    "created_at": "Thu Jun 04 19:11:23 +0000 2026",
+    "full_text": "RT @CasaRosada: LOS HÉROES DEL GARRAHAN. La verdadera historia de quienes sostuvieron el funcionamiento del principal hospital pediátrico d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062613131025649720",
+    "created_at": "Thu Jun 04 19:11:06 +0000 2026",
+    "full_text": "RT @ekammerath: “La lógica de 1602 sigue siendo válida. Las empresas impulsadas por nuevas tecnologías, como los agentes de inteligencia ar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062613100411371686",
+    "created_at": "Thu Jun 04 19:10:59 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🇺🇸 | ARGENTINA SE FORTALECE: El ministro de Defensa de Milei, Carlos Presti, y el embajador de Estados Unidos, Peter…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062612613301719077",
+    "created_at": "Thu Jun 04 19:09:03 +0000 2026",
+    "full_text": "RT @juanfloreschaar: Ya no quedan dudas de que contamos con un Presidente que junto a su equipo logra acercar lo posible a lo ideal. Gran g…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062612559790829810",
+    "created_at": "Thu Jun 04 19:08:50 +0000 2026",
+    "full_text": "RT @julianyosovitch: Curioso caso de atraso cambiario. \n\nInteresante chart de la charla de @vladiwerning del @BancoCentral_AR https://t.co/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062612514320339290",
+    "created_at": "Thu Jun 04 19:08:39 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🚀 | EFECTO MILEI: El Gobierno de Milei redujo la deuda intrasector público en Letras Intransferibles de USD 67.190 m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062612421236195674",
+    "created_at": "Thu Jun 04 19:08:17 +0000 2026",
+    "full_text": "RT @JMilei: Mi nota en @FT ...!!!\nQuiero agradecer a @fedesturze, ya que sin su ENORME TAREA este tipo de ideas no estarían fluyendo a tant…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062612397496381747",
+    "created_at": "Thu Jun 04 19:08:11 +0000 2026",
+    "full_text": "RT @DiegoMac227: Dos colosos\nGran artículo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062612259772207578",
+    "created_at": "Thu Jun 04 19:07:38 +0000 2026",
+    "full_text": "RT @julianyosovitch: El riesgo pais ARG esta 130pb por encima de sus pares con fundamentals similares. Si se resuelve el riesgo politico, e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062612107049181229",
+    "created_at": "Thu Jun 04 19:07:02 +0000 2026",
+    "full_text": "RT @AcostashowJuan: Ayuda al kukardo extremo!! https://t.co/XU44vQPuV7",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062611719881368043",
+    "created_at": "Thu Jun 04 19:05:30 +0000 2026",
+    "full_text": "RT @DiegoMac227: LOS HÉROES DEL GARRAHAN",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062611703527882866",
+    "created_at": "Thu Jun 04 19:05:26 +0000 2026",
+    "full_text": "RT @julianyosovitch: Che Mileiiiiiiiiiiiiii... tenes que comprar dolareee.!!!!!!\n\nA esta altura del mandato, Milei lleva comprados mas cant…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062611659651269000",
+    "created_at": "Thu Jun 04 19:05:15 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @fedesturze revela cómo el INTI se había convertido en el “Instituto Nacional de Trabas Industriales” y có…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062608787349864559",
+    "created_at": "Thu Jun 04 18:53:50 +0000 2026",
+    "full_text": "RT @mileisnake: \"Acá hay que hacer POLÍTICAS EN SERIO para que bajen los femicidios, Y NO MINISTERIOS BUROCRATICOS donde se reparte la plat…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062608761609408934",
+    "created_at": "Thu Jun 04 18:53:44 +0000 2026",
+    "full_text": "RT @ingdemiller: DEUDA INTRASECTOR PÚBLICO (LETRAS INTRANSFERIBLES):\n\nKirchnerismo: subió sin parar durante 12 años. PRO: la mantuvo igual.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062608132161835277",
+    "created_at": "Thu Jun 04 18:51:14 +0000 2026",
+    "full_text": "RT @Santiago_Oria: El año pasado durante las elecciones de medio termino, la política rancia usó al Garrahan como un ariete para tumbar a M…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062608099387531687",
+    "created_at": "Thu Jun 04 18:51:06 +0000 2026",
+    "full_text": "RT @JMilei: FENÓMENO BARRIAL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062608073542287500",
+    "created_at": "Thu Jun 04 18:51:00 +0000 2026",
+    "full_text": "RT @DiegoMac227: Articulo de Milei https://t.co/FIWZ2dlCsY",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062608058820292709",
+    "created_at": "Thu Jun 04 18:50:57 +0000 2026",
+    "full_text": "RT @javierlanari: Dos nuevos RIGI por más de 1800 millones de dólares. Ahora en Río Negro, Neuquén, Salta y Catamarca. Inversiones en el in…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062607769287401646",
+    "created_at": "Thu Jun 04 18:49:48 +0000 2026",
+    "full_text": "RT @Turios: La revolución tecnológica que atraviesa el mundo con la Inteligencia Artificial exige líderes que estén a la altura. Hoy gracia…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062607739902107803",
+    "created_at": "Thu Jun 04 18:49:41 +0000 2026",
+    "full_text": "RT @julianyosovitch: Los shocks electorales del año pasado, la guerra y las variables estacionales de comienzo de año comienzan a quedar co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062607660881453505",
+    "created_at": "Thu Jun 04 18:49:22 +0000 2026",
+    "full_text": "RT @VauthierMartin: La reducción de la deuda del Tesoro, bajo cualquier medida que se utilice, se dió en simultáneo a un saneamiento en el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062607639532515425",
+    "created_at": "Thu Jun 04 18:49:17 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🚀 | EFECTO MILEI: Toto Caputo destacó que la deuda intrasector público en Letras Intransferibles cayó a USD 30.306 m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062607619018154217",
+    "created_at": "Thu Jun 04 18:49:12 +0000 2026",
+    "full_text": "RT @bostero109rp: Marchar está bien. Pero si después de marchar seguís defendiendo que los violadores tengan una “segunda oportunidad”, ent…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062607565310009441",
+    "created_at": "Thu Jun 04 18:48:59 +0000 2026",
+    "full_text": "RT @xestadominimo: “El defecto inherente del capitalismo es el desigual reparto de las bendiciones. La virtud inherente del socialismo es e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062607425320980725",
+    "created_at": "Thu Jun 04 18:48:26 +0000 2026",
+    "full_text": "TOMAR NOTA.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062607151235805393",
+    "created_at": "Thu Jun 04 18:47:20 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Algunas aclaraciones para evitar que empiecen a repetir cosas que no son correctas:\n1. La meta con el FMI es una sola: 10…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062607064719929728",
+    "created_at": "Thu Jun 04 18:47:00 +0000 2026",
+    "full_text": "RT @MinDefensa_Ar: 🇦🇷🇺🇸 Argentina fortalece su cooperación estratégica en defensa con Estados Unidos mediante nuevos acuerdos de apoyo logí…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062607041802183022",
+    "created_at": "Thu Jun 04 18:46:54 +0000 2026",
+    "full_text": "RT @ARGinUSA: En la Embajada Argentina en Estados Unidos junto con la presencia del Presidente de la AMIA y otras autoridades, se descubrió…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062606683969339778",
+    "created_at": "Thu Jun 04 18:45:29 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷🦁 FANTINO RECONTRA BASADO SOBRE EL IMPACTO DE MILEI EN EL CAMBIO DE ÉPOCA QUE VIVE ARGENTINA Y LAS ENSEÑANZAS EN LOS ULT…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062606242237891025",
+    "created_at": "Thu Jun 04 18:43:44 +0000 2026",
+    "full_text": "RT @pabloquirno: TMAP 🇦🇷🇦🇷🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062606212462494035",
+    "created_at": "Thu Jun 04 18:43:37 +0000 2026",
+    "full_text": "RT @ajmechet: “Que Buenos Aires se convierta para la IA en lo que Ámsterdam fue para la era de la navegación: el lugar donde la imaginación…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062606114085093742",
+    "created_at": "Thu Jun 04 18:43:13 +0000 2026",
+    "full_text": "RT @manuelquintar: 🇦🇷 | @JMilei: \"Diganme si alguna vez vieron a una economia que se banque semejante shock y siga de pie\"\n\nGracias @LuisCa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062605892638363887",
+    "created_at": "Thu Jun 04 18:42:20 +0000 2026",
+    "full_text": "RT @tonyaracre: El éxito de @JMilei fue haberle tranquilizado la vida a la gente.\n\nEn #Economistas por @TV_Publica nos visitó Alejandro Cat…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062605512718405710",
+    "created_at": "Thu Jun 04 18:40:50 +0000 2026",
+    "full_text": "RT @DiegoMac227: Excelente articulo de Milei, una muestra de que es un visionario. https://t.co/JYdyicdWnF",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062605357411664340",
+    "created_at": "Thu Jun 04 18:40:13 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨IMPRESIONANTE MEJORA DEL PATRIMONIO NETO DEL BCRA🚨\n➡️La velocidad en la mejora del PN del BCRA es impresionante\n➡️El…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062605327187562987",
+    "created_at": "Thu Jun 04 18:40:06 +0000 2026",
+    "full_text": "RT @juanfloreschaar: Apple, Google y las grandes tecnológicas mundiales están mirando seriamente a Argentina para invertir. El cambio de ru…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062605282375528493",
+    "created_at": "Thu Jun 04 18:39:55 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Luego de años de abandono, el Tren 25 de Mayo volvió a ponerse en marcha. Fue reacondicionado en los talleres ferroviari…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062605214494978282",
+    "created_at": "Thu Jun 04 18:39:39 +0000 2026",
+    "full_text": "RT @dievalen: Si más del 90% de los siniestros viales se explican por errores humanos y las fallas mecánicas representan una porción mínima…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062604968918438357",
+    "created_at": "Thu Jun 04 18:38:40 +0000 2026",
+    "full_text": "RT @SilvanaGiudici: El camino está consolidado. Argentina concentra la atención del mundo. 💪 @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062604942746026099",
+    "created_at": "Thu Jun 04 18:38:34 +0000 2026",
+    "full_text": "RT @GordoDan_: 👇 https://t.co/HFbXNkV3Hr",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062604310089785744",
+    "created_at": "Thu Jun 04 18:36:03 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @fedesturze denuncia que la provincia de Buenos Aires usa la VTV para hacerle la vida imposible a los ciud…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062604257275056233",
+    "created_at": "Thu Jun 04 18:35:50 +0000 2026",
+    "full_text": "RT @lMartinezAlvaro: Los verdaderos héroes del Garrahan nunca dejaron de estar donde más se los necesitaba.\n\nA ellos, todo el reconocimient…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062601787484348785",
+    "created_at": "Thu Jun 04 18:26:02 +0000 2026",
+    "full_text": "RT @julianyosovitch: Saluden a la volatilidad de tasas ARS que se fue!!\n\nEsto es expansivo en la macro y ancla expectativas. Los bancos van…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062601541773557860",
+    "created_at": "Thu Jun 04 18:25:03 +0000 2026",
+    "full_text": "RT @ViejoLibertario: ARGENTINA NECESITA, SÍ O SÍ, CONTINUIDAD DE MILEI.\n\nToda otra discusión es pirotecnia inútil. 👇👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062601499109126297",
+    "created_at": "Thu Jun 04 18:24:53 +0000 2026",
+    "full_text": "RT @ARGinUSA: EE.UU. destacó a la Argentina como un aliado contra el terrorismo y el antisemitismo https://t.co/G4WbCwbE5a",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062601477541994716",
+    "created_at": "Thu Jun 04 18:24:48 +0000 2026",
+    "full_text": "RT @pabloquirno: Enorme Mario!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062601403294499017",
+    "created_at": "Thu Jun 04 18:24:30 +0000 2026",
+    "full_text": "RT @JoseLuisDazaAR: Argentina a la vanguardia regulatoria mundial. \n\nEl liderazgo intelectual de @JMilei, expresado claramente en este extr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062601376987857236",
+    "created_at": "Thu Jun 04 18:24:24 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: SEGUIMOS BAJANDO DEUDA https://t.co/5im3DH50B1",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062601355693281782",
+    "created_at": "Thu Jun 04 18:24:19 +0000 2026",
+    "full_text": "RT @USAmbassadorARG: ¡Esto es liderazgo! 🇺🇸🇦🇷\n\nFirmamos dos acuerdos clave en defensa que permiten a la Argentina acceder a combustible a p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062595806301942193",
+    "created_at": "Thu Jun 04 18:02:16 +0000 2026",
+    "full_text": "RT @altashanta: Los kukitas: ya nadie confía en Milei, no lo van a volver a votar 😈 se viene el 2001 🚁\n\nLa realidad: estoy excelente, nunca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062592926056595531",
+    "created_at": "Thu Jun 04 17:50:49 +0000 2026",
+    "full_text": "RT @AleCiroAlvarez: Excelente artículo de nuestro Presidente @JMilei (Financial Times - Thursday 4 June 2026). Para hacerlo más accesible l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062591313921310954",
+    "created_at": "Thu Jun 04 17:44:24 +0000 2026",
+    "full_text": "RIGI.\nTMAP.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062591155913543792",
+    "created_at": "Thu Jun 04 17:43:47 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Importante!👇\n\nEl Comité RIGI aprobó hoy dos nuevos proyectos.🇦🇷🇦🇷🇦🇷\n\nEl gasoducto San Matías por una inversión total de U…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062570674359546027",
+    "created_at": "Thu Jun 04 16:22:24 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @fedesturze, en Infobae, responde sobre la VTV y los datos que nadie dice, que el 90% de los accidentes so…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062570495988429293",
+    "created_at": "Thu Jun 04 16:21:41 +0000 2026",
+    "full_text": "RT @Felii_N: Masterclass de nuestro  Presidente filósofo. https://t.co/a3P1v9ShrE",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062570328019054954",
+    "created_at": "Thu Jun 04 16:21:01 +0000 2026",
+    "full_text": "RT @fargosi: Es con @JMilei \n\nEs por @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062570210775781753",
+    "created_at": "Thu Jun 04 16:20:33 +0000 2026",
+    "full_text": "RT @braga_dito: https://t.co/vTYr7xeFW0",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062569594154307953",
+    "created_at": "Thu Jun 04 16:18:06 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062569561656856927",
+    "created_at": "Thu Jun 04 16:17:58 +0000 2026",
+    "full_text": "RT @contrarelatoarg: El artículo del Presidente Javier Milei en el Financial Times, titulado “Argentina invites AI to free itself”, se ubic…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062568607603659173",
+    "created_at": "Thu Jun 04 16:14:11 +0000 2026",
+    "full_text": "RT @Santiago_Oria: La gestión del Garrahan es representativa de toda la administración de @JMilei.\n\n1) Elegir a la persona competente para…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062568586044940741",
+    "created_at": "Thu Jun 04 16:14:06 +0000 2026",
+    "full_text": "RT @Milei2031: Javier Milei @JMilei: \"en octubre 2027, los vamos a pasar por arriba y vamos a seguir impulsando las ideas de la libertad\".…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062568561021768052",
+    "created_at": "Thu Jun 04 16:14:00 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: Federico Sturzenegger denuncia que la provincia de Buenos Aires usa la VTV para hacerle la vida imposible a los ciudad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062567761935507898",
+    "created_at": "Thu Jun 04 16:10:49 +0000 2026",
+    "full_text": "RT @OOCprogresismo2: 🇦🇷 La solución para vioIadores, pedófiIos y asesinos, según mujeres de izquierda y mujeres de derecha. https://t.co/BO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062567155015536886",
+    "created_at": "Thu Jun 04 16:08:25 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨 EL SECRETARIO COORDINADOR DE ENERGIA Y MINERIA LE CERRÓ EL TRASTE A LA KUKA INSOPORTABLE DE TOLOSA PAZ EN COMISIÓN\n\n“RES…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062566394344939897",
+    "created_at": "Thu Jun 04 16:05:23 +0000 2026",
+    "full_text": "RT @FinanzasArgy: 🇦🇷 Mercado Libre abrió un centro logístico en Don Torcuato que demandó una inversión de 1,3 millones de dólares: crearán…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062565485762298266",
+    "created_at": "Thu Jun 04 16:01:47 +0000 2026",
+    "full_text": "RT @juanfloreschaar: Masterclass de @JMilei en el Financial Time explicando que la mejor política pública para la inteligencia artificial n…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062565337128739187",
+    "created_at": "Thu Jun 04 16:01:11 +0000 2026",
+    "full_text": "RT @fededomin: Histórico. Y recién comienza.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062565177640264119",
+    "created_at": "Thu Jun 04 16:00:33 +0000 2026",
+    "full_text": "RT @JMilei: ESTO ES VERLA.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062565057813233768",
+    "created_at": "Thu Jun 04 16:00:05 +0000 2026",
+    "full_text": "RT @DarioGenua: La inteligencia artificial representa para nuestro país una oportunidad histórica para impulsar una nueva etapa de crecimie…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062564983850869247",
+    "created_at": "Thu Jun 04 15:59:47 +0000 2026",
+    "full_text": "RT @lilialemoine: La verdad sobre qué pasó en el Garrahan.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062564957007323162",
+    "created_at": "Thu Jun 04 15:59:41 +0000 2026",
+    "full_text": "RT @javierlanari: La salud de los niños es siempre prioridad...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062564930788728850",
+    "created_at": "Thu Jun 04 15:59:34 +0000 2026",
+    "full_text": "RT @mediceneljefe: Hoy a las 11 se estrena \"Héroes del Garrahan\", el reconocimiento a los médicos y profesionales de bien que salvan vidas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062564861536567597",
+    "created_at": "Thu Jun 04 15:59:18 +0000 2026",
+    "full_text": "RT @Felii_N: Que horror la utilización política en medio una tragedia, un verdadero asKo. Una persona que viola o mata es un monstruo y nad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062564728791081199",
+    "created_at": "Thu Jun 04 15:58:46 +0000 2026",
+    "full_text": "RT @bostero109rp: FENÓMENO BARRIAL.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062564569394876827",
+    "created_at": "Thu Jun 04 15:58:08 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🚀 ¡META CUMPLIDA! MILEI FESTEJÓ EL LOGRO Y VA POR MÁS RESERVAS\n📈Tras superar el objetivo del FMI, el Presidente celebró e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062563733247791278",
+    "created_at": "Thu Jun 04 15:54:49 +0000 2026",
+    "full_text": "IMPERDIBLE\nDegenerado fiscal con micrófono en el minuto uno y once segundos saca a ventilar su esencia envidiosa... son parte del problema y jamás parte de la solución...\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062561252769955990",
+    "created_at": "Thu Jun 04 15:44:57 +0000 2026",
+    "full_text": "RT @elduckpost: SEGÚN LA IAEF, ARGENTINA ESTÁ LISTA PARA SER MERCADO EMERGENTE 🚨\n\nPara Pablo de Gregorio, presidente de la IAEF, el país cu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062561012683842043",
+    "created_at": "Thu Jun 04 15:44:00 +0000 2026",
+    "full_text": "RT @SantilanJuli223: ESTA ES LA VERDAD REVELADA DE LOS HECHOS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062560976264667216",
+    "created_at": "Thu Jun 04 15:43:51 +0000 2026",
+    "full_text": "RT @MileiSays: “It is madness, it is delusional, to think that a representative of the people is above the people themselves.”\n\n— Javier Mi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062560887051898931",
+    "created_at": "Thu Jun 04 15:43:30 +0000 2026",
+    "full_text": "RT @julianyosovitch: La economia está en recesion!\n\nLa economia.. https://t.co/cQrqRfCnTH",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062560430401187875",
+    "created_at": "Thu Jun 04 15:41:41 +0000 2026",
+    "full_text": "ESTO ES VERLA.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062560303980708036",
+    "created_at": "Thu Jun 04 15:41:11 +0000 2026",
+    "full_text": "RT @milei_xd: @DiegoMac227 No es imposible salir victorioso, solo tienes que entender por dónde va la Batalla Cultural de Javier Milei. htt…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062560175349800997",
+    "created_at": "Thu Jun 04 15:40:40 +0000 2026",
+    "full_text": "RT @mediceneljefe: Excelente respaldo de @SilvanaGiudici al programa de @JMilei, confirmando la confianza total para consolidar las reforma…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062559871342395582",
+    "created_at": "Thu Jun 04 15:39:28 +0000 2026",
+    "full_text": "AQUÍ TRES CLAROS EJEMPLOS DE SER PARTE DEL PROBLEMA Y NO DE LA SOLUCIÓN (los \"progres\" arruinan todo lo que tocan).",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062556963481833883",
+    "created_at": "Thu Jun 04 15:27:55 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062556876416389316",
+    "created_at": "Thu Jun 04 15:27:34 +0000 2026",
+    "full_text": "RT @FedericoFuriase: El incremento de la deuda pública del Tesoro vía la colocación de Letras Intransferibles al BCRA fue la contracara del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062556428024373348",
+    "created_at": "Thu Jun 04 15:25:47 +0000 2026",
+    "full_text": "OTRO COLOSO.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062556345245548962",
+    "created_at": "Thu Jun 04 15:25:27 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: LOS HÉROES DEL GARRAHAN\n\nDurante 2025, la política intentó usar al Garrahan como rehén. Hubo más de 40 medidas de fuer…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062556179281178679",
+    "created_at": "Thu Jun 04 15:24:48 +0000 2026",
+    "full_text": "IMPERDIBLE.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062551564414300567",
+    "created_at": "Thu Jun 04 15:06:27 +0000 2026",
+    "full_text": "RT @Felii_N: Seguimos bajando deuda. https://t.co/LJdUWXkmrW",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062551480456872001",
+    "created_at": "Thu Jun 04 15:06:07 +0000 2026",
+    "full_text": "RT @jmilei_english: My article in @FT...!!!\nI want to thank @fedesturze, since without his ENORMOUS EFFORT these kinds of ideas wouldn't be…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2062535418990448719",
     "created_at": "Thu Jun 04 14:02:18 +0000 2026",
     "full_text": "LOS HÉROES DEL GARRAHAN",
