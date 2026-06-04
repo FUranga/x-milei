@@ -1,5 +1,313 @@
 [
   {
+    "id": "2062535418990448719",
+    "created_at": "Thu Jun 04 14:02:18 +0000 2026",
+    "full_text": "LOS HÉROES DEL GARRAHAN",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062535319178653936",
+    "created_at": "Thu Jun 04 14:01:54 +0000 2026",
+    "full_text": "RT @CasaRosada: LOS HÉROES DEL GARRAHAN\n\n40 paros. Cientos de héroes. Miles de niños salvados. La verdadera historia de quienes nunca dejar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062535225561714807",
+    "created_at": "Thu Jun 04 14:01:32 +0000 2026",
+    "full_text": "RT @GordoDan_: \"La Revolución Industrial, que comenzó algunos años después, fue completada no por la ingeniería, sino por el derecho societ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062533828233527730",
+    "created_at": "Thu Jun 04 13:55:59 +0000 2026",
+    "full_text": "RT @mediceneljefe: La columna de @JMilei en el @FinancialTimes demuestra que mientras el socialismo internacional defiende la burocracia, l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062533643226980580",
+    "created_at": "Thu Jun 04 13:55:15 +0000 2026",
+    "full_text": "RT @casigol66: Tenemos un Presidente que hace que su equipo logré que lo posible sea muy próximo a lo ideal",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062533614202503426",
+    "created_at": "Thu Jun 04 13:55:08 +0000 2026",
+    "full_text": "RT @cristiannmillo: La revalorización del FGS de la mano de $YPF es fantástica. Miren. https://t.co/mghIB4kpeQ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062533296932679781",
+    "created_at": "Thu Jun 04 13:53:52 +0000 2026",
+    "full_text": "RT @Felii_N: Masterclass.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062533256038191200",
+    "created_at": "Thu Jun 04 13:53:42 +0000 2026",
+    "full_text": "RT @mediceneljefe: .@JMilei publicó una columna histórica en el @FinancialTimes: prometió un marco libre de regulaciones y el sistema fisca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062533176023515523",
+    "created_at": "Thu Jun 04 13:53:23 +0000 2026",
+    "full_text": "RT @bostero109rp: La columna del presidente @JMilei en el @FT, traducida al español. Imperdible. https://t.co/wljDsgWcgA",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062533149905621270",
+    "created_at": "Thu Jun 04 13:53:17 +0000 2026",
+    "full_text": "RT @sebascaos: Lo dicho. No valoremos lo suficiente que este gobernando Milei en este tiempo de Revolución de la IA.\n\nCualquier otro la est…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062533088727404855",
+    "created_at": "Thu Jun 04 13:53:03 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062533005063737417",
+    "created_at": "Thu Jun 04 13:52:43 +0000 2026",
+    "full_text": "RT @Tv_Libertaria: 🇦🇷 Apple, Google y las más importantes del MUNDO quieren venir a INVERTIR a la Argentina ♥ https://t.co/yjZ6vBwYXT",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062531999760339089",
+    "created_at": "Thu Jun 04 13:48:43 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Nuestro presidente @JMilei dejando claro al mundo la posición argentina con respecto al desarrollo de la IA. \nÉsto, sumad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062531909020774465",
+    "created_at": "Thu Jun 04 13:48:21 +0000 2026",
+    "full_text": "RT @alejandrito: (English message below)\n\nQué interesante. Quién hubiera dicho que Argentina estaría alguna vez a la vanguardia mundial en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062531853832090071",
+    "created_at": "Thu Jun 04 13:48:08 +0000 2026",
+    "full_text": "RT @mileibarrial: Avanzan las ideas de la libertad en todo el mundo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062531831870718327",
+    "created_at": "Thu Jun 04 13:48:03 +0000 2026",
+    "full_text": "RT @agustinromm: Lectura obligatoria esta nota del Presidente Milei en el Financial Times. Un lujo total.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062531793312415880",
+    "created_at": "Thu Jun 04 13:47:54 +0000 2026",
+    "full_text": "RT @fargosi: E X A C T O, @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062531390168539321",
+    "created_at": "Thu Jun 04 13:46:18 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: SE VIENE……. La verdad sobre el Garrahan. Lo que el kirchnerismo y los medios no contaron. Otro GRAN HITO DE GESTIÓN de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062531319477751808",
+    "created_at": "Thu Jun 04 13:46:01 +0000 2026",
+    "full_text": "RT @aetchebarne: Artículo de @JMilei en el Financial Times, “Argentina invites AI to free itself”, con la colaboración de Federico Sturzene…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062530831495651769",
+    "created_at": "Thu Jun 04 13:44:04 +0000 2026",
+    "full_text": "RT @bostero109rp: La Argentina ha emergido como un referente global en el ámbito de las ideas institucionales y jurídicas. Entretanto otras…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062530748385558865",
+    "created_at": "Thu Jun 04 13:43:45 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Fenómeno barrial en el Financial Times https://t.co/WNtgt0nQdI",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062528577468313988",
+    "created_at": "Thu Jun 04 13:35:07 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷 Palabras de Milei en la conferencia de Milken Institute.\n\"No tenemos que perder la fe en esa ambición primal que los hu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062528455296614510",
+    "created_at": "Thu Jun 04 13:34:38 +0000 2026",
+    "full_text": "RT @fedesturze: Nuestro presidente @JMilei en el @FT de hoy moviendo el avispero en el debate global sobre inteligencia artificial. VLLC! h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062528400649056692",
+    "created_at": "Thu Jun 04 13:34:25 +0000 2026",
+    "full_text": "RT @madorni: Hoy se conocerán los “Los héroes del Garrahan”. Fin. https://t.co/FJ9rU03cPF",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062528299281100862",
+    "created_at": "Thu Jun 04 13:34:01 +0000 2026",
+    "full_text": "RT @fedesturze: Gracias Presidente @JMilei. Todo esto es posible por su liderazgo y coraje. Y por ese extraordinario equipo que ha conforma…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062528240242119075",
+    "created_at": "Thu Jun 04 13:33:47 +0000 2026",
+    "full_text": "RT @javiernegre10: Ayer tuve el privilegio de cenar con el mejor presidente de la historia de Argentina @JMilei en La Quinta presidencial d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062527669116252667",
+    "created_at": "Thu Jun 04 13:31:30 +0000 2026",
+    "full_text": "RT @MileiSays: “Free trade creates a division of labor that leads to increasing returns, productivity gains, and well-being. This is why co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062527606159794535",
+    "created_at": "Thu Jun 04 13:31:15 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ TOTO CAPUTO PRENDIÓ FUEGO TODO EN LA IAEF Y DESTROZÓ POR COMPLETO EL RELATO KUKA\n\n🔥 \"Están TOTALMENTE CUBIERTOS los ven…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062527577772707972",
+    "created_at": "Thu Jun 04 13:31:09 +0000 2026",
+    "full_text": "RT @AleMonteoliva: COMBUSTIBLE NARCO: 25 KILOS DE COCAÍNA\n\nQuerían llegar a Buenos Aires con el tanque lleno de cocaína. Gendarmería descub…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062527400232026206",
+    "created_at": "Thu Jun 04 13:30:26 +0000 2026",
+    "full_text": "RT @ARGinUSA: It was an honor, and deeply moving, to host the ceremony marking the 32nd anniversary of the AMIA terrorist attack at the Uni…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062525187313033222",
+    "created_at": "Thu Jun 04 13:21:39 +0000 2026",
+    "full_text": "TOMAR NOTA.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062525071902588999",
+    "created_at": "Thu Jun 04 13:21:11 +0000 2026",
+    "full_text": "RT @fn_fernandez: @JMilei in the @FT today: Argentina wants to be the Amsterdam of AI.\n\nAs someone who has spent years building a global ne…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062519828716351984",
+    "created_at": "Thu Jun 04 13:00:21 +0000 2026",
+    "full_text": "Mi nota en @FT ...!!!\nQuiero agradecer a @fedesturze, ya que sin su ENORME TAREA este tipo de ideas no estarían fluyendo a tanta velocidad: retroalimentación positiva. Un lujo tener semejante EQUIPO.\nMAGA.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062518880703062054",
+    "created_at": "Thu Jun 04 12:56:35 +0000 2026",
+    "full_text": "RT @FT: Javier Milei: Argentina invites AI to free itself https://t.co/KRD86vtZNe  | opinion",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062518772980736121",
+    "created_at": "Thu Jun 04 12:56:09 +0000 2026",
+    "full_text": "RT @ninavars: Excelente artículo de Javier Milei sobre cómo hacer de Argentina un hub global de la IA. \n\nSu propuesta se basa en tres pilar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062518640650408214",
+    "created_at": "Thu Jun 04 12:55:38 +0000 2026",
+    "full_text": "TREMENDA MASTERCLASS \nDe más está decir que el listado a los que les cabe la definición podríamos extenderlo fácilmente...\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062515758408626241",
+    "created_at": "Thu Jun 04 12:44:11 +0000 2026",
+    "full_text": "RT @fargosi: Siempre se cosecha lo que se siembra.\n\n(Gálatas 6:7 | NTV).",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062515323224408352",
+    "created_at": "Thu Jun 04 12:42:27 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷👏 PARA ESTALLAR EN APLAUSOS!! ESCUCHEN ESTO QUE DIJO LA DIPUTADA DE LLA SILVANA GIUDICI SOBRE EL FUTURO DE ARGENTINA Y L…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062514480152482068",
+    "created_at": "Thu Jun 04 12:39:06 +0000 2026",
+    "full_text": "RT @TommyShelby_30: FENÓMENO BARRIAL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062513221865439286",
+    "created_at": "Thu Jun 04 12:34:06 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL \nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062513166915953135",
+    "created_at": "Thu Jun 04 12:33:53 +0000 2026",
+    "full_text": "RT @FT: Opinion: As the world enters a new era of technology, AI must be permitted to develop without premature regulation, writes Argentin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2062512963966124531",
+    "created_at": "Thu Jun 04 12:33:04 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL \nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062505271134502987",
+    "created_at": "Thu Jun 04 12:02:30 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2062505249890291929",
+    "created_at": "Thu Jun 04 12:02:25 +0000 2026",
+    "full_text": "RT @martinvars: La UE y Argentina acaban de tomar caminos opuestos con la IA. Milei manda al Congreso un marco que deja la IA libre para de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2062403423278936444",
     "created_at": "Thu Jun 04 05:17:48 +0000 2026",
     "full_text": "RT @ElTrumpista: El gobierno mas feminista de la historia es el de Javier Milei\n\nLLA:\n✅ Aumento de penas por abuso\n✅ Registro de Violadores…",
