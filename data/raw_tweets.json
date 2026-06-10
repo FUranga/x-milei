@@ -1,5 +1,327 @@
 [
   {
+    "id": "2064819580305084866",
+    "created_at": "Wed Jun 10 21:18:45 +0000 2026",
+    "full_text": "RT @Felii_N: TMAP\n\n*ARGENTINA LONG-TERM RATINGS RAISED TO 'B-' BY S&amp;P\n\n⚓️⚓️⚓️\n🦁🇦🇷📈",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064817949165363673",
+    "created_at": "Wed Jun 10 21:12:16 +0000 2026",
+    "full_text": "HACIENDO A LA ARGENTINA GRANDE NUEVAMENTE (MAGA)\nTMAP.\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2064817662803484688",
+    "created_at": "Wed Jun 10 21:11:07 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: NUEVO UPGRADE 🇦🇷🇦🇷🇦🇷\n\nARGENTINA LONG-TERM RATINGS RAISED TO 'B-' BY S&amp;P",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064812871179981012",
+    "created_at": "Wed Jun 10 20:52:05 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Viceministro de Economía, @JoseLuisDazaAR, en el evento Fitch On Argentina 2026, retrató 15 años de desierto en los…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064812838137585901",
+    "created_at": "Wed Jun 10 20:51:57 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Como siempre, clase maestra del viceministro @JoseLuisDazaAR.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064812822496686455",
+    "created_at": "Wed Jun 10 20:51:53 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Comunicado oficial.\n\n@JMilei https://t.co/5GpUsMo6KT",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064812665550324037",
+    "created_at": "Wed Jun 10 20:51:16 +0000 2026",
+    "full_text": "RT @Felii_N: Con un contexto internacional desafiante, el BCRA COMPRÓ USD 120 millones y el dólar BAJO.\n⚓️⚓️⚓️",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064812608352596044",
+    "created_at": "Wed Jun 10 20:51:02 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Viceministro @JoseLuisDazaAR señaló que el Presidente Milei ordenó desde el día uno respetar el Estado de derecho y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064812563452277076",
+    "created_at": "Wed Jun 10 20:50:52 +0000 2026",
+    "full_text": "RT @SPettovelloOK: .@JMilei https://t.co/Fp9fqUivAY",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064807749364625503",
+    "created_at": "Wed Jun 10 20:31:44 +0000 2026",
+    "full_text": "RT @HospGarrahan: https://t.co/q3g4QLzODl",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064807691407786288",
+    "created_at": "Wed Jun 10 20:31:30 +0000 2026",
+    "full_text": "RT @SPettovelloOK: COMUNICADO OFICIAL.\n@JMilei https://t.co/tuNQW7OdqQ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064807579910377830",
+    "created_at": "Wed Jun 10 20:31:03 +0000 2026",
+    "full_text": "RT @AleCiroAlvarez: Un acuerdo que deja atrás el conflicto.\n\nEl día de hoy firmamos el acta acuerdo con las Universidades Nacionales y los…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064780114508857674",
+    "created_at": "Wed Jun 10 18:41:55 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Informamos que se encuentran agotados los cupos para el curso de Operador de Dron de categoría abierta en el Centro de F…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064779975534997997",
+    "created_at": "Wed Jun 10 18:41:22 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | Toto Caputo celebró la fortaleza del plan económico que resistió al shock externo de la guerra en Irán: \"Que hoy…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064779723452907901",
+    "created_at": "Wed Jun 10 18:40:22 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: MÁS SEGURIDAD Y TRANSPARENCIA EN EL SISTEMA DE DONACIÓN Y TRASPLANTE\n\nEl INCUCAI implementará de manera progresiva la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064779131800142008",
+    "created_at": "Wed Jun 10 18:38:01 +0000 2026",
+    "full_text": "RT @mediceneljefe: La venta y el patentamiento digital instantáneo de un 0 km sepulta décadas de trámites de la casta. El RUNA es una reali…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064753479642394698",
+    "created_at": "Wed Jun 10 16:56:05 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: QUISIERON DEJAR MAL PARADA A LA MIN. DE SEGURIDAD Y TERMINARON CERRANDO EL ESTADIO: \n\n“Tenemos la tasa de homicidio má…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064753346401988964",
+    "created_at": "Wed Jun 10 16:55:33 +0000 2026",
+    "full_text": "RT @FAHayekSays: Hayek on the revival of classical liberalism:\n\n“When I was young, only very old people believed in liberalism. When I was…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064753279993631028",
+    "created_at": "Wed Jun 10 16:55:17 +0000 2026",
+    "full_text": "RT @SantilanJuli223: El Acuerdo de Libre Comercio entre el Mercosur y Singapur representa un paso estratégico fundamental para la inserción…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064751855314551116",
+    "created_at": "Wed Jun 10 16:49:38 +0000 2026",
+    "full_text": "RT @Itongadol: (Agencia AJN) Argentina. President Milei meets with former Israeli hostage: he is “a wise man with an affinity for Judaism”…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064751743762587836",
+    "created_at": "Wed Jun 10 16:49:11 +0000 2026",
+    "full_text": "RT @Itongadol: (Agencia AJN) Argentina. El presidente Milei se reúne con exrehén israelí: es “un hombre sabio con afinidad por el judaísmo”…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064751555702661212",
+    "created_at": "Wed Jun 10 16:48:26 +0000 2026",
+    "full_text": "RT @fargosi: No lo vas a ver en los medios",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064749773643489723",
+    "created_at": "Wed Jun 10 16:41:21 +0000 2026",
+    "full_text": "RT @JMilei: MASTERCLASS de @JoseLuisDazaAR",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064749503702245443",
+    "created_at": "Wed Jun 10 16:40:17 +0000 2026",
+    "full_text": "RT @Mex_Libertario: El liberalismo se convierte en tiras cómicas, y vuelve a hablarle a todo el mundo, por @SandroScoppa\n\nEl lenguaje de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064749369241301425",
+    "created_at": "Wed Jun 10 16:39:45 +0000 2026",
+    "full_text": "RT @Felii_N: Excelente Daniel y patético Rossi, que suerte que los argentinos no tenemos a este cavernícola de Vicepresidente.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064749331756814687",
+    "created_at": "Wed Jun 10 16:39:36 +0000 2026",
+    "full_text": "RT @FerIglesias: 2018 fue Macri. 2026 es Milei. El anterior récord negativo de la pobreza infantil debe ser, probablemente, de Menem. El ne…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064747405434565016",
+    "created_at": "Wed Jun 10 16:31:57 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: LAS EXPORTACIONES DE LAS PYMES SON LAS MÁS ALTAS DESDE 2013 🇦🇷🇦🇷🇦🇷\n\n✅ Entre enero y mayo, las exportaciones de las PyMEs…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064747387726295204",
+    "created_at": "Wed Jun 10 16:31:53 +0000 2026",
+    "full_text": "RT @mediceneljefe: Qué paliza de @LuisCaputoAR a los \"especialistas\" de living. Se la pasan criticando con manuales obsoletos de pasillo y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064746866223247658",
+    "created_at": "Wed Jun 10 16:29:48 +0000 2026",
+    "full_text": "RT @Felii_N: ⚓️⚓️⚓️",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064742820171202878",
+    "created_at": "Wed Jun 10 16:13:44 +0000 2026",
+    "full_text": "MASTERCLASS de @JoseLuisDazaAR",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2064741694671605869",
+    "created_at": "Wed Jun 10 16:09:15 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: Presentación completa del Viceministro de Economía, @JoseLuisDazaAR, en el evento Fitch On Argentina 2026. https://t.co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064741624748417391",
+    "created_at": "Wed Jun 10 16:08:59 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: La Ministra de Seguridad Nacional, @AleMonteoliva, responde con datos que marcan una caída del 18% en homicidios de mu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064741343042146322",
+    "created_at": "Wed Jun 10 16:07:51 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: https://t.co/dw4nUwCSQk",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064741315846213635",
+    "created_at": "Wed Jun 10 16:07:45 +0000 2026",
+    "full_text": "RT @SilvanaGiudici: Comienza la segunda reunión plenaria para avanzar en el tratamiento del Super Rigi. Un programa de atracción de grandes…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064741092545720473",
+    "created_at": "Wed Jun 10 16:06:52 +0000 2026",
+    "full_text": "RT @fededomin: De cara al año electoral, el frente monetario luce considerablemente más sólido que en 2025.\n\nEl BCRA va a llegar con todo s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064740850299502688",
+    "created_at": "Wed Jun 10 16:05:54 +0000 2026",
+    "full_text": "RT @AleMonteoliva: DEL PASILLO AL CALABOZO\n\nVendian droga en Rosario. Caímos con un megaoperativo del DFI de la PFA y detuvimos a los siete…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064740148424716511",
+    "created_at": "Wed Jun 10 16:03:07 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2064740030766088549",
+    "created_at": "Wed Jun 10 16:02:39 +0000 2026",
+    "full_text": "RT @tonyaracre: Los que critican los logros de este gobierno tienen la misma actitud que la zorra de la fábula de Edipo que no alcanzaba a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064739978228175276",
+    "created_at": "Wed Jun 10 16:02:26 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: TENEMOS EL CONGRESO MÁS REFORMISTA DE LA HISTORIA: \n\n✅ Ley de Incentivo Laboral: reduce cargas que facilitan la contra…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064739412789866559",
+    "created_at": "Wed Jun 10 16:00:11 +0000 2026",
+    "full_text": "RT @jultarres: Excelente👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064739226566939002",
+    "created_at": "Wed Jun 10 15:59:27 +0000 2026",
+    "full_text": "RT @libre_mercado: Deirdre McCloskey, Premio Juan de Mariana: \"El capitalismo es el sistema económico más altruista que puedas imaginar\" ht…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064739041413570621",
+    "created_at": "Wed Jun 10 15:58:43 +0000 2026",
+    "full_text": "RT @MinSeguridad_Ar: OPERATIVO “YERBA MALA”\n\nEscondieron casi 190 kilos de droga entre la vegetación. No alcanzó.\n\nA través de la GNA, dete…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064738932974030949",
+    "created_at": "Wed Jun 10 15:58:17 +0000 2026",
+    "full_text": "RT @juandemariana: Las sociedades más prósperas no son las más iguales. Son las que permiten a las personas crear, invertir y prosperar. #J…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064738850849882336",
+    "created_at": "Wed Jun 10 15:57:57 +0000 2026",
+    "full_text": "RT @Felii_N: La Secretaría de Finanzas anunció los precios de los títulos elegibles para la conversión del día de hoy. https://t.co/u3nl5EX…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064723384345206838",
+    "created_at": "Wed Jun 10 14:56:30 +0000 2026",
+    "full_text": "RT @fededomin: El peronismo se la pasa hablando de los pobres y hasta armó la hipócrita Mesa contra el Hambre. Dejó 54% de pobreza y casi 7…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2064716163053949211",
+    "created_at": "Wed Jun 10 14:27:48 +0000 2026",
+    "full_text": "RT @FerIglesias: Datos oficiales (INDEC) de Pobreza Infantil desde la recuperación de la democracia.\n\n- Se dispara con la hiper de Alfonsín…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2064695011917132165",
     "created_at": "Wed Jun 10 13:03:45 +0000 2026",
     "full_text": "RT @pabloquirno: Hoy conmemoramos un nuevo aniversario de la creación de la Comandancia Política y Militar de las Islas Malvinas y adyacent…",
