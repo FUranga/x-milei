@@ -1,5 +1,68 @@
 [
   {
+    "id": "2069147645998960822",
+    "created_at": "Mon Jun 22 19:56:56 +0000 2026",
+    "full_text": "RT @leocifelli: Vamos Argentina! 💪Vamos Messi, carajo!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2069147625304043963",
+    "created_at": "Mon Jun 22 19:56:51 +0000 2026",
+    "full_text": "RT @PatoBullrich: ✌🏼 para la victoria https://t.co/sQICWPUBzT",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2069147549915623841",
+    "created_at": "Mon Jun 22 19:56:33 +0000 2026",
+    "full_text": "RT @Jefatura_Ar: El Jefe de Gabinete, Manuel Adorni, mantuvo una reunión con el Ministro de Economía, Luis Caputo, para avanzar en la revis…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2069133830317858943",
+    "created_at": "Mon Jun 22 19:02:02 +0000 2026",
+    "full_text": "VAMOS ARGENTINA CARAJO...!!!\nMessi máximo goleador de la historia de los mundiales. La alegría es toda de la celeste y blanca. La alegría no tiene ni tendrá fin.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2069120454128750961",
+    "created_at": "Mon Jun 22 18:08:53 +0000 2026",
+    "full_text": "RT @Mex_Libertario: «La IA nos liberará»: el plan radical de Javier Milei para Argentina, por @hansvan333 y @jamestitcomb\n\nUna empresa gest…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2069119946341118279",
+    "created_at": "Mon Jun 22 18:06:52 +0000 2026",
+    "full_text": "RT @AdrianRavier: Gracias @madorni por la bienvenida! Enfocados en los primeros pasos de este nuevo rol. Agradezco nuevamente a @JMilei y a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2069119914586120220",
+    "created_at": "Mon Jun 22 18:06:44 +0000 2026",
+    "full_text": "RT @madorni: Gran reunión con Adrián Ravier, flamante Vocero Presidencial.\n\nEn esta etapa de transformación, su rol será clave para comunic…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2069119810693104002",
+    "created_at": "Mon Jun 22 18:06:19 +0000 2026",
+    "full_text": "RT @ARGinUSA: 🇦🇷 El embajador argentino en Washington se reunió con altos ejecutivos de Visa y de los bancos Galicia, Macro, Patagonia, Sup…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2069089354031468749",
+    "created_at": "Mon Jun 22 16:05:18 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Una vez más, pierde la izquierda, y vuelan los mercados de ese país al alza. Esta vez, Colombia.\n\nEl socialismo es el c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2069038022406897848",
     "created_at": "Mon Jun 22 12:41:20 +0000 2026",
     "full_text": "RT @ajmechet: La carrera por la inteligencia artificial ya empezó. Mientras algunos países discuten cómo frenarla, Argentina empieza a disc…",
