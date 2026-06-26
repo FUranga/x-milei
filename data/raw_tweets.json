@@ -1,5 +1,306 @@
 [
   {
+    "id": "2070490251072598433",
+    "created_at": "Fri Jun 26 12:51:58 +0000 2026",
+    "full_text": "RT @mileibarrial: Avanzan las ideas de la libertad en todo el mundo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070490204469645633",
+    "created_at": "Fri Jun 26 12:51:47 +0000 2026",
+    "full_text": "RT @FedeAlonss: Hoy en..\n\n''Cosas que no se ven en ninguna parte del mundo''\n\n⚡️El saldo energético. Si Argentina fuera un país tendría taq…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070490157568909662",
+    "created_at": "Fri Jun 26 12:51:36 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇻🇪 | #URGENTE: El Gobierno de Javier Milei anunció el envío de una misión humanitaria argentina para asistir al pue…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070490087826039076",
+    "created_at": "Fri Jun 26 12:51:19 +0000 2026",
+    "full_text": "RT @Observador_esp: 🗣️ “Yo no querría saber qué seria el mundo hoy sin Donald Trump y Marco Rubio”\n\n➡️ En diálogo exclusivo con El Observad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070489642135118282",
+    "created_at": "Fri Jun 26 12:49:33 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Muy buena nota de Milei. Más claro, imposible. Milei siendo Milei. O sea, el mejor Presidente de la Historia.\n https:/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070489575810548055",
+    "created_at": "Fri Jun 26 12:49:17 +0000 2026",
+    "full_text": "RT @Observador_esp: 🗣️ “El cambio político en España depende de la gente”\n\n➡️ En una entrevista exclusiva con El Observador España, Javier…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070487949066522906",
+    "created_at": "Fri Jun 26 12:42:49 +0000 2026",
+    "full_text": "RT @leocifelli: VLLC! Bravo @JMilei 👏🏼💪🏽🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070487921342153015",
+    "created_at": "Fri Jun 26 12:42:42 +0000 2026",
+    "full_text": "RT @braga_dito: MÉTODO BONELLI: MUCHO ACCESO NADA DE VERIFICACIÓN\nEn apariencia, un informe repleto de revelaciones explosivas sobre reunio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070487495100252305",
+    "created_at": "Fri Jun 26 12:41:01 +0000 2026",
+    "full_text": "RT @Observador_esp: 🗣️ “Si la justicia lo encuentra culpable, lo eyecto yo de una patada”\n\n➡️ En diálogo exclusivo con El Observador España…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070487034037190938",
+    "created_at": "Fri Jun 26 12:39:11 +0000 2026",
+    "full_text": "RT @dlacalle: Los valores de la civilización judeocristiana han sido el fundamento histórico de la libertad y el progreso. Brillante Milei…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070486950385958993",
+    "created_at": "Fri Jun 26 12:38:51 +0000 2026",
+    "full_text": "RT @leocifelli: Bravooo 🦁🇦🇷💪",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070486885772701776",
+    "created_at": "Fri Jun 26 12:38:36 +0000 2026",
+    "full_text": "RT @alejandronimoAr: Un gran momento para todos los académicos españoles y para la libertad! Gracias presidente @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070486857335312480",
+    "created_at": "Fri Jun 26 12:38:29 +0000 2026",
+    "full_text": "RT @pabloquirno: ARGENTINA SOLIDARIA. \n\n🇦🇷🇻🇪🇦🇷🇻🇪",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070486838129684506",
+    "created_at": "Fri Jun 26 12:38:24 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇺🇸l Argentina ya tiene su propia calle en Nueva York.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070486567836176670",
+    "created_at": "Fri Jun 26 12:37:20 +0000 2026",
+    "full_text": "RT @okdiario: 💢 Milei retrata a Sánchez y los escándalos de corrupción que lo rodean durante la recogida de un premio en Madrid: \"Cuando us…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070486437313614262",
+    "created_at": "Fri Jun 26 12:36:49 +0000 2026",
+    "full_text": "RT @MILEISTAMILEI: Los periodistas corruptos la tuvieron adentro, la tienen adentro y la van a seguir teniendo adentro. Milei presidente 20…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070486047469781471",
+    "created_at": "Fri Jun 26 12:35:16 +0000 2026",
+    "full_text": "RT @observadorar: 🗣️ \"Como no me voy a presentar a la reelección si estoy haciendo el mejor gobierno de la historia”\n\n➡️ Desde Madrid, Espa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070486022182273481",
+    "created_at": "Fri Jun 26 12:35:10 +0000 2026",
+    "full_text": "RT @observadorar: 🗣️ \"Si lo consideran culpable a Adorni lo vuelo yo mismo. Lo eyecto de una patada\"\n\n➡️ Consultado por El Observador Españ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070485528529576097",
+    "created_at": "Fri Jun 26 12:33:12 +0000 2026",
+    "full_text": "RT @observadorar: \"Soy un termo de Messi y de Scaloni\"\n\nDurante la entrevista exclusiva con El Observador España en Madrid, el presidente c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070485471583518869",
+    "created_at": "Fri Jun 26 12:32:58 +0000 2026",
+    "full_text": "RT @indignadoxd: Histórico: La ONU aprobó por consenso el reclamo del Gobierno de Milei y le exige al Reino Unido que se siente a negociar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070485351940952256",
+    "created_at": "Fri Jun 26 12:32:30 +0000 2026",
+    "full_text": "RT @ThomasSowell: “I am in favor of cutting taxes under any circumstances and for any excuse, for any reason, whenever it's possible.”\n\n— M…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070485202107842638",
+    "created_at": "Fri Jun 26 12:31:54 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇪🇸l Discurso de Milei en la Universidad CEU San Pablo y entrega de medalla de honor.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070485135552590286",
+    "created_at": "Fri Jun 26 12:31:38 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇪🇸l Milei en la ceremonia de entrega de la Medalla de Honor de la Universidad CEU San Pablo. https://t.co/cK0zXffLjM",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070485118053966019",
+    "created_at": "Fri Jun 26 12:31:34 +0000 2026",
+    "full_text": "RT @mediceneljefe: Desembarco de @JMilei en España: inauguró los cursos de verano de la Universidad San Pablo de Madrid y recibió la Medall…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070481201123545093",
+    "created_at": "Fri Jun 26 12:16:00 +0000 2026",
+    "full_text": "RT @OPRArgentina: Discurso del Presidente Javier Milei en la ceremonia de entrega de la Medalla de Honor de la Universidad CEU San Pablo. h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070481181422899288",
+    "created_at": "Fri Jun 26 12:15:55 +0000 2026",
+    "full_text": "RT @manuel_llamas: Lujo poder escuchar a @JMilei en el @USPCEU \n\nGIGANTE de la LIBERTAD!!! https://t.co/TL7YZmxEHJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070481135453257922",
+    "created_at": "Fri Jun 26 12:15:45 +0000 2026",
+    "full_text": "RT @SalvadorVitell1: Fuerte caída de la deuda flotante en May.-26, perforando nuevos mínimos.\n\nEl dato de Mayo arrojó $ 1.4 billones de deu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070481111340257295",
+    "created_at": "Fri Jun 26 12:15:39 +0000 2026",
+    "full_text": "RT @tonyaracre: Pásale esto al Zar @fede_machado_b para FMI podcast que en la última emisión desconfiaba un poco si se mantenía la discipli…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070481045032464763",
+    "created_at": "Fri Jun 26 12:15:23 +0000 2026",
+    "full_text": "RT @FigaredoJoseM: ¡Un placer verte de nuevo, Peluca, @JMilei!\n\n🦁🦁🦁 https://t.co/guj2bG3550",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070480972567454070",
+    "created_at": "Fri Jun 26 12:15:06 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI BAJA LA DEUDA: El equipo económico de Milei celebró la impresionante reducción de la deuda pública consoli…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070480933594001600",
+    "created_at": "Fri Jun 26 12:14:56 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: NUEVO RIGI PARA IMPULSAR LAS EXPORTACIONES DE GNL\n\nSe aprobó la adhesión al RIGI del proyecto “Gasoducto San Matías”, u…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070480894784147747",
+    "created_at": "Fri Jun 26 12:14:47 +0000 2026",
+    "full_text": "RT @Observador_esp: 🗣️ “Mi rival para las elecciones soy yo mismo. No me importa quien me pongan enfrente”\n\n➡️ En entrevista exclusiva con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070480232520249405",
+    "created_at": "Fri Jun 26 12:12:09 +0000 2026",
+    "full_text": "RT @FedeAlonss: 👇Indice de confianza del Gobierno https://t.co/7nsWYxZjV7",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070480183946063932",
+    "created_at": "Fri Jun 26 12:11:58 +0000 2026",
+    "full_text": "RT @lucasllach: Caputo entiende mejor que muchos de sus colegas la variable más misteriosa de la macroeconomía, y de la vida: el tiempo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070480014122881470",
+    "created_at": "Fri Jun 26 12:11:17 +0000 2026",
+    "full_text": "RT @neuramedia: 🇦🇷 Nueva York inauguró la “Argentina Way”\n\nLa ciudad oficializó el nombre de la calle ubicada frente al Consulado Argentino…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070479669380391064",
+    "created_at": "Fri Jun 26 12:09:55 +0000 2026",
+    "full_text": "RT @nadiajmarquez: Mi Presidente @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070479565315588135",
+    "created_at": "Fri Jun 26 12:09:30 +0000 2026",
+    "full_text": "RT @sfliberty: \"Socialism is a philosophy of failure, the creed of ignorance, and the gospel of envy, its inherent virtue is the equal shar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070479523368308851",
+    "created_at": "Fri Jun 26 12:09:20 +0000 2026",
+    "full_text": "RT @FedeAlonss: Pero el dólar está super atrasado.. https://t.co/DRxwPQQ9ee",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070479488542966132",
+    "created_at": "Fri Jun 26 12:09:12 +0000 2026",
+    "full_text": "RT @PotusAmarillo: \"El capital va donde hay negocios pero donde hay seguridad institucional. Donde no hay políticos como ustedes, básicamen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070440635346125183",
+    "created_at": "Fri Jun 26 09:34:49 +0000 2026",
+    "full_text": "RT @DiegoMac227: Cuando una imagen habla por si sola.\nEl riesgo país sigue bajando. https://t.co/O6s8SXRwev",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070414896928313786",
+    "created_at": "Fri Jun 26 07:52:32 +0000 2026",
+    "full_text": "RT @guarangol: Javier Milei celebró la inauguración de “Argentina Way”, el tramo de la Quinta Avenida de Nueva York que fue renombrado en h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070414646406738406",
+    "created_at": "Fri Jun 26 07:51:32 +0000 2026",
+    "full_text": "RT @Libernoticia: 🇦🇷 El Banco Central anunció la compra de USD 50 millones y encadenó su 113º día consecutivo sumando divisas, superando as…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2070414569588011291",
+    "created_at": "Fri Jun 26 07:51:14 +0000 2026",
+    "full_text": "RT @ronnie__rr: El gobierno de Milei está destrozando la deuda flotante. Y que lo llore quien lo tenga que llorar. https://t.co/LPQamcJEMl",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2070393234635768067",
     "created_at": "Fri Jun 26 06:26:27 +0000 2026",
     "full_text": "RT @yvangil: He estado en comunicación con Pablo Quirno, el canciller de la República Argentina, quien ha expresado sus más sinceras condol…",
