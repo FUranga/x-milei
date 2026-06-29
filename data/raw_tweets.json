@@ -1,5 +1,47 @@
 [
   {
+    "id": "2071606669331603489",
+    "created_at": "Mon Jun 29 14:48:13 +0000 2026",
+    "full_text": "Se viene la marea azul para Brasil de la mano de @FlavioBolsonaro ...!!!\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2071606103050158406",
+    "created_at": "Mon Jun 29 14:45:58 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei junto al senador y candidato a presidente de la República Federativa de Brasil, Flávio Bolsona…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2071599988627435967",
+    "created_at": "Mon Jun 29 14:21:40 +0000 2026",
+    "full_text": "ORGULLO NACIONAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2071567240537702415",
+    "created_at": "Mon Jun 29 12:11:32 +0000 2026",
+    "full_text": "RT @GiorgiaMeloni: Nel giorno della nascita di Oriana Fallaci viene naturale tornare a uno dei temi che ha attraversato gran parte della su…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2071556926937108778",
+    "created_at": "Mon Jun 29 11:30:33 +0000 2026",
+    "full_text": "RT @KamikazeMilei: Flavio Bolsonaro elogió la gestión de Javier Milei y aseguró: “Milei ha estado haciendo una revolución del bien en Argen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2071556743553753193",
+    "created_at": "Mon Jun 29 11:29:49 +0000 2026",
+    "full_text": "RT @Itongadol: Milei organiza en Buenos Aires la cumbre de los Acuerdos de Isaac con legisladores latinoamericanos para fortalecer los lazo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2071450991015137736",
     "created_at": "Mon Jun 29 04:29:36 +0000 2026",
     "full_text": "RT @laderechadiario: 🇧🇷🇦🇷 | El candidato derechista Flavio Bolsonaro llenó de elogios al presidente Javier Milei: \"Milei ha estado haciendo…",
