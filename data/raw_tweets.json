@@ -1,5 +1,285 @@
 [
   {
+    "id": "2073992432593608740",
+    "created_at": "Mon Jul 06 04:48:23 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Cada vez somos más. VLLC !",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073992199218286606",
+    "created_at": "Mon Jul 06 04:47:27 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Nunca deja a nadie sin una foto, sin un beso, sin unas palabras. Se toma su tiempo con cada uno, es una genia tipaza mal…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073991846296961096",
+    "created_at": "Mon Jul 06 04:46:03 +0000 2026",
+    "full_text": "RT @fededomin: Gráfico @Econometrica @rcas1 https://t.co/R2Z4N4n07h",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073991371774423355",
+    "created_at": "Mon Jul 06 04:44:10 +0000 2026",
+    "full_text": "RT @lanacionmas: 💬 «Hoy tenemos la tasa de homicidios más baja de la historia argentina»\n\nLa ministra de Seguridad @AleMonteoliva destacó l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073958371690938485",
+    "created_at": "Mon Jul 06 02:33:02 +0000 2026",
+    "full_text": "RT @maquepd: 🇪🇸 NICO GONZÁLEZ LE FIRMÓ UNA CAMISETA A MILEI CON EL “VIVA LA LIBERTAD CARAJO”\n\nEl futbolista español del Manchester City le…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073957472985890945",
+    "created_at": "Mon Jul 06 02:29:28 +0000 2026",
+    "full_text": "RT @travaglinigra: Y le manda VLLC!! 😂😂😂 https://t.co/1I19IUJfre",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073957193439719875",
+    "created_at": "Mon Jul 06 02:28:21 +0000 2026",
+    "full_text": "RT @DiegoMac227: Nico González lo sabe bien, VIVA LA LIBERTAD CARAJO. https://t.co/yx9XKwJ9jO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073942375584444713",
+    "created_at": "Mon Jul 06 01:29:28 +0000 2026",
+    "full_text": "RT @TomasSanchezAR: Mira esa camiseta!!!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073941804823527747",
+    "created_at": "Mon Jul 06 01:27:12 +0000 2026",
+    "full_text": "RT @enelojodelpoder: Mi presidente",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073941759445377371",
+    "created_at": "Mon Jul 06 01:27:02 +0000 2026",
+    "full_text": "RT @Gianferreyra_: HAALAND? DE LAS FUERZAS DEL CIELO, ABRAZO! https://t.co/QNpstgei8b",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073934518063423709",
+    "created_at": "Mon Jul 06 00:58:15 +0000 2026",
+    "full_text": "RT @Titanfdc: Nico Gonzalez (el español del City, no el argentino) le firmó una camiseta a Milei con el “viva la libertad carajo”. Tipazo.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073933456547971527",
+    "created_at": "Mon Jul 06 00:54:02 +0000 2026",
+    "full_text": "RT @ElTrumpista: HAALAND ES MILEISTA\n\nCOMO TODA PERSONA DE BIEN",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073932473138905101",
+    "created_at": "Mon Jul 06 00:50:08 +0000 2026",
+    "full_text": "RT @GordoLeyes: https://t.co/Q29JF2Iblt",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073932294772203930",
+    "created_at": "Mon Jul 06 00:49:25 +0000 2026",
+    "full_text": "RT @LaVonHayek: ES CINE. https://t.co/KgCblK2A7x",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073932076101800253",
+    "created_at": "Mon Jul 06 00:48:33 +0000 2026",
+    "full_text": "RT @anellogaby: El Crack de @ErlingHaaland le firmó la camiseta a @JMilei \nDos TIPAZOS \nTREMENDA CAMISETA",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073925924450422785",
+    "created_at": "Mon Jul 06 00:24:06 +0000 2026",
+    "full_text": "RT @JMilei: Miren la firma del lado derecho que se acompaña con el número 9... Vikingo sos un gigante...\n\nCC: @ErlingHaaland https://t.co/V…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073925392243827182",
+    "created_at": "Mon Jul 06 00:21:59 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: 🦁 https://t.co/bqlAcLq9Nw",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073925203391037614",
+    "created_at": "Mon Jul 06 00:21:14 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇳🇴 | El presidente Javier Milei felicitó a Erling Haaland por la histórica clasificación de Noruega a los cuartos d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073924615118676319",
+    "created_at": "Mon Jul 06 00:18:54 +0000 2026",
+    "full_text": "RT @davidurbani1: FENOMENO BARRIAL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073914882789986800",
+    "created_at": "Sun Jul 05 23:40:14 +0000 2026",
+    "full_text": "Miren la firma del lado derecho que se acompaña con el número 9... Vikingo sos un gigante...\n\nCC: @ErlingHaaland https://t.co/VPnB9KXjpf",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2073912156047732818",
+    "created_at": "Sun Jul 05 23:29:24 +0000 2026",
+    "full_text": "RT @DiegoMac227: Excelente trabajo que hace Karina Milei.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073910579450740793",
+    "created_at": "Sun Jul 05 23:23:08 +0000 2026",
+    "full_text": "RT @patoenero: #Milei2027",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073909383764017277",
+    "created_at": "Sun Jul 05 23:18:23 +0000 2026",
+    "full_text": "RT @Trumperizar: La nefasta Angela Lerena repudió a Messi cuando fue visitar a Trump en la CasaBlanca.\n\nHoy esta en EEUU🇺🇸 disfrutando del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073906031336575411",
+    "created_at": "Sun Jul 05 23:05:03 +0000 2026",
+    "full_text": "RT @lisandroalm: Argentina, faro de occidente.\n\nHace tan solo unos años, Europa era la salida para muchos de nuestros jóvenes. Hoy, sin emb…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073905937358770313",
+    "created_at": "Sun Jul 05 23:04:41 +0000 2026",
+    "full_text": "RT @MandrilandiaX: GRAN mes de Junio para el gobierno nacional ✅ \n\n• Imagen positiva de Milei: 36% ➜ 41%.\n• Confianza del consumidor: +6,4%…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073905715110871231",
+    "created_at": "Sun Jul 05 23:03:48 +0000 2026",
+    "full_text": "RT @DiegoMac227: Por que fracasa el socialismo?\n\nGran explicación del vocero de Presidencia, Adrián Ravier. https://t.co/cZpXw1vKLi",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073905140998738429",
+    "created_at": "Sun Jul 05 23:01:31 +0000 2026",
+    "full_text": "RT @agarra_pala: EN 2 MINUTOS MILEI TE CUENTA EL GOLPE BLANDO DE LOS MEDIOS\n@JMilei https://t.co/Oi0Z1GN2GW",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073904556677701644",
+    "created_at": "Sun Jul 05 22:59:12 +0000 2026",
+    "full_text": "RT @indignadoxd: Otra mala noticia para los kukas: Karina Milei entró a comer a un restaurante en Misiones y todos querían la foto con ella…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073904021069320354",
+    "created_at": "Sun Jul 05 22:57:04 +0000 2026",
+    "full_text": "RT @int_mon_econ: Super interesting!\n\n\"The international RBC model finally works!\" by Sushant Acharya, Edouard Challe, and Louphou Coulibal…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073888786447040713",
+    "created_at": "Sun Jul 05 21:56:32 +0000 2026",
+    "full_text": "RT @FerHodler: 🇦🇷 IIBB aporta entre 70% y 92% de la recaudación propia de la mayoría de las provincias:\n\n👉🏼 un impuesto que grava la factur…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073888543383167198",
+    "created_at": "Sun Jul 05 21:55:34 +0000 2026",
+    "full_text": "RT @julianyosovitch: Che mileiiiiiiiiii.. tenes que comprar dolaressss!!!\n\nMilei... https://t.co/aG8YCusgHV",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073888412546060503",
+    "created_at": "Sun Jul 05 21:55:03 +0000 2026",
+    "full_text": "RT @ajmechet: Bajamos la pobreza. \nMejoramos la educación. \nCon resultados, no con relatos.\n\n20 años de kirchnerismo dejaron promesas. \n\nYo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073888315464376815",
+    "created_at": "Sun Jul 05 21:54:40 +0000 2026",
+    "full_text": "RT @AleMonteoliva: La Brigada USAR ARG-13 regresó al país tras completar su misión de asistencia en Venezuela.\n\nNuestro reconocimiento a ca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073888200477564986",
+    "created_at": "Sun Jul 05 21:54:12 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | TIPAZO: El diputado @NYGBertie recordó el momento en que descubrió a @JMilei durante sus primeras apariciones tel…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073888163433480642",
+    "created_at": "Sun Jul 05 21:54:03 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Aclaración: PAMI no está bajo la órbita del Ministerio de Capital humano sino del Ministerio de salud. Aunque mientan lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073888105351061637",
+    "created_at": "Sun Jul 05 21:53:49 +0000 2026",
+    "full_text": "RT @leocifelli: Vamossss!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073888086375760033",
+    "created_at": "Sun Jul 05 21:53:45 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: Las ideas de la Libertad avanzan en todo el país. VLLC!!!\n\n📍Misiones https://t.co/eRQNOpXa4N",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073862657883750812",
+    "created_at": "Sun Jul 05 20:12:42 +0000 2026",
+    "full_text": "RT @follynomics: Economic growth is my favourite topic in the world to read and write about. I've come to view it broadly as civilization's…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073862159184871513",
+    "created_at": "Sun Jul 05 20:10:43 +0000 2026",
+    "full_text": "RT @DiegoMac227: Por mas que quieran, no van a parar la revolución que esta haciendo Milei. https://t.co/fxtVDywCsm",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2073862071926559020",
+    "created_at": "Sun Jul 05 20:10:23 +0000 2026",
+    "full_text": "RT @rcas1: No existe la \"restricción externa\"\n(Es restricción mental)\n\nNo existe la \"enfermedad holandesa\"\n(Solo un cínico compara el aumen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2073861993237553572",
     "created_at": "Sun Jul 05 20:10:04 +0000 2026",
     "full_text": "RT @FAHayekSays: Hayek: “Socialism assumes that all the available knowledge can be used by a single central authority.”\n\n“It overlooks that…",
