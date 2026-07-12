@@ -1,5 +1,180 @@
 [
   {
+    "id": "2076150668037955923",
+    "created_at": "Sun Jul 12 03:44:26 +0000 2026",
+    "full_text": "VAMOS ARGENTINA CARAJO...!!!\nLRPMQLRCRMP...",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2076107057703399793",
+    "created_at": "Sun Jul 12 00:51:09 +0000 2026",
+    "full_text": "RT @AdrianRavier: Columna de nuestro Canciller @pabloquirno para el diario La Nación.\n\n“La historia, el derecho y el concierto de naciones…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076080681634103625",
+    "created_at": "Sat Jul 11 23:06:20 +0000 2026",
+    "full_text": "RT @scipiogentinum: El país saliendo de la barbarie kirchnerista",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076078356550885552",
+    "created_at": "Sat Jul 11 22:57:06 +0000 2026",
+    "full_text": "RT @agarra_pala: DESASNANDO A MARÍA O'DONNELL\n@JMilei https://t.co/x9cJ37d8TX",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076077968418296225",
+    "created_at": "Sat Jul 11 22:55:33 +0000 2026",
+    "full_text": "RT @OldeWorldOrder: MARCO RUBIO: \"Marxism is not dead. If we don’t confront this now, and defeat it, it will destroy this country &amp; everyth…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076076311571796225",
+    "created_at": "Sat Jul 11 22:48:58 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🦁MILEI REIVINDICÓ LA BATALLA CULTURAL Y EL DÉFICIT CERO\n🔥Afirmó que la política debió aceptar el valor del orden fiscal.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076066388825743634",
+    "created_at": "Sat Jul 11 22:09:33 +0000 2026",
+    "full_text": "RT @juanfloreschaar: “Es una locura, es delirante, pensar que un representante del pueblo está por encima del pueblo mismo.” - Javier Milei…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076061616932638972",
+    "created_at": "Sat Jul 11 21:50:35 +0000 2026",
+    "full_text": "RT @agarra_pala: VIDEO ÉPICO DEL DÍA DE LA INDEPENDENCIA\n@JMilei https://t.co/U4UXcQ1r4W",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076061297930613075",
+    "created_at": "Sat Jul 11 21:49:19 +0000 2026",
+    "full_text": "RT @agarra_pala: MEMORIA: ASÍ LA CHORRA SE REÍA DE LOS JUBILADOS\n@JMilei https://t.co/RFuWtRgkYe",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076061147212488838",
+    "created_at": "Sat Jul 11 21:48:43 +0000 2026",
+    "full_text": "RT @Tv_Libertaria: 🇦🇷 SIGUE BAJANDO LA POBREZA INFANTIL GRACIAS AL PRESIDENTE MILEI https://t.co/9gDwTHkzMc",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076058829989556385",
+    "created_at": "Sat Jul 11 21:39:31 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🦁NO HABRÁ ACUERDOS SIN IDEAS DE LA LIBERTAD\n🔥 Milei ratificó que no cederá en sus principios. Advirtió que cualquiera que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076058700087758964",
+    "created_at": "Sat Jul 11 21:39:00 +0000 2026",
+    "full_text": "RT @juanfloreschaar: 2026 y el \"riesgo K\" sigue bajando. ¿Será que los mercados ya entendieron que la gente ya eligió otro camino? 🦁🇦🇷 http…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076057218374308238",
+    "created_at": "Sat Jul 11 21:33:06 +0000 2026",
+    "full_text": "RT @agarra_pala: \"NO LA VI LLORAR POR 300% DE INFLACIÓN, LAS FIESTAS DE ALBERTO EN LA QUINTA DE OLIVOS MIENTRAS ENCERRABA A TODOS, Y DEJABA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076057177802830123",
+    "created_at": "Sat Jul 11 21:32:57 +0000 2026",
+    "full_text": "RT @DiegoMac227: Las Malvinas son Argentinas",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076056825636561335",
+    "created_at": "Sat Jul 11 21:31:33 +0000 2026",
+    "full_text": "RT @SoleMolinuevo: El diseño kirchnerista multiplicó objetivos para justificar emisión discrecional y financiar al fisco sin límites. Resul…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076056143299027447",
+    "created_at": "Sat Jul 11 21:28:50 +0000 2026",
+    "full_text": "RT @ChouhyMentor: @LaVonHayek \"El resentimiento y la hostilidad hacia las personas con mayores logros son uno de los fracasos humanos más e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076055918048170313",
+    "created_at": "Sat Jul 11 21:27:56 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l Milei visitará Brasil para apoyar la candidatura de Flavio Bolsonaro y visitar a Jair Bolsonaro. https://t.co/GMoIFn…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076055791631585440",
+    "created_at": "Sat Jul 11 21:27:26 +0000 2026",
+    "full_text": "RT @braga_dito: Falacia ad Intelligentiam Artificialem: la nueva falacia de los opositores ; https://t.co/QimjCq3gSS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076055494893207922",
+    "created_at": "Sat Jul 11 21:26:15 +0000 2026",
+    "full_text": "RT @fargosi: Como es una muy buena noticia y es con y por @JMilei, no creo que lo veas en la mayoría de los medios.\n\nhttps://t.co/psRSr5UrJN",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076055400252948545",
+    "created_at": "Sat Jul 11 21:25:53 +0000 2026",
+    "full_text": "RT @DiegoMac227: Hoy me puse a leer algunos comentarios de kirchneristas y vi que muchos vuelven a mencionar el tema del Garrahan. Más allá…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076055374919020968",
+    "created_at": "Sat Jul 11 21:25:47 +0000 2026",
+    "full_text": "RT @agarra_pala: 📈 MEGA-REPUNTE DE LA CONSTRUCCIÓN QUE HACE LLORAR A LOS KUKARDOS\n\n👉 En mayo creció un 6,3%, comparado con mayo del año pas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076054880842666136",
+    "created_at": "Sat Jul 11 21:23:49 +0000 2026",
+    "full_text": "RT @MiltonFriedmanW: “You have everybody screaming that we ought to have new, bigger, more generous government programs. Where are we going…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076054552927756634",
+    "created_at": "Sat Jul 11 21:22:31 +0000 2026",
+    "full_text": "NUESTRO CANCILLER.\n\nCC: @pabloquirno",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2076054426822005136",
+    "created_at": "Sat Jul 11 21:22:01 +0000 2026",
+    "full_text": "RT @pabloquirno: Malvinas: La fuerza de una causa justa\n\nPor historia, por derecho y convicción, las Malvinas son Argentinas. \n\n🇦🇷🇦🇷🇦🇷\n\n👇🏼…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2076042960790077937",
+    "created_at": "Sat Jul 11 20:36:27 +0000 2026",
+    "full_text": "RT @RealArturoH: Ahora que Noruega está de moda vale la pena revisar por qué le va tan bien. Ya vi a varios zurdos repetir que \"Noruega es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2076022223173738684",
     "created_at": "Sat Jul 11 19:14:03 +0000 2026",
     "full_text": "RT @laderechadiario: 🇦🇷🇪🇸 | “MASTERCLASS”: El presidente @JMilei celebró el contundente descargo de un youtuber español que expuso a los fr…",
