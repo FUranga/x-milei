@@ -1,5 +1,166 @@
 [
   {
+    "id": "2080010744880386399",
+    "created_at": "Wed Jul 22 19:23:00 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨UPGRADE CREDITICIO Y BAJA DEL RIESGO PAIS🚨\n➡️Moodyʼs elevó las calificaciones de emisor de largo plazo de Argentina e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080010384153440400",
+    "created_at": "Wed Jul 22 19:21:34 +0000 2026",
+    "full_text": "RT @radiomitre: 🎙️ \"Vamos a llegar con una economía sumamente fuerte\": la proyección del viceministro de Economía de cara a las elecciones…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080010341728362655",
+    "created_at": "Wed Jul 22 19:21:24 +0000 2026",
+    "full_text": "RT @lilialemoine: No se dejen psicopatear por los kukas.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079972234672640433",
+    "created_at": "Wed Jul 22 16:49:59 +0000 2026",
+    "full_text": "RT @FernandoMarull: Alquileres.\n\nEliminar la Ley de Alquileres bajo el precio de los alquileres 50% en 2 años. https://t.co/NZgUM8YmUM",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079972214015705360",
+    "created_at": "Wed Jul 22 16:49:54 +0000 2026",
+    "full_text": "RT @mediceneljefe: Récord absoluto de envíos puerta a puerta en la Argentina. Con @JMilei, la libertad de comercio es total y los argentino…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079971522458841422",
+    "created_at": "Wed Jul 22 16:47:09 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Viceministro de Economía, @JoseLuisDazaAR, fija la meta del grado de inversión para 2031. Riesgo país hasta trescie…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079971496655528308",
+    "created_at": "Wed Jul 22 16:47:03 +0000 2026",
+    "full_text": "RT @mileibarrial: Argentina será grande nuevamente!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079971419752935473",
+    "created_at": "Wed Jul 22 16:46:45 +0000 2026",
+    "full_text": "RT @pabloquirno: Comparto un fragmento de la entrevista que tuve ayer con @JonatanViale en La Rural en la que conversamos sobre el trabajo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079960926007038023",
+    "created_at": "Wed Jul 22 16:05:03 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: Cuando un país ofrece reglas claras, seguridad jurídica y previsibilidad, el capital privado responde. Y responde EN GR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079959786414575992",
+    "created_at": "Wed Jul 22 16:00:31 +0000 2026",
+    "full_text": "RT @MinSeguridad_Ar: OPERATIVO \"COSECHÁS LO QUE SEMBRÁS\"\n\nDurante años sembraron explotación. Hoy cosecharon la cárcel.\n\nMediante una inves…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079956805384286567",
+    "created_at": "Wed Jul 22 15:48:40 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Desde el Ministerio de Capital Humano trabajamos con el sector privado para brindarles oportunidades a los argentinos.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079956765127442467",
+    "created_at": "Wed Jul 22 15:48:31 +0000 2026",
+    "full_text": "RT @Felii_N: Tremendo, Milei le bajó 50% el alquiler a la gente.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079944446590791848",
+    "created_at": "Wed Jul 22 14:59:34 +0000 2026",
+    "full_text": "RT @lilialemoine: Lista completa y ordenada de las maldades del kirchnerismo contra la Selección Argenrina... es decir, contra Argentina. N…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079944408124797114",
+    "created_at": "Wed Jul 22 14:59:25 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: Entrevista al Viceministro de Economía, @JoseLuisDazaAR, en el programa “Alguien tiene que decirlo”, conducido por @edu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079944385991450937",
+    "created_at": "Wed Jul 22 14:59:19 +0000 2026",
+    "full_text": "RT @AleMonteoliva: 223 KILOS DE DROGA NO LLEGARÁN A DESTINO\n\nLos patrullajes permanentes del Plan Paraná para blindar la Hidrovía dan resul…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079944153325043981",
+    "created_at": "Wed Jul 22 14:58:24 +0000 2026",
+    "full_text": "RT @fededomin: Escuchar a Bonadeo. En el mundo hay una admiración profunda por Argentina, por la Selección y por sus jugadores.\n\nAgrego que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079943895555666253",
+    "created_at": "Wed Jul 22 14:57:22 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Desde el Ministerio de Capital Humano trabajamos con el sector privado para brindarles oportunidades a los argentinos.\n\nE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079943824399335885",
+    "created_at": "Wed Jul 22 14:57:05 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: IMPORTANTE 👇🏻\n\nSe realizó la apertura de las ofertas económicas de la Etapa III de la Red Federal de Concesiones, un nuev…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079943802131816532",
+    "created_at": "Wed Jul 22 14:57:00 +0000 2026",
+    "full_text": "RT @fedesturze: Con esta etapa se va completando la privatización de la red troncal de transporte vial. Un paso trascendental para la produ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079943754887123070",
+    "created_at": "Wed Jul 22 14:56:49 +0000 2026",
+    "full_text": "RT @lilialemoine: Nos odia la mitad zurda de cada pais del tercer mundo. Sorprendentemente el más pobre,  nos ama (Bangladesh).\n\nExpresan s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079934969938378869",
+    "created_at": "Wed Jul 22 14:21:54 +0000 2026",
+    "full_text": "ABSOLUTAMENTE CIERTO.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2079934914615484647",
+    "created_at": "Wed Jul 22 14:21:41 +0000 2026",
+    "full_text": "RT @AgustinLaje: El kirchnerismo ha sido una pieza fundamental de la campaña anti-argentina: validaron el wokismo que hoy nos acusa de raci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2079915314595135926",
+    "created_at": "Wed Jul 22 13:03:48 +0000 2026",
+    "full_text": "\"You have enemies? Good. That means you've stood up for something, sometime in your life.\"\n\n                                         Winston Churchill \n\nPD: algunos sostienen que la frase es de Victor Hugo y que Churchill sólo le hizo una puesta al día.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
     "id": "2079892798208160097",
     "created_at": "Wed Jul 22 11:34:20 +0000 2026",
     "full_text": "RT @dlaje1: Argentinos: bienvenidos a la guerra híbrida. \n\nEstamos viviendo un ataque total, y se parece demasiado a lo que Irán haría como…",
