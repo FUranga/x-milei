@@ -1,5 +1,306 @@
 [
   {
+    "id": "2080727635114561615",
+    "created_at": "Fri Jul 24 18:51:40 +0000 2026",
+    "full_text": "RT @pajaromartino: Es increíble con la liviandad que hablan ex terroristas que asesinaron  inocentes   o ex populistas que destrozaron a la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080727384895131996",
+    "created_at": "Fri Jul 24 18:50:41 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇷 | HISTÓRICO: El presidente Javier Milei viajará este viernes a San Pablo, Brasil, donde será recibido por el gob…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080713451505402277",
+    "created_at": "Fri Jul 24 17:55:19 +0000 2026",
+    "full_text": "RT @lilialemoine: El castrochavismo está alineado con Irán y Rusia. Argentina está geopolíticamente alineada con USA e Israel.\nPor eso el k…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080712850557809024",
+    "created_at": "Fri Jul 24 17:52:56 +0000 2026",
+    "full_text": "RT @lilialemoine: Tomás Mendez, el títere de Franco Bindi y Marcela Pagano inventó y operó que el gobierno ordenó sacar los carteles de Mal…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080710589303738648",
+    "created_at": "Fri Jul 24 17:43:56 +0000 2026",
+    "full_text": "RT @DiegoMac227: Esta semana hemos visto como el Kirchnerismo ha montado toda estrategia para decir que los argentinos son racistas por cul…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080710436333252823",
+    "created_at": "Fri Jul 24 17:43:20 +0000 2026",
+    "full_text": "RT @mediceneljefe: Los argentinos de bien confían en las ideas de la Libertad de @JMilei y en seguir transformando el país para siempre. VL…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080710339319218207",
+    "created_at": "Fri Jul 24 17:42:57 +0000 2026",
+    "full_text": "RT @julianyosovitch: Extraño caso de atraso cambiario: La BC de bienes registró en JUN26 su 31° superávit mensual consecutivo (+u$s 2200M v…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080710143637864459",
+    "created_at": "Fri Jul 24 17:42:10 +0000 2026",
+    "full_text": "RT @martinvars: I used to get a ton of antisemitic bot attacks. So many that with Claude Terminal I coded a program that was blocking them…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080710038268846153",
+    "created_at": "Fri Jul 24 17:41:45 +0000 2026",
+    "full_text": "RT @AXELKAISER: Sobre todo credenciales democráticas y de DDHH https://t.co/U1LlUtFw2V",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080709048467398685",
+    "created_at": "Fri Jul 24 17:37:49 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Desde el Ministerio de Capital Humano trabajamos con el sector privado para brindarles oportunidades a los argentinos.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080694025632309255",
+    "created_at": "Fri Jul 24 16:38:07 +0000 2026",
+    "full_text": "RT @jorgemacri: Contundente!!! \n\nDespués de 14 años recuperamos la calificación B1 de Moody’s y tenemos la máxima nota subsoberana de la Ar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080691301025038686",
+    "created_at": "Fri Jul 24 16:27:18 +0000 2026",
+    "full_text": "RT @SPettovelloOK: El segundo edificio del Centro de Formación Capital Humano ya se encuentra listo para su remodelación.\n\nTras 8 días de t…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080691280753963192",
+    "created_at": "Fri Jul 24 16:27:13 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Nos copian discurso, propuestas, estética y métodos de comunicación. No hay problema. Felices de ser la vanguardia que l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080691224684724320",
+    "created_at": "Fri Jul 24 16:26:59 +0000 2026",
+    "full_text": "RT @mileibarrial: Argentina será grande nuevamente!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080691177276285412",
+    "created_at": "Fri Jul 24 16:26:48 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Desde el Ministerio de Capital Humano trabajamos con el sector privado para brindarles oportunidades a los argentinos.\n\nE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080691150692708828",
+    "created_at": "Fri Jul 24 16:26:42 +0000 2026",
+    "full_text": "RT @MinSeguridad_Ar: OPERATIVO \"SE LES ACABÓ LA JODA\" \n\nAntes de llegar a la fiesta, llegamos nosotros.\n\nA través de una investigación del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080691127389134941",
+    "created_at": "Fri Jul 24 16:26:36 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇺🇸l Trump: “Lo woke es una mierda”.\n\nExactamente https://t.co/vvHYTo22GK",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080691096628138432",
+    "created_at": "Fri Jul 24 16:26:29 +0000 2026",
+    "full_text": "RT @fedesturze: Extraordinario",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080690997214756889",
+    "created_at": "Fri Jul 24 16:26:05 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: 🇦🇷 UNA INDUSTRIA QUE EXPORTA 🇦🇷\n\nVale aclarar: esto sucede SIN UN SOLO ESTÍMULO FISCAL desde que Milei inició mandato.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080690893237944351",
+    "created_at": "Fri Jul 24 16:25:40 +0000 2026",
+    "full_text": "RT @PilarRamirezmpr: El modelo de @JMilei es el que está bajando la inflación, la pobreza y trae inversiones a nuestro país. Los argentinos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080690629374259620",
+    "created_at": "Fri Jul 24 16:24:38 +0000 2026",
+    "full_text": "RT @AleCiroAlvarez: Tema: esclavitud en Argentina y en EE. UU.\nEl Congreso de EE. UU. aprobó, el 31 de enero de 1865, la Decimotercera Enmi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080690425719898436",
+    "created_at": "Fri Jul 24 16:23:49 +0000 2026",
+    "full_text": "RT @mediceneljefe: El Presidente @JMilei viaja a San Pablo para respaldar a @FlavioBolsonaro en la convención del PL. Tiembla la izquierda…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080690375149138083",
+    "created_at": "Fri Jul 24 16:23:37 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷💣“ESTOY INDIGNADO CON LO QUE DICEN, SON HIPÓCRITAS”\n\nMIGRANTE ANGOLEÑO ANIQUILÓ A LOS FAMOSOS QUE SE SUMARON A LA CAMPAÑ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080689638230970765",
+    "created_at": "Fri Jul 24 16:20:41 +0000 2026",
+    "full_text": "RT @fededomin: Qué hipócritas. Que donen voluntariamente.\n\nLos estadounidenses donan alrededor del 2% del PBI por año, USD 617.000 MM en 20…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080688715748577632",
+    "created_at": "Fri Jul 24 16:17:01 +0000 2026",
+    "full_text": "RT @pabloquirno: Dimos inicio al Triálogo “Protegiendo el Futuro” en el Palacio San Martín, junto @LolaVelarde, Directora Ejecutiva de Poli…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080688520553804287",
+    "created_at": "Fri Jul 24 16:16:15 +0000 2026",
+    "full_text": "RT @dievalen: INDUSTRIA AUTOMOTRIZ. El gobierno nacional bajó impuestos, ahora el gran desafío es el ingresos brutos de las provincias. En…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080688430682358000",
+    "created_at": "Fri Jul 24 16:15:53 +0000 2026",
+    "full_text": "RT @Tomidiazcueto: Que tipo pelotudo este. Se pusieron a operar desde ayer con Tomas Mendez en Cronica y al final...¿era renovación de pega…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080671863542358238",
+    "created_at": "Fri Jul 24 15:10:03 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷💣“MILEI ES CONOCIDO EN EL MUNDO”\n\nPALIZA TOTAL AL COMUNISTA KICILLOF QUE QUISO CULPAR A MILEI POR LA CAMPAÑA ANTI ARGENT…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080671393763516770",
+    "created_at": "Fri Jul 24 15:08:11 +0000 2026",
+    "full_text": "RT @DiegoMac227: Milei está muy lejos de ser racista o xenófobo, por más que desde el kirchnerismo intenten instalar ese relato para demoni…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080671333214507470",
+    "created_at": "Fri Jul 24 15:07:57 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Friendly reminder: https://t.co/LquMYOs9AZ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080671311517347926",
+    "created_at": "Fri Jul 24 15:07:52 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: Milei le enseñó a los argentinos que ese \"gastito extra\" y ese \"poquito de emisión\" populista electoral después lo paga…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080671224993042522",
+    "created_at": "Fri Jul 24 15:07:31 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: FALSO. FALSO. FALSO.\n\nNo existe NINGUNA ORDEN del Gobierno Nacional ni de la Secretaría de Transporte para eliminar la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080671091828134318",
+    "created_at": "Fri Jul 24 15:06:59 +0000 2026",
+    "full_text": "RT @fargosi: Era cuestión de sacarle el pié de encima a los productores...\n\nEs con y por @JMilei 👏👏👏👏👏",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080670507276423386",
+    "created_at": "Fri Jul 24 15:04:40 +0000 2026",
+    "full_text": "RT @fundfaro: “El kirchnerismo no quería que gane Argentina. Quedaron resentidos porque en el 2022 los jugadores no aceptaron festejar con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080670339877490790",
+    "created_at": "Fri Jul 24 15:04:00 +0000 2026",
+    "full_text": "RT @DiegoMac227: Adrian Ravier sobre el milagro argentino \n\n\"Bueno, primero, milagro, un milagro. Si uno parte de donde estábamos en más de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080670315898614268",
+    "created_at": "Fri Jul 24 15:03:54 +0000 2026",
+    "full_text": "RT @AleMonteoliva: PRESO MIENTRAS TRAMITAMOS LA EXTRADICIÓN \n\nTenía pedido de captura internacional por abusar de una menor en Perú. Vino a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080670299893166355",
+    "created_at": "Fri Jul 24 15:03:51 +0000 2026",
+    "full_text": "RT @fedesturze: MERCADOS PARA RESTRICCIONES DE CAPACIDAD EN AEROPUERTOS. Con la publicación de la Resolución 49/2026 de la Secretaría de Tr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080670261838316011",
+    "created_at": "Fri Jul 24 15:03:42 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: LOS ARGENTINOS OPTARON POR UNA SOCIEDAD LIBRE. VLLC!!! https://t.co/tQX89l0CwP",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080670230611718637",
+    "created_at": "Fri Jul 24 15:03:34 +0000 2026",
+    "full_text": "RT @TV_Publica: 💰 ¿Cómo puede influir el proyecto de inocencia fiscal en la economía? ¿Qué impacto podrían tener los nuevos anuncios del mi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080637716698472960",
+    "created_at": "Fri Jul 24 12:54:22 +0000 2026",
+    "full_text": "RT @KarenReichardt1: Mientras algunos hablan, La Libertad Avanza Avanza y MODERNIZA\n\nEl Garrahan ya cuenta con 18 nuevas mesas quirúrgicas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080637244419784853",
+    "created_at": "Fri Jul 24 12:52:30 +0000 2026",
+    "full_text": "RT @miguelhzv: Rothbard es, sin lugar a duda, el mejor teórico social del siglo veinte.\n\nCasi todos los grandes pensadores sociales del sig…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080636837106753616",
+    "created_at": "Fri Jul 24 12:50:52 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Todo mi apoyo en este momento @BenArgentino y equipo. Evidentemente para algunos la libertad es una gran amenaza. https:…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2080636578209169793",
+    "created_at": "Fri Jul 24 12:49:51 +0000 2026",
+    "full_text": "RT @lanacionmas: 💬 \"Caparrós es un sujeto despreciable que trabaja de bueno\"\n\nEl presidente de la Fundación Faro, Agustín Laje, salió al cr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2080611873410494864",
     "created_at": "Fri Jul 24 11:11:41 +0000 2026",
     "full_text": "RT @agarra_pala: 🚨🔥 “SE DEDICARON A REPLICAR ESE TIPO DE MENSAJE”\n\nAGUSTÍN LAJE PRENDE FUEGO A PÁGINA 12, EL DESTAPE Y LOS OPERADORES K TRA…",
