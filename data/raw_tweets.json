@@ -1,5 +1,684 @@
 [
   {
+    "id": "2081236822013714794",
+    "created_at": "Sun Jul 26 04:35:00 +0000 2026",
+    "full_text": "RT @JMilei: MASTERCLASS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081234308610531438",
+    "created_at": "Sun Jul 26 04:25:01 +0000 2026",
+    "full_text": "RT @dolarbluehoy: Milei atraviesa el desgaste de mitad de mandato con un activo que no es menor: alrededor de 40% de aprobación y la estabi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081234089533686256",
+    "created_at": "Sun Jul 26 04:24:09 +0000 2026",
+    "full_text": "RT @AleResnik: 58% of all conversations about Argentina come from Brazil, Mexico, Spain, France, and the UK.\n\nThe socialists can’t stop tal…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081234004376731684",
+    "created_at": "Sun Jul 26 04:23:48 +0000 2026",
+    "full_text": "RT @IvanDuboisok: Le explicas a @luisnovaresio que el costo no determina el precio?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081233835421757786",
+    "created_at": "Sun Jul 26 04:23:08 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | CON LA TUYA: Denunciaron que el Gobierno de Axel Kicillof estaría utilizando USD 10.000 para manipular el mercad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081231958474887450",
+    "created_at": "Sun Jul 26 04:15:40 +0000 2026",
+    "full_text": "RT @andresmego: Toda la industria editorial —el autor, el editor, la imprenta, el distribuidor, la librería— existe por una razón que suele…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081231584221368681",
+    "created_at": "Sun Jul 26 04:14:11 +0000 2026",
+    "full_text": "RT @andresmego: Una industria que olvida al lector termina pareciéndose a una biblioteca sin libros: conserva la forma, pero ha perdido el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081231386870939761",
+    "created_at": "Sun Jul 26 04:13:24 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇷 | Javier Milei destruyó al kirchnerismo durante su discurso en la oficialización de Flávio Bolsonaro como candid…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081231347792720196",
+    "created_at": "Sun Jul 26 04:13:15 +0000 2026",
+    "full_text": "RT @DiegoMac227: Exactamente,  es importante tener eso presente no solo de ese impresentable sino también de todos los que reciben pautas p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081231308986908997",
+    "created_at": "Sun Jul 26 04:13:06 +0000 2026",
+    "full_text": "RT @juanif17: 👉Es ley: Por cada desregulacion, hay minimo 1 lloron https://t.co/Vryp29cVOE",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081231248911978814",
+    "created_at": "Sun Jul 26 04:12:51 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: Nuestro Javier Milei, economista y presidente argentino, REFERENTE MUNDIAL del liberalismo y los valores occidentales.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081217938841825671",
+    "created_at": "Sun Jul 26 03:19:58 +0000 2026",
+    "full_text": "RT @pabloquirno: Se deschavan entre ellos…cualquier similitud es pura coincidencia. https://t.co/lEj7OG4fQ7",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209999724875906",
+    "created_at": "Sun Jul 26 02:48:25 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l Firma de Milei en la visita oficial a Sao Paulo. https://t.co/TYVFHOlhbL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209963238584429",
+    "created_at": "Sun Jul 26 02:48:16 +0000 2026",
+    "full_text": "RT @ViejoLibertario: La palabra con más autoridad en el tema libros.\n\n@andresmego, un apasionado de la lectura, y la escritura, que su voca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209843101171897",
+    "created_at": "Sun Jul 26 02:47:48 +0000 2026",
+    "full_text": "RT @OPRArgentina: Discurso del Presidente Javier Milei en el acto de lanzamiento de la candidatura a presidente de Flávio Bolsonaro, en Bra…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209818035970383",
+    "created_at": "Sun Jul 26 02:47:42 +0000 2026",
+    "full_text": "RT @andresmego: Yo prefiero proteger al lector.\nAl tipo que entra a una librería con la ilusión de comprar un libro y se va con las manos v…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209576771182707",
+    "created_at": "Sun Jul 26 02:46:44 +0000 2026",
+    "full_text": "RT @liberalesdepie: La libertad une naciones, el socialismo las destruye.\n\nPor eso Argentina y Brasil eligen, y siguen eligiendo, las ideas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209542633771392",
+    "created_at": "Sun Jul 26 02:46:36 +0000 2026",
+    "full_text": "RT @eduardomenoni: 🚨URGENTE: El presidente Javier Milei dice que el asqueroso Foro de São Paulo fue creado por Lula para difundir el comuni…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209415089189289",
+    "created_at": "Sun Jul 26 02:46:06 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇷 | Así fue el momento en que Javier Milei arribó a San Pablo para recibir la Orden de Ipiranga, la máxima distinc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209378942640336",
+    "created_at": "Sun Jul 26 02:45:57 +0000 2026",
+    "full_text": "RT @LaVonHayek: Ah gran cosa los comunicados de la CAL, lo mismo hacían la Cámara Argentina del Juguete mientras sus miembros te vendían va…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209190907871613",
+    "created_at": "Sun Jul 26 02:45:12 +0000 2026",
+    "full_text": "RT @javierhfabre: Que nadie se sorprenda por lo que viene. Las corporaciones están en pie de guerra y sus voceros actúan con la desesperaci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209117520036260",
+    "created_at": "Sun Jul 26 02:44:55 +0000 2026",
+    "full_text": "RT @CompteJM: Lula, presidente, vino a la Argentina, hizo campaña con un candidato presidencial y visitó y se fogografió con una persona en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209057390530674",
+    "created_at": "Sun Jul 26 02:44:40 +0000 2026",
+    "full_text": "RT @agarra_pala: 🔥💰 | AVENIDA CORRIENTES EXPLOTA EN TURISMO Y LA GENTE APROVECHA PARA HACER COMPRAS Y PASEAR.\n\n“NOSOTROS ANDUVIMOS MUCHO DE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081209029498384696",
+    "created_at": "Sun Jul 26 02:44:34 +0000 2026",
+    "full_text": "RT @marceloduclos: Los costos determinan los precios, dice. Hay q enseñar escuela austriaca en la primaria.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081208946208002208",
+    "created_at": "Sun Jul 26 02:44:14 +0000 2026",
+    "full_text": "RT @CaligulaMMIV: Y como dice el gran toto, hay momentos en la historia en que la historia cambia. El gran liderazgo del presidente Javier…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081208662995972545",
+    "created_at": "Sun Jul 26 02:43:06 +0000 2026",
+    "full_text": "RT @andresmego: La Ley del Libro se escribió en 2001.\nEstamos en 2026.\nEn veinticinco años cambió el mundo.\nCambió la manera de escribir.\nC…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081208441008189629",
+    "created_at": "Sun Jul 26 02:42:13 +0000 2026",
+    "full_text": "RT @FlavioBolsonaro: 🇦🇷 Hoy empuñé las tijeras junto al presidente @JMilei en el Pacaembu. No fue solo un gesto, fue un compromiso.\n\nArgent…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081208387908321421",
+    "created_at": "Sun Jul 26 02:42:01 +0000 2026",
+    "full_text": "RT @nadiajmarquez: El mejor Presidente de #Argentina",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081208354366439666",
+    "created_at": "Sun Jul 26 02:41:53 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l Milei recibe  la Orden de Ipiranga, la máxima condecoración honorífica paulista, por parte del Gobernador del Estado…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081208323559321814",
+    "created_at": "Sun Jul 26 02:41:45 +0000 2026",
+    "full_text": "RT @FAST_GAST: Novaresio se sube a una operación en la que va a terminar reculando,ya que la derogación de dicha ley beneficia a las librer…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081208099491250256",
+    "created_at": "Sun Jul 26 02:40:52 +0000 2026",
+    "full_text": "RT @andresmego: Una industria editorial sana no debería preguntarse primero cómo proteger a cada uno de sus actores.\nDebería preguntarse có…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081208052917678426",
+    "created_at": "Sun Jul 26 02:40:41 +0000 2026",
+    "full_text": "RT @JoseLuisDazaAR: Muchas gracias Presidente @JMilei \n26 meses consecutivos en pleno ajuste del tamaño del estado. . \n!Y recien empieza!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081208022617960518",
+    "created_at": "Sun Jul 26 02:40:34 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: https://t.co/IDcoaA9S7j",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081207819437510714",
+    "created_at": "Sun Jul 26 02:39:45 +0000 2026",
+    "full_text": "RT @BetoMendeleiev_: Quise ir a lavar el auto. Fila de al menos 15 autos que daba la vuelta a la manzana. Al taco el lavajato. Por que la g…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081207730992198118",
+    "created_at": "Sun Jul 26 02:39:24 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | TE SALVA EL PRIVADO: El Ministerio de Economía de Milei publicó un video celebrando la puesta en marcha de la Re…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081207683907010821",
+    "created_at": "Sun Jul 26 02:39:13 +0000 2026",
+    "full_text": "RT @monedadeargy: ☠️ Las Batakis de la vida se formaron bajo esta situación extraordinaria que describe Martín, cuando la izquierda tomó la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081207545058775320",
+    "created_at": "Sun Jul 26 02:38:40 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l VLLC https://t.co/2aWpZBS23u",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081207509361066355",
+    "created_at": "Sun Jul 26 02:38:31 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Lo que se promete en campaña, se cumple en mandato. https://t.co/pbERgfBVZG",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081204688414806400",
+    "created_at": "Sun Jul 26 02:27:19 +0000 2026",
+    "full_text": "RT @alejandronimoAr: Tomen nota zurdos: https://t.co/VWHyairJpg",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081204119843323944",
+    "created_at": "Sun Jul 26 02:25:03 +0000 2026",
+    "full_text": "RT @UHN_Plus: 🇦🇷🇧🇷‼️ | El Presidente Javier Milei expresó su molestia por las restricciones para visitar al exmandatario brasileño Jair Bol…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081203521932706133",
+    "created_at": "Sun Jul 26 02:22:41 +0000 2026",
+    "full_text": "RT @antoninidejimen: El mundo odia a Argentina porque odia a @JMilei https://t.co/eRq1lossZd",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081202939490680900",
+    "created_at": "Sun Jul 26 02:20:22 +0000 2026",
+    "full_text": "RT @CaligulaMMIV: Gran masterclass del profesor.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081202685009674391",
+    "created_at": "Sun Jul 26 02:19:21 +0000 2026",
+    "full_text": "RT @BetoMendeleiev_: Explotadisimo Palermo. Zona Rural intransitable. Don Julio al taco, un hormiguero. Donde está la crisis de la que habl…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081202508605632607",
+    "created_at": "Sun Jul 26 02:18:39 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l Gran apoyo a Flavio Bolsonaro.\nBrasil sera libre. https://t.co/PcF2FPXlyH",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081202326170112025",
+    "created_at": "Sun Jul 26 02:17:56 +0000 2026",
+    "full_text": "RT @BolsonaroSP: 🔵El momento en que la ola azul llegua a Brasil! @JMilei y @FlavioBolsonaro 🔵 https://t.co/kXX1CBorRv",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081201856513020307",
+    "created_at": "Sun Jul 26 02:16:04 +0000 2026",
+    "full_text": "RT @fargosi: Excelente e imprescindible análisis de Potus Amarillo sobre la estrategia de acusar de racista para atropellar a Occidente.\n\n\"…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081201661905695219",
+    "created_at": "Sun Jul 26 02:15:17 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇷 | El presidente Milei en la Convención del Partido Liberal en San Pablo: \n\n“Los argentinos somos profetas de un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081201611565605118",
+    "created_at": "Sun Jul 26 02:15:05 +0000 2026",
+    "full_text": "RT @ocampo_emilio: Bien contestado @fedesturze !",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081200966779453784",
+    "created_at": "Sun Jul 26 02:12:31 +0000 2026",
+    "full_text": "RT @DiegoMac227: Personas que visitaron al delincuente de Lula da Silva cuando estuvo en la carcel:\n\nPresidentes y ex presidentes\n\nJosé \"Pe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081200875402395794",
+    "created_at": "Sun Jul 26 02:12:10 +0000 2026",
+    "full_text": "RT @Azabacheonline: EXACTO!!!👍",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081199622849020342",
+    "created_at": "Sun Jul 26 02:07:11 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l \"Por eso, hoy el socialismo latinoamericano está siendo erradicado elección tras elección. Argentina, Colombia, Perú…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081199575365222513",
+    "created_at": "Sun Jul 26 02:07:00 +0000 2026",
+    "full_text": "RT @nadiajmarquez: 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081199550681813035",
+    "created_at": "Sun Jul 26 02:06:54 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🇧🇷 | FENÓMENO BARRIAL: Milei se reunió con Tarcísio de Freitas en San Pablo y fue condecorado con la Orden de Ipiran…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081199539050909964",
+    "created_at": "Sun Jul 26 02:06:51 +0000 2026",
+    "full_text": "RT @BolsonaroSP: 🇧🇷Pres. @JMilei ofende a la basura de todo el mundo al compararla con el juez brasileño Alexandre de Moraes.\n\nMoraes fue r…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081199399393206481",
+    "created_at": "Sun Jul 26 02:06:18 +0000 2026",
+    "full_text": "RT @jdoedoe101101: Luladrão visitó a Cristina Kirchner, a Milagro Sala, y al chorro de Amado Boudou mientras estuvieron presos en Argentina…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081199344720511448",
+    "created_at": "Sun Jul 26 02:06:05 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Una vez más @fedesturze da en la tecla.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081199304476176486",
+    "created_at": "Sun Jul 26 02:05:55 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇷 | EXCELENTE: El presidente Milei estalló contra las operaciones del progresismo internacional que atacaron masiv…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081199278425350393",
+    "created_at": "Sun Jul 26 02:05:49 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l Brasil sera libre con Flavio Bolsonaro. https://t.co/AfDVu5su2I",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081199254182211903",
+    "created_at": "Sun Jul 26 02:05:43 +0000 2026",
+    "full_text": "RT @lilialemoine: Lula visitó a Cristina en su casa en 2025... la justicia Argentina no lo evitó.\n\nTENER PRESENTE",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081198759829021057",
+    "created_at": "Sun Jul 26 02:03:45 +0000 2026",
+    "full_text": "RT @TraductorTeAma: 🚨LOS VERDADEROS TROLLS PAGOS SON LOS PERIODISTAS|\n\nHace 48hs que Mandrilesio está llorando contra la modificación de un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081198656862982438",
+    "created_at": "Sun Jul 26 02:03:21 +0000 2026",
+    "full_text": "RT @juanfloreschaar: “No vinimos aquí para permanecer en el poder para siempre. Vinimos a escribir el capítulo más grande en la historia de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081198578047795587",
+    "created_at": "Sun Jul 26 02:03:02 +0000 2026",
+    "full_text": "RT @andresmego: No quiero una ley que proteja a las editoriales.\nNo quiero una ley que proteja a las librerías.\nNo quiero una ley que prote…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081198499450740997",
+    "created_at": "Sun Jul 26 02:02:43 +0000 2026",
+    "full_text": "RT @andresmego: Cada sector pide una ley que lo proteja.\nCasi nadie pide una ley que proteja al lector.\nTal vez porque el lector no tiene c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081198387190186387",
+    "created_at": "Sun Jul 26 02:02:16 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇧🇷 APOYO CLAVE EN SAN PABLO A MILEI, LOS KUKAS GIGA-LLORAN ESTA REUNIÓN DE MILEI CON EL GOBERNADOR DE SAN PABLO Y FLÁVIO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081198154163138733",
+    "created_at": "Sun Jul 26 02:01:21 +0000 2026",
+    "full_text": "RT @ekammerath: Paliza de Sturze al burro incorregible de Novaresio.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081198123930550277",
+    "created_at": "Sun Jul 26 02:01:14 +0000 2026",
+    "full_text": "RT @nadiajmarquez: A Jair Bolsonaro le prohibieron recibir visitas con fines políticos (deducción de ellos para impedir que el Presidente M…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081197995408683312",
+    "created_at": "Sun Jul 26 02:00:43 +0000 2026",
+    "full_text": "RT @andresmego: Llevo 25 años trabajando en la industria editorial.\nConozco el trabajo del autor, del editor, de la imprenta, del distribui…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081197633817772234",
+    "created_at": "Sun Jul 26 01:59:17 +0000 2026",
+    "full_text": "RT @JoseLuisDazaAR: El FMI, el Banco Mundial, el BID, Moody's, Fitch, S&amp;P…\n\nAhora, The Washington Post!!!!!!!\n\nAfuera son muchos los que ve…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081197543141122457",
+    "created_at": "Sun Jul 26 01:58:55 +0000 2026",
+    "full_text": "RT @dlaje1: #IndignacionSelectiva https://t.co/q0c0vJZkjx",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081197141704274153",
+    "created_at": "Sun Jul 26 01:57:20 +0000 2026",
+    "full_text": "RT @DiegoMac227: El socialismo del siglo XXI ha hecho fuertes raíces en este país, siendo el infame Foro de San Pablo, fundado por Lula da…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081197075107025054",
+    "created_at": "Sun Jul 26 01:57:04 +0000 2026",
+    "full_text": "RT @LeonLibertari0: Entre 2013 y 2023, mientras gran parte de Sudamérica aprovechó un contexto internacional favorable para crecer, Argenti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081196718477984024",
+    "created_at": "Sun Jul 26 01:55:39 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l FOTAZA https://t.co/c2zvidIgjc",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081196340181168476",
+    "created_at": "Sun Jul 26 01:54:08 +0000 2026",
+    "full_text": "RT @joacobl75: En el marco de la Ley de Tierras.\n\nLa soberanía nacional consiste en impedir que un Estado extranjero —o sus empresas estata…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081188579116540081",
+    "created_at": "Sun Jul 26 01:23:18 +0000 2026",
+    "full_text": "RT @pabloquirno: Imaginemos que estamos en la previa de la elección de 2023 y pasa esto…\n\n👇🏼👇🏼👇🏼 https://t.co/Sg975WtUQV",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081166315012698558",
+    "created_at": "Sat Jul 25 23:54:50 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 MILEI TIRÓ UN BOMBAZO EN MEDIO DE SU DISCURSO EN BRASIL JUNTO CON FLÁVIO BOLSONARO\n\n💥 \"El INFAME foro de SP fue creado p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081166292837392586",
+    "created_at": "Sat Jul 25 23:54:45 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇷 | Javier Milei dedicó un mensaje de esperanza a los brasileños durante la oficialización de la candidatura presi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081166198994297213",
+    "created_at": "Sat Jul 25 23:54:22 +0000 2026",
+    "full_text": "RT @DiegoMac227: La basura calva, calva, no me permitió visitar a mi amigo injustamente encarcelado, cuando sé que Lula se cansó de recibir…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081166184381067529",
+    "created_at": "Sat Jul 25 23:54:19 +0000 2026",
+    "full_text": "RT @JoseLuisDazaAR: !!Excelente @fedesturze !!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081166137300287503",
+    "created_at": "Sat Jul 25 23:54:07 +0000 2026",
+    "full_text": "RT @BolsonaroSP: RESUMO @JMilei NO BRASIL\n\nPresidente da Argentina, Javier Milei, discursou hoje na Convenção Nacional do PL em São Paulo,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081166098632724758",
+    "created_at": "Sat Jul 25 23:53:58 +0000 2026",
+    "full_text": "RT @agarra_pala: 🦁 MILEI RECIBIÓ LA ORDEN DE IPIRANGA, LA CONDECORACIÓN HONORÍFICA MÁXIMA DEL ESTADO DE SAN PABLO\n\nTambién se encontró con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081166035890180415",
+    "created_at": "Sat Jul 25 23:53:43 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2081166002348331305",
+    "created_at": "Sat Jul 25 23:53:35 +0000 2026",
+    "full_text": "RT @JoseLuisDazaAR: El EMAE y el Crecimiento.\n\nUn comentario técnico (y bastante aburrido) sobre los saltos que viene mostrando el EMAE men…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081165571635208209",
+    "created_at": "Sat Jul 25 23:51:53 +0000 2026",
+    "full_text": "Dudo que pueda sacarla del ángulo el progre hipócrita con déficit de IQ... No debemos olvidar toda la pauta oficial que recibe en su página fantasma... Es decir, su opinión tiene dueño...\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2081164828366811627",
+    "created_at": "Sat Jul 25 23:48:55 +0000 2026",
+    "full_text": "RT @fedesturze: Gracias @luisnovaresio por mandarme la nota de la Cámara del Libro y otras. Veo que no fui persuasivo en la importancia de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081164757734965314",
+    "created_at": "Sat Jul 25 23:48:39 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l \" La línea política y teórica es la misma, solo que en cada país operan con las restricciones propias de sus territo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081164728341283018",
+    "created_at": "Sat Jul 25 23:48:32 +0000 2026",
+    "full_text": "RT @fundfaro: “Si hay alguien que es ultra bilardista es el presidente, él más que nadie va a tomar todas las medidas necesarias”. \n\n🗣 @Mig…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081164523961028714",
+    "created_at": "Sat Jul 25 23:47:43 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇧🇷🇦🇷 | LA DERECHA SEA UNIDA: El derechista Flávio Bolsonaro recibió al presidente Javier Milei en la antesala de la c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081164509599699432",
+    "created_at": "Sat Jul 25 23:47:39 +0000 2026",
+    "full_text": "RT @agarra_pala: 🦁🇦🇷 FENÓMENO BARRIAL: ASÍ RECIBIERON A MILEI EN BRASIL Y LOS KIRCHNERISTAS LO GIGAN LLORAN\n\nMilei es totalmente OVACIONADO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081164471133724998",
+    "created_at": "Sat Jul 25 23:47:30 +0000 2026",
+    "full_text": "RT @tarcisiogdf: Recebi hoje, no Palácio dos Bandeirantes, o presidente da Argentina, @JMilei , para uma conversa sobre oportunidades, dese…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081164203033792978",
+    "created_at": "Sat Jul 25 23:46:26 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨RESERVAS NETAS EN MAXIMOS DESDE 2021🚨\n➡️El BCRA canceló prácticamente la totalidad de los préstamos con instituciones…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081163758756319305",
+    "created_at": "Sat Jul 25 23:44:40 +0000 2026",
+    "full_text": "RT @lilialemoine: Rusia ya no puede joder tanto gracias a Zelensky... Irán tiene proxies por todos lados... y sí, gente de la izquierda arg…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081163698068988400",
+    "created_at": "Sat Jul 25 23:44:26 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l Dos grandes amigos\nMilei junto a Flavio Bolsonaro. https://t.co/MPeGf5IocC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081163630305784167",
+    "created_at": "Sat Jul 25 23:44:10 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇧🇷l Excelente,  se merece todos los reconocimientos por estar haciendo un milagro argentino.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081163593215545490",
+    "created_at": "Sat Jul 25 23:44:01 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇷 | En la oficialización de la candidatura presidencial de Flávio Bolsonaro, el presidente @JMilei advirtió a los…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081163523103563821",
+    "created_at": "Sat Jul 25 23:43:44 +0000 2026",
+    "full_text": "RT @Diego_Hartfield: Excelente",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081163300331524575",
+    "created_at": "Sat Jul 25 23:42:51 +0000 2026",
+    "full_text": "RT @DiegoMac227: Resumen de la semana del ministerio de Capital Humano.\n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2081129977886503291",
+    "created_at": "Sat Jul 25 21:30:26 +0000 2026",
+    "full_text": "RT @DrRuckaufArg: El juez Alexandre de Moraes (que impidio a Milei ver a Bolsonaro) tiene prohibido el ingreso a EEUU desde hace un año por…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2081087128633499867",
     "created_at": "Sat Jul 25 18:40:10 +0000 2026",
     "full_text": "RT @MiguelSchmukler: El Banco Central ya compró más de 13 mil millones de dólares este año. \n\nCada día tenemos una economía más fuerte",
