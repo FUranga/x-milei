@@ -1,5 +1,236 @@
 [
   {
+    "id": "2082446451565613539",
+    "created_at": "Wed Jul 29 12:41:38 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2082446418208256245",
+    "created_at": "Wed Jul 29 12:41:30 +0000 2026",
+    "full_text": "RT @istMilei: La rivista \"Panorama\", oggi.\nhttps://t.co/Vek1AaWR5N https://t.co/std0O2r5II",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082445129638436912",
+    "created_at": "Wed Jul 29 12:36:23 +0000 2026",
+    "full_text": "RT @FerIglesias: “Los muertos que usted produjo” le dice Mendiguren a Cavallo refiriéndose a los muertos de diciembre de 2001; todos ellos,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082389473086624192",
+    "created_at": "Wed Jul 29 08:55:13 +0000 2026",
+    "full_text": "RT @Agosita_: DOBLE MORAL PURA\n\nLula, quien fue condenado por corrupción, se pone histérico porque Milei lo llama riesgo y basura comunista…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082389277556502868",
+    "created_at": "Wed Jul 29 08:54:27 +0000 2026",
+    "full_text": "RT @Tv_Libertaria: 🇦🇷ADIÓS INFLACIÓN: MAYORISTA 1,1% EN JUNIO\n\n✅SE VIENE EL 0% EN 2027‼️ https://t.co/JFDDwxOjXE",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082389017719443747",
+    "created_at": "Wed Jul 29 08:53:25 +0000 2026",
+    "full_text": "RT @xestadominimo: “El socialismo, donde se aplicó, siempre fue un fracaso en lo económico, en lo social, en lo cultural. Y además asesinó…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082387991486423047",
+    "created_at": "Wed Jul 29 08:49:20 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: La inflación no fue un accidente.\nFue posible porque las reglas lo permitían.\nPor eso no alcanza con bajar la inflació…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082387945911107640",
+    "created_at": "Wed Jul 29 08:49:09 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🛢️ | ARGENTINA POTENCIA ENERGÉTICA: Por primera vez en la historia, el petróleo desplazó a la soja y al maíz y se co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082387873320333636",
+    "created_at": "Wed Jul 29 08:48:52 +0000 2026",
+    "full_text": "RT @OOCprogresismo2: 🇵🇪 Autoridades que asistieron a la asunción presidencial de la derechista Keiko Fujimori en Perú:\n\n🇦🇷 Javier Milei\n🇨🇱…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082386750710706588",
+    "created_at": "Wed Jul 29 08:44:24 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: ESCUCHEN...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082385315910541334",
+    "created_at": "Wed Jul 29 08:38:42 +0000 2026",
+    "full_text": "RT @Aderly: #AHORA | Javier Milei recibe el Honoris Causa de la Universidad San Martín de Porres. https://t.co/G0Nf9eneVx",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082384726636068869",
+    "created_at": "Wed Jul 29 08:36:22 +0000 2026",
+    "full_text": "RT @florenciarietto: Chad.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082384679378792823",
+    "created_at": "Wed Jul 29 08:36:11 +0000 2026",
+    "full_text": "RT @JuanMPerkins: De Mendiguren dice que es muy grave para las instituciones que el presidente lo trate de chorro.\nNo @dmvasco, lo que es g…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082384075369623764",
+    "created_at": "Wed Jul 29 08:33:47 +0000 2026",
+    "full_text": "RT @lilialemoine: \"Conclusión analítica\nInfobae le dio espacio a Lemoine, sí. Pero parte del panel (concretamente Matías Barbería) operó co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082383514830311718",
+    "created_at": "Wed Jul 29 08:31:33 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇺🇸 | El vocero presidencial, Adrián Ravier, desmintió las operaciones mediáticas sobre el acuerdo comercial con los…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082383419615408325",
+    "created_at": "Wed Jul 29 08:31:10 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | EFECTO MILEI: Aerolíneas Argentinas anunció que incorporará 20 nuevos aviones entre 2027 y 2031, financiados ínt…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082383143294709874",
+    "created_at": "Wed Jul 29 08:30:04 +0000 2026",
+    "full_text": "RT @GordoDan_: Bancan a Lula mientras Brasil mete PRESOS a argentinos por boludeces.\n\nBancan a Rosalía después de haber llamado DELINCUENTE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082382961840652717",
+    "created_at": "Wed Jul 29 08:29:21 +0000 2026",
+    "full_text": "RT @patobonato: ¿Se dieron cuenta que todos los políticos que “luchan” por los pobres terminan siendo millonarios?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082382714020200852",
+    "created_at": "Wed Jul 29 08:28:22 +0000 2026",
+    "full_text": "RT @Naomiygal: Presidents @JMilei @KeikoFujimori https://t.co/kQtRhTEjGS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082382186926186511",
+    "created_at": "Wed Jul 29 08:26:16 +0000 2026",
+    "full_text": "RT @laderechadiario: ☢️🇦🇷 | ARGENTINA SERÁ POTENCIA NUCLEAR: El secretario de Asuntos Nucleares de Milei, Federico Ramos Napoli, mantuvo un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082382085692502216",
+    "created_at": "Wed Jul 29 08:25:52 +0000 2026",
+    "full_text": "RT @manuelquintar: Los viajes de @JMilei a Estados Unidos 🇺🇸 se ve que no eran solo para la foto como decían los periodistas...\n\nSuper bene…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082382055212474478",
+    "created_at": "Wed Jul 29 08:25:45 +0000 2026",
+    "full_text": "RT @lilialemoine: Coincido.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082382041190928771",
+    "created_at": "Wed Jul 29 08:25:42 +0000 2026",
+    "full_text": "RT @G0RD0_Bases: Hoy @JMilei, obtuvo el máximo reconocimiento académico, debido a su compromiso con el fortalecimiento de la libertad econó…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082381933015699730",
+    "created_at": "Wed Jul 29 08:25:16 +0000 2026",
+    "full_text": "RT @eduardomenoni: 🚨🇵🇪🇦🇷| ÚLTIMA HORA: El Presidente Javier Milei, acaba de ser nombrado Doctor Honoris Causa por la Universidad San Martín…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082381760797483039",
+    "created_at": "Wed Jul 29 08:24:35 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🔥 ¡JONI VIALE EXPUSO LA CAMPAÑA DEL MIEDO IMPULSADA POR LULA PARA AYUDAR A MASSA!\n🎙️ Afirmó que asesores brasileños difun…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082380943084400778",
+    "created_at": "Wed Jul 29 08:21:20 +0000 2026",
+    "full_text": "RT @martinvars: España terminó 2025 con 10,5% de paro, el más alto de la UE. La media europea fue 6%. Y seguimos castigando a las empresas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082380866110603294",
+    "created_at": "Wed Jul 29 08:21:01 +0000 2026",
+    "full_text": "RT @dlaje1: -CLARIN CITA CONSULTORA FANTASMA-\n\nLa institución citada como fuente tiene un website improvisado que no presenta a sus directi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082380777489105169",
+    "created_at": "Wed Jul 29 08:20:40 +0000 2026",
+    "full_text": "RT @dolarbluehoy: La visita de Georgieva no fue una postal protocolar: dejó respaldo político al programa y puso al BCRA en el centro de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082380443614105768",
+    "created_at": "Wed Jul 29 08:19:21 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: TOMAS DENTE DESTROZÓ A LA LLORONA VERONICA LLINAS: \n\n“Te cuento, Verónica, que vos venis llenando el teatro Premier ha…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082380409959051758",
+    "created_at": "Wed Jul 29 08:19:13 +0000 2026",
+    "full_text": "RT @fernandezpablo: Argentina, ese país donde cada 6 meses se intenta derogar una ley que fija un precio mínimo (vuelos, yerba, ropa, libro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082380305885786469",
+    "created_at": "Wed Jul 29 08:18:48 +0000 2026",
+    "full_text": "RT @eduardomenoni: 🚨🇺🇸🇧🇷| URGENTE: El gobierno del presidente Donald Trump, acusa oficialmente al gobierno del comunista Lula en Brasil, de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082361987577622611",
+    "created_at": "Wed Jul 29 07:06:00 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇵🇪 | FARO DEL MUNDO: El rectorado de la Universidad de San Martín de Porres, en Perú, condecoró al presidente Milei…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2082355116506485187",
+    "created_at": "Wed Jul 29 06:38:42 +0000 2026",
+    "full_text": "RT @FAST_GAST: El presidente @JMilei recibo el Doctorado Honoris Causa entregado por la  Universidad de San Martín de Porres en Lima, Perú.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2082328636787511436",
     "created_at": "Wed Jul 29 04:53:29 +0000 2026",
     "full_text": "RT @JorgelinaKos: Cavallo dice lo mismo que dijo Loperfido en el video que compartí. Basta de callarse sobre la verdad de 2001.",
