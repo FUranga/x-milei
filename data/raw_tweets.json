@@ -1,5 +1,376 @@
 [
   {
+    "id": "2083786970728218743",
+    "created_at": "Sun Aug 02 05:28:23 +0000 2026",
+    "full_text": "RT @Diego_Hartfield: La inflación se va a desplomar y el peso se va a fortalecer mucho cuando aprobemos la nueva Carta Orgánica del BCRA.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083737181768544598",
+    "created_at": "Sun Aug 02 02:10:32 +0000 2026",
+    "full_text": "RT @patoenero: 🚨 ATENCIÓN 🚨",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083736942206681574",
+    "created_at": "Sun Aug 02 02:09:35 +0000 2026",
+    "full_text": "RT @MarioNawfal: 🇪🇸🇪🇺 Spanish PM Pedro Sánchez wants Europe to solve... Pedro Sánchez's problem\n\nAfter Spain was rocked by the mass illegal…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083736247382462730",
+    "created_at": "Sun Aug 02 02:06:49 +0000 2026",
+    "full_text": "RT @QuotesforGoal: \"La verdad es como un león; no tienes que defenderla. Déjala suelta, se defenderá a sí misma\"\n\nSan Agustín https://t.co/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083736083850760704",
+    "created_at": "Sun Aug 02 02:06:10 +0000 2026",
+    "full_text": "RT @javiernegre10: La verdad tras la invasión de ilegales que sufre Ceuta. Es bueno que todo el mundo se entere. https://t.co/HAzwZcAMPN",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083731470758084976",
+    "created_at": "Sun Aug 02 01:47:51 +0000 2026",
+    "full_text": "RT @mileibarrial: Emisión descontrolada y falsificación de dinero? Afuera!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083730994964623841",
+    "created_at": "Sun Aug 02 01:45:57 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Estos 50 mil millones por mes de alivio a las pymes se suma a la moratoria lanzada para ellas también, el 14 de julio.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083720811009937537",
+    "created_at": "Sun Aug 02 01:05:29 +0000 2026",
+    "full_text": "RT @DiegoMac227: Mañana a las 20:30hs, entrevista a Milei por la Nación+. https://t.co/vWhTgE93iE",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083720757046104250",
+    "created_at": "Sun Aug 02 01:05:16 +0000 2026",
+    "full_text": "RT @ViejoLibertario: CFK y Kicillof dicen:\n\nQue si no se va a poder afanar con el BCRA y, que si hay déficit, la política no cobra un peso,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083720704143343960",
+    "created_at": "Sun Aug 02 01:05:04 +0000 2026",
+    "full_text": "RT @EricLDaugh: 🔥 BREAKING: Argentina's right-wing President Javier Milei comes out in SUPPORT of Spanish patriots rising up and HUNTING DO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083720573411049512",
+    "created_at": "Sun Aug 02 01:04:33 +0000 2026",
+    "full_text": "ZURDOS DE MANUAL. \nSiempre la culpa es de otro.\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2083720298830962813",
+    "created_at": "Sun Aug 02 01:03:27 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇰🇷l Abriendo un nuevo horizonte de cooperación con 64 años de amistad https://t.co/PMsJftiau4",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083720159261331589",
+    "created_at": "Sun Aug 02 01:02:54 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | EFECTO MILEI: Gracias a las multimillonarias inversiones y a la modernización impulsada por el Gobierno, el Hosp…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083719771279835277",
+    "created_at": "Sun Aug 02 01:01:21 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Algo más ? Socialismo, no lo entenderías o no lo queres entender. https://t.co/odKssi04uX",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083719289266110596",
+    "created_at": "Sun Aug 02 00:59:26 +0000 2026",
+    "full_text": "ACOMODANDO ZURDOS.\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2083719078531711086",
+    "created_at": "Sun Aug 02 00:58:36 +0000 2026",
+    "full_text": "RT @BumperCrop1: Plan Industrial es sinónimo de políticas activas.\nPolíticas activas es un eufemismo de economía planificada.\nEconomía plan…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083718157617746060",
+    "created_at": "Sun Aug 02 00:54:57 +0000 2026",
+    "full_text": "RT @javiernegre10: 22 países firmando una carta en su contra.\n\nSin mayoría parlamentaria.\n\nSin presupuestos.\n\nSin el apoyo de la mayoría de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083718011853086827",
+    "created_at": "Sun Aug 02 00:54:22 +0000 2026",
+    "full_text": "RT @HerreroLiberal: 🚨 EL PRECIO DE LA LIBERTAD ES LA ETERNA VIGILANCIA\nCeutíes capturan a inmigrantes ilegales para expulsarlos hacia Marru…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083717784643543383",
+    "created_at": "Sun Aug 02 00:53:28 +0000 2026",
+    "full_text": "RT @JaviGarcia_Ok: Lo mejor del nuevo texto de Pérez-Reverte es que, sin proponérselo, ofrece la mejor descripción de lo que él mismo hizo.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083717209226969570",
+    "created_at": "Sun Aug 02 00:51:10 +0000 2026",
+    "full_text": "RT @aetchebarne: Un grupo de 40 empresarios brasileños del IFL fueron recibido por @fargosi y @MenemMartin en el Congreso y quedaron fascin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083717085218144590",
+    "created_at": "Sun Aug 02 00:50:41 +0000 2026",
+    "full_text": "RT @BetoMendeleiev_: Si, Señor. Mientras todos veían lo peor, se avisó que se iba a caer como un piano. https://t.co/91g8XuX16M",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083715516586242536",
+    "created_at": "Sun Aug 02 00:44:27 +0000 2026",
+    "full_text": "RT @MadeInAncapia: ¿Quién salvó más árboles? ¿El pendrive o los ecologistas?\n\n- Miguel Anxo Bastos https://t.co/4oBN4DKIjx",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083690732515180866",
+    "created_at": "Sat Aug 01 23:05:58 +0000 2026",
+    "full_text": "RT @MenemMartin: @cenitalcom Devaluar e inflar precios para arreglar la economía es como incendiar tu casa para no pasar frio en invierno…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083682026771640688",
+    "created_at": "Sat Aug 01 22:31:22 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El ministro de Economía, @LuisCaputoAR, destacó que las principales medidas económicas del Gobierno responden a una pla…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083680538192380385",
+    "created_at": "Sat Aug 01 22:25:27 +0000 2026",
+    "full_text": "Cuando las personas despiertan...\nEl final del socialismo se acerca...\nÁNIMO ESPAÑA",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2083679777400004852",
+    "created_at": "Sat Aug 01 22:22:26 +0000 2026",
+    "full_text": "RT @cristiannmillo: BOFA súper manija con la energía argentina \nUpsides del 70/80% si se sigue por este camino. Todo de ustedes. \nMi opinió…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083676299558531296",
+    "created_at": "Sat Aug 01 22:08:37 +0000 2026",
+    "full_text": "RT @EconomiaMises: «En el mercado libre, cada cual gana según su valor productivo en satisfacer los deseos de los consumidores. Bajo la dis…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083676233372508212",
+    "created_at": "Sat Aug 01 22:08:21 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El Ministro de Economía, @LuisCaputoAR en diálogo con @wwnicolas y @ceciliaboufflet, por @A24COM, explicó que la modifi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083675389512372578",
+    "created_at": "Sat Aug 01 22:05:00 +0000 2026",
+    "full_text": "RT @patoenero: Alguien se preguntó alguna vez, dónde fueron a parar los USD 30mil mill. de dólares?\n\nLes doy una pista:\n\n- En rutas? No\n\n-…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083674873792991612",
+    "created_at": "Sat Aug 01 22:02:57 +0000 2026",
+    "full_text": "RT @EricLDaugh: 🚨 BREAKING: 22 of 27 European nations just demanded an immediate emergency summit from EU Commission President von der Leye…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083674624638832680",
+    "created_at": "Sat Aug 01 22:01:57 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Traición a la patria se llama esto. Españoles despierten !",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083674564966400022",
+    "created_at": "Sat Aug 01 22:01:43 +0000 2026",
+    "full_text": "RT @NegroCensurado: Literalmente está el video de Irene Montero diciendo que van a fomentar la migración y cuando ocurre culpan a Trump e I…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083673907135918321",
+    "created_at": "Sat Aug 01 21:59:06 +0000 2026",
+    "full_text": "RT @FerIglesias: Impresionante. La parte avanzao de nuestra economía a la que vivieron castigando, obligándola a comprar celulares y comput…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083673731692679177",
+    "created_at": "Sat Aug 01 21:58:25 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: En resumen: de los USD 2.000 millones comprados por la gente, 700 millones fueron para pagos de tarjeta, 800 millones q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083673152609980917",
+    "created_at": "Sat Aug 01 21:56:07 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2083673115486470266",
+    "created_at": "Sat Aug 01 21:55:58 +0000 2026",
+    "full_text": "RT @Rothmus: Commies never needed to beat you in a debate, just needed to make sure the debate never happened on open ground.\n\nGramsci (Ita…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083672664241995986",
+    "created_at": "Sat Aug 01 21:54:10 +0000 2026",
+    "full_text": "RT @BreakPointMP: 💵 EL ÉXITO DEL RÉGIMEN SIMPLIFICADO DE GANANCIAS \n🚀Ya son más de 340.000 los argentinos que adhirieron al Régimen Simplif…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083671738676560325",
+    "created_at": "Sat Aug 01 21:50:29 +0000 2026",
+    "full_text": "RT @Grupo_Union_Ar: #NuevamenteDisponible\nLA ECONOMIA EN UNA LECCIÓN\nHenry Hazlitt\nPrólogos Javier Milei y Walter Block https://t.co/1H5CGT…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083671636461412651",
+    "created_at": "Sat Aug 01 21:50:05 +0000 2026",
+    "full_text": "RT @DiegoMac227: Toto Caputo sobre Santiago Bausili y la independencia del BCRA\n\n\"Santiago es el mejor candidato a presidente del Banco Cen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083671352528064619",
+    "created_at": "Sat Aug 01 21:48:57 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El ministro de Economía, @LuisCaputoAR, afirmó que la prioridad de la política económica es continuar reduciendo la pob…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083670391566827749",
+    "created_at": "Sat Aug 01 21:45:08 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Jefe de Gabinete de Ministros, @diegosantilli, en TN, expone la devastación monetaria argentina, casi 169.000% de i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083669123343806966",
+    "created_at": "Sat Aug 01 21:40:06 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣💣 EXPLOSIVO EDITORIAL DE JONI VIALE CONTRA LOS KUKAS QUE CRITICAN LAS REFORMAS DEL GOBIERNO DE MILEI\n\n“LA GENTE SE PUDRE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083656414103285891",
+    "created_at": "Sat Aug 01 20:49:36 +0000 2026",
+    "full_text": "RT @GiorgiaMeloni: Le immagini arrivate da Ceuta hanno dimostrato ancora una volta quanto sia urgente una risposta europea all’immigrazione…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083656084837765134",
+    "created_at": "Sat Aug 01 20:48:17 +0000 2026",
+    "full_text": "RT @SPettovelloOK: COMUNICADO OFICIAL.\n@JMilei https://t.co/ijQ4IRZB8L",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083655917053034701",
+    "created_at": "Sat Aug 01 20:47:37 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷 \"Acá la única persona que importa es el presidente, va a ser reelecto, no tengo ni una mínima duda\"\n\nEL MINISTRO TOTO C…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083655609673535694",
+    "created_at": "Sat Aug 01 20:46:24 +0000 2026",
+    "full_text": "RT @JonatanViale: Los marroquíes se metieron en un cementerio y profanaron las tumbas.\n\nIgual, no se preocupen.\nBardem les dará asilo en su…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083655561556492383",
+    "created_at": "Sat Aug 01 20:46:12 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: Estamos esperando el comunicado donde Javier Bardem ofrece habitaciones para los marroquíes en alguna de sus mansiones…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083653530255028265",
+    "created_at": "Sat Aug 01 20:38:08 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ LAJE PRENDIÓ FUEGO A LOS KUKAS Y MOSTRÓ QUE MILEI SIGUE CUMPLIENDO CON SUS PROMESAS DE CAMPAÑA\n\n🔥 \"Emitían DEUDA, emití…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083653354471776759",
+    "created_at": "Sat Aug 01 20:37:26 +0000 2026",
+    "full_text": "RT @QuotesforGoal: \"El socialismo es una religión política cuyo Dios es el Estado y cuyos sacerdotes son los burócratas... Es una filosofía…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083652710990020749",
+    "created_at": "Sat Aug 01 20:34:53 +0000 2026",
+    "full_text": "RT @pabloquirno: Clarísima y excelente @GiorgiaMeloni! \n\n“Es fundamental que los países puedan defender sus fronteras que son las fronteras…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083652498230026726",
+    "created_at": "Sat Aug 01 20:34:02 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: Esta semana, en Salud: \n✅ Vacunación antigripal: más de 6 millones de dosis aplicadas \n✅ Cardiopatías congénitas: en l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083651627685122317",
+    "created_at": "Sat Aug 01 20:30:35 +0000 2026",
+    "full_text": "RT @FAHayekSays: “Advance consists in the few convincing the many. New views must appear somewhere before they can become majority views.”…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2083651418787869134",
+    "created_at": "Sat Aug 01 20:29:45 +0000 2026",
+    "full_text": "RT @fpedrosa2: Zaffaroni sabía donde estaba parado, era juez designado por Videla.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2083607382358376639",
     "created_at": "Sat Aug 01 17:34:46 +0000 2026",
     "full_text": "RT @agarra_pala: 🚨🇦🇷 EL PRINCIPAL DIARIO DE POLÍTICA INTERNACIONAL ASEGURA QUE REINO UNIDO ESTÁ PERDIENDO EL DEBATE POR LAS MALVINAS\n\n👉 Per…",
