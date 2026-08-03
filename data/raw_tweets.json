@@ -1,5 +1,467 @@
 [
   {
+    "id": "2084150657120940486",
+    "created_at": "Mon Aug 03 05:33:32 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"De vuelta, de vuelta. La verdad le gana a cualquier modo. Mire, yo tengo unas formas horribles, ¿sabe qué? Sí, tengo form…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084150614284492894",
+    "created_at": "Mon Aug 03 05:33:22 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei en LN+ explica que las reformas atacan el corazón de la decadencia argentina, 91 años de crisis…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084150596215402866",
+    "created_at": "Mon Aug 03 05:33:18 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷✅ “LLEVAMOS 26 MESES SEGUIDOS CON LA ECONOMÍA CRECIENDO, CRECIMOS 5 VECES MÁS FUERTE”\n\nEL PRESIDENTE MILEI TIRÓ TREMENDO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084150314257596690",
+    "created_at": "Mon Aug 03 05:32:11 +0000 2026",
+    "full_text": "RT @majulluis: .@JMilei: “La verdad le gana a cualquier modo, yo tengo unas formas horribles” pero prefiero eso “a que nos roben y nos esta…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084150260184568069",
+    "created_at": "Mon Aug 03 05:31:58 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | BASADO: El presidente @JMilei destruyó a la condenada por corrupta Cristina Kirchner: \"Que la condenada haga tod…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084150217461436918",
+    "created_at": "Mon Aug 03 05:31:48 +0000 2026",
+    "full_text": "RT @DiegoMac227: Milei sobre Kicillof:\n\n\"Majul: Uno dice el gobernador Kicillof acaba de decir, tomo un textual, ¿qué macroordenada si la g…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084150129666162960",
+    "created_at": "Mon Aug 03 05:31:27 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei denuncia la campaña antiargentina motorizada y financiada por Brasil, con México, el Partido Dem…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084150110988972201",
+    "created_at": "Mon Aug 03 05:31:22 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🦁 ¡MILEI: \"YO COMPITO CONTRA MÍ MISMO, NO CONTRA EL PASADO\"!\n🎙️ Sostuvo que la REA CFK y el resto de la política represen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084149591742517550",
+    "created_at": "Mon Aug 03 05:29:18 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇦🇷| “SI, TENGO FORMAS HORRIBLES. PERO ¿SABE QUE? TENGO RESULTADOS”\n\nEL PRESIDENTE MILEI CONTUNDENTE CONTRA LULA DA SILVA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084149563686842510",
+    "created_at": "Mon Aug 03 05:29:12 +0000 2026",
+    "full_text": "RT @nadiajmarquez: #Prosperidad y #libertad vienen de la mano. https://t.co/d9MBOgIusB",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084149530262466721",
+    "created_at": "Mon Aug 03 05:29:04 +0000 2026",
+    "full_text": "RT @AcostashowJuan: Este señor es realmente un faro para Latinoamérica! @JMilei sos lo mas https://t.co/1CzDbpSCLj",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084149498654138387",
+    "created_at": "Mon Aug 03 05:28:56 +0000 2026",
+    "full_text": "RT @fargosi: Nunca saldrá nada bueno en los medios.\n\nMientras no recuperen pauta. https://t.co/vjJ30d09r3",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084149442924392662",
+    "created_at": "Mon Aug 03 05:28:43 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: Histórica domada del Presidente Javier Milei al burro de Kicillof https://t.co/o8klNxChiT",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084149326066917538",
+    "created_at": "Mon Aug 03 05:28:15 +0000 2026",
+    "full_text": "RT @Lautiavanza: Majul: \"Las mujeres a usted no lo votan porque no les gustan sus formas\"\n\nMilei: \"Nosotros bajamos enormemente los números…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084149225311363431",
+    "created_at": "Mon Aug 03 05:27:51 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣🇧🇷 “LULA FUE CONDENADO POR LADRÓN Y CORRUPTO, ESTUVO PRESO”\n\nUUHHH MILEI LA PUDRIÓ CONTRA EL ZURDO LULA DA SILVA DE BRASI…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084149150380126392",
+    "created_at": "Mon Aug 03 05:27:33 +0000 2026",
+    "full_text": "RT @nosoypitti: Que lindo se siente tener un presidente que no está dispuesto a imprimir toneladas de guita para comprar votos. Parece algo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084148776755773948",
+    "created_at": "Mon Aug 03 05:26:04 +0000 2026",
+    "full_text": "RT @Canallalibertar: \"La verdad le gana a cualquier modo. Sí tengo formas horribles. ¿Sabes qué? tengo RESULTADOS\"\n\nRETUIT si es la mejor f…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084147052276052218",
+    "created_at": "Mon Aug 03 05:19:13 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | Javier Milei desestimó los insultos y humilló al gatero expresidente Alberto Fernández: \"No me importa lo que di…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084146596904685868",
+    "created_at": "Mon Aug 03 05:17:24 +0000 2026",
+    "full_text": "RT @javiernegre10: Qué grande es @JMilei llamando a los corruptos y ladrones por su nombre sin miedo a nada ni a nadie.\n\nhttps://t.co/dJOqj…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084145597934699004",
+    "created_at": "Mon Aug 03 05:13:26 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei fulmina al condenado y expresidiario Presidente de Brasil, Lula da Silva, y aclara que quedó en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084145528082768326",
+    "created_at": "Mon Aug 03 05:13:10 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"Entiendo que es una cuestión técnica que pueda parecer lejano, pero es terminar con la estafa de la política a los argent…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084145489063145582",
+    "created_at": "Mon Aug 03 05:13:00 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨💣| “ES UNA REFORMA PARA TERMINAR DE EXTIRPAR LA INFLACIÓN EN LA ARGENTINA”\n\nEL PRESIDENTE MILEI SOBRE LOS ANUNCIOS EN CAD…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084145437112418368",
+    "created_at": "Mon Aug 03 05:12:48 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"Es decir, de vuelta, hay que pensar en términos de muchos mercados, equilibrio general y a lo largo del tiempo, intertemp…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084144567297757428",
+    "created_at": "Mon Aug 03 05:09:21 +0000 2026",
+    "full_text": "RT @dlaje1: La campaña anti-argentina es pro-peronería.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132686214357436",
+    "created_at": "Mon Aug 03 04:22:08 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷 “LAS MALVINAS SON ARGENTINAS, HEMOS HECHO AVANCES DIPLOMÁTICOS QUE NO LOGRÓ NADIE”\n\n🫂\"LA DEFINICIÓN MAS SABIA LA TUVO S…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132664248861110",
+    "created_at": "Mon Aug 03 04:22:03 +0000 2026",
+    "full_text": "RT @Jairo_Henoch: “Yo no compito con la vieja política, yo compito contra mí mismo, por hacer el gobierno cada día mejor”. \n\nPrimer preside…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132644627927439",
+    "created_at": "Mon Aug 03 04:21:58 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇦🇷| “NO VOY A HACER POPULISMO, YO VOY A MORIR CON LAS BOTAS PUESTAS”\n\nBRILLANTE!! EL PRESIDENTE MILEI PUSO LOS PUNTOS EN…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132581138636906",
+    "created_at": "Mon Aug 03 04:21:43 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷💣 URGENTE | BOMBAZO DE MILEI EN UNA ENTREVISTA CON MAJUL SOBRE LAS REFORMAS EN EL BCRA Y EL GRILLETE FISCAL\n\n“EL MENSAJE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132509390922023",
+    "created_at": "Mon Aug 03 04:21:26 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMIlei diferencia al buen economista del malo citando a Henry Hazlitt, y muestra cómo el auge del petró…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132477983949211",
+    "created_at": "Mon Aug 03 04:21:18 +0000 2026",
+    "full_text": "RT @Lautiavanza: *Primero que nada, me pongo de pie\n\nUUUUUUUUUUUUUUUUUUHHHHHHH\n\n\"La opinión del ignorante de Kicillof es irrelevante\"\n\"Tuvo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132253227966621",
+    "created_at": "Mon Aug 03 04:20:25 +0000 2026",
+    "full_text": "RT @andresmego: La petición de los fabricantes de libros.\n\nVenimos a pedirles un favor.\nNo nos dejen competir.\nSabemos que suena extraño. P…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132154913534068",
+    "created_at": "Mon Aug 03 04:20:01 +0000 2026",
+    "full_text": "RT @indignadoxd: En las vacaciones de invierno viajaron 4,6 millones, 5,9% más de turistas que en el 2025 y el impacto económico alcanzó lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132116330090624",
+    "created_at": "Mon Aug 03 04:19:52 +0000 2026",
+    "full_text": "RT @eve_barroso: Por primera vez en la historia, un Presidente no hará el famoso “PLAN PLATITA” para las elecciones Presidenciales.\n\nLas el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084132096742773226",
+    "created_at": "Mon Aug 03 04:19:47 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷🫂 ESCUCHEN ESTO DIJO EL PRESIDENTE MILEI SOBRE LA SENADORA PATRICIA BULLRICH:\n\n“TENGO UN GRAN CARIÑO POR BULLRICH, ESTOY…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131989548851664",
+    "created_at": "Mon Aug 03 04:19:22 +0000 2026",
+    "full_text": "RT @SilvanaGiudici: \"Bajamos los impuestos 3 puntos del PBI\". \"Sacamos 14 millones de personas de la pobreza\" dice el Presidente @JMilei en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131925459976474",
+    "created_at": "Mon Aug 03 04:19:06 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨RECOMPONIENDO EL BALANCE DEL BCRA🚨\n➡️No solo importa cuántas reservas tiene el BCRA. También importa qué activos tien…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131869449187649",
+    "created_at": "Mon Aug 03 04:18:53 +0000 2026",
+    "full_text": "RT @DiegoMac227: Milei sobre el corrupto de Lula:\n\n\"Es un ladrón, es un corrupto. Fue condenado por ladrón y corrupto. Estuvo preso, con lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131702109090080",
+    "created_at": "Mon Aug 03 04:18:13 +0000 2026",
+    "full_text": "RT @majulluis: Picos altos para #LaCornisa este domingo, a pesar del fútbol, las vacaciones de invierno y algunos errores que suponemos inv…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131578729374079",
+    "created_at": "Mon Aug 03 04:17:44 +0000 2026",
+    "full_text": "RT @CerviPablo: Neuquén y Rió Negro están llamadas a liderar una nueva etapa de crecimiento para la Argentina, tal como dice @JMilei.\n\nCon…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131541081334010",
+    "created_at": "Mon Aug 03 04:17:35 +0000 2026",
+    "full_text": "RT @ElTrumpista: “Conmigo no hay plan platita para el 2027. No voy a entregar mi reputación ni mi legado histórico haciendo una barrabasada…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131354388656131",
+    "created_at": "Mon Aug 03 04:16:50 +0000 2026",
+    "full_text": "RT @jdoedoe101101: Finisimo el Presidente de la Nación, el Dr. Javier G. Milei, contra el corrupto jefe de la banda más delincuencial de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131256527176039",
+    "created_at": "Mon Aug 03 04:16:27 +0000 2026",
+    "full_text": "RT @fargosi: 👏👏👏👏👏 @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131223840928178",
+    "created_at": "Mon Aug 03 04:16:19 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | SE TERMINÓ LA JODA: Javier Milei garantizó que no habrá un \"plan platita\" para las elecciones presidenciales de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131198209573281",
+    "created_at": "Mon Aug 03 04:16:13 +0000 2026",
+    "full_text": "RT @AcostashowJuan: La diferencia entre un loco y un genio los resultados, @JMilei el mejor presidente de la historia! https://t.co/VVwkCUG…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131167003930901",
+    "created_at": "Mon Aug 03 04:16:06 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"El mensaje de la cadena apunta al corazón de la decadencia argentina de los últimos 91 años, porque no era solo la reform…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131143360696359",
+    "created_at": "Mon Aug 03 04:16:00 +0000 2026",
+    "full_text": "RT @carolina_moine: #ElMejorPresidenteDelMundo es nuestro. \n\n#GraciasMilei\n\n#VLLC 🇦🇷 https://t.co/1gdHhm0hbR",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084131069079552277",
+    "created_at": "Mon Aug 03 04:15:42 +0000 2026",
+    "full_text": "RT @majulluis: .@JMilei: “La opinión de Kicillof no es relevante. Fue ministro de Economía de la condenada, de la presidiaria, de la chorra…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084130783820747234",
+    "created_at": "Mon Aug 03 04:14:34 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"Primero, la inflación es un impuesto no legislado. Por lo tanto, digo, cuando los políticos quieran gastar más de lo que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084050388337000759",
+    "created_at": "Sun Aug 02 22:55:07 +0000 2026",
+    "full_text": "RT @majulluis: Hace minutos regresé de Casa Rosada. Entrevistamos a @JMilei. El Presidente redobló la apuesta contra Lula, fue durísimo con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084014967934632429",
+    "created_at": "Sun Aug 02 20:34:22 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Se viene una NOTAZA muy fuerte. No se la pierda nadie.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084014915551891805",
+    "created_at": "Sun Aug 02 20:34:09 +0000 2026",
+    "full_text": "RT @juanfloreschaar: Hoy el Banco Central ya no financia el déficit con emisión. Más estabilidad, más confianza. 🇦🇷🔥 https://t.co/EhC5NpJDyY",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084014437455811037",
+    "created_at": "Sun Aug 02 20:32:15 +0000 2026",
+    "full_text": "RT @fargosi: Perfecto, @JMilei  + @SPettovelloOK",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084014331478360547",
+    "created_at": "Sun Aug 02 20:31:50 +0000 2026",
+    "full_text": "RT @majulluis: Este domingo.\nEl presidente @JMilei responde a todo:\nLa economía. El esfuerzo de los argentinos. Las críticas. Las PASO. Y l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084014303946957106",
+    "created_at": "Sun Aug 02 20:31:43 +0000 2026",
+    "full_text": "RT @majulluis: Entrevista al Presidente de la Nación en la Casa Rosada.\nHoy 20.30 hs en La Cornisa por @lanacionmas https://t.co/ANSGj7pOKq",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084014230294994960",
+    "created_at": "Sun Aug 02 20:31:26 +0000 2026",
+    "full_text": "RT @istMilei: VALE QUANTO UNA MEDAGLIA D'ORO https://t.co/t8NcFbenKT",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084013979286884673",
+    "created_at": "Sun Aug 02 20:30:26 +0000 2026",
+    "full_text": "RT @fededomin: Si el Congreso aprueba la nueva Carta Orgánica del BCRA y el shutdown automático (grillete fiscal), será una importante seña…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084013758146318754",
+    "created_at": "Sun Aug 02 20:29:33 +0000 2026",
+    "full_text": "RT @mileibarrial: Entrevista del diario Río Negro a Javier Milei \nhttps://t.co/uP92EYbmb3",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084013707768815928",
+    "created_at": "Sun Aug 02 20:29:21 +0000 2026",
+    "full_text": "RT @SalvaDiStefano: Siempre con el Peronismo sale dinero del país, el ingreso se dio con Mauricio Macri, y ahora con la Libertad Avanza. In…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084013620120424624",
+    "created_at": "Sun Aug 02 20:29:00 +0000 2026",
+    "full_text": "RT @DiegoMac227: Recuerden que esta noche, a las 20:30hs por La Nación +, Luis Majul entrevista a Milei. https://t.co/TO8sJ0enFO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084013585533976673",
+    "created_at": "Sun Aug 02 20:28:52 +0000 2026",
+    "full_text": "RT @juanif17: 🟣Milei 2027 equivale a:\n\n✅Estabilidad cambiaria\n✅Erradicacion de la inflacion\n✅Menos inseguridad\n✅Vuelta del Credito hipoteca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084013429388443841",
+    "created_at": "Sun Aug 02 20:28:15 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨SE ACTIVA EL CONGRESO Y LOS KUKAS TIEMBLAN: EL GOBIERNO VA POR EL RIGI, LA DEFENSA DE LA PROPIEDAD PRIVADA, LA REFORMA DE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084013192955465981",
+    "created_at": "Sun Aug 02 20:27:18 +0000 2026",
+    "full_text": "RT @mileibarrial: 12.819.532.788.614.400.000%\nLo que ha robado la alta política a los argentinos de bien https://t.co/nKwwvjDsnM",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084013005113553161",
+    "created_at": "Sun Aug 02 20:26:34 +0000 2026",
+    "full_text": "RT @istMilei: Cambia la musica! https://t.co/CFoRLGWQXH",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084012729770053730",
+    "created_at": "Sun Aug 02 20:25:28 +0000 2026",
+    "full_text": "RT @ElTrumpista: Que locura es este gráfico de inflación loko.\n\nSiempre es buen momento de recordar como Milei salvó el país. https://t.co/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084012692864467205",
+    "created_at": "Sun Aug 02 20:25:19 +0000 2026",
+    "full_text": "RT @QuotesforGoal: \"Educar con marxismo es como amamantar con alcohol\"\n\nArmando Ribas https://t.co/Bo6wGYDp13",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084008604378845405",
+    "created_at": "Sun Aug 02 20:09:04 +0000 2026",
+    "full_text": "RT @MadeInAncapia: ✒️| “Señor Gorbachov, derribe este muro”\n\nRonald Reagan el 12 de junio de 1987 frente a la Puerta de Brandeburgo, Berlín…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2083957015865381365",
     "created_at": "Sun Aug 02 16:44:05 +0000 2026",
     "full_text": "RT @brivael: Les deux héros du monde libre :\n\n@JMilei et @elonmusk https://t.co/p6IQYtVCSg",
