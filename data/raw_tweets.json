@@ -1,5 +1,796 @@
 [
   {
+    "id": "2084876746780733899",
+    "created_at": "Wed Aug 05 05:38:46 +0000 2026",
+    "full_text": "RT @OOC_LaMisa: Se zarpa Mengolini https://t.co/wWwjUPn48F",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084876577939009791",
+    "created_at": "Wed Aug 05 05:38:05 +0000 2026",
+    "full_text": "RT @Miguel_Boggiano: Una vergüenza esta falsedad de @infobae",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084876536860086351",
+    "created_at": "Wed Aug 05 05:37:56 +0000 2026",
+    "full_text": "Así piensan en la vereda opuesta...\nLa inviabilidad al palo...",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2084875707335749724",
+    "created_at": "Wed Aug 05 05:34:38 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇧🇷🇦🇷 | #URGENTE ENLOQUECIÓ LULA: Ardido por las verdades que declaró Javier Milei, el dictador Lula da Silva ordenó p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084875390149959967",
+    "created_at": "Wed Aug 05 05:33:22 +0000 2026",
+    "full_text": "RT @Leonys833185: https://t.co/3qi4ycupr5",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084875031918563472",
+    "created_at": "Wed Aug 05 05:31:57 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇧🇷🇦🇷 | ENLOQUECIÓ LULA: El dictador socialista de Brasil escaló el conflicto diplomático con Argentina, y tras retira…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084874248003211771",
+    "created_at": "Wed Aug 05 05:28:50 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"Yo me tengo que mirar los números agregados. Si miro el PBI, está en máximo histórico. Si miro el consumo, está en máximo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084874206722875807",
+    "created_at": "Wed Aug 05 05:28:40 +0000 2026",
+    "full_text": "RT @ivancarrino: No hay herramientas a disposición del gobierno para \"estimular el consumo\". Más gasto, menos tasa, menos impuestos sin red…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084874055237222564",
+    "created_at": "Wed Aug 05 05:28:04 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | NOLSALP: Javier Milei explotó contra el periodismo mercenario que opera y ataca vilmente a su Gobierno mientras…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084874004637118645",
+    "created_at": "Wed Aug 05 05:27:52 +0000 2026",
+    "full_text": "RT @Naomiygal: Light. Truth and consequences. Gracias @JMilei @trebuquero @latatuadageral https://t.co/sqPaRxISYz",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084873930095968615",
+    "created_at": "Wed Aug 05 05:27:34 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | TIPAZO: Javier Milei llenó de elogios a la Selección Argentina y a la leyenda del fútbol Lionel Messi tras alcan…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084873173749600391",
+    "created_at": "Wed Aug 05 05:24:34 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Son datos oficiales de las cuentas nacionales, Di Marco. O sea, la medición más abarcativa, seria y fidedigna disponible.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084873126483988618",
+    "created_at": "Wed Aug 05 05:24:23 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | El presidente @JMilei refutó a quienes niegan el éxito de la estabilización macroeconómica impulsada por su Gobi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084873084457083349",
+    "created_at": "Wed Aug 05 05:24:13 +0000 2026",
+    "full_text": "RT @lilialemoine: Estamos haciendo las cosas BIEN. Que haga su berrinche y termine aislando a Brasil del resto del Mundo... 🫡",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084873066740408756",
+    "created_at": "Wed Aug 05 05:24:08 +0000 2026",
+    "full_text": "RT @dlaje1: @edufeiok Brasil tiene su diplomacia degradada, sin embajadores, en Buenos Aires y Washington en este momento. \n\nEsto explica m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084872640817209745",
+    "created_at": "Wed Aug 05 05:22:27 +0000 2026",
+    "full_text": "RT @Naomiygal: Motosierras para algunos. Espadas para otros. Y siempre, siempre una pluma para mí. @JMilei @tuteditella https://t.co/B0xp8a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084872522839818253",
+    "created_at": "Wed Aug 05 05:21:59 +0000 2026",
+    "full_text": "RT @maquialifraco: El feminismo de 2018 terminó siendo la mejor coartada de los tipos más misóginos, violentos y violines que has visto en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084872249807442103",
+    "created_at": "Wed Aug 05 05:20:54 +0000 2026",
+    "full_text": "RT @CarajoStream: Otra vez el llorón de Lula retiró al embajador brasilero en Argentina por las verdades que le dijo el Javo. Los zurdos so…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084872161966100720",
+    "created_at": "Wed Aug 05 05:20:33 +0000 2026",
+    "full_text": "RT @DiegoMac227: Excelente entrevista.\nNo se la pierdan.\n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084870981944836587",
+    "created_at": "Wed Aug 05 05:15:51 +0000 2026",
+    "full_text": "RT @FAST_GAST: Vidal representa a la vieja política, dónde imperaban los buenos modos, para después saquearle el bolsillo a todos los argen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084870956917432568",
+    "created_at": "Wed Aug 05 05:15:45 +0000 2026",
+    "full_text": "RT @UHN_Plus: 🇺🇸🇧🇷‼️ | En una contundente medida de reciprocidad, el Departamento de Estado de EE. UU. le revocó la visa a la embajadora de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084870898775900380",
+    "created_at": "Wed Aug 05 05:15:31 +0000 2026",
+    "full_text": "RT @FlavioBolsonaro: Lamento que a incompetência e o rancor do atual governo brasileiro tenha feito mais uma vítima: nossa Embaixadora nos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084870654143217928",
+    "created_at": "Wed Aug 05 05:14:33 +0000 2026",
+    "full_text": "RT @UHN_Plus: 🇦🇷🇧🇷‼️ | El Presidente Javier Milei volvió a lanzar duros dardos este martes contra Luiz Inácio Lula da Silva, señalando que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084870114348835130",
+    "created_at": "Wed Aug 05 05:12:24 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI DESTRUYÓ A LAS FEMINISTAS: Javier Milei destruyó el relato de los zurdos feministas al destacar que su Gob…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084869721736835119",
+    "created_at": "Wed Aug 05 05:10:51 +0000 2026",
+    "full_text": "RT @lMartinezAlvaro: La empatía no puede ser la coartada para romper las reglas. \n\nLa presencialidad en las votaciones es una garantía, no…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084869244680884286",
+    "created_at": "Wed Aug 05 05:08:57 +0000 2026",
+    "full_text": "RT @tonyaracre: FACTOS 🇦🇷 vs 🇧🇷 \n\n1. La discusión de Milei con Lula es política. Milei es el líder de la nueva derecha latinoamericana en c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084868987783921742",
+    "created_at": "Wed Aug 05 05:07:56 +0000 2026",
+    "full_text": "RT @nadiajmarquez: FALSO. VV no tiene facultades para autorizar ninguna sesión remota.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084867117698945421",
+    "created_at": "Wed Aug 05 05:00:30 +0000 2026",
+    "full_text": "RT @jmilei_english: I introduced the \"Fiscal Shackle\" law. If politicians fail to do their job, they will pay the price, not the Argentine…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084865390371328246",
+    "created_at": "Wed Aug 05 04:53:38 +0000 2026",
+    "full_text": "DESENMASCARANDO A LA BASURA OPERADORA BERRETA.\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2084865302492270804",
+    "created_at": "Wed Aug 05 04:53:17 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: DI MARCO OPERADORA MENTIROSA QUE ELIGE LA MENTIRA ANTES QUE EL INDEC\n\nLa operadora mentirosa Laura Di Marco se pregunt…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084865213422006510",
+    "created_at": "Wed Aug 05 04:52:56 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Los que se disgustan con las formas de Milei muestran su hipocresía, y esta es parte importante del problema nacional.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084864943845700091",
+    "created_at": "Wed Aug 05 04:51:52 +0000 2026",
+    "full_text": "Habrá que avisarle a la IMBÉCIL que levanta el dedito acusador señalando un diario de Yrigoyen en base a una encuesta de muy dudosa credibilidad...\nPedirá perdón por la estupidez que ha señalado? Después cuestionó decir la verdad respecto a Lula.\nOPERADORA INMUNDA.\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2084863927607865772",
+    "created_at": "Wed Aug 05 04:47:49 +0000 2026",
+    "full_text": "RT @rcas1: El Consumo Privado está en máximos históricos.\nFuente: INDEC https://t.co/Dh9QIpeHov",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084863903721206137",
+    "created_at": "Wed Aug 05 04:47:44 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣🇧🇷 “LO QUE DIJO MILEI ES VERDAD”\n\nLA DIPUTADA DE LLA PATO VASQUEZ CRUZÓ A LAURA DI MARCO Y PUSO LOS PUNTOS SOBRE EL TEMA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084862896752783364",
+    "created_at": "Wed Aug 05 04:43:44 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇺🇸🇧🇷🇦🇷 | TRUMP HUMILLÓ A LULA: Justo después de que el dictador brasileño confirmara que reducía la representación di…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084862865488351335",
+    "created_at": "Wed Aug 05 04:43:36 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"Los políticos suelen subir los impuestos, y para nosotros los impuestos son un robo. Por lo tanto, nosotros decidimos hac…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084862692758548950",
+    "created_at": "Wed Aug 05 04:42:55 +0000 2026",
+    "full_text": "RT @ekammerath: No hay que relajarse. Lo de Di Marco de hoy muestra que el periodismo sigue operando igual que siempre, y lo hará con más i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084862592078496184",
+    "created_at": "Wed Aug 05 04:42:31 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷 “ES INEVITABLE QUE LLEGUE LA PROSPERIDAD CON ESTE CAMINO”\n\nESPECTACULAR RESPUESTA DE LA SENADORA PATRICIA BULLRICH SOBR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084861332319261105",
+    "created_at": "Wed Aug 05 04:37:31 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | BASADO: Javier Milei sacó chapa de haberse convertido en el único presidente en cumplir sus ambiciosas promesas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084861304964108743",
+    "created_at": "Wed Aug 05 04:37:24 +0000 2026",
+    "full_text": "RT @CarajoStream: Gracias al ajuste fiscal del Gobierno del Presidente Milei, hoy el argentino recupero 100.000 millones de dólares de ingr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084861257434239142",
+    "created_at": "Wed Aug 05 04:37:13 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨BUENA SEÑAL: RIESGO PAIS EN MINIMOS Y TASAS GLOBALES EN MAXIMOS🚨\n➡️Tener un riesgo pais en niveles de 400 puntos, con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084861156808691809",
+    "created_at": "Wed Aug 05 04:36:49 +0000 2026",
+    "full_text": "RT @ivancarrino: El Consumo Privado, que abarca más que lo que la prensa reporta como \"consumo masivo\", está en su máximo histórico de la s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084861094984577305",
+    "created_at": "Wed Aug 05 04:36:34 +0000 2026",
+    "full_text": "RT @ElTrumpista: Desde 2023 que asumió Milei la ropa y los electrónicos están UN 50% más BARATOS en términos relativos.\n\nAhh pero la indust…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084861062357147895",
+    "created_at": "Wed Aug 05 04:36:26 +0000 2026",
+    "full_text": "RT @dlaje1: Lula se pelea con la Argentina y Estados Unidos al mismo tiempo; con embajadores brasileños retirados de Washington y Buenos Ai…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084861019814273073",
+    "created_at": "Wed Aug 05 04:36:16 +0000 2026",
+    "full_text": "RT @pabloquirno: Comunicado de la Cancillería argentina sobre la decisión unilateral de Brasil adoptada en el día de la fecha. \n\n👇🏼👇🏼👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084860026808647982",
+    "created_at": "Wed Aug 05 04:32:19 +0000 2026",
+    "full_text": "RT @Cancilleria_Ar: https://t.co/hGvv55dVMR",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084859270919537078",
+    "created_at": "Wed Aug 05 04:29:19 +0000 2026",
+    "full_text": "RT @VivianaIsasi: Los sindicatos en el fondo de la tabla \n75% de imagen negativa. https://t.co/PUoWKNhaP5",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084854837426962831",
+    "created_at": "Wed Aug 05 04:11:42 +0000 2026",
+    "full_text": "ACOMODANDO A LA IGNORANTE. \nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2084854738546303206",
+    "created_at": "Wed Aug 05 04:11:19 +0000 2026",
+    "full_text": "RT @slcaputo: De un lado una persona que trabaja de periodista citando un IVR de dudosa calidad metodológica realizado por gente que trabaj…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084815857029353547",
+    "created_at": "Wed Aug 05 01:36:48 +0000 2026",
+    "full_text": "RT @Santiago_Oria: VIDAL RECITANDO LOS MISMOS ARGUMENTOS KIRCHNERISTAS\n\nCon carita impostada de Heidi propone lo mismo que Quintela: \"expro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084771906553827819",
+    "created_at": "Tue Aug 04 22:42:10 +0000 2026",
+    "full_text": "RT @TommyShelby_30: ¿De donde sacan esos datos?\n\nDel Instituto Nacional de Estadística y Censos (INDEC), pelotuda.\n\nLa falta de pauta les a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084771673874878625",
+    "created_at": "Tue Aug 04 22:41:14 +0000 2026",
+    "full_text": "RT @Felii_N: De los datos del INDEC, Laura, que son los que tienen los conocimientos y recursos para medir las variables macroeconomicas. L…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084771426255397048",
+    "created_at": "Tue Aug 04 22:40:15 +0000 2026",
+    "full_text": "RT @Azabacheonline: LA COMPLICIDAD DE SÁNCHEZ\n@AgustinLaje lo dice claro:\nel gobierno sabía de la invasión marroquí con una semana de antic…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084771220428333059",
+    "created_at": "Tue Aug 04 22:39:26 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"Cuando nosotros llegamos, recordá que había desabastecimiento. ¿De qué te sirve tener un precio con el que se mide la pob…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084771156461007089",
+    "created_at": "Tue Aug 04 22:39:11 +0000 2026",
+    "full_text": "RT @martinv0x: Pelado: \"Los que laburan conmigo no son mentirosos\"\n\n@JMilei: \"Son todos una mierda, y me consta. Tengo el prontuario, quere…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084770933953220976",
+    "created_at": "Tue Aug 04 22:38:18 +0000 2026",
+    "full_text": "RT @mileibarrial: \"Que es lo que puedo hacer yo para que tu negocio funcione mejor?\nBajarte la inflación, bajarte los impuestos, desregular…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084770878290530574",
+    "created_at": "Tue Aug 04 22:38:05 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Que ganas de ver este número en U$D50.000 https://t.co/q917WNnNue",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084770798389117032",
+    "created_at": "Tue Aug 04 22:37:46 +0000 2026",
+    "full_text": "RT @EconomiaMises: «El Estado nada produce, sólo puede confiscar lo que otros han producido. El Estado, por tanto, nada puede garantizarnos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084770681720344851",
+    "created_at": "Tue Aug 04 22:37:18 +0000 2026",
+    "full_text": "RT @cristiannmillo: Se lee bastante de la mora bancaria y deudores en general del sistema financiero. Bueno, acá 1816 nos trae este dato:\nT…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084770497858867274",
+    "created_at": "Tue Aug 04 22:36:34 +0000 2026",
+    "full_text": "RT @Lautiavanza: Milei: \"Ojalá algún día pueda conocer a Scaloni\"\nPelado: \"Como presidente podrías conocerlo\"\n\nEl Javote con toda la humild…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084770377356464376",
+    "created_at": "Tue Aug 04 22:36:05 +0000 2026",
+    "full_text": "RT @julianyosovitch: Milei va a dejar un pais a la proxima gestion diametralmente opuesto a la que recibió. Lo paradojico es que eso me gen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084770333668552806",
+    "created_at": "Tue Aug 04 22:35:55 +0000 2026",
+    "full_text": "RT @DiarioLiberalAr: ‼️🇦🇷 | MILEI LA ROMPIÓ TODA: Javier Milei habló de cómo viene después de casi 3 años de presidencia: \"Prefiero ser el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084770292274970732",
+    "created_at": "Tue Aug 04 22:35:45 +0000 2026",
+    "full_text": "RT @mileibarrial: Para que quede claro. Los medios de comunicación, los periosobres, los dueños de los medios, los empresaurios, los políti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084769699242320309",
+    "created_at": "Tue Aug 04 22:33:24 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🔥 MILEI PASEÓ A ALBERTO FERNÁNDEZ \n💣Atendió sin filtro a Alberto Fernández: \"No suma ni con un ábaco, es un analfabeto nu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084769675292840164",
+    "created_at": "Tue Aug 04 22:33:18 +0000 2026",
+    "full_text": "RT @eve_barroso: 🇦🇷 | 🗣️ @JMilei: \"Hay mucha deshonestidad intelectual por parte de los economistas y periodistas... Siempre expliqué que e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084769556539588846",
+    "created_at": "Tue Aug 04 22:32:50 +0000 2026",
+    "full_text": "RT @TalidanMilei: Este es el Javito que todos votamos y amamos.\n\n\"No me desafies PELADO porque empiezo a cantar todos los nombres de los en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084768853456794067",
+    "created_at": "Tue Aug 04 22:30:02 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨EL MERVAL LATERAL Y BONOS EN MÁXIMOS🚨\n➡️Las últimas novedades macro impactaron mejor en los bonos que en las acciones…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084768568659345816",
+    "created_at": "Tue Aug 04 22:28:54 +0000 2026",
+    "full_text": "RT @Azabacheonline: 🚨 LA VERDAD QUE MOLESTA\nMilei lo repitió sin miedo:\nLula es un ladrón condenado.\nEstuvo preso.\nLo sacaron por una manio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084768366443589860",
+    "created_at": "Tue Aug 04 22:28:06 +0000 2026",
+    "full_text": "RT @julianyosovitch: El Tesoro viene llevando a cabo una excelente administracion de los pasivos ARS. El Tesoro alarga duration en las colo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084768326614651211",
+    "created_at": "Tue Aug 04 22:27:56 +0000 2026",
+    "full_text": "RT @DiegoMac227: Gran entrevista a Milei. https://t.co/C7YkgB04Zf",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084768302040285567",
+    "created_at": "Tue Aug 04 22:27:50 +0000 2026",
+    "full_text": "RT @martinv0x: \"Desde que tengo memoria, todos los políticos ofrecieron y prometieron, nadie hizo nada. Los resultados fueron peores que lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084768143122321593",
+    "created_at": "Tue Aug 04 22:27:13 +0000 2026",
+    "full_text": "RT @DiegoMac227: Pero las formas de Milei....\n\nQue \"raros\" son esos politicos y periodistas que acusan a Milei por sus formas (dice la verd…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084768034820849896",
+    "created_at": "Tue Aug 04 22:26:47 +0000 2026",
+    "full_text": "RT @Soylibrecarajo: Mientras algunos siguen anunciando el fracaso... las inversiones empiezan a llegar. El futuro no espera a nadie. ⚡🇦🇷 gr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084767654296825916",
+    "created_at": "Tue Aug 04 22:25:16 +0000 2026",
+    "full_text": "RT @DiegoMac227: Los mismos que hicieron que mas de la mitad de la población fuera pobre, estoy seguro que van a reclamarle a Milei y pedir…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084767567726682326",
+    "created_at": "Tue Aug 04 22:24:55 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | BASADO: Javier Milei sacó pecho de ser el único político en haber cumplido sus promesas de campaña en el primer…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084767542887817566",
+    "created_at": "Tue Aug 04 22:24:49 +0000 2026",
+    "full_text": "RT @ViejoLibertario: Friedman hablaba de los \"buenistas\" de modales impecables, discursos sensibles y políticas que terminan perjudicando a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084767470276002199",
+    "created_at": "Tue Aug 04 22:24:32 +0000 2026",
+    "full_text": "RT @DiegoMac227: Cuanta verdad. https://t.co/cXo69O4gGo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084766703729451077",
+    "created_at": "Tue Aug 04 22:21:29 +0000 2026",
+    "full_text": "RT @mediceneljefe: La casta siempre subió impuestos para pagar su fiesta. Nosotros achicamos el Estado, no asfixiamos al sector privado y d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084766665598808327",
+    "created_at": "Tue Aug 04 22:21:20 +0000 2026",
+    "full_text": "RT @DiegoMac227: \"Vos fijate esto. Cuando vos mirás cualquier período de estabilización, en general suelen ser recesivos. Lo que yo te esto…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084766612851155347",
+    "created_at": "Tue Aug 04 22:21:08 +0000 2026",
+    "full_text": "RT @EconomiaMises: «La caída de los precios a través de una mayor producción es una maravillosa tendencia a largo plazo del capitalismo sin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084766557746413825",
+    "created_at": "Tue Aug 04 22:20:55 +0000 2026",
+    "full_text": "RT @fargosi: Los mismos izquierdistas que ahora lloran falsa soberanía por tierras, destruyeron nuestra capacidad militar, naval, aérea y d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084766504034169283",
+    "created_at": "Tue Aug 04 22:20:42 +0000 2026",
+    "full_text": "RT @Turios: Lo que nadie —o muy pocos— te cuentan: \n\n• La educación ya es un servicio esencial y los chicos están primero.\n• El turismo tuv…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084766420928180517",
+    "created_at": "Tue Aug 04 22:20:22 +0000 2026",
+    "full_text": "RT @nadiajmarquez: #ConferenciaDePrensa sobre el proyecto de Ley de Tierras junto a la jefa de bloque de senadores de #LLA, Patricia Bullri…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084766400707485819",
+    "created_at": "Tue Aug 04 22:20:17 +0000 2026",
+    "full_text": "RT @Naomiygal: @JMilei @jmilei_english https://t.co/Hxm0pWTjC5",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084765649772151126",
+    "created_at": "Tue Aug 04 22:17:18 +0000 2026",
+    "full_text": "RT @BenArgentino: Lo voy a repetir una y mil veces: Milei está adelantado años luz a cualquier político de este País.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084765049298571717",
+    "created_at": "Tue Aug 04 22:14:55 +0000 2026",
+    "full_text": "RT @IvanDuboisok: Las formas de Milei molestan. A pero si te cagan a piñas estos tipos no porque son kumpas, aliades, woke.\nQue suerte que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084764996135776698",
+    "created_at": "Tue Aug 04 22:14:42 +0000 2026",
+    "full_text": "RT @AleMonteoliva: BAJAMOS UN BÚNKER EN ROSARIO: DOS DETENIDOS\n\nCon el DFI de la PFA identificamos el lugar exacto y dimos el golpe: allana…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084764896646815820",
+    "created_at": "Tue Aug 04 22:14:19 +0000 2026",
+    "full_text": "RT @LLAenPBA: Cada senador nos cuesta $9 millones por día. Vamos a pasar la motosierra por la Legislatura bonaerense y convertirla en unica…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084763899467907157",
+    "created_at": "Tue Aug 04 22:10:21 +0000 2026",
+    "full_text": "RT @InMilei: 🚨 @JMilei : \"I think it’s bullshit to talk about Mileism.  \nWhat have I always said about this? That this is a job. And that i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084763490829410610",
+    "created_at": "Tue Aug 04 22:08:43 +0000 2026",
+    "full_text": "RT @agarra_pala: \"LAS MALVINAS SON ARGENTINAS, HEMOS HECHO AVANCES DIPLOMÁTICOS QUE NO LOGRÓ NADIE\"\n@JMilei @majulluis https://t.co/S05i5E2…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084763467743924586",
+    "created_at": "Tue Aug 04 22:08:38 +0000 2026",
+    "full_text": "RT @FerroAnton: Nadie resiste un archivo. \nMenos aún los kirchneristas. https://t.co/yqLVdlfwAL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084742363252224180",
+    "created_at": "Tue Aug 04 20:44:46 +0000 2026",
+    "full_text": "Aquí les paso la nota que me hizo hoy \"El Pelado\" @trebuquero . Muchas gracias Esteban por tu cordialidad y tu profesionalismo en cada uno de los temas que hemos acordado.\n\nhttps://t.co/WoFyDWXpzK",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2084738831937323340",
+    "created_at": "Tue Aug 04 20:30:44 +0000 2026",
+    "full_text": "RT @elpeladodlacasa: ¡Muchas gracias presidente @JMilei por habernos visitado en La Casa Streaming. 👏",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084738742011433194",
+    "created_at": "Tue Aug 04 20:30:23 +0000 2026",
+    "full_text": "RT @PrivilegioCero: PASANDO A LA ACCIÓN EN EL PODER JUDICIAL ⚖️🇦🇷\n\nMientras la casta paralizó los tribunales durante años, la gestión de @J…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084738691906310604",
+    "created_at": "Tue Aug 04 20:30:11 +0000 2026",
+    "full_text": "RT @javiernavia: Este era un tema preocupante con el que los diarios titularon varias tapas. Cuando se fue Cúneo Libarona 2 de cada 5 juzga…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084738487060693074",
+    "created_at": "Tue Aug 04 20:29:22 +0000 2026",
+    "full_text": "RT @DiegoMac227: La educación es un servicio esencial. \n\n\"Los niños han sido rehenes durante mucho tiempo, durante muchas décadas, han sido…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084738382400483828",
+    "created_at": "Tue Aug 04 20:28:57 +0000 2026",
+    "full_text": "RT @Voceria_Ar: ESTA SEMANA SE HAN APROBADO CINCO NUEVAS INVERSIONES EN EL MARCO DEL RIGI\n\nEsta última semana se han aprobado cinco RIGI ad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084738321667023234",
+    "created_at": "Tue Aug 04 20:28:43 +0000 2026",
+    "full_text": "RT @tonyaracre: 14B de superávit comercial 1st Half\n\nLa exportaciones vuelan y las importaciones no son ni cerca las del “deme dos”.\n\nY el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084738205157404880",
+    "created_at": "Tue Aug 04 20:28:15 +0000 2026",
+    "full_text": "RT @fargosi: Exacto.\n\nQuíntela es sincero\n\nEs lo que hicieron, hacen y harán: negocios para ellos y eso implica expropiar, confiscar, gener…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084738160203042993",
+    "created_at": "Tue Aug 04 20:28:04 +0000 2026",
+    "full_text": "RT @agarra_pala: MILEI SACÓ LOS TAPONES Y DOMÓ AL TERRAPLANISTA DE ALBERTO FERNÁNDEZ\n@JMilei https://t.co/sDJLqssm0N",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737977587265585",
+    "created_at": "Tue Aug 04 20:27:21 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | Javier Milei destrozó a los gobernantes que definen su agenda política en función de las encuestas: \"No tomo dec…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737874998460470",
+    "created_at": "Tue Aug 04 20:26:56 +0000 2026",
+    "full_text": "RT @ekammerath: Espectacular lo de Milei acá. Nuevamente, el foco está en las ideas:  https://t.co/yiRcwwQeNO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737800960680030",
+    "created_at": "Tue Aug 04 20:26:38 +0000 2026",
+    "full_text": "RT @FinanzasArgy: 👕Desde que asumió Milei, la ropa y los electrónicos están entre 42% y 57% más baratos en términos relativos que el promed…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737732555780333",
+    "created_at": "Tue Aug 04 20:26:22 +0000 2026",
+    "full_text": "RT @DiarioLiberalAr: ‼️🇦🇷 | EXPLOTA EL TURISMO EN VACACIONES DE INVIERNO: Explotó el consumo en las vacaciones de invierno 2026, con un réc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737626129485844",
+    "created_at": "Tue Aug 04 20:25:57 +0000 2026",
+    "full_text": "RT @mileibarrial: Avanzan las ideas de la libertad en todo el mundo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737576393474250",
+    "created_at": "Tue Aug 04 20:25:45 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | EXCELENTE: El presidente @JMilei estalló contra los operadores kirchneristas que niegan los datos positivos que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737521452527765",
+    "created_at": "Tue Aug 04 20:25:32 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨CRECE LA RECAUDACION REAL IMPULSADA POR IIGG🚨\n➡️La recaudación tributaria del mes de JUL26 arrojó un incremento nomin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737488371831109",
+    "created_at": "Tue Aug 04 20:25:24 +0000 2026",
+    "full_text": "RT @aetchebarne: Esto es riesgo Kuka!\nSaben cuál es su lógica ?\nSi logran asustar a la gente y generar una corrida , aumentan sus chances e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737348407857308",
+    "created_at": "Tue Aug 04 20:24:51 +0000 2026",
+    "full_text": "RT @PrivilegioCero: HISTÓRICO RÉCORD EN LA JUSTICIA ⚖️🇦🇷\n\nEl ministro @JuanBMahiques confirmó el envío de 203 pliegos al Senado para cubrir…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084737168552194238",
+    "created_at": "Tue Aug 04 20:24:08 +0000 2026",
+    "full_text": "RT @MiltonFriedmanW: “Freedom has prevailed where you have capitalism. And so has the well-being and prosperity of the ordinary men.”\n\n— Mi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084736835696091293",
+    "created_at": "Tue Aug 04 20:22:48 +0000 2026",
+    "full_text": "RT @Mileinnials: Después de la reunión entre Milei y Musk en 2024 finalmente TESLA está buscando argentinos para trabajar en su primera pla…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084736680226140355",
+    "created_at": "Tue Aug 04 20:22:11 +0000 2026",
+    "full_text": "RT @InMilei: 👀 \"The bee does not argue with the fly. Honey is honey, and shit is shit.\" https://t.co/udXTrOhlPy",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2084736564039454804",
+    "created_at": "Tue Aug 04 20:21:44 +0000 2026",
+    "full_text": "RT @istMilei: Un catenaccio alla Banca Centrale!\n\nhttps://t.co/60WNBtJ56O",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2084735816224686527",
     "created_at": "Tue Aug 04 20:18:45 +0000 2026",
     "full_text": "RT @mediceneljefe: Una gestión que, como dijo @Santiago_Oria, solo se compara a la de Roca necesita dirigentes a la altura. Argumentos, dat…",
