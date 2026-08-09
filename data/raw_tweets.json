@@ -1,5 +1,474 @@
 [
   {
+    "id": "2086305277431706042",
+    "created_at": "Sun Aug 09 04:15:14 +0000 2026",
+    "full_text": "RT @laromadelsur: El forajido corrupto totalmente sacado contra Marco Rubio. \nLo festejamos.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086304031178183001",
+    "created_at": "Sun Aug 09 04:10:17 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇧🇷 | LULA DEBERÍA ESTAR PRESO: @KalinaAnnGG detalla la megacausa de corrupción por la que Lula da Silva fue condenado…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086303503979258033",
+    "created_at": "Sun Aug 09 04:08:11 +0000 2026",
+    "full_text": "RT @JMilei: UPs!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086303447800762805",
+    "created_at": "Sun Aug 09 04:07:58 +0000 2026",
+    "full_text": "RT @JMilei: IA PARA TODOS Y TODAS\nESTE TIPO DE COSAS ESTARÁ A LA ORDEN DEL DÍA... LOS QUE SIEMPRE JUEGAN SUCIO RECURRIRÁN A TODO Y AQUÍ UNA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086265478603780547",
+    "created_at": "Sun Aug 09 01:37:05 +0000 2026",
+    "full_text": "RT @MAndreaNieto: ¡Estuve con Javier Milei en Cali! Tuve el honor de ser invitada a la ceremonia en la que la Universidad Santiago de Cali,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086265122897441115",
+    "created_at": "Sun Aug 09 01:35:40 +0000 2026",
+    "full_text": "RT @DiegoMac227: La mejor y mas grande periodista de Colombia, Maria Andrea Nieto, feliz de haber escuchado en directo la Masterclass que d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086264631417335922",
+    "created_at": "Sun Aug 09 01:33:43 +0000 2026",
+    "full_text": "RT @AntiWokeMemes17: https://t.co/495BA52Kfi",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086261356823482685",
+    "created_at": "Sun Aug 09 01:20:42 +0000 2026",
+    "full_text": "RT @ViejoLibertario: DIOS CREÓ EL UNIVERSO Y MILEI SE ROBÓ EL SOL.\n\nKicillof, detrás acotó que era cierto, y preguntó desafiante: ¿A dónde…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086260266208014339",
+    "created_at": "Sun Aug 09 01:16:22 +0000 2026",
+    "full_text": "RT @llatucoficial: “Lisandro tiene las condiciones que se necesitan para cambiar definitivamente la provincia de Tucumán”. \nGuillermo Franc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086258528595890584",
+    "created_at": "Sun Aug 09 01:09:28 +0000 2026",
+    "full_text": "RT @Leonys833185: https://t.co/UqjfqhkOb2",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086251980691824754",
+    "created_at": "Sun Aug 09 00:43:27 +0000 2026",
+    "full_text": "RT @ChouhyMentor: \"Lo más aterrador de la izquierda es que parece no tener idea de la tragedia de la condición humana. Le parece que todos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086251270147289345",
+    "created_at": "Sun Aug 09 00:40:38 +0000 2026",
+    "full_text": "RT @elprofesorcaleb: Prohibido olvidar que el peronismo votó en contra de acelerar los desalojos en caso de usurpación, incluso si la usurp…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086249173968417202",
+    "created_at": "Sun Aug 09 00:32:18 +0000 2026",
+    "full_text": "RT @agustin_pistone: ▶️ AHORRO, INVERSIÓN Y EL STOCK DE DÓLARES FUERA DEL SISTEMA FINANCIERO FORMAL\n\n@VauthierMartin: “Para que crezca la i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086248560421392799",
+    "created_at": "Sun Aug 09 00:29:52 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇺🇸 | SE AUTODOMÓ: Donald Trump se burló de la fracasada Kamala Harris porque, al intentar repudiar su ley para implem…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086248347455705088",
+    "created_at": "Sun Aug 09 00:29:01 +0000 2026",
+    "full_text": "RT @Hvygens: https://t.co/v54GtHflQK",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086248120346693782",
+    "created_at": "Sun Aug 09 00:28:07 +0000 2026",
+    "full_text": "RT @agarra_pala: ALFREDO CASERO ESTALLÓ CONTRA LA ZURDA DOLORES FONZI Y LOS ACTORES K\n@JMilei @agencialavieja https://t.co/BHPH8ck4iX",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086247927110881579",
+    "created_at": "Sun Aug 09 00:27:21 +0000 2026",
+    "full_text": "RT @eduardomenoni: A todo pulmón celebré el giro de Colombia a la derecha 🫡🇨🇴 Viva Colombia libre de comunismo y viva la patria milagro de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086247652216263058",
+    "created_at": "Sun Aug 09 00:26:15 +0000 2026",
+    "full_text": "RT @Libernoticia: 🚨Trebucq: \"Si la tierra la CHOREA un Kirchnerista para ellos ESTA BIEN\" https://t.co/43K8EUm6En",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086247331914010801",
+    "created_at": "Sun Aug 09 00:24:59 +0000 2026",
+    "full_text": "RT @juanfloreschaar: https://t.co/4FLAHSN9mH",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086247065831530917",
+    "created_at": "Sun Aug 09 00:23:55 +0000 2026",
+    "full_text": "RT @agustin_pistone: ▶️ HARTFIELD DIÓ UNA CLASE SOBRE LA IMPORTANCIA DE RECUPERAR LA DEMANDA DE DINERO \n\n@Diego_Hartfield: “La caída de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086246516721672624",
+    "created_at": "Sun Aug 09 00:21:44 +0000 2026",
+    "full_text": "IA PARA TODOS Y TODAS\nESTE TIPO DE COSAS ESTARÁ A LA ORDEN DEL DÍA... LOS QUE SIEMPRE JUEGAN SUCIO RECURRIRÁN A TODO Y AQUÍ UNA MUESTRA...\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2086246058829488287",
+    "created_at": "Sun Aug 09 00:19:55 +0000 2026",
+    "full_text": "RT @Tomidiazcueto: El único que puede comerse este video de IA es gente con IQ negativo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086245827349971349",
+    "created_at": "Sun Aug 09 00:19:00 +0000 2026",
+    "full_text": "RT @mileibarrial: Avanzan las ideas de la libertad en todo el mundo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086244721572344178",
+    "created_at": "Sun Aug 09 00:14:36 +0000 2026",
+    "full_text": "RT @xestadominimo: “Para que triunfe el mal, solo es necesario que los hombres buenos no hagan nada”.\n\n- Edmund Burke - https://t.co/yPyJ3J…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086242578446327888",
+    "created_at": "Sun Aug 09 00:06:05 +0000 2026",
+    "full_text": "RT @agustin_pistone: ▶️ PARA CRECER HACE FALTA QUE HAYA INVERSIÓN\n\n@VauthierMartin: “Para crecer hace falta que haya inversión. La inversió…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086242036554813483",
+    "created_at": "Sun Aug 09 00:03:56 +0000 2026",
+    "full_text": "RT @agustin_pistone: ▶️ VAUTHIER EXPLICÓ LA IMPORTANCIA DE INOCENCIA FISCAL\n\n@VauthierMartin: “A todos nos gustaría que Argentina sea un pa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086240066200858952",
+    "created_at": "Sat Aug 08 23:56:06 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | EXCELENTE: Santiago Bausili defendió la reforma del presidente Milei a la Carta Orgánica del Banco Central para…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086224245068030175",
+    "created_at": "Sat Aug 08 22:53:14 +0000 2026",
+    "full_text": "RT @carogomezsn: Llegó el presidente de Argentina Javier Milei, a la posesión de nuestro presidente Abelardo De La Espriella 🫡🇨🇴 https://t.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086220666475352515",
+    "created_at": "Sat Aug 08 22:39:01 +0000 2026",
+    "full_text": "RT @plexaleOK: ❗️🇵🇸 No son “futuros terroristas”. \nYa los son. Son niños y niñas a los que moldearon, adoctrinaron e instruyeron para conve…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086211130481938752",
+    "created_at": "Sat Aug 08 22:01:08 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: Gracias a la gestión del Presidente Javier Milei, Aerolíneas Argentinas deja de ser una carga para los argentinos. VLL…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086210389113815142",
+    "created_at": "Sat Aug 08 21:58:11 +0000 2026",
+    "full_text": "RT @TommyShelby_30: https://t.co/BYZ35DW4g3",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086210193361359076",
+    "created_at": "Sat Aug 08 21:57:24 +0000 2026",
+    "full_text": "RT @Alecbascbas: \"Nestor siendo gobernador se autocompro tierras fiscales por u$ 150.000, al año se lo vendió a los chilenos de Cencosud en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086209932659999203",
+    "created_at": "Sat Aug 08 21:56:22 +0000 2026",
+    "full_text": "RT @agustinromm: Subís impuestos-&gt;\nLas empresas se van/se funden-&gt;\nLa gente se queda sin trabajo-&gt;\nBaja la recaudación-&gt;\nAumenta la pobreza…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086208971464212561",
+    "created_at": "Sat Aug 08 21:52:33 +0000 2026",
+    "full_text": "RT @Diego_Hartfield: Explotado de gente la primera reunión de la Escuela de Dirigentes de La Libertad Avanza en Misiones. Nos estamos prepa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086208898562760996",
+    "created_at": "Sat Aug 08 21:52:15 +0000 2026",
+    "full_text": "RT @CarajoStream: Marco Del Pont admitiendo lo obvio: \"Creo que nos pasamos con la emisión\".\n\nGracias a su reforma de la Carta Orgánica del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086208836172452076",
+    "created_at": "Sat Aug 08 21:52:01 +0000 2026",
+    "full_text": "RT @varelacorina1: Dónde va lo Aman !!! https://t.co/686Hd70mom",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086208230418526415",
+    "created_at": "Sat Aug 08 21:49:36 +0000 2026",
+    "full_text": "RT @I_Am_BJC: Envy is the engine of socialism and resentment is the fuel that makes it go.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086207953141436767",
+    "created_at": "Sat Aug 08 21:48:30 +0000 2026",
+    "full_text": "RT @agustinromm: A veces me acuerdo que Alberto dijo en el debate presidencial que iba a cortar con las Leliqs y que iba a usar esa plata p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086207235013697959",
+    "created_at": "Sat Aug 08 21:45:39 +0000 2026",
+    "full_text": "RT @feeenlinea: \"El patrimonio del hombre pobre reside en la fuerza y destreza de sus manos; e impedirle emplear esa fuerza y destreza de l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086207031829307615",
+    "created_at": "Sat Aug 08 21:44:50 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇨🇴 | MILEI DESTRUYÓ A PETRO: El presidente Javier Milei celebró el avance de la derecha y apuntó contra el fracaso…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086206768648962548",
+    "created_at": "Sat Aug 08 21:43:48 +0000 2026",
+    "full_text": "RT @CodyLibolt: https://t.co/FUbbxGjBWy",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086206259733344426",
+    "created_at": "Sat Aug 08 21:41:46 +0000 2026",
+    "full_text": "RT @EconomiaMises: «El costo real del Estado es la prosperidad que no vemos, los puestos de trabajo que no existen, las tecnologías a las q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086205131964416464",
+    "created_at": "Sat Aug 08 21:37:17 +0000 2026",
+    "full_text": "RT @I_Am_BJC: https://t.co/vhnkxGNBBX",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086205047189184634",
+    "created_at": "Sat Aug 08 21:36:57 +0000 2026",
+    "full_text": "UPs!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2086204984623014031",
+    "created_at": "Sat Aug 08 21:36:42 +0000 2026",
+    "full_text": "RT @braga_dito: NO SOLO LO DICE MILEI\nEl congresista republicano Carlos Gimenez -cubano de nacimiento y exiliado desde niño- denuncia abier…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086204686240006172",
+    "created_at": "Sat Aug 08 21:35:31 +0000 2026",
+    "full_text": "RT @OldeWorldOrder: TEDDY ROOSEVELT: \"Complaining about a problem without proposing a solution is called whining.\" https://t.co/AI5mv3UGdE",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086195053299675590",
+    "created_at": "Sat Aug 08 20:57:14 +0000 2026",
+    "full_text": "RT @EconomiaMises: «Al recaudar impuestos y regular, los gobiernos no contribuyen a la creación de riqueza económica. En cambio, se aprovec…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086194182733836589",
+    "created_at": "Sat Aug 08 20:53:47 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷 “Una semana más cambiando la Argentina”",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086191332167446989",
+    "created_at": "Sat Aug 08 20:42:27 +0000 2026",
+    "full_text": "RT @MadeInAncapia: ✒️| “El socialismo supone una agresión a la creatividad humana. Mientras se impida mediante mandatos coactivos, el libre…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086190864989098246",
+    "created_at": "Sat Aug 08 20:40:36 +0000 2026",
+    "full_text": "RT @LPNational: True story 😂 https://t.co/SzaYs8VWze",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086190598537527309",
+    "created_at": "Sat Aug 08 20:39:32 +0000 2026",
+    "full_text": "RT @MarioNawfal: 🇺🇸 Kamala is FREAKING OUT over the SAVE America Act because it means you'll need an ID to vote, and Trump is enjoying each…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086189795035005108",
+    "created_at": "Sat Aug 08 20:36:21 +0000 2026",
+    "full_text": "RT @Mileistesfr: Leçons d’Argentine pour la SNCF (et toute autre entreprise détenue par l’État).\n\nDès son arrivée au pouvoir, Milei a initi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086182578755608785",
+    "created_at": "Sat Aug 08 20:07:40 +0000 2026",
+    "full_text": "RT @DiegoMac227: 📖l Les comparto el libro de Adam Smith que menciono Milei durante el discurso que dio al recibir el Doctorado Honoris Caus…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086182055524581665",
+    "created_at": "Sat Aug 08 20:05:36 +0000 2026",
+    "full_text": "RT @Felii_N: Milei logró que Marcó del Pont admita que se pasaron con la emisión, cambio absoluto de época y para siempre.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086181544729723160",
+    "created_at": "Sat Aug 08 20:03:34 +0000 2026",
+    "full_text": "RT @portilla_montse: Si la izquierda considera inmoral que conserves demasiado dinero, ¿por qué considera moral que el Estado se quede con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086180444500791303",
+    "created_at": "Sat Aug 08 19:59:11 +0000 2026",
+    "full_text": "RT @EconomiaMises: «Unos impuestos más altos no reducirán el déficit, salvo por un breve intervalo. Simplemente aumentarán el gasto público…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086180332936544299",
+    "created_at": "Sat Aug 08 19:58:45 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: Se dice y se repite hasta el hartazgo, hasta con dibujitos y todo. En Octubre 2027 los argentinos tenemos solo 2 opcion…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086179851359154265",
+    "created_at": "Sat Aug 08 19:56:50 +0000 2026",
+    "full_text": "RT @gidonsaar: בשולי טקס ההשבעה של נשיא קולומביה -  פגישה מצויינת עם חברים אמיתיים של ישראל: נשיא ארגנטינה הנפלא  @JMilei, יחד עם המזכירה ה…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086179522773434701",
+    "created_at": "Sat Aug 08 19:55:32 +0000 2026",
+    "full_text": "RT @CreativeDeduct: The intellectual case against Marxism was won more than a century ago. The most rigorous and devastating blows came fro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086179165762633991",
+    "created_at": "Sat Aug 08 19:54:07 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇻🇦 | El canciller Pablo Quirno estalló contra los miserables periodistas que intentan operar contra el Gobierno de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086179077447168314",
+    "created_at": "Sat Aug 08 19:53:46 +0000 2026",
+    "full_text": "RT @EricLDaugh: 🚨 UPDATE: Kamala Harris has just issued a desperate warning to every American that if the SAVE America Act passes, people h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086178860807418170",
+    "created_at": "Sat Aug 08 19:52:54 +0000 2026",
+    "full_text": "RT @istMilei: Milei ha posto fine al circolo vizioso: déficit, emissione, debito della Banca Centrale (BCRA), nuova emissione.\nLa stampante…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086178384707727760",
+    "created_at": "Sat Aug 08 19:51:00 +0000 2026",
+    "full_text": "RT @IdiazAyuso: Brutal.\n\nEspaña, aislada de la UE, de EEUU y de Occidente.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086178094562361473",
+    "created_at": "Sat Aug 08 19:49:51 +0000 2026",
+    "full_text": "RT @QuotesforGoal: “La primera lección de la economía es la escasez: nunca hay suficiente de algo para satisfacer a todos. La primera lecci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086177453634986384",
+    "created_at": "Sat Aug 08 19:47:18 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🤡 ¡LA ESPOSA DE SERGIO MASSA COMPARÓ LOS DISTURBIOS CON EL 2001!\n🎙️ Joni Viale destrozó el mensaje de Malena y cuestionó…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086177156351373321",
+    "created_at": "Sat Aug 08 19:46:08 +0000 2026",
+    "full_text": "RT @EricLDaugh: 🚨 JUST NOW: President Trump just posted Kamala Harris panicking that the SAVE America Act, if passed, requires people to PR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2086176889635246531",
+    "created_at": "Sat Aug 08 19:45:04 +0000 2026",
+    "full_text": "RT @feeenlinea: \"Debemos considerar el sistema de precios como un mecanismo de comunicación de información si queremos comprender su verdad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2086151889209442496",
     "created_at": "Sat Aug 08 18:05:43 +0000 2026",
     "full_text": "RT @FzasDeLaVerdad: @JMilei @dreidel1 Para resumir: no hay \"dos economías\", sino UN MERCADO que, en libertad, comienza a construir la escal…",
