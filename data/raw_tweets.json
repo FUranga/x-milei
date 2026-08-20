@@ -1,5 +1,243 @@
 [
   {
+    "id": "2090272776422576313",
+    "created_at": "Thu Aug 20 03:00:39 +0000 2026",
+    "full_text": "RT @fededomin: USD 50.000 💪🏻🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090272751240007732",
+    "created_at": "Thu Aug 20 03:00:33 +0000 2026",
+    "full_text": "RT @pabloquirno: TMAP 🇦🇷🇦🇷🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090243877391221120",
+    "created_at": "Thu Aug 20 01:05:49 +0000 2026",
+    "full_text": "Se ve lindo el cuadro del BCRA...\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2090243747455865054",
+    "created_at": "Thu Aug 20 01:05:18 +0000 2026",
+    "full_text": "RT @BancoCentral_AR: #DataBCRA | Encontrá la lista de #PrincipalesVariables en: https://t.co/Qev6HZIV4a \n#ReservasBCRA https://t.co/9NW6u0d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090243724068389034",
+    "created_at": "Thu Aug 20 01:05:13 +0000 2026",
+    "full_text": "RT @LaVonHayek: Agosto:               \n12da ronda: +15\nAcumulado Agosto: +354              \n+13.699M en 2026",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090243626420895753",
+    "created_at": "Thu Aug 20 01:04:50 +0000 2026",
+    "full_text": "RT @jmilei_english: Liberty is not the natural state of societies. It is the exception that must be defended every single day against the n…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090243090527232097",
+    "created_at": "Thu Aug 20 01:02:42 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Nuevo RIGI aprobado 🇦🇷🇦🇷\n\nEl Comité Evaluador aprobó el ingreso al RIGI del proyecto de petróleo Los Toldos II Este de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090243066930024500",
+    "created_at": "Thu Aug 20 01:02:36 +0000 2026",
+    "full_text": "RT @agarra_pala: 🦁✅ “SOY MILEISTA Y CADA DÍA LO AMO MÁS, EL TIPO CUMPLE CON LO QUE DICE Y EL PERIODISMO SIGUE TIRANDO MIERDA”\n\nEL ACTO JUAN…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090242722728955960",
+    "created_at": "Thu Aug 20 01:01:14 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | SE VIENE EL FIN DE LA INFLACIÓN EN ARGENTINA: El presidente del Banco Central, Santiago Bausili, anticipó que la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090242607758590227",
+    "created_at": "Thu Aug 20 01:00:47 +0000 2026",
+    "full_text": "RT @AlejRozitchner: El gran absurdo de perseguir con un \"la gente no llega a fin de mes\" justo al gobierno que bajó enormemente la pobreza.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090242527656018391",
+    "created_at": "Thu Aug 20 01:00:28 +0000 2026",
+    "full_text": "RT @lilialemoine: Recuerden en qué pais está operando \"La Compañía\", los operadores rusos que pagaban periodistas para ensuciar el gobierno…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090242504314495460",
+    "created_at": "Thu Aug 20 01:00:22 +0000 2026",
+    "full_text": "RT @lilialemoine: Los sicarios estudiaron en la Academia para Copitos \"Montiel\" y la investigación periodística está a cargo de Tomás Mende…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090231315295605067",
+    "created_at": "Thu Aug 20 00:15:54 +0000 2026",
+    "full_text": "Esto no le gustará a los periodistas ensobrados y corruptos... prefieren la repetición de relatos sensibleros y cómplices de los que han destruido a la Argentina...",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2090230999372214374",
+    "created_at": "Thu Aug 20 00:14:39 +0000 2026",
+    "full_text": "RT @lucasllach: Según la IA, de las once presidencias de la democracia las únicas que bajaron la tasa de inflación y aumentaron la tasa de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090199928525967533",
+    "created_at": "Wed Aug 19 22:11:11 +0000 2026",
+    "full_text": "MASTERCLASS \nÍndices de Precios Minoristas y Mayoristas expresados en dólares. Su evolución y comparación con lo que pasó en La Convertibilidad. \nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2090199613387002082",
+    "created_at": "Wed Aug 19 22:09:56 +0000 2026",
+    "full_text": "RT @Felii_N: Evolución comparada de inflación mayorista y minorista.\n\nPara asegurar consistencia se considera como punto de partida el mes…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182956048691334",
+    "created_at": "Wed Aug 19 21:03:45 +0000 2026",
+    "full_text": "RT @PatoBullrich: El rumbo es el correcto. \n\nLo que necesitamos ahora es más velocidad en los resultados para lograr que el cambio se sient…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182795905921226",
+    "created_at": "Wed Aug 19 21:03:06 +0000 2026",
+    "full_text": "RT @AleMonteoliva: Excelente reunión con Omar García Harfuch. Hablamos de cómo seguir fortaleciendo el trabajo conjunto entre Argentina y M…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182781007454687",
+    "created_at": "Wed Aug 19 21:03:03 +0000 2026",
+    "full_text": "RT @MinSeguridad_Ar: La Ministra de Seguridad Nacional, Alejandra Monteoliva, junto al Administrador de la DEA, Terry Cole, brindaron una c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182742017274256",
+    "created_at": "Wed Aug 19 21:02:54 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Gracias a Martín Cabrales y a Café Cabrales por acompañarnos en la visita al Espacio Unzué y por sumarse al proyecto del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182632990556449",
+    "created_at": "Wed Aug 19 21:02:28 +0000 2026",
+    "full_text": "RT @lilialemoine: No pueden contra la realidad. https://t.co/ZjmODJaY5N",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182611289207203",
+    "created_at": "Wed Aug 19 21:02:22 +0000 2026",
+    "full_text": "RT @braga_dito: No hay que mirar solamente qué preguntó el periodista sino cómo construyó las preguntas.\n\nLeí y escuché la entrevista. Como…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182503634006084",
+    "created_at": "Wed Aug 19 21:01:57 +0000 2026",
+    "full_text": "RT @KarenReichardt1: Prohibir suena fácil, pero deja a los animales en las sombras. Regular es mirar de frente y decir basta de maltrato. E…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182410856288622",
+    "created_at": "Wed Aug 19 21:01:35 +0000 2026",
+    "full_text": "RT @PabloWende: “No veo razones para tener un dólar más alto. Les dejo la entrevista que le hice a Sebastián Galiani, @SFGaliani. \nMuchas d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182386604462452",
+    "created_at": "Wed Aug 19 21:01:29 +0000 2026",
+    "full_text": "RT @CasaRosada: Con motivo del Día del Niño, Casa Rosada recibió la visita de niños pertenecientes a distintas iglesias evangélicas, quiene…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182362671771906",
+    "created_at": "Wed Aug 19 21:01:23 +0000 2026",
+    "full_text": "RT @FAST_GAST: \"El capitalismo de libre empresa no solo es más productivo, sino también el único sistema justo\"\n\n@JMilei https://t.co/55PHY…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182271911231704",
+    "created_at": "Wed Aug 19 21:01:01 +0000 2026",
+    "full_text": "RT @ivancarrino: Marcó del Pont dice que el dólar está \"muy atrasado\". Cuando ella fue presidente del BCRA, el tipo de cambio real cayó 26%…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182205339512968",
+    "created_at": "Wed Aug 19 21:00:46 +0000 2026",
+    "full_text": "RT @liberyprogre: Caputo, Sturzenegger, Bullrich en cumbre internacional de Libertad y Progreso. Reformas, economia y capital humano en deb…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182167238250983",
+    "created_at": "Wed Aug 19 21:00:37 +0000 2026",
+    "full_text": "RT @AmoaHamlet: LA INESTABILIDAD DE LOS ZURDOS\n\nQué rápido cambian de principios los zurdos cuando la censura que ellos impulsan empieza a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090182054138761239",
+    "created_at": "Wed Aug 19 21:00:10 +0000 2026",
+    "full_text": "RT @elprofesorcaleb: Se llama Mercedes Ninci. Dijo que los trabajadores ganan poco y que no llegan a fin de mes. \n\nPero resulta que ella le…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090181960652194096",
+    "created_at": "Wed Aug 19 20:59:47 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇻🇦 | MILEI PREPARA LA HISTÓRICA VISITA DEL PAPA: El Gobierno comenzó a organizar junto a la Iglesia la llegada de L…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090181939449807235",
+    "created_at": "Wed Aug 19 20:59:42 +0000 2026",
+    "full_text": "RT @MinDefensa_Ar: Nuestras Fuerzas Armadas ya están en Colombia para desplegar sus capacidades de asistencia humanitaria en las zonas afec…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2090157451219701833",
+    "created_at": "Wed Aug 19 19:22:24 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2090157408555511978",
+    "created_at": "Wed Aug 19 19:22:14 +0000 2026",
+    "full_text": "RT @SFGaliani: Comparto otra entrevista interesante que me hizo ayer Pablo Wende:",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2090150969283637291",
     "created_at": "Wed Aug 19 18:56:38 +0000 2026",
     "full_text": "RT @xestadominimo: \"La justicia social es una aberración desde el punto de vista moral y un robo desde el punto de vista económico\".\n\n- Jav…",
