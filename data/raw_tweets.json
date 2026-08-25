@@ -1,5 +1,432 @@
 [
   {
+    "id": "2092056099058848203",
+    "created_at": "Tue Aug 25 01:06:57 +0000 2026",
+    "full_text": "RT @anellogaby: Son datos, no es relato \nLos Argentinos confían en @JMilei https://t.co/PH5fwUO5CJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092055970578866193",
+    "created_at": "Tue Aug 25 01:06:26 +0000 2026",
+    "full_text": "RT @pabloquirno: Recibí junto a Bettina Bulgheroni, Presidente del @CICYPAR y en representación de la Cámara Argentina de Comercio y Servic…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092051611292160038",
+    "created_at": "Tue Aug 25 00:49:07 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: El periodismo está con una diarrea de pérdida de confianza.\nLe cayó mal su opereta morosidad.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092051581034287118",
+    "created_at": "Tue Aug 25 00:49:00 +0000 2026",
+    "full_text": "RT @fededomin: El ICG se ubica por encima de los niveles registrados a esta altura de los últimos cuatro mandatos presidenciales, alcanzand…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092051336854483064",
+    "created_at": "Tue Aug 25 00:48:01 +0000 2026",
+    "full_text": "RT @fargosi: Pero... ¡ si muchos medios y sabios periodistas y politólogos dicen lo contrario !  \n\n¿La UTDT miente? ¿O mienten los medios y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092051280386461873",
+    "created_at": "Tue Aug 25 00:47:48 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Con un periodismo más sensato, racional y responsable, la Argentina estaría avanzando todavía más rápido.\nPodríamos es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092051097875538012",
+    "created_at": "Tue Aug 25 00:47:04 +0000 2026",
+    "full_text": "RT @OlgaMosser: Es cierto que Milei no tiene buenas maneras, pero no existen eufemismos para decirles a los hijos de puta que son hijos de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092049721690911026",
+    "created_at": "Tue Aug 25 00:41:36 +0000 2026",
+    "full_text": "RT @egbibi: El presidente contra las dos corporaciones más poderosas: los medios y los empresarios prebendarios. Unos quieren pauta y los o…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092044714543374423",
+    "created_at": "Tue Aug 25 00:21:42 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: EFECTO MILEI https://t.co/OJX1RtCKoJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092044684000448832",
+    "created_at": "Tue Aug 25 00:21:35 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | \"El registro más alto de los últimos 20 años para 2 años y medio de mandato. Dos conclusiones obvias: datos mata…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092044661472760079",
+    "created_at": "Tue Aug 25 00:21:30 +0000 2026",
+    "full_text": "RT @AdrianRavier: Nuevo récord histórico de exportaciones agroindustriales 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092044645555474534",
+    "created_at": "Tue Aug 25 00:21:26 +0000 2026",
+    "full_text": "RT @AleMonteoliva: EXPULSAMOS A UN NARCO PERUANO\n\nUno por uno, hasta que no quede ninguno. https://t.co/eXQSwqsQwd",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092044614052061464",
+    "created_at": "Tue Aug 25 00:21:18 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: La ministra Sandra Pettovello encabezó el inicio de las actividades del Tren 25 de Mayo en Salta, junto al gobernador de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092044591562408294",
+    "created_at": "Tue Aug 25 00:21:13 +0000 2026",
+    "full_text": "RT @SilvanaGiudici: La campaña negativa de los últimos días solo repite frases hechas.  \nLos relatos se caen cuando lees los datos. Vamos p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092044552915808629",
+    "created_at": "Tue Aug 25 00:21:04 +0000 2026",
+    "full_text": "RT @rcas1: \"El nivel de confianza en el mes 32 de la presidencia de Javier Milei es 5,9% mayor que el de la presidencia de Mauricio Macri,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092044507449585972",
+    "created_at": "Tue Aug 25 00:20:53 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Desconcierto en el periodismo: la confianza en Milei subió fuerte.\nQuizás deberían empezar a preguntarse por qué la re…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092040203460325502",
+    "created_at": "Tue Aug 25 00:03:47 +0000 2026",
+    "full_text": "RT @jultarres: Un director que representa a 1 cámara federal que agrupa comercios que concentran el 70% de los alimentos y bebidas en el pa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092040138582872335",
+    "created_at": "Tue Aug 25 00:03:31 +0000 2026",
+    "full_text": "RT @jultarres: 📡El debate de la tasa de morosidad en la Argentina no contempla los impuestos que cobran gobiernos provinciales ni municipio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092039554454704621",
+    "created_at": "Tue Aug 25 00:01:12 +0000 2026",
+    "full_text": "RT @jdoedoe101101: El mes pasado cuando vayó 6 puntos fue tapa de todos los diarios. Este mes sube de vuelta 6 puntos y de pedo te enteras…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092039380734988735",
+    "created_at": "Tue Aug 25 00:00:31 +0000 2026",
+    "full_text": "RT @AdrianRavier: Mejora el Índice de Confianza en el Gobierno que mide @UTDT_Gobierno  👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092039362061988207",
+    "created_at": "Tue Aug 25 00:00:26 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: RÉCORD HISTÓRICO: LA AGROINDUSTRIA ARGENTINA EXPORTÓ MÁS QUE NUNCA EN LOS PRIMEROS 7 MESES DEL AÑO\n\nEntre enero y juli…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092022484589576408",
+    "created_at": "Mon Aug 24 22:53:22 +0000 2026",
+    "full_text": "RT @martinvars: Buen resumen de cómo va la economía argentina con superávits inauditos fiscales y comerciales.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092022450854785522",
+    "created_at": "Mon Aug 24 22:53:14 +0000 2026",
+    "full_text": "RT @rcas1: Es increíble escuchar economistas hablar de atraso cambiario.\n\nLa economía apunta a un superávit comercial de usd27.000 millones…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092007722455540165",
+    "created_at": "Mon Aug 24 21:54:43 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: El registro más alto de los últimos 20 años para 2 años y medio de mandato. \nDos conclusiones obvias:\n1. Datos oficiales…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2092007517454766548",
+    "created_at": "Mon Aug 24 21:53:54 +0000 2026",
+    "full_text": "RT @pajaromartino: Basta de pedir devaluación.\nDevaluar no es competitividad: es licuar sueldos para tapar ineficiencia ajena.\nArgentina ti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091991310202712357",
+    "created_at": "Mon Aug 24 20:49:30 +0000 2026",
+    "full_text": "RT @Energia_Ar: Argentina vuelve a superar su récord mensual de producción de petróleo.\n\nEn julio, el país alcanzó 916,2 mil barriles por d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091991260655706187",
+    "created_at": "Mon Aug 24 20:49:18 +0000 2026",
+    "full_text": "RT @DiegoMac227: Fenómeno barrial",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091990442153791790",
+    "created_at": "Mon Aug 24 20:46:03 +0000 2026",
+    "full_text": "RT @mileibarrial: Nota importante e interesante que habla sobre las IA y que cita la opinión de Javier Milei al respecto\nhttps://t.co/HRgNp…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091990265699369351",
+    "created_at": "Mon Aug 24 20:45:21 +0000 2026",
+    "full_text": "RT @Diego_Hartfield: El Índice de Confianza de la UTDT muestra que, en el mes 32 de gestión, Milei es el presidente con mayor nivel de conf…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091990220619264444",
+    "created_at": "Mon Aug 24 20:45:10 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILAGRO ECONÓMICO ARGENTINO: Las exportaciones agroindustriales alcanzaron un récord histórico en los primeros s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091990200386007365",
+    "created_at": "Mon Aug 24 20:45:05 +0000 2026",
+    "full_text": "RT @FAST_GAST: Epica domada de Grok, a kukita llorón.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091990009192845817",
+    "created_at": "Mon Aug 24 20:44:20 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: VLLC 🦁🇦🇷 https://t.co/rDQ4tggzyw",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091989456517521831",
+    "created_at": "Mon Aug 24 20:42:08 +0000 2026",
+    "full_text": "RT @CarajoStream: Di Tella informó que su Índice de Confianza en el Gobierno reportó un aumento del 6,4% para el mes de Agosto. https://t.c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091989436829434323",
+    "created_at": "Mon Aug 24 20:42:03 +0000 2026",
+    "full_text": "RT @aetchebarne: Este gráfico es genial.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091989074210935001",
+    "created_at": "Mon Aug 24 20:40:37 +0000 2026",
+    "full_text": "RT @TommyShelby_30: MALA NOTICIA PARA LOS KUKAS https://t.co/4x9G3nUpiX",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091988493668909265",
+    "created_at": "Mon Aug 24 20:38:18 +0000 2026",
+    "full_text": "RT @xestadominimo: “El socialismo es un sistema basado en la envidia, el resentimiento y el trato desigual ante la ley”.\n\n- Javier Milei -…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091988464627577173",
+    "created_at": "Mon Aug 24 20:38:11 +0000 2026",
+    "full_text": "RT @eve_barroso: Sube fuertemente el índice de confianza del gobierno en el mes de agosto.\n\nVamos @JMilei 🇦🇷💪🏻💪🏻💪🏻 https://t.co/nrMGiFJnAo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091988393492107339",
+    "created_at": "Mon Aug 24 20:37:54 +0000 2026",
+    "full_text": "RT @ElGladiadorLLA: Milei: ¨Por que pagabamos los neumaticos 400 dolares si su precio era 100? Si abrimos la economia entran neumaticos a 1…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091988311384469764",
+    "created_at": "Mon Aug 24 20:37:35 +0000 2026",
+    "full_text": "RT @FAST_GAST: Estos periodichantas que hablan de que el presidente @JMilei no tiene empatía, son los que quieren fomentar servidumbre para…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091988196716404880",
+    "created_at": "Mon Aug 24 20:37:08 +0000 2026",
+    "full_text": "RT @mediceneljefe: La Argentina de @JMilei gestiona el regreso de la máxima categoría del automovilismo. Inversión, prestigio internacional…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091987909272285610",
+    "created_at": "Mon Aug 24 20:35:59 +0000 2026",
+    "full_text": "RT @ronnie__rr: En el primer semestre de 2026, 10 de los 15 sectores del EMAE crecieron contra 2025 pero este tira con total impunidad que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091987773532086675",
+    "created_at": "Mon Aug 24 20:35:27 +0000 2026",
+    "full_text": "RT @AdrianRavier: Esta mañana participé de la reunión de Gabinete de Ministros.\n\nEl presidente Javier Milei encabezó esta mañana una reunió…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091987337479856192",
+    "created_at": "Mon Aug 24 20:33:43 +0000 2026",
+    "full_text": "RT @AlanAcostaBC: ¡EL LEÓN LLEGÓ A ROSARIO Y LA CIUDAD TEMBLÓ!\nUn mar de libertarios, banderas violetas y el grito que no se apaga:\n¡VIVA L…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091987187747197369",
+    "created_at": "Mon Aug 24 20:33:07 +0000 2026",
+    "full_text": "RT @FAST_GAST: \"Una política social que socava el desarrollo de la economía es, en esencia, una política antisocial.\"\n\nLeszek Balcerowicz.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091987013381841380",
+    "created_at": "Mon Aug 24 20:32:25 +0000 2026",
+    "full_text": "RT @Felii_N: Mal día, semana, mes, año y futura década para los apóstoles del Apocalipsis.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091985520154861992",
+    "created_at": "Mon Aug 24 20:26:29 +0000 2026",
+    "full_text": "RT @FAST_GAST: La Argentina esta del lado de Javier Milei, por mas que los medios lo quieran tapar.\n\nEs inminente la reelección de Javier M…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091985480875139322",
+    "created_at": "Mon Aug 24 20:26:20 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: MÁS INVERSIÓN PRIVADA PARA RUTAS NACIONALES SEGURAS Y EFICIENTES\n\nSe adjudicaron más de 3.900 kilómetros de rutas nacio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091985460943782312",
+    "created_at": "Mon Aug 24 20:26:15 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Los periodistas quedaron como unos PELOTUDOS. \nQuisieron convertir a los morosos en víctimas para que los bancos nos c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091985369646379353",
+    "created_at": "Mon Aug 24 20:25:53 +0000 2026",
+    "full_text": "RT @Santiago_Oria: LAS PELOTAS DE ACERO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091985007237558481",
+    "created_at": "Mon Aug 24 20:24:27 +0000 2026",
+    "full_text": "RT @ajmechet: De los creadores de “La mesa del hambre” ahora se instala “La Argentina morosa”. \n\nLos que arruinaron a varias generaciones d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091984803239231545",
+    "created_at": "Mon Aug 24 20:23:38 +0000 2026",
+    "full_text": "RT @EconomiaMises: «La mejor manera de ayudar a los pobres es reducir los impuestos y permitir que el ahorro, la inversión y la creación de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091984593628901723",
+    "created_at": "Mon Aug 24 20:22:48 +0000 2026",
+    "full_text": "RT @mileibarrial: Querés tener información fidedigna y exacta sobre un hecho, una persona o cualquier otra cuestión? Leé lo que dice un per…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091984453182624232",
+    "created_at": "Mon Aug 24 20:22:15 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨REPUNTE INDICE CONFIANZA AL GOBIERNO UTDT🚨\n➡️El Índice de Confianza en el Gobierno (ICG) de UTDT repuntó 6,4% m/m en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091984289306948056",
+    "created_at": "Mon Aug 24 20:21:36 +0000 2026",
+    "full_text": "RT @JaviGarcia_Ok: Cómo cansan algunos con lo de la “empatía”. Empatía no es regalar plata que no existe para comprar aplausos. Empatía es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091984253542105256",
+    "created_at": "Mon Aug 24 20:21:27 +0000 2026",
+    "full_text": "RT @Santiago_Oria: ESTO es lo que NO te muestran los medios. https://t.co/Z91L7mSYIP",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091983903359639598",
+    "created_at": "Mon Aug 24 20:20:04 +0000 2026",
+    "full_text": "RT @Turios: Durante años les mintieron a los argentinos. Prometieron soluciones mágicas mientras dejaban inflación, déficit y pobreza.\n\nMil…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091983884259107229",
+    "created_at": "Mon Aug 24 20:19:59 +0000 2026",
+    "full_text": "RT @cristiannmillo: El Índice de Confianza en el Gobierno aumentó en Agosto 6,4% respecto del mes anterior recuperando la caída del mes ant…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091983674975633729",
+    "created_at": "Mon Aug 24 20:19:09 +0000 2026",
+    "full_text": "RT @mediceneljefe: .@JMilei fue contundente: el fin de la pauta oficial dejó en evidencia a los operadores corruptos. NUNCA subestimen al P…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091983638414217446",
+    "created_at": "Mon Aug 24 20:19:01 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷 | LOS ARGENTINOS CONFÍAN EN MILEI: El Índice de Confianza en el Gobierno de la Universidad Torcuato Di Tella subió…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091982923729658135",
+    "created_at": "Mon Aug 24 20:16:10 +0000 2026",
+    "full_text": "RT @DiegoMac227: Milei cerrará  la 47° Convención Anual del IAEF. Que se realizará el 3 al 6 de septiembre. https://t.co/YXyeJWnM8l",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2091982836483953073",
+    "created_at": "Mon Aug 24 20:15:50 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: LAS EXPORTACIONES AGROINDUSTRIALES ALCANZARON UN RÉCORD HISTÓRICO EN LOS PRIMEROS 7 MESES DE 2026\n\n✅ Las exportaciones ag…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2091944948916744372",
     "created_at": "Mon Aug 24 17:45:16 +0000 2026",
     "full_text": "RT @JMilei: EXTRAORDINARIO",
