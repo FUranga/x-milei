@@ -1,5 +1,313 @@
 [
   {
+    "id": "2095981308803428650",
+    "created_at": "Fri Sep 04 21:04:20 +0000 2026",
+    "full_text": "RT @mileibarrial: Nota principal de hoy en la tapa de uno de los diarios más importantes de Inglaterra. Javier Milei es el presidente argen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095981287991394649",
+    "created_at": "Fri Sep 04 21:04:15 +0000 2026",
+    "full_text": "RT @pabloquirno: Porqué hacemos lo que hacemos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095981194307317890",
+    "created_at": "Fri Sep 04 21:03:52 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2095981173604544966",
+    "created_at": "Fri Sep 04 21:03:47 +0000 2026",
+    "full_text": "RT @TheEconomist: During a sometimes angry interview Argentina’s president said repeatedly that “this territory is ours”. But he also empha…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095981134618210631",
+    "created_at": "Fri Sep 04 21:03:38 +0000 2026",
+    "full_text": "RT @lilialemoine: PAPELÓN TOTAL - VIDEO FAKE\n@paulinor76  tu odio hacia Milei acaba de destruir tu credibilidad.\nEl que defienda tu acciona…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095981022634553375",
+    "created_at": "Fri Sep 04 21:03:11 +0000 2026",
+    "full_text": "RT @elduckpost: Murray N. Rothbard apoyaba abiertamente que las Islas Malvinas pertenecen a Argentina (Excelente tweet de @nnairob 🇹🇷)\n\n\"La…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095979542028366162",
+    "created_at": "Fri Sep 04 20:57:18 +0000 2026",
+    "full_text": "RT @nnairob: Murray N. Rothbard, Malvinas Adaları'nın Arjantin'e ait olduğunu açıkça destekliyordu:\n\n\"Ada Arjantin'e birkaç yüz mil, İngilt…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095971899520045191",
+    "created_at": "Fri Sep 04 20:26:56 +0000 2026",
+    "full_text": "RT @TheEconomist: “The Malvinas are Argentine,” the president said, using Argentina’s preferred term for the islands, while posing beside a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095971847460573386",
+    "created_at": "Fri Sep 04 20:26:44 +0000 2026",
+    "full_text": "RT @AdrianRavier: UNA SEMANA MÁS CAMBIANDO LA ARGENTINA\n\n🇦🇷 ANUNCIO DEL PRESIDENTE MILEI RESPECTO A LAS ISLAS MALVINAS: Frente al proyecto…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095946245017625006",
+    "created_at": "Fri Sep 04 18:45:00 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2095946223827972404",
+    "created_at": "Fri Sep 04 18:44:55 +0000 2026",
+    "full_text": "RT @mileibarrial: Nota extensa en @Telegraph sobre la cadena nacional que dio Javier Milei defendiendo la soberanía de nuestro país https:/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095946135298802092",
+    "created_at": "Fri Sep 04 18:44:34 +0000 2026",
+    "full_text": "RT @nnairob: Başkan Milei'nin açıklamaları sonrası Malvinas'ta faaliyet gösteren Rockhopper ve Navitas şirketlerinin hisseleri düştü. https…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095945912212132050",
+    "created_at": "Fri Sep 04 18:43:40 +0000 2026",
+    "full_text": "RT @RightNewsShow: 🚨🇦🇷🇪🇸 | Javier Milei destrozó al corrupto Pedro Sánchez, recordó que ya había calificado a su Gobierno como una banda de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095945787091882295",
+    "created_at": "Fri Sep 04 18:43:11 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇮🇹 | LA DERECHA SEA UNIDA: Javier Milei dedicó un cálido mensaje a la primera ministra, Giorgia Meloni, felicitándo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095945744804946428",
+    "created_at": "Fri Sep 04 18:43:01 +0000 2026",
+    "full_text": "RT @Santiago_Oria: PAUTINO RODRIGUEZ PUSO COMO VERDADERO UN VIDEO FALSO, APOYANDO LA CAUSA INGLESA ¿TRAIDOR A LA PATRIA?  https://t.co/bDtS…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095945703054848041",
+    "created_at": "Fri Sep 04 18:42:51 +0000 2026",
+    "full_text": "RT @lMartinezAlvaro: 1000 días demostrando que no había que resignarse a la decadencia. Había que terminar con el modelo que la provocaba.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095945085011546297",
+    "created_at": "Fri Sep 04 18:40:23 +0000 2026",
+    "full_text": "RT @doomdorni: @JMilei Son unos hijos de puta. Era OBVIO que era falso, cualquier persona con media neurona se da cuenta al toque.\n\nSiempre…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095944752969494947",
+    "created_at": "Fri Sep 04 18:39:04 +0000 2026",
+    "full_text": "RT @gordo_blueteam: @JMilei Bien Javo, hay q putearlos a cada uno, como se merecen. Estos periosobres son unos mercenarios.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095944669825839208",
+    "created_at": "Fri Sep 04 18:38:44 +0000 2026",
+    "full_text": "RT @supernickgross: @JMilei Ya los conocemos, si pasa pasa, y si no escribo un tuit o pido disculpas 1 nanosegundo a las 4 de la mañana",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095944633897382169",
+    "created_at": "Fri Sep 04 18:38:36 +0000 2026",
+    "full_text": "RT @jhessle04: @JMilei sabes el festín que se armaba el periodismo cuando no existian las redes sociales",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095944603040166174",
+    "created_at": "Fri Sep 04 18:38:28 +0000 2026",
+    "full_text": "RT @MandrilandiaX: @JMilei Alguna vez este tipo se “equivocará” para el otro lado? Claro que no. Porque nunca se equivoca. Lo hace adrede p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095944480889421890",
+    "created_at": "Fri Sep 04 18:37:59 +0000 2026",
+    "full_text": "RT @cmatiasdeluca: @JMilei Es una basura arrastrada, porque si no lo exponías, no decía nada. ASÍ SON ESTAS LACRAS CON MICRÓFONO.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095944447259181544",
+    "created_at": "Fri Sep 04 18:37:51 +0000 2026",
+    "full_text": "RT @Santiago_Oria: @JMilei EL “ERROR” SIEMPRE PARA EL MISMO LADO DE ESTA BASURA ASQUEROSA.\n\nADEMAS OPERÓ A FAVOR DE INGLATERRA CON EL VIDEO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095942803649970312",
+    "created_at": "Fri Sep 04 18:31:19 +0000 2026",
+    "full_text": "RT @ChadAbrazo: Mirá lo que lograste con un discurso Milei 🥹 https://t.co/emp5zeBmXD",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095942300153114927",
+    "created_at": "Fri Sep 04 18:29:19 +0000 2026",
+    "full_text": "PEDAZO DE MIERDA HUMANA MAL CAGADA, DADO TU ODIO VISCERAL A MI PERSONA, TODA MALA NOTICIA, SEA FALSA O NO LA LEVANTÁS COMO VÁLIDA. NO TE INTERESA INFORMAR, SÓLO ENSUCIAR BASURA.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2095926580010713182",
+    "created_at": "Fri Sep 04 17:26:51 +0000 2026",
+    "full_text": "RT @JMilei: AQUÍ LA MIERDA HUMANA MAL CAGADA DE PAUTINO RODRIGUES OPERANDO CON UN VIDEO FALSO.\n\nMIERDA HUMANA QUE DESPUÉS LLORA MALTRATO...…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095908238751375762",
+    "created_at": "Fri Sep 04 16:13:58 +0000 2026",
+    "full_text": "RT @TommyShelby_30: ATTACK, ATTACK, ATTACK.\n\nNEVER DEFEND. https://t.co/qCx0mSjVjt",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095904372198678942",
+    "created_at": "Fri Sep 04 15:58:37 +0000 2026",
+    "full_text": "RT @FAST_GAST: El presidente @JMilei dio un discurso histórico que quedara en todos los libros de historia, hizo lo que nunca antes realizo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095904324291338664",
+    "created_at": "Fri Sep 04 15:58:25 +0000 2026",
+    "full_text": "RT @TGCarlosPresti: Minutos después de su mensaje histórico a la Nación, el Presidente @JMilei me entregó el texto con una profunda emoción…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095904217282007294",
+    "created_at": "Fri Sep 04 15:58:00 +0000 2026",
+    "full_text": "RT @usdtermo: 🇬🇧kuka: Milei se acordó ahora de las Malvinas por oportunismo\n\nMilei en pleno debate 2023: \"Las Malvinas son Argentinas y vam…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095904131948933338",
+    "created_at": "Fri Sep 04 15:57:39 +0000 2026",
+    "full_text": "RT @aetchebarne: Hasta el diario inglés “The Gardian” habla de los Vientos de Cambio. \n\nY “The Independent” habla de la pérdida de apoyo Tr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095903761398960158",
+    "created_at": "Fri Sep 04 15:56:11 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2095903728767238614",
+    "created_at": "Fri Sep 04 15:56:03 +0000 2026",
+    "full_text": "RT @TheEconomist: The Falkland Islands are unambiguously part of Argentina, @JMilei tells The Economist in an interview. “We will defend ou…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095903640430993502",
+    "created_at": "Fri Sep 04 15:55:42 +0000 2026",
+    "full_text": "RT @mileibarrial: Entrevista de @JMilei en @TheEconomist",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095903558285607267",
+    "created_at": "Fri Sep 04 15:55:22 +0000 2026",
+    "full_text": "RT @MinDesreg_Ar: “Por primera vez en mucho tiempo, tenemos un Presidente que está mirando 20 años al futuro”. \n\nEn el evento Vientos de Ca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095903531353903134",
+    "created_at": "Fri Sep 04 15:55:16 +0000 2026",
+    "full_text": "RT @julianyosovitch: To the mooooooon!!! https://t.co/VslD3EFHtk",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095903457085411839",
+    "created_at": "Fri Sep 04 15:54:58 +0000 2026",
+    "full_text": "RT @CerviPablo: En el mundo corren vientos de cambio favorables a nuestro reclamo. \n\nEl Presidente Trump, declaró que los Estados Unidos es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095903443114172885",
+    "created_at": "Fri Sep 04 15:54:55 +0000 2026",
+    "full_text": "RT @LoboArgy: Que vergüenza 🤦",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095903384318484609",
+    "created_at": "Fri Sep 04 15:54:41 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Gracias a vos Carola! @CarolaPessino",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095903344929775801",
+    "created_at": "Fri Sep 04 15:54:32 +0000 2026",
+    "full_text": "RT @CarolaPessino: Gracias @JMilei y @SPettovelloOK por haber recibido tan gentilmente al Profesor @heckmanequation y a mi en su despacho.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095903215623507986",
+    "created_at": "Fri Sep 04 15:54:01 +0000 2026",
+    "full_text": "RT @Santiago_Oria: VERGÜENZA DEL PERIODISMO NACIONAL PAUTINO RODRIGUEZ USANDO UN VIDEO FALSO PARA OPERAR AL PRESIDENTE, MANOSEANDO LA CAUSA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095902982256685101",
+    "created_at": "Fri Sep 04 15:53:05 +0000 2026",
+    "full_text": "RT @dlacalle_IA: Argentina.\n\nThe path to recover a bankrupt central bank while strengthening the economy. \n\nMilei inherited a hidden bomb.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2095894056261837172",
+    "created_at": "Fri Sep 04 15:17:37 +0000 2026",
+    "full_text": "AQUÍ LA MIERDA HUMANA MAL CAGADA DE PAUTINO RODRIGUES OPERANDO CON UN VIDEO FALSO.\n\nMIERDA HUMANA QUE DESPUÉS LLORA MALTRATO...\n\nSE RETRACTARÁ ESTE PEDAZO DE MIERDA INMUNDA?",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2095891513414709631",
+    "created_at": "Fri Sep 04 15:07:31 +0000 2026",
+    "full_text": "Felicitaciones, @GiorgiaMeloni , por este logro histórico. Convertirte en la primera ministra al frente del gobierno más longevo de la República Italiana no es solamente una marca de tiempo, es el reconocimiento a la convicción, el coraje y la determinación con los que has https://t.co/KF2XX2lzK1",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
     "id": "2095877626036388288",
     "created_at": "Fri Sep 04 14:12:20 +0000 2026",
     "full_text": "RT @fargosi: Para los opositores a todo lo que hace @JMilei que por reclamar algo, se queja de que esto no lo hizo antes:\n\nComo bien dice @…",
