@@ -1,5 +1,439 @@
 [
   {
+    "id": "2098137783835804040",
+    "created_at": "Thu Sep 10 19:53:23 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: VLLC!!! VAMO TOTO!!! https://t.co/6NojvEdz0H",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098137700314255627",
+    "created_at": "Thu Sep 10 19:53:03 +0000 2026",
+    "full_text": "RT @DiegoMac227: Es increíble el interés que existe hoy por las ideas de la libertad y por la Escuela Austriaca de Economía. Acabo de tener…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098137651958170050",
+    "created_at": "Thu Sep 10 19:52:52 +0000 2026",
+    "full_text": "RT @nnairob: Arjantin'de aylık enflasyon %1,7'ye geriledi.\n\nAralık 2023'te aylık %25,5 seviyesindeydi.\n\nVIVA LA LIBERTAD CARAJO...!!! https…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098137587265241270",
+    "created_at": "Thu Sep 10 19:52:36 +0000 2026",
+    "full_text": "MAGA!\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098137457317306627",
+    "created_at": "Thu Sep 10 19:52:05 +0000 2026",
+    "full_text": "RT @Felii_N: La inflación de Agosto fue la TERCERA mas baja en la gestión del Presidente Milei y el Ministro Caputo.\nRanking:\nMayo 2025: 1.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098137393270313379",
+    "created_at": "Thu Sep 10 19:51:50 +0000 2026",
+    "full_text": "RT @Felii_N: https://t.co/CKkBOyYLsw",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098126158013325568",
+    "created_at": "Thu Sep 10 19:07:12 +0000 2026",
+    "full_text": "RT @fargosi: Absolutamente exacto.\n\nEl mismo periodismo que le imputa a @JMilei el desmanejo educativo de los gobernadores y de los últimos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098125749752672587",
+    "created_at": "Thu Sep 10 19:05:34 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: LA INFLACIÓN DE AGOSTO FUE LA MÁS BAJA EN 14 MESES\n\n✅ El Índice de Precios al Consumidor (IPC Nacional) registró una vari…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098124632406565229",
+    "created_at": "Thu Sep 10 19:01:08 +0000 2026",
+    "full_text": "VAAAAAAAAMOOOOOO TOTO...!!!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098124583802896673",
+    "created_at": "Thu Sep 10 19:00:56 +0000 2026",
+    "full_text": "RT @INDECArgentina: #DatoINDEC\nLos precios al consumidor (#IPC) aumentaron 1,7% en agosto de 2026 con respecto a julio y 33,5% interanual.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098124027000705038",
+    "created_at": "Thu Sep 10 18:58:43 +0000 2026",
+    "full_text": "RT @JMilei: .@fantinofantino le propone al mega gigante Scaloni dirigir a Boca. Dejen de joder revoleando nombres de personas que admiro ta…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098123577786839167",
+    "created_at": "Thu Sep 10 18:56:56 +0000 2026",
+    "full_text": "RT @monedadeargy: 💣 Delfina Rossi (Directora Banco Ciudad 30 M al mes de sueldo), cuando @rcas1 menciona cómo el peronismo dejó reservas ne…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098123185090711989",
+    "created_at": "Thu Sep 10 18:55:23 +0000 2026",
+    "full_text": "RT @MinDefensa_Ar: Hoy conmemoramos el 78° aniversario de @EMCFFAA_Arg, en las escalinatas del Edificio Libertador, con la presencia del Mi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098122841577115666",
+    "created_at": "Thu Sep 10 18:54:01 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | TE SALVA EL PRIVADO: La Hidrovía Paraná-Uruguay comenzó a operar bajo el nuevo esquema privado impulsado por el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098122783976820919",
+    "created_at": "Thu Sep 10 18:53:47 +0000 2026",
+    "full_text": "RT @ezequielgigante: Simplemente, el mejor. https://t.co/2x5R4u232F",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098122694822609320",
+    "created_at": "Thu Sep 10 18:53:26 +0000 2026",
+    "full_text": "RT @AmoaHamlet: NADA ES GRATIS\n\nLa comida no es gratis.\nLa vivienda no es gratis.\nLa educación no es gratis.\nLa salud no es gratis.\nEl tran…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098122489473716668",
+    "created_at": "Thu Sep 10 18:52:37 +0000 2026",
+    "full_text": "RT @DiegoMac227: Siempre que una persona diga: \"yo podria explicar X tema, pero no tiene sentido explicarlo\", en realidad esta diciendo que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098122400219222351",
+    "created_at": "Thu Sep 10 18:52:16 +0000 2026",
+    "full_text": "RT @ViejoLibertario: DESENMASCARANDO PREBENDARIOS.\n\nLA UIA (Unión Industrial Argentina), todavía tiene el chip puesto en que el contexto id…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098121935494218062",
+    "created_at": "Thu Sep 10 18:50:25 +0000 2026",
+    "full_text": "RT @DiegoMac227: FENOMENO BARRIAL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098121702064717935",
+    "created_at": "Thu Sep 10 18:49:29 +0000 2026",
+    "full_text": "RT @PatoBullrich: 7:14 AM, dejando a su hija en la escuela y termina herido por el tiro de un delincuente.\n\nEl colmo: si son menores, queda…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098120887371534485",
+    "created_at": "Thu Sep 10 18:46:15 +0000 2026",
+    "full_text": "RT @NegroCensurado: ¿Se acuerdan que Delfina Rossi no quiso que Yayi estuviera presente en el panel cuando fue al Cronista?\n\nAhora entiendo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098120792290595305",
+    "created_at": "Thu Sep 10 18:45:52 +0000 2026",
+    "full_text": "RT @rcas1: Cuando Argentina abandonó el comunismo, la acción de YPF pasó de usd3, a hoy usd56 dólares.\n\nHay expectativas que Brasil terminé…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098115092478841300",
+    "created_at": "Thu Sep 10 18:23:13 +0000 2026",
+    "full_text": "RT @InMilei: THE LIST GOT LONGER\n\nIn January we posted IMPSA (a heavy-industry plant in Mendoza), the four Comahue hydro dams on the Limay…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098114360363069715",
+    "created_at": "Thu Sep 10 18:20:19 +0000 2026",
+    "full_text": "RT @rcas1: En 1989 los radicales le echaban la culpa de la hiperinflación a un ciudadano por opinar diferente.  \n\nEn 2023 los Peronistas le…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098114252749820299",
+    "created_at": "Thu Sep 10 18:19:53 +0000 2026",
+    "full_text": "RT @rcas1: Peronistas salen de las catacumbas inflacionarias y empiezan a popular por los medios prometiendo flan y polenta. \n\nPeriodismo e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098114151730098212",
+    "created_at": "Thu Sep 10 18:19:29 +0000 2026",
+    "full_text": "RT @NegroCensurado: El Pitbull Castiñeira agarró a Delfina Rossi junto a su modelo económico kuka y lo DESPEDAZÓ https://t.co/RNrxAZd1Wg",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098114063750340712",
+    "created_at": "Thu Sep 10 18:19:08 +0000 2026",
+    "full_text": "RT @DiegoMac227: Imperdible.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098114039410819546",
+    "created_at": "Thu Sep 10 18:19:02 +0000 2026",
+    "full_text": "RT @VivianaIsasi: ECONOMÍA SANA es docencia Milei y prendió en la mayoría de los argentinos \n\nA la mayoría les gusta lo que enseñó Milei: d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098113833222955329",
+    "created_at": "Thu Sep 10 18:18:13 +0000 2026",
+    "full_text": "RT @EMCFFAA_Arg: #HOY El jefe del @EMCFFAA_Arg , almirante Marcelo Alejandro Dalle Nogare, junto al @TGCarlosPresti , el canciller @pabloqu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098112299588362467",
+    "created_at": "Thu Sep 10 18:12:07 +0000 2026",
+    "full_text": "RT @rcas1: 2024: año en que se frenó la hiper\n2025: año del rebote económico\n2026: año del despegue de las exportaciones\n2027: civilización…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098112228679438628",
+    "created_at": "Thu Sep 10 18:11:51 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: SALUD MENTAL: PREVENIR Y FORTALECER LA ATENCIÓN\n\nLa salud mental es una prioridad de nuestra gestión. Además de la asi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098112197708669001",
+    "created_at": "Thu Sep 10 18:11:43 +0000 2026",
+    "full_text": "RT @pabloquirno: Un honor acompañar al Presidente @JMilei, a la Secretaria General de la Presidencia @KarinaMileiOk y al Ministro de Defens…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098112117157081368",
+    "created_at": "Thu Sep 10 18:11:24 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 CASTIÑEIRA LE PEGÓ UNA DOMADA HISTÓRICA A LA HIJA DEL KUKA QUE PERDIÓ UN MISIL, AGUSTÍN ROSSI\n\n💥 \"Expropiaron EMPRESAS,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098088778476691904",
+    "created_at": "Thu Sep 10 16:38:40 +0000 2026",
+    "full_text": ".@fantinofantino le propone al mega gigante Scaloni dirigir a Boca. Dejen de joder revoleando nombres de personas que admiro tanto porque vuelvo a ir a la Bombonera...\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098086984799354999",
+    "created_at": "Thu Sep 10 16:31:32 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098086962317889801",
+    "created_at": "Thu Sep 10 16:31:27 +0000 2026",
+    "full_text": "RT @FT: Javier Milei, the political outsider elected as Argentina’s president in 2023, is embracing foreign competition ahead of his re-ele…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098086797884703077",
+    "created_at": "Thu Sep 10 16:30:47 +0000 2026",
+    "full_text": "RT @BolsonaroSP: Mesmo no Polymarket, @FlavioBolsonaro já está a frente de Lula 🚀 https://t.co/gu2tYXemLw",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098084415301710036",
+    "created_at": "Thu Sep 10 16:21:19 +0000 2026",
+    "full_text": "RT @rcas1: La cicatriz del kirchnerismo en nuestra moneda son los 3 ceros que siempre nos sobran en los precios.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098084375439036709",
+    "created_at": "Thu Sep 10 16:21:10 +0000 2026",
+    "full_text": "RT @lucasllach: Somos la 106ta economía más libre del mundo. ¿Cómo puede ser? Bueno, no podés mandar dólares de una cuenta de acá a la de u…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098084122639937717",
+    "created_at": "Thu Sep 10 16:20:10 +0000 2026",
+    "full_text": "FULMINANTE.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098084063978369358",
+    "created_at": "Thu Sep 10 16:19:56 +0000 2026",
+    "full_text": "RT @NegroCensurado: Ramiro Castiñeira destrozó al perokukismo frente a Delfina Rossi que no supo que poronga decir para zafar de la situaci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098083704669163942",
+    "created_at": "Thu Sep 10 16:18:30 +0000 2026",
+    "full_text": "RT @FernandoMarull: Se volo bra y arg\n\nSpy -0,45%\nBrasil +2% encuesta\nArgy +2% 😁",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098083619935818088",
+    "created_at": "Thu Sep 10 16:18:10 +0000 2026",
+    "full_text": "RT @EconomiaMises: “Los partidarios del control público no pueden prescindir de la inflación. La necesitan para financiar su política de ga…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098082681661616400",
+    "created_at": "Thu Sep 10 16:14:26 +0000 2026",
+    "full_text": "RT @IRIglobal: We are excited to partner with @fedyliber on this strategic conversation in NYC on Sept 23 featuring President of Argentina…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098081784286024099",
+    "created_at": "Thu Sep 10 16:10:52 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098081664580637057",
+    "created_at": "Thu Sep 10 16:10:23 +0000 2026",
+    "full_text": "RT @MenemMartin: @ddeurieta FALSO.\nCómo otras tantas cuestiones que a veces escribís.\nNo solo se puso al frente la situación LA LIBERTAD AV…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098079748228264102",
+    "created_at": "Thu Sep 10 16:02:47 +0000 2026",
+    "full_text": "RT @TheEconomist: Brazilians used to trust their top court. Now, at the centre of an ugly, ever-expanding corruption scandal, that trust is…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098078210860728753",
+    "created_at": "Thu Sep 10 15:56:40 +0000 2026",
+    "full_text": "RT @BreakPointMP: 💸 ¡YPF HIZO HISTORIA!\n🛢️Colocó USD 1.200 millones a tasa bajísima, su mayor emisión en 11 años. Wall Street confía ciegam…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098077195969126796",
+    "created_at": "Thu Sep 10 15:52:38 +0000 2026",
+    "full_text": "RT @FerroAnton: Si esto es cierto, ¿No se puede pedir un juicio para destituirla? https://t.co/soR0MFFZq9",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098077045259411643",
+    "created_at": "Thu Sep 10 15:52:02 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Excelente, este es el camino. \nFelicitaciones 🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098077012518678684",
+    "created_at": "Thu Sep 10 15:51:54 +0000 2026",
+    "full_text": "RT @Felii_N: Caen para arriba. https://t.co/UF0dGnaVYK",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098076926501851164",
+    "created_at": "Thu Sep 10 15:51:34 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ FEINMANN PRENDIÓ FUEGO TODO Y MOSTRÓ COMO LOS K ESTÁN EN MODO ANTI-MALVINAS TOTAL\n\n🔥 \"No puedo creer como los K se aleg…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098076807098499526",
+    "created_at": "Thu Sep 10 15:51:05 +0000 2026",
+    "full_text": "RT @Milei_Media: EL TERMINATOR DE LA INFLACIÓN https://t.co/F8FnXcf5tg",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098076676529799527",
+    "created_at": "Thu Sep 10 15:50:34 +0000 2026",
+    "full_text": "RT @JaviGarcia_Ok: Civilización o barbarie. \nA veces un video explica todo sin necesidad de agregar demasiado. https://t.co/SOuXqiA5Ha",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098076507243413536",
+    "created_at": "Thu Sep 10 15:49:54 +0000 2026",
+    "full_text": "RT @Santiago_Oria: BRAVO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098076498007658751",
+    "created_at": "Thu Sep 10 15:49:52 +0000 2026",
+    "full_text": "RT @A24COM: 🔴 MOROSIDAD Y DISCAPACIDAD: EL OFICIALISMO LOGRA FRENAR LA AGENDA OPOSITORA EN DIPUTADOS\n\nLa maniobra otorga tiempo al gobierno…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098076410703220940",
+    "created_at": "Thu Sep 10 15:49:31 +0000 2026",
+    "full_text": "RT @casigol66: Un factor común de la oposición a Milei es la envidia y el resentimiento.\n\nOdian tanto al autosuficiente como al que le va b…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098076230654230768",
+    "created_at": "Thu Sep 10 15:48:48 +0000 2026",
+    "full_text": "RT @MiltonFriedmanW: “You can only aim at equality by giving some people the right to take things from others.”\n\n— Milton Friedman https://…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098076034684125472",
+    "created_at": "Thu Sep 10 15:48:01 +0000 2026",
+    "full_text": "RT @HippiesConOsde: El periodista criticón quiso pegarle a Milei y confirmó la sospecha de que el kirchnerismo y las abuelas de plaza de Ma…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098075996863803420",
+    "created_at": "Thu Sep 10 15:47:52 +0000 2026",
+    "full_text": "RT @brivael: Yes https://t.co/v5WfZeT23E",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098075864965460089",
+    "created_at": "Thu Sep 10 15:47:21 +0000 2026",
+    "full_text": "RT @MinSeguridad_Ar: OPERATIVO \"FRIDA LOS CALÓ\"\n\nArmados y con droga oculta en el auto. Terminaron presos.\n\nA través de la GNA, interceptam…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098075832744866194",
+    "created_at": "Thu Sep 10 15:47:13 +0000 2026",
+    "full_text": "RT @jultarres: Para Armando Pepe HOY es el momento de invertir en propiedades y de que los desarrolladores extranjeros hagan edificios en l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2098057927407894584",
     "created_at": "Thu Sep 10 14:36:04 +0000 2026",
     "full_text": "RT @BreakPointMP: 🇦🇷 ¡MILEI ACORRALA A LOS K POR MALVINAS!\n🔥El oficialismo amplía sanciones a piratas y pone en jaque al kirchnerismo en el…",
