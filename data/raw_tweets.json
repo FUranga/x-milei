@@ -1,5 +1,600 @@
 [
   {
+    "id": "2098262073037771148",
+    "created_at": "Fri Sep 11 04:07:16 +0000 2026",
+    "full_text": "RT @DiegoMac227: FENOMENO BARRIAL.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098261794632376384",
+    "created_at": "Fri Sep 11 04:06:10 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098261769957331121",
+    "created_at": "Fri Sep 11 04:06:04 +0000 2026",
+    "full_text": "RT @aetchebarne: Con un segundo mandato de @JMilei no veo una expresión de deseos, sino una concatenación de hechos. Las piezas del rompeca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098261570425901369",
+    "created_at": "Fri Sep 11 04:05:16 +0000 2026",
+    "full_text": "RT @AdrianRavier: NACIÓN AVANZA CON OBRAS DE REPARACIÓN EN LA RUTA NACIONAL 151\n\nLuego de las gestiones realizadas ante el administrador ge…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098230033210888665",
+    "created_at": "Fri Sep 11 01:59:57 +0000 2026",
+    "full_text": "RT @lanacionmas: 🔴 Milei celebró la baja inflación con un video a favor de los arqueros\n\n📌 Ahora en Majul a las 20 con @majulluis en LN+ ht…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098229520234844196",
+    "created_at": "Fri Sep 11 01:57:55 +0000 2026",
+    "full_text": "RT @tobias_perez11: 🇦🇷💪\nEl Ministro de Defensa de la Argentina Teniente General Carlos Presti confirma que para lo resta del año llegaran:…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098228264582172814",
+    "created_at": "Fri Sep 11 01:52:56 +0000 2026",
+    "full_text": "RT @nosoypitti: INFLACIÓN DE AGOSTO:\n\n🔵2022: 7,0%\n🔵2023: 12,4%\n🔵2024: 4,2%\n🟣2025: 1,9%\n🟣2026: 1,7%\n\nEL MILAGRO ECONÓMICO ARGENTINO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098226750291370122",
+    "created_at": "Fri Sep 11 01:46:55 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇬🇧 | LAS MALVINAS SON ARGENTINAS: El Ministro de Defensa, @TGCarlosPresti, celebró la histórica cadena nacional de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098225349083517296",
+    "created_at": "Fri Sep 11 01:41:21 +0000 2026",
+    "full_text": "RT @maquepd: BESSENT VOLVIÓ A PONER A LA ARGENTINA DE MILEI COMO EJEMPLO DE ALINEAMIENTO ESTRATÉGICO. Elegir el mundo libre también tiene c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098224560797880366",
+    "created_at": "Fri Sep 11 01:38:13 +0000 2026",
+    "full_text": "RT @jmilei_english: Today marks one year since the cowardly assassination of Charlie Kirk at the hands of the left. The left is always and…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098224475414172012",
+    "created_at": "Fri Sep 11 01:37:52 +0000 2026",
+    "full_text": "RT @romidiezok: 1,7% de inflación.\nDespués de décadas de inflación, con @JMilei la Argentina vuelve a ser un país normal y previsible.\nEste…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098224206789976177",
+    "created_at": "Fri Sep 11 01:36:48 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098224180651020512",
+    "created_at": "Fri Sep 11 01:36:42 +0000 2026",
+    "full_text": "RT @TheEconomist: Argentina’s president says he is merely “releasing restrictions” in response to his more growth-friendly policies. Whatev…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098223443720196546",
+    "created_at": "Fri Sep 11 01:33:46 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🦁 ¡MILEI: “NO VAMOS A BAJAR LOS BRAZOS”!\n💪 Con estilo futbolero, Milei llamó a resistir los ataques y seguir luchando por…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098222871499636772",
+    "created_at": "Fri Sep 11 01:31:30 +0000 2026",
+    "full_text": "RT @PregoneroL: Argentina está sanando",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098222805393285318",
+    "created_at": "Fri Sep 11 01:31:14 +0000 2026",
+    "full_text": "RT @Gianferreyra_: Hace un año, la izquierda nos arrebató al mejor de los nuestros\n\nRIP CHARLIE KIRK 💔🕊️ https://t.co/NYbfF5Yrrr",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098220449775657289",
+    "created_at": "Fri Sep 11 01:21:52 +0000 2026",
+    "full_text": "RT @OlgaMosser: Mientras Milei nunca cobró la dieta como diputado y renunció a su jubilación de privilegio, la rea, abanderada de los pobre…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098220385355595811",
+    "created_at": "Fri Sep 11 01:21:37 +0000 2026",
+    "full_text": "RT @AleCiroAlvarez: Descubrieron una carta inédita de 1833 que contó cómo fue la ocupación ilegal de los británicos en las Islas Malvinas -…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098218843965424064",
+    "created_at": "Fri Sep 11 01:15:30 +0000 2026",
+    "full_text": "RT @ViejoLibertario: En la película, para mí, lo épico no era que el guerrero matara a la bestia.\n\nLo épico era la confianza absoluta en su…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098218218406261232",
+    "created_at": "Fri Sep 11 01:13:00 +0000 2026",
+    "full_text": "RT @casigol66: No hay mejor beneficio para la sociedad que bajar la inflación, es un datazo!!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098218184734052841",
+    "created_at": "Fri Sep 11 01:12:52 +0000 2026",
+    "full_text": "RT @DiegoMac227: Exactamente",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098218098654400997",
+    "created_at": "Fri Sep 11 01:12:32 +0000 2026",
+    "full_text": "RT @UHN_Plus: 🇦🇷🇺🇸‼️ | El Presidente Javier Milei encabezará el próximo 23 de septiembre en Nueva York el foro \"Valores Democráticos, Liber…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098217781938311273",
+    "created_at": "Fri Sep 11 01:11:16 +0000 2026",
+    "full_text": "El consumo deprimido más loco del mundo entero...",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098217653345145081",
+    "created_at": "Fri Sep 11 01:10:46 +0000 2026",
+    "full_text": "RT @renvalente: Querido @JMilei: esto es un bodegón en Adrogue, ahora, un jueves a la noche.\n\nExplotado de gente, no hay una sola mesa libr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098191068458037574",
+    "created_at": "Thu Sep 10 23:25:07 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Siempre educando. Siempre capacitando.\n\nMinisterio de Capital Humano.\n@JMilei https://t.co/9AQDpy6WDJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098191042642087960",
+    "created_at": "Thu Sep 10 23:25:01 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Siempre educando. Siempre capacitando.\n\nMinisterio de Capital Humano.\n@JMilei https://t.co/vrPDnCXS73",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098190991274426381",
+    "created_at": "Thu Sep 10 23:24:49 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: VAMOS ARGENTINA 🇦🇷🦁 https://t.co/bcGruIHaET",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098190948324855846",
+    "created_at": "Thu Sep 10 23:24:39 +0000 2026",
+    "full_text": "RT @fedesturze: Testimonio al trabajo monumental de la cabra @PALavigne83. VLLC!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098190924601868358",
+    "created_at": "Thu Sep 10 23:24:33 +0000 2026",
+    "full_text": "RT @HippiesConOsde: La dejó sin palabras porque todo lo que dijo es verdad. https://t.co/LGd2Kkok90",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098187671621226596",
+    "created_at": "Thu Sep 10 23:11:38 +0000 2026",
+    "full_text": "RT @DiarioLiberalAr: ‼️🇦🇷 | PRESTI DESAFIÓ A ALBERTO FERNÁNDEZ EN A24: El ministro de Defensa Carlos Presti cruzó al expresidente en A24: \"…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098187383690731866",
+    "created_at": "Thu Sep 10 23:10:29 +0000 2026",
+    "full_text": "RT @DiegoMac227: Inflación de agosto: 1.7%\nSigue bajando la inflación",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098187342385152440",
+    "created_at": "Thu Sep 10 23:10:19 +0000 2026",
+    "full_text": "RT @agarra_pala: 👏🇦🇷 \"UN APLAUSO PARA EL EQUIPO ECONÓMICO QUE ESTÁ SALVANDO EL PAÍS\"\n\nEL NEGRO ALMEIDA SOBRE EL POSTEO DE MILEI Y LA INFLAC…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098187141855764673",
+    "created_at": "Thu Sep 10 23:09:31 +0000 2026",
+    "full_text": "ESTO ES LO QUE HAY DEL OTRO LADO",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098186338042249260",
+    "created_at": "Thu Sep 10 23:06:20 +0000 2026",
+    "full_text": "RT @Felii_N: Massa dejó la inflación en 25% mensual, Milei la bajó a 1,7% y hay gente que dice que eso vale 0. Mamadera.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098183026685473136",
+    "created_at": "Thu Sep 10 22:53:10 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇦🇷 “EL DISCURSO DEL PRESIDENTE FUE MUY FUERTE, EL PODER EJECUTIVO TOMA RIENDAS EN EL ASUNTO Y DECISIONES CONCRETAS PARA D…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098182984000024896",
+    "created_at": "Thu Sep 10 22:53:00 +0000 2026",
+    "full_text": "RT @BreakPointMP: 📈 ¡LA INFLACIÓN DE AGOSTO FUE DEL 1,7% Y PERFORÓ EL 2%!\n🎉 El IPC sigue desacelerando: 21,3% acumulado en 2026 y 33,5% int…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098182943290147103",
+    "created_at": "Thu Sep 10 22:52:50 +0000 2026",
+    "full_text": "RT @fargosi: Volvió a bajar la inflación.\n\nLa más baja en 14 meses.\n\nEs con @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098182916945907805",
+    "created_at": "Thu Sep 10 22:52:44 +0000 2026",
+    "full_text": "RT @Argenpoirot: Javier Milei es el presidente más influyente en decadas, venimos presidentes que no los conocian ni en países limítrofe.Ah…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098182682249224621",
+    "created_at": "Thu Sep 10 22:51:48 +0000 2026",
+    "full_text": "RT @LLAenPBA: La inflación sigue bajando: el dato más bajo en 14 meses. \nEl orden de la economía es la única forma para que nuestro país vu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098182646127800446",
+    "created_at": "Thu Sep 10 22:51:39 +0000 2026",
+    "full_text": "RT @DiegoMac227: ✅️l Excelente https://t.co/j4NJRqEdaV",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098182627597459836",
+    "created_at": "Thu Sep 10 22:51:35 +0000 2026",
+    "full_text": "RT @Milei_Media: La inflación de agosto fue del 1,7%, la más baja de los últimos 14 meses. 📉🇦🇷\n\nLa inflación dejó de ser una condena para l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098182415663370706",
+    "created_at": "Thu Sep 10 22:50:44 +0000 2026",
+    "full_text": "RT @InversoresClub: En Invertir en Dólares, Miguel Boggiano entrevista a Juan Carlos de Pablo para analizar el rumbo económico, la credibil…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098182170590203920",
+    "created_at": "Thu Sep 10 22:49:46 +0000 2026",
+    "full_text": "EXCELENTE REFLEXIÓN",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098182133735182411",
+    "created_at": "Thu Sep 10 22:49:37 +0000 2026",
+    "full_text": "RT @Hvygens: La inflación núcleo mensual fue del 1,8% en agosto, igual que en julio, y acumula un 19,8% en lo que va del año. Con esto ya s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098182070224687241",
+    "created_at": "Thu Sep 10 22:49:22 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨 UUUHHH ESTO PASÓ EN EL MÓVIL DE LOS KIRCHNERISTAS DE AR12:\n\nUN LABURANTE IGNORÓ A LA NOTERA EN LA CALLE Y LA DEJARON AL…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098181397634527648",
+    "created_at": "Thu Sep 10 22:46:42 +0000 2026",
+    "full_text": "RT @InMilei: \"I want my government to be remembered for having wiped out inflation.\", 🗣️ @JMilei , 2023.  https://t.co/DK6Rj95W4B",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098181190360482273",
+    "created_at": "Thu Sep 10 22:45:52 +0000 2026",
+    "full_text": "RT @Granaderosarg: Inauguración del nuevo Museo de Granaderos en el histórico cuartel de Palermo junto al Presidente de la Nación @JMilei…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098181089084776921",
+    "created_at": "Thu Sep 10 22:45:28 +0000 2026",
+    "full_text": "RT @PilarRamirezmpr: La inflación más baja en 14 meses, laburazo del mejor Gobierno de la historia 👏🇦🇷\n\nGracias, @JMilei! VLLC!! 💜",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098180811006550235",
+    "created_at": "Thu Sep 10 22:44:22 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | APRENDÉ, ALVERSO FAJÁNDEZ: La inflación de agosto de 2026 se desplomó al 1,7% y fue más baja que la de todos los…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098180699907895751",
+    "created_at": "Thu Sep 10 22:43:55 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷✅ “LO VOY A VOTAR A MILEI, BAJÓ LA INFLACIÓN Y ME PARECE BIEN EL RUMBO, ESTOY TOTALMENTE DE ACUERDO”\n\nTESTIMONIO DE LA G…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098180442985824555",
+    "created_at": "Thu Sep 10 22:42:54 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: AGOSTO: LA INFLACIÓN MÁS BAJA DE LOS ÚLTIMOS 14 MESES\n\nEn agosto de 2026, el Índice de Precios al Consumidor (IPC) tuvo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098180414741287076",
+    "created_at": "Thu Sep 10 22:42:47 +0000 2026",
+    "full_text": "RT @fededomin: Si uno mira el balance del BCRA, no quedan dudas de que íbamos hacia una hiperinflación como la que vivió la Argentina en lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098180353554842072",
+    "created_at": "Thu Sep 10 22:42:33 +0000 2026",
+    "full_text": "RT @MinDefensa_Ar: “Tenemos tres Fuerzas Armadas, pero una sola defensa”.\n\nEn el 78° aniversario de @EMCFFAA_Arg, el Ministro @TGCarlosPres…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098180324660252736",
+    "created_at": "Thu Sep 10 22:42:26 +0000 2026",
+    "full_text": "RT @lilialemoine: Milei es el primer presidente argentino que tomando el mando del País en medio de una GRAN crisis, la resuelve SIN ROBARL…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098179452601618755",
+    "created_at": "Thu Sep 10 22:38:58 +0000 2026",
+    "full_text": "RT @mileibarrial: Escriben desde Israel 🇮🇱",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098179326822977628",
+    "created_at": "Thu Sep 10 22:38:28 +0000 2026",
+    "full_text": "RT @agustin_pistone: .@netanyahu, es momento de apoyar a una Nación amiga y a un amigo del Estado de Israel como lo es el presidente @JMile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098179237442122067",
+    "created_at": "Thu Sep 10 22:38:07 +0000 2026",
+    "full_text": "TMAP!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098177805389291789",
+    "created_at": "Thu Sep 10 22:32:25 +0000 2026",
+    "full_text": "RT @carlos_arbia: DATO MATA RELATO \nPOR PRIMERA VEZ EN EL GOBIERNO DE JAVIER MILEI HAY DEFLACIÓN DEL 0,9 % EN LA CATEGORÍA DE PRODUCTOS EST…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098176278025134537",
+    "created_at": "Thu Sep 10 22:26:21 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | BASADO: Un trabajador de bien defendió al Gobierno de @JMilei en la cara de los kirchneristas de Página 12.\n\n“HA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098174623246631122",
+    "created_at": "Thu Sep 10 22:19:47 +0000 2026",
+    "full_text": "RT @agarra_pala: 🦁✅ VOTANTES DE MILEI DEJARON PEDALEANDO EN EL AIRE A LA NOTERA KIRCHNERISTA EN ONCE Y HUMILLARON A LOS ZURDOS QUE CRITICAN…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098174463128842574",
+    "created_at": "Thu Sep 10 22:19:08 +0000 2026",
+    "full_text": "RT @ivancarrino: 1,7% agosto. No fue el 1,4% o 1,5% que algunos esperaban pero, de todas formas, se ubica como la tercera inflación más baj…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098174260137353624",
+    "created_at": "Thu Sep 10 22:18:20 +0000 2026",
+    "full_text": "RT @julianyosovitch: Muy buen dato de inflacion. El IPC mas bajo en 14 meses y fuerte caida vs el 2,1% de JUL26. Fue en linea con lo que es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098174217195848074",
+    "created_at": "Thu Sep 10 22:18:10 +0000 2026",
+    "full_text": "RT @tonyaracre: ANIQUILADA la inflación con el 1,7% este mes informa el INDEC (venimos de 2,1 el mes anterior).\n\nEn cuanto se termine la qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173918456500472",
+    "created_at": "Thu Sep 10 22:16:59 +0000 2026",
+    "full_text": "RT @Miguel_Boggiano: Juan Carlos de Pablo fue directo: los que le aconsejan a Milei volverse “un poco populista” lo quieren perjudicar.\nPas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173796142223573",
+    "created_at": "Thu Sep 10 22:16:29 +0000 2026",
+    "full_text": "RT @LLA_CABA: LA INFLACIÓN MÁS BAJA EN 14 MESES\n\n1,7% en agosto y bajando. VLLC! https://t.co/Gfam5mX8ZR",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173772402438542",
+    "created_at": "Thu Sep 10 22:16:24 +0000 2026",
+    "full_text": "RT @ElTrumpista: LA INFLACIÓN MÁS BAJA DE LOS ÚLTIMOS 14 MESES\n\nPensar que Milei recibió el país con 1% de inflación diaria y ahora esa inf…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173645709328780",
+    "created_at": "Thu Sep 10 22:15:53 +0000 2026",
+    "full_text": "RT @rcas1: El peronismo es una máquina de saquear al BCRA.\nNo importa la generación de peronista que sea, si algo sabemos, es que el BCRA q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173618152681692",
+    "created_at": "Thu Sep 10 22:15:47 +0000 2026",
+    "full_text": "RT @Felii_N: Al CHANTA de Massa, que dejó una inflación del 300%, el peronismo lo quiere volver a candidatear a Presidente, imagínense si h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173482840563966",
+    "created_at": "Thu Sep 10 22:15:15 +0000 2026",
+    "full_text": "RT @CarajoStream: LA INFLACIÓN SIGUE CEDIENDO 📉\n\nEl INDEC informó el dato de Agosto: 1,7%. La interanual se ubicó en 33,5% y el acumulado d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173459222217180",
+    "created_at": "Thu Sep 10 22:15:09 +0000 2026",
+    "full_text": "RT @pabloquirno: Desde 1904 la Argentina mantiene la presencia permanente e ininterrumpida más antigua en la Antártida, sostenida por el tr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173388212851172",
+    "created_at": "Thu Sep 10 22:14:52 +0000 2026",
+    "full_text": "RT @rcas1: Los precios de ropa y calzado ya bajaron hasta un 45% en la era Milei. \n\n45 millones de habitantes tienen acceso a precios casi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173284734894130",
+    "created_at": "Thu Sep 10 22:14:27 +0000 2026",
+    "full_text": "RT @manuelquintar: Agosto dio 1,7%: la inflación más baja en 14 meses. \n\nAl Kirchnerismo les duele que el plan que ellos saboteaban empiece…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098173135841374570",
+    "created_at": "Thu Sep 10 22:13:52 +0000 2026",
+    "full_text": "RT @julianyosovitch: Hoy el debate está centrado en cómo hacer para crecer más, manteniendo el orden fiscal. Antes el debate era la necesid…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098172987945930795",
+    "created_at": "Thu Sep 10 22:13:17 +0000 2026",
+    "full_text": "RT @OPRArgentina: https://t.co/pgLWWw4Hoe",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098171095819952152",
+    "created_at": "Thu Sep 10 22:05:46 +0000 2026",
+    "full_text": "RT @MenemMartin: La inflación de agosto fue de 1,7%, la más baja de los últimos 14 meses y el menor registro para un agosto desde 2017. Des…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098171038437691617",
+    "created_at": "Thu Sep 10 22:05:32 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: AGOSTO: TERCERA INFLACIÓN MÁS BAJA DE TODA LA GESTIÓN\n\nEl INDEC publicó el IPC de agosto y dio 1,7% mensual. El tercer…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098170991444910447",
+    "created_at": "Thu Sep 10 22:05:21 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Excelente fallo 👏👏👏",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098170979532898647",
+    "created_at": "Thu Sep 10 22:05:18 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨GRAN CORRECCION DE PRECIOS RELATIVOS 🚨\n➡️Continuó el ajuste de precios relativos iniciado a principios de 2024\n➡️La v…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098170095373820089",
+    "created_at": "Thu Sep 10 22:01:47 +0000 2026",
+    "full_text": "RT @JMilei: VOLUNTAD DE HIERRO\n\nSi hay una característica propia de la función del arquero es que no tiene margen para el error, para el ca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098169991342194954",
+    "created_at": "Thu Sep 10 22:01:22 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI Y CAPUTO SIGUEN DOMANDO LA INFLACIÓN: Toto Caputo anunció que la inflación de agosto cayó al 1,7%, la más…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098169952628855005",
+    "created_at": "Thu Sep 10 22:01:13 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨EL CAMINO HACIA MAS DESINFLACION Y DEBAJO DEL 2%🚨\n➡️El dato de IPC de AGO26 confirma la continuidad del proceso de es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098169861532700781",
+    "created_at": "Thu Sep 10 22:00:51 +0000 2026",
+    "full_text": "RT @fedesturze: Tardará un mes más, tardará un mes menos. Pero si la políticas económicas son de país normal, la inflación va a ser de país…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098169839839850605",
+    "created_at": "Thu Sep 10 22:00:46 +0000 2026",
+    "full_text": "RT @luispetri: EL RUMBO NO SE DETIENE Y SE DEFIENDE HASTA EL FINAL!\n\n1,7% de inflación en agosto. Sigue bajando el impuesto que más afectab…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098169813939949713",
+    "created_at": "Thu Sep 10 22:00:40 +0000 2026",
+    "full_text": "RT @AdrianRavier: LA INFLACIÓN SIGUE EL SENDERO DECRECIENTE\n\nEn agosto de 2023, los precios subieron 12,4% en un solo mes.\n\nHoy, luego de c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098167909201678538",
+    "created_at": "Thu Sep 10 21:53:06 +0000 2026",
+    "full_text": "VOLUNTAD DE HIERRO\n\nSi hay una característica propia de la función del arquero es que no tiene margen para el error, para el cansancio ni para la distracción. Con la red en la espalda y en ocasiones una tribuna hostil por detrás, el arquero sabe que es la última línea de defensa",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
     "id": "2098137783835804040",
     "created_at": "Thu Sep 10 19:53:23 +0000 2026",
     "full_text": "RT @LLibertadAvanza: VLLC!!! VAMO TOTO!!! https://t.co/6NojvEdz0H",
