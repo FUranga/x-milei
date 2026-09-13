@@ -1,5 +1,187 @@
 [
   {
+    "id": "2099007177021133268",
+    "created_at": "Sun Sep 13 05:28:03 +0000 2026",
+    "full_text": "RT @patoenero: Cuba es el lugar en el que deberían vivir los zurdos y kukas. https://t.co/AuytNElUeU",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099006959907111235",
+    "created_at": "Sun Sep 13 05:27:11 +0000 2026",
+    "full_text": "RT @juanfloreschaar: Bregman, Del Caño y sus amigos socialistas... https://t.co/5340etotSD",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099006835302846937",
+    "created_at": "Sun Sep 13 05:26:41 +0000 2026",
+    "full_text": "RT @Lapatoneta1: La caída de consumo más loca del mundo diría el gran @JMilei .\nBy @tipitoenojado https://t.co/EpaCDJQd0q",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099006717073768864",
+    "created_at": "Sun Sep 13 05:26:13 +0000 2026",
+    "full_text": "RT @NegroCensurado: No le creo nada, seguro es IA",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098994246304894982",
+    "created_at": "Sun Sep 13 04:36:40 +0000 2026",
+    "full_text": "RT @Santiago_Oria: ¿Debe ser I.A. no?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098994113525780547",
+    "created_at": "Sun Sep 13 04:36:08 +0000 2026",
+    "full_text": "RT @juanfloreschaar: \"El experimento más importante del mundo en liberalismo económico\", titula The Ecónomist\".\n\nEl presidente @JMilei no s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098993935402033626",
+    "created_at": "Sun Sep 13 04:35:26 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Espectacular LLA, lleno de jóvenes de todos lados que no se comen la curva del discurso del desánimo y la amargura. VLLC!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098993800349642847",
+    "created_at": "Sun Sep 13 04:34:54 +0000 2026",
+    "full_text": "RT @agarra_pala: 🦁 👏 | TREMENDO: EN EL MÓVIL DE CRÓNICA APARECIÓ ESTE TIPAZO QUE BANCA EL GOBIERNO A MUERTE.\n\n“EL MEJOR GOBIERNO DE LOS ÚLT…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098993700336541848",
+    "created_at": "Sun Sep 13 04:34:30 +0000 2026",
+    "full_text": "RT @Santiago_Oria: DEBE SER LA IA DEBE SER. CONSUMO AL TACO TODOS LADOS. https://t.co/Je61Hhq7ZJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098993186165100637",
+    "created_at": "Sun Sep 13 04:32:27 +0000 2026",
+    "full_text": "\"La gente no llega a fin de mes\"...\nDebe ser difícil aceptar que has sido engañado por un chanta... pero mucho peor es persistir en el error...\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098992721495044436",
+    "created_at": "Sun Sep 13 04:30:36 +0000 2026",
+    "full_text": "RT @tipitoenojado: 7 grados centígrados y esto esta lleno de gente https://t.co/9kgB3uoecc",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098991694041485656",
+    "created_at": "Sun Sep 13 04:26:31 +0000 2026",
+    "full_text": "RT @ViejoLibertario: LA POLÍTICA NO ES UNA MIERDA\n\nA veces uno mira a los corruptos, los ególatras, los falsos, los que opinan según las en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098948290024763486",
+    "created_at": "Sun Sep 13 01:34:03 +0000 2026",
+    "full_text": "RT @renvalente: Antes en el “CCK”: culto al afano y aguantadero de delincuentes.\n\nHoy, en el Palacio Libertad: ópera de Puccini producida p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098926734670262769",
+    "created_at": "Sun Sep 13 00:08:24 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: CONGRESO DE JUVENTUD EN CÓRDOBA\n\nLos jóvenes defendiendo las ideas de la Libertad en cada rincón del país. VLLC!!! htt…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098922247607968215",
+    "created_at": "Sat Sep 12 23:50:34 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2098904411707732263",
+    "created_at": "Sat Sep 12 22:39:42 +0000 2026",
+    "full_text": "RT @EconomiaMises: “La competencia pacífica de productores y proveedores en el mercado es un proceso profundamente cooperativo del que todo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098898498523648012",
+    "created_at": "Sat Sep 12 22:16:12 +0000 2026",
+    "full_text": "RT @rcas1: El Peronismo siempre hace lo mismo. \nReviente de reservas, emisión monetaria descontrolada, cepo y gasto público, todo en simult…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098898468395753546",
+    "created_at": "Sat Sep 12 22:16:05 +0000 2026",
+    "full_text": "RT @fargosi: La explicación es simple: @JMilei es y se siente un ciudadano que, tras décadas de trabajo privado, fue elegido para ser diput…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098898403954491455",
+    "created_at": "Sat Sep 12 22:15:49 +0000 2026",
+    "full_text": "RT @AXELKAISER: Islam period. These journalists don't even look at the surveys where most Muslims express their disagreement with freedom s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098896355179851810",
+    "created_at": "Sat Sep 12 22:07:41 +0000 2026",
+    "full_text": "RT @xestadominimo: \"El costo real del Estado es la prosperidad que no vemos, los puestos de trabajo que no existen, las tecnologías a las q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098895679359758398",
+    "created_at": "Sat Sep 12 22:05:00 +0000 2026",
+    "full_text": "RT @mauroexplica: PERO DE PEDO https://t.co/O1oN5G8PMh",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098895235170406617",
+    "created_at": "Sat Sep 12 22:03:14 +0000 2026",
+    "full_text": "RT @FAST_GAST: Jubilada basada, doma a los chacales de traje de C5N!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098894952562352327",
+    "created_at": "Sat Sep 12 22:02:06 +0000 2026",
+    "full_text": "RT @ocampo_emilio: Muy buena columna de @FerIglesias refutando la noción de que Milei es un populista de derecha\n\n\"¿Autoritarismo? Existen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098894504128369112",
+    "created_at": "Sat Sep 12 22:00:20 +0000 2026",
+    "full_text": "RT @FAST_GAST: @MenemMartin deja al descubierto todo el desastre que nos dejo el kirchnerismo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098892723637919913",
+    "created_at": "Sat Sep 12 21:53:15 +0000 2026",
+    "full_text": "RT @brivael: 🔥🔥🔥🔥",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2098891555155169771",
+    "created_at": "Sat Sep 12 21:48:36 +0000 2026",
+    "full_text": "RT @AleMonteoliva: LA FRONTERA DEJÓ DE SER UN COLADOR\n\nCon el Plan Guaçurarí pusimos a nuestras Fuerzas Federales a trabajar de manera perm…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2098880772094476630",
     "created_at": "Sat Sep 12 21:05:46 +0000 2026",
     "full_text": "RT @MadeInAncapia: ✒️|\"¿Cómo puede el izquierdista oponerse a la violencia de la guerra, cuándo al mismo tiempo, apoya la violencia imposit…",
