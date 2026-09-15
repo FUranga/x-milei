@@ -1,5 +1,383 @@
 [
   {
+    "id": "2099724244305199116",
+    "created_at": "Tue Sep 15 04:57:25 +0000 2026",
+    "full_text": "RT @DiegoMac227: FENÓMENO BARRIAL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099724167134196033",
+    "created_at": "Tue Sep 15 04:57:07 +0000 2026",
+    "full_text": "RT @HippiesConOsde: - Lo ves reeligiendo a Milei?\n- Si, no hay nadie serio del lado de enfrente solo simios gritando \nEl kuka de Pérsico a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099723333444977032",
+    "created_at": "Tue Sep 15 04:53:48 +0000 2026",
+    "full_text": "RT @FerroAnton: @CFKArgentina \n#Sorete https://t.co/SgYQT0dJMN",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099723160551661977",
+    "created_at": "Tue Sep 15 04:53:07 +0000 2026",
+    "full_text": "RT @HospGarrahan: CUIDAR A NUESTROS PROFESIONALES ES CUIDAR LA SALUD DE LOS NIÑOS\n\nEn el hospital, nuestros médicos atienden los casos pedi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099722478415118785",
+    "created_at": "Tue Sep 15 04:50:24 +0000 2026",
+    "full_text": "RT @VivianaIsasi: LA OFERTA SE ACOMODA A LA DEMANDA \nHay provincias de Argentina profunda donde esa regla funciona: los precios bajan y la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099675626210828289",
+    "created_at": "Tue Sep 15 01:44:14 +0000 2026",
+    "full_text": "RT @empaladosok: ESTO QUE CUENTA FEINMANN ES GRAVÍSIMO 🚨\n\n\"Muchos militantes de La Cámpora fueron incorporados como AGENTES DE LA AFI en el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099674584794452406",
+    "created_at": "Tue Sep 15 01:40:05 +0000 2026",
+    "full_text": "RT @gusty_natasha: Viva la Libertad Carajo 🇦🇷🗽💜",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099673308115382651",
+    "created_at": "Tue Sep 15 01:35:01 +0000 2026",
+    "full_text": "RT @FerIglesias: VISITA A LA CÁMARA DE COMERCIO DE LUXEMBURGO\nEl 9 de septiembre, viajé a Luxemburgo para una reunión con Carlo Thelen, ger…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099670537806983403",
+    "created_at": "Tue Sep 15 01:24:00 +0000 2026",
+    "full_text": "RT @jmilei_english: The right also has to organize itself. We are not facing a local adversary, but a global one. If they had their Sociali…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099648055477747941",
+    "created_at": "Mon Sep 14 23:54:40 +0000 2026",
+    "full_text": "RT @neuramedia: El mercado argentino resiste el contexto internacional adverso 📈\n\nAnalizamos por qué la suba de tasas en Estados Unidos no…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099647208207331768",
+    "created_at": "Mon Sep 14 23:51:18 +0000 2026",
+    "full_text": "RT @ezeatauche: Promesas cumplidas y resultados concretos: el Presidente @JMilei demuestra con datos que la transformación de la Argentina…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099645929506619426",
+    "created_at": "Mon Sep 14 23:46:13 +0000 2026",
+    "full_text": "RT @Walterelunico71: \"LA CRISIS DEL CONSUMO MAS RARA DEL MUNDO 🌍\" \n\nY LO LLORAN LOS KUKAS Y LOS\n\n PERIODISTAS OPERADORES , QUE SALEN TODOS…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099645870098812955",
+    "created_at": "Mon Sep 14 23:45:59 +0000 2026",
+    "full_text": "RT @neuramedia: ¿MILEI VIENE DEL FUTURO?\nUna frase de Milei sobre el declive del Reino Unido vuelve a tomar fuerza después de las últimas n…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099645767904281047",
+    "created_at": "Mon Sep 14 23:45:35 +0000 2026",
+    "full_text": "RT @TeslaAIBot: Optimus will be the most important product Tesla ever creates 👀\n\nNot only will it have uses in manufacturing and dangerous…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099645670055465467",
+    "created_at": "Mon Sep 14 23:45:11 +0000 2026",
+    "full_text": "RT @istMilei: IL VALORE ETICO DELLA MOTOSIERRA!\nhttps://t.co/TAm5DLcggm",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099645641232171098",
+    "created_at": "Mon Sep 14 23:45:05 +0000 2026",
+    "full_text": "RT @Tomidiazcueto: El café está caro.\nLa carne está cara.\nComan huevo y sino frijoles y arroz y ya fue.\n\nLula en Brasil.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099641985757839692",
+    "created_at": "Mon Sep 14 23:30:33 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | NO LO VAS A VER EN C5N: El Hospital Garrahan mostró la transformación lograda bajo el Gobierno de @JMilei tras o…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099641909400740119",
+    "created_at": "Mon Sep 14 23:30:15 +0000 2026",
+    "full_text": "RT @LeofaccoTweet: Dedicata a Pedro Sanchez, l'ennesimo comunista sanguinario!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099641222549643339",
+    "created_at": "Mon Sep 14 23:27:31 +0000 2026",
+    "full_text": "RT @agarra_pala: ✅🦁“TODA ESTA GENTE EN EL UNICENTER, ALGO RARO EL CONSUMO…”\n\nEXPLOTÓ EL UNICENTER Y FRACASÓ LA SUCIA JUGADA DE LOS KUKAS CO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099639999360839962",
+    "created_at": "Mon Sep 14 23:22:39 +0000 2026",
+    "full_text": "RT @ViejoLibertario: EL SOCIALISMO SE APROVECHA DE LA AMNESIA.\n\nEsta afirmación la hizo el Dr. Daniel Lacalle.\n\nY es extremadamente cierta…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099639389542347087",
+    "created_at": "Mon Sep 14 23:20:14 +0000 2026",
+    "full_text": "RT @istMilei: Cari amici e lettori, è quasi tutto pronto per la presentazione dell'ISTITUTO JAVIER MILEI, che si terrà il prossimo 10 OTTOB…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099639346760483099",
+    "created_at": "Mon Sep 14 23:20:04 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI CUMPLE: La Libertad Avanza publicó un spot con todas las promesas cumplidas por el presidente @JMilei, de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099639240246149212",
+    "created_at": "Mon Sep 14 23:19:38 +0000 2026",
+    "full_text": "RT @mediceneljefe: MAGA. VLLC!!! @JMilei  https://t.co/PSNuKaDye1",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099639198504374385",
+    "created_at": "Mon Sep 14 23:19:28 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨 NICOLAS PINO LA ROMPIÓ TODA, DEJÓ EN SHOCK A LOS KUKARDOS Y ADMITIÓ QUE ESTÁN MEJOR\n\n🔥 \"Estamos MEJOR, lo importante es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099638532226580818",
+    "created_at": "Mon Sep 14 23:16:50 +0000 2026",
+    "full_text": "RT @aetchebarne: No sé por qué parte de la prensa parece disfrutar con agrandar las malas noticias y disimular las buenas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099638466401259787",
+    "created_at": "Mon Sep 14 23:16:34 +0000 2026",
+    "full_text": "RT @casigol66: En un mundo en conflicto Milei está llevando a Argentina adelante. Es impresionante el trabajo que está realizando.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099637974203801998",
+    "created_at": "Mon Sep 14 23:14:37 +0000 2026",
+    "full_text": "RT @AleMonteoliva: LOS BÚNKERS DE A LA VUELTA\n\nVinculadas a \"Los Monos\", estas cuatro miserables tenían al menos 6 puntos de venta detrás d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099637937549852699",
+    "created_at": "Mon Sep 14 23:14:28 +0000 2026",
+    "full_text": "RT @agarra_pala: ❌🚨 LA GENTE NO QUIERE HABLAR CON LOS KUKAS EN VILLA URQUIZA Y SE LE MATAN DE RISA EN LA CARA\n\n\"LA GENTE ME ESQUIVA\" @JMile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099637689049878860",
+    "created_at": "Mon Sep 14 23:13:29 +0000 2026",
+    "full_text": "RT @InversoresClub: En Invertir en Dólares, Miguel Boggiano entrevistó a Juan Carlos de Pablo para analizar la actualidad económica, la inc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099637631604637864",
+    "created_at": "Mon Sep 14 23:13:15 +0000 2026",
+    "full_text": "RT @mediceneljefe: El curso de los acontecimientos está empujando hacia un punto de inflexión. Con @JMilei todos lo sentimos. LAS MALVINAS…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099636624422244609",
+    "created_at": "Mon Sep 14 23:09:15 +0000 2026",
+    "full_text": "RT @lMartinezAlvaro: En 2023 éramos promesas. Hoy somos resultados.\n\n27 meses de crecimiento económico. Superávit fiscal. Consumo en máximo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099636256833417332",
+    "created_at": "Mon Sep 14 23:07:47 +0000 2026",
+    "full_text": "RT @LunarOptimus: Countdown to the future\n\nElon's robots are coming\n\nOptimus 🚀🌔🪐💫🦾\n\n$TSLA https://t.co/W94w0DHCWr",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099635980202361146",
+    "created_at": "Mon Sep 14 23:06:41 +0000 2026",
+    "full_text": "RT @EconomiaMises: “Sin cálculo económico no puede haber economía. El hecho de que el cálculo económico sea irrealizable en la sociedad soc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099635781568524346",
+    "created_at": "Mon Sep 14 23:05:54 +0000 2026",
+    "full_text": "ESTO ES TOMAR NOTA.\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2099634983203647504",
+    "created_at": "Mon Sep 14 23:02:43 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ FANTINO PRENDIÓ FUEGO TODO, LE DIO LA RAZÓN A MILEI Y ATENDIÓ A LOS SENADORES Y DIPUTADOS KUKARDOS\n\n🔥 \"Gente como Mayan…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099634806015320466",
+    "created_at": "Mon Sep 14 23:02:01 +0000 2026",
+    "full_text": "RT @Optimus_RH: Good Morning Humans\n\nOptimus also works as an alarm clock https://t.co/AyDhmZqKI4",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099633684869472350",
+    "created_at": "Mon Sep 14 22:57:34 +0000 2026",
+    "full_text": "RT @mileibarrial: Argentina será grande nuevamente!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099633214306320755",
+    "created_at": "Mon Sep 14 22:55:42 +0000 2026",
+    "full_text": "RT @agarra_pala: 😳 “TE DIJE QUE QUE NO, PELOTUDA!!”\n\nUN LABURANTE SE HARTÓ DE LAS PREGUNTAS DE LA NOTERA KIRCHNERISTA DE AR12 Y SE PUDRIÓ T…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099633061407207781",
+    "created_at": "Mon Sep 14 22:55:05 +0000 2026",
+    "full_text": "RT @FAST_GAST: Gracias por tanto Sr. Presidente @JMilei !!!!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099632640710107547",
+    "created_at": "Mon Sep 14 22:53:25 +0000 2026",
+    "full_text": "RT @fargosi: @JMilei prometió que bajaría impuestos.\n\nBajan los impuestos.\n\nVotá a quien cumple, no al que promete. https://t.co/wQ2jNala9p",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099632314951115245",
+    "created_at": "Mon Sep 14 22:52:07 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: MÁS DE 360 KM DE LAS RUTAS DEL MERCOSUR RECUPERADOS SIN AFECTAR EL BOLSILLO DE LOS PAGADORES DE IMPUESTOS\n\nEl Tramo Or…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099632279391752635",
+    "created_at": "Mon Sep 14 22:51:59 +0000 2026",
+    "full_text": "RT @agarra_pala: ✅ “EL CONSUMO VA MUY BIEN, HAY MUCHO, FUIMOS AL TEATRO Y A COMER...HABIA MUCHA GENTE”\n\nLLENO DE GENTE!! TURISTAS DESARMARO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099632218893099076",
+    "created_at": "Mon Sep 14 22:51:44 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: Hermosa cerrada de orto a un medio de mierda como @argentina12ok \n\n“Yo veo deflación en los precios. La gente no es qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099628816981172406",
+    "created_at": "Mon Sep 14 22:38:13 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | BASADO: Un jubilado destruyó en vivo el relato sobre la supuesta crisis y bancó a @JMilei en la cara de los kirc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099628531596615753",
+    "created_at": "Mon Sep 14 22:37:05 +0000 2026",
+    "full_text": "RT @mediceneljefe: Dicen que la gente no llega a fin de mes y los restaurantes, shoppings y comercios están llenos. El relato kirchnerista…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099628419898077333",
+    "created_at": "Mon Sep 14 22:36:39 +0000 2026",
+    "full_text": "RT @MinDefensa_Ar: Defender nuestra soberanía requiere presencia, capacidades e infraestructura. Por decisión del Presidente @JMilei, vamos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099628380257743161",
+    "created_at": "Mon Sep 14 22:36:29 +0000 2026",
+    "full_text": "RT @julianyosovitch: Este no solo es el gobierno que mas dolares compro sino que tambien es el que menos dolares vendio. \n\nChart @pportfoli…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099628305787900038",
+    "created_at": "Mon Sep 14 22:36:11 +0000 2026",
+    "full_text": "RT @Miguel_Boggiano: Juan Carlos de Pablo fue claro: esperar a que se despeje toda la política puede ser un error. Si el negocio es bueno,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099628072022487106",
+    "created_at": "Mon Sep 14 22:35:16 +0000 2026",
+    "full_text": "RT @QuotesforGoal: “No hay arte que ningún gobierno aprenda tan pronto como el de sacar dinero del bolsillo de los contribuyentes” \n\nAdam S…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099627522107322600",
+    "created_at": "Mon Sep 14 22:33:05 +0000 2026",
+    "full_text": "RT @DiegoMac227: No olvidemos la historia, durante el gobierno anterior, en vez de enviar a la policia para cuidar las calles, los enviaba…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099627160449257637",
+    "created_at": "Mon Sep 14 22:31:38 +0000 2026",
+    "full_text": "RT @julianyosovitch: La correccion de precios relativos que llevo a cabo este gobierno es historico. Mas historico es el desastre que dejo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099627104023322871",
+    "created_at": "Mon Sep 14 22:31:25 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: MAGA. VLLC!!! https://t.co/G1OIpm1iKt",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099627009265607097",
+    "created_at": "Mon Sep 14 22:31:02 +0000 2026",
+    "full_text": "RT @mediceneljefe: \"El dólar dejó de ser negocio.\" @SalvaDiStefano explicó el cambio histórico que hizo @JMilei en la economía argentina. L…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2099626926637817945",
+    "created_at": "Mon Sep 14 22:30:43 +0000 2026",
+    "full_text": "RT @agarra_pala: 🤡 🤬 | JAJAJA QUEDO MUDO: LABURANTE LE DESTAPO EL RELATO AL NOTERO OPERADOR K DE AR12 QUE BUSCA TESTIMONIOS CONTRA EL GOBIE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2099621882282619242",
     "created_at": "Mon Sep 14 22:10:40 +0000 2026",
     "full_text": "RT @SFGaliani: Borges remains the most studied author of the twentieth century. New books and academic articles on his work never stop appe…",
