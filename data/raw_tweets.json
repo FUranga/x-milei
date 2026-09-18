@@ -1,5 +1,789 @@
 [
   {
+    "id": "2101057529987899689",
+    "created_at": "Fri Sep 18 21:15:25 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: VLLC!!! https://t.co/6ZksopzGfZ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057516658712604",
+    "created_at": "Fri Sep 18 21:15:22 +0000 2026",
+    "full_text": "RT @mediceneljefe: JAVIER GERARDO MILEI. 2027. https://t.co/qQIc48OUER",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057500204184051",
+    "created_at": "Fri Sep 18 21:15:18 +0000 2026",
+    "full_text": "RT @Santiago_Oria: GRACIAS JAVO. LAS MALVINAS SON ARGENTINAS. https://t.co/tt0gb7urOM",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057475092832513",
+    "created_at": "Fri Sep 18 21:15:12 +0000 2026",
+    "full_text": "RT @mileibarrial: Lo que no te cuenta el periodismo argento 👇 \n\nEnorme convocatoria para recibir a @JMilei en Bahía Blanca https://t.co/h9i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057442612486551",
+    "created_at": "Fri Sep 18 21:15:04 +0000 2026",
+    "full_text": "RT @javierlanari: Con el kirchnerismo huyeron del país más de 2 millones de jóvenes. Los que no se fueron fue porque no pudieron. Rompieron…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057413285838976",
+    "created_at": "Fri Sep 18 21:14:57 +0000 2026",
+    "full_text": "RT @Santiago_Oria: JAVIER MILEI SEÑORES. VIVA LA LIBERTAD CARAJO. https://t.co/xxkcaonZfv",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057401277325428",
+    "created_at": "Fri Sep 18 21:14:54 +0000 2026",
+    "full_text": "RT @mediceneljefe: GRACIAS BAHÍA BLANCA!! VIVA LA LIBERTAD CARAJO!!! @JMilei  https://t.co/YJWNEI5yZ1",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057377243951141",
+    "created_at": "Fri Sep 18 21:14:49 +0000 2026",
+    "full_text": "RT @mediceneljefe: USD 400 millones, 12 hectáreas, 4.000 toneladas por día. Louis Dreyfus construye en Bahía Blanca una de las plantas de m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057356872163628",
+    "created_at": "Fri Sep 18 21:14:44 +0000 2026",
+    "full_text": "RT @MinJusticia_Ar: ENTRA EN VIGENCIA EL CÓDIGO PROCESAL PENAL FEDERAL EN EL DISTRITO FEDERAL DE LA PLATA\n\nEstuvimos en La Plata dando un n…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057324110528842",
+    "created_at": "Fri Sep 18 21:14:36 +0000 2026",
+    "full_text": "RT @julianyosovitch: El Gobierno sigue proyectando en su persupuesto un superavit primario en 2026 y en 2027 (1,3%), del mismo modo que el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101057238232453464",
+    "created_at": "Fri Sep 18 21:14:16 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇸🇦🇾🇪 | ARGENTINA CONDENÓ LOS ATAQUES HUTÍES CONTRA ARABIA SAUDITA: La Cancillería del Gobierno de Milei repudió los…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101056808924385392",
+    "created_at": "Fri Sep 18 21:12:33 +0000 2026",
+    "full_text": "RT @mediceneljefe: Bahía Blanca explotó. Una multitud salió a recibir a @JMilei y @KarinaMileiOk con una energía que no se veía hace años.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101056794600898985",
+    "created_at": "Fri Sep 18 21:12:30 +0000 2026",
+    "full_text": "RT @Santiago_Oria: MILEI 2027 https://t.co/KV9MCZicxm",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101056765488230743",
+    "created_at": "Fri Sep 18 21:12:23 +0000 2026",
+    "full_text": "RT @vaaaalentain: Morí de ternura. LA JUVENTUD ES LIBERAL https://t.co/4150ll6pUl",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101056731518239216",
+    "created_at": "Fri Sep 18 21:12:15 +0000 2026",
+    "full_text": "RT @vaaaalentain: PRIMERA VUELTA https://t.co/Ff0uAwBP1S",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101056213626872095",
+    "created_at": "Fri Sep 18 21:10:11 +0000 2026",
+    "full_text": "RT @rcas1: Las reservas ya superaron los usd50mil millones.\n\nCuando fueron los pisos?\nObvio, tras cualquier gobierno Peronista. \nLes encant…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101056143984304551",
+    "created_at": "Fri Sep 18 21:09:55 +0000 2026",
+    "full_text": "MAGA!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2101056119208550760",
+    "created_at": "Fri Sep 18 21:09:49 +0000 2026",
+    "full_text": "RT @arielsbdar: Nunca antes me pasó que tantos argentinos viviendo en el exterior me escriban interesados en búsqueda de oportunidades labo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101055170612433300",
+    "created_at": "Fri Sep 18 21:06:03 +0000 2026",
+    "full_text": "VIVA LA LIBERTAD CARAJO...!!!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2101055125586407738",
+    "created_at": "Fri Sep 18 21:05:52 +0000 2026",
+    "full_text": "RT @inakiigutierrez: LLENO DE GENTE BANCANDO AL PRESIDENTE EN BAHIA BLANCA! 💜🇦🇷 https://t.co/UO23hy4MHx",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101054110615081149",
+    "created_at": "Fri Sep 18 21:01:50 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei recorrió en Bahía Blanca el predio donde Louis Dreyfus Company construirá una nueva planta de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101041424158380358",
+    "created_at": "Fri Sep 18 20:11:25 +0000 2026",
+    "full_text": "MAGA!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2101041400754110868",
+    "created_at": "Fri Sep 18 20:11:20 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI SALVÓ EL FUTURO DE ARGENTINA: Tras llegar a un alarmante pico del 70% con Alberto Fernández, el porcentaje…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101041380730503173",
+    "created_at": "Fri Sep 18 20:11:15 +0000 2026",
+    "full_text": "RT @Santiago_Oria: 🚨 AHORA - Va llegando la gente para saludar al presidente @JMilei en Bahía Blanca. VLLC. https://t.co/Nnpv7b15hB",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101040797789360620",
+    "created_at": "Fri Sep 18 20:08:56 +0000 2026",
+    "full_text": "RT @pabloquirno: La República Argentina condena los ataques contra el territorio y civiles saudíes. \n\n👇👇👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101040772309217763",
+    "created_at": "Fri Sep 18 20:08:50 +0000 2026",
+    "full_text": "RT @Cancilleria_Ar: https://t.co/Y2gtZJ4HM4",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101017462405824987",
+    "created_at": "Fri Sep 18 18:36:12 +0000 2026",
+    "full_text": "RT @ElTrumpista: Este proyecto es un antes y un después en el tema Malvinas y de verdad.\n\nNo son estupideces, no son historias de IG, ni pa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101017416503533858",
+    "created_at": "Fri Sep 18 18:36:01 +0000 2026",
+    "full_text": "RT @LaVonHayek: Al populismo no se lo combate con más populismo, se lo combate con más ortodoxia.\n- Toto. https://t.co/dHMiVdWc8Q",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101017023241134471",
+    "created_at": "Fri Sep 18 18:34:28 +0000 2026",
+    "full_text": "RT @MandrilandiaX: Entre tantos logros del gobierno, muchos se olvidaron que este tipo nos hizo ganar un juicio que nos evitó pagar 16 mil…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101015603649945695",
+    "created_at": "Fri Sep 18 18:28:49 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | TIPAZO: El presidente @JMilei saludó personalmente a los trabajadores de Compañía Mega y se sacó fotos con todos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101015557013225653",
+    "created_at": "Fri Sep 18 18:28:38 +0000 2026",
+    "full_text": "RT @GordoDan_: Malvinas no se recupera con consignas vacías sino construyendo PODER NACIONAL en serio (para lo cual no podes tener una hipe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101015235767541933",
+    "created_at": "Fri Sep 18 18:27:21 +0000 2026",
+    "full_text": "RT @tealdif: Cuidemos lo logrado. https://t.co/s9dp4Lsy0V",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101012574179323979",
+    "created_at": "Fri Sep 18 18:16:47 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Como dijo el Presidente Milei:\n\n“Defender nuestra soberanía y recuperar nuestras islas requiere ser una nación política…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101010583021600833",
+    "created_at": "Fri Sep 18 18:08:52 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | TIPAZO: Una periodista le preguntó a Javier Milei por el video de Bullrich con una canción de Lali, y el preside…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101010445582680365",
+    "created_at": "Fri Sep 18 18:08:19 +0000 2026",
+    "full_text": "RT @julianyosovitch: Haciendo las cosas diferentes para obtener resultados diferentes. El equilibrio fiscal como prioridad.\n\nChart @GRUPOSB…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101010070012133514",
+    "created_at": "Fri Sep 18 18:06:50 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🦁 ASÍ RECIBIERON A MILEI EN BAHÍA BLANCA: LOS KUKAS LLORAN POR COMO MILEI SALUDÓ A LOS EMPLEADOS DE LA EMPRESA EN LA QUE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101010041088225683",
+    "created_at": "Fri Sep 18 18:06:43 +0000 2026",
+    "full_text": "RT @Tomidiazcueto: Raro el titulo: \"aprobación estancada en el 42%\".\n\nEs curioso, por que a casi tres años de iniciado el mandato, Milei ti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101006152754491404",
+    "created_at": "Fri Sep 18 17:51:16 +0000 2026",
+    "full_text": "RT @agarra_pala: EL PROFE ÁLVAREZ LE CERRÓ LA BOCA A LA OPOSICIÓN K POR LAS UNIVERSIDADES: \"NO HAY RECORTES, HAY AUMENTO\"\n@JMilei @AleCiroA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101004030675714288",
+    "created_at": "Fri Sep 18 17:42:50 +0000 2026",
+    "full_text": "RT @VivianaIsasi: LA MAYORÍA QUIERE ELIMAR LAS PASO. \nSe dieron cuenta que fue una truchada https://t.co/jSMU4ABw61",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101003528990830839",
+    "created_at": "Fri Sep 18 17:40:50 +0000 2026",
+    "full_text": "RT @mediceneljefe: Bahía Blanca recibió a @JMilei como se merece. Los trabajadores de Mega salieron a saludar al presidente que les devolvi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101003485420437986",
+    "created_at": "Fri Sep 18 17:40:40 +0000 2026",
+    "full_text": "RT @DiegoMac227: ✅️l Excelente",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101003042518864378",
+    "created_at": "Fri Sep 18 17:38:54 +0000 2026",
+    "full_text": "RT @FernandoMarull: Mejor PBI que emae\n\nDesempleo: crece empleo pero mas crece la oferta de empleo, entonces desempleo sube a 7,9% https://…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101002996247306655",
+    "created_at": "Fri Sep 18 17:38:43 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣🦁 MILEI LA ROMPIÓ TODA Y DESARMÓ TODAS LAS OPERETAS KUKARDAS POR EL VÍDEO DE PATRICIA BULLRICH\n\n💥 \"¿Cuál sería el problem…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101002284834378029",
+    "created_at": "Fri Sep 18 17:35:54 +0000 2026",
+    "full_text": "RT @Adriel_Mzz: 🚨 ¡NUEVO SUPERÁVIT FISCAL! 💰🇦🇷🔥\n\nMinistro Toto Caputo: superávit fiscal de agosto creció 62,8% vs mismo mes del año pasado.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101001310082355246",
+    "created_at": "Fri Sep 18 17:32:01 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l Milei en Bahia Blanca.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101001144734539912",
+    "created_at": "Fri Sep 18 17:31:22 +0000 2026",
+    "full_text": "RT @AmoaHamlet: Los ataques a Milei nos están permitiendo ver el muy elevado nivel de degradación moral de la prensa argentina, que cada ve…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101000758908842066",
+    "created_at": "Fri Sep 18 17:29:50 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l FOTAZA https://t.co/PghcBDGXKC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100992996028141675",
+    "created_at": "Fri Sep 18 16:58:59 +0000 2026",
+    "full_text": "RT @LoboArgy: Esto es clave 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100992626547728759",
+    "created_at": "Fri Sep 18 16:57:31 +0000 2026",
+    "full_text": "RT @AbdalaBartolome: En el Senado, dimos otro paso fundamental para el crecimiento de la Argentina aprobando:\n✓ Inocencia Fiscal II\n✓ Bioco…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100992276113625169",
+    "created_at": "Fri Sep 18 16:56:07 +0000 2026",
+    "full_text": "RT @PrivilegioCero: LA FUERZA DE LOS QUE PRODUCEN 🟣\n\n@JMilei compartió charlas, sonrisas y fotos con los trabajadores de MEGA en Bahía Blan…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100992170920398867",
+    "created_at": "Fri Sep 18 16:55:42 +0000 2026",
+    "full_text": "RT @VLLCLibertario: LOS PERIODISTAS SON SIEMPRE Y EN TODO LUGAR UNOS HIJOS DE REMIL PUTAS. https://t.co/gQpO82rbuV",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100990715463377363",
+    "created_at": "Fri Sep 18 16:49:55 +0000 2026",
+    "full_text": "RT @nsotelolar: Este es, quizás el mayor logro del gobierno,devolver la esperanza a la juventud,el orgullo argentino y el amor a las raíces…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100990397262524500",
+    "created_at": "Fri Sep 18 16:48:39 +0000 2026",
+    "full_text": "RT @tonyaracre: PBI al 30/6\n\nBaja 0,6% el trimestre\n\nSube 2% el interanual\n\nEl indicador tendencia ciclo (que quita estacionalidad) da +0,8…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100990330015277507",
+    "created_at": "Fri Sep 18 16:48:23 +0000 2026",
+    "full_text": "RT @mediceneljefe: @JMilei en Bahía Blanca junto a Marcelo Mindlin de Pampa Energía. El presidente que sale al territorio a encontrarse con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100990304258011221",
+    "created_at": "Fri Sep 18 16:48:17 +0000 2026",
+    "full_text": "RT @gusty_natasha: El PRESIDENTE @JMilei JUNTO A LOS TRABAJADORES EN BAHÍA BLANCA 🇦🇷\n\nEl presidente Javier Milei recorrió uno de los princi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100990264038859058",
+    "created_at": "Fri Sep 18 16:48:08 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | ¿Y LA CRISIS DÓNDE ESTÁ? Se viralizan las imágenes de la enorme fila que se formó un jueves a la noche frente a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989895271416136",
+    "created_at": "Fri Sep 18 16:46:40 +0000 2026",
+    "full_text": "RT @slcaputo: No es tan difícil entender las cosas si se toman el trabajo de, no se, leer al menos las cosas sobre las que opinan. Por suer…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989780817555905",
+    "created_at": "Fri Sep 18 16:46:12 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | EXCELENTE: El Secretario de Finanzas de Milei, Federico Furiase, destruyó la narrativa mediática sobre el supues…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989751436124162",
+    "created_at": "Fri Sep 18 16:46:05 +0000 2026",
+    "full_text": "RT @Felii_N: El gasto primario se redujo 0,5% en términos reales en relación a agosto del año pasado. Las transferencias a universidades, l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989705047130563",
+    "created_at": "Fri Sep 18 16:45:54 +0000 2026",
+    "full_text": "RT @pabloquirno: Por qué hacemos lo que hacemos. 🇦🇷🇦🇷🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989591805215199",
+    "created_at": "Fri Sep 18 16:45:27 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨📊 LA CRISIS DE CONSUMO MAS RARA DEL MUNDO: FILA GIGANTE PARA COMER EN UNA HAMBURGUESERIA\n\n💥 Jueves en Palermo a las 21:30…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989364536738123",
+    "created_at": "Fri Sep 18 16:44:33 +0000 2026",
+    "full_text": "RT @SFGaliani: The final reason for optimism is that the reform process is not over. Argentina needs to preserve macroeconomic stability, d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989343925973199",
+    "created_at": "Fri Sep 18 16:44:28 +0000 2026",
+    "full_text": "RT @SFGaliani: The fifth reason is geopolitical. Argentina is part of the West and naturally aligned with the United States, but it also ha…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989331754176663",
+    "created_at": "Fri Sep 18 16:44:25 +0000 2026",
+    "full_text": "RT @SFGaliani: The fourth reason is demographic. Argentina is still considerably younger than Europe and East Asia. This advantage will not…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989304558223531",
+    "created_at": "Fri Sep 18 16:44:19 +0000 2026",
+    "full_text": "RT @SFGaliani: There is another reason to expect favorable conditions for Argentina. AI will probably increase the productivity of labor mu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989275735003432",
+    "created_at": "Fri Sep 18 16:44:12 +0000 2026",
+    "full_text": "RT @SFGaliani: The second reason for optimism is the change taking place in Argentina’s productive structure.\n\nVaca Muerta is already turni…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989248589423054",
+    "created_at": "Fri Sep 18 16:44:06 +0000 2026",
+    "full_text": "RT @SFGaliani: Why should we be optimistic about Argentina, provided that the current process of reform continues?\n\nThe first thing Argenti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989196122919027",
+    "created_at": "Fri Sep 18 16:43:53 +0000 2026",
+    "full_text": "RT @Felii_N: En los primeros 8 meses del año, el SPN acumuló un superávit primario de aproximadamente 1,1% del PIB y un superávit financier…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989146734928271",
+    "created_at": "Fri Sep 18 16:43:41 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | SE CELEBRA: El ministro \"Toto\" Caputo detalló el nuevo superávit fiscal que registró la Argentina durante agosto…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100989126329729462",
+    "created_at": "Fri Sep 18 16:43:36 +0000 2026",
+    "full_text": "RT @ronnie__rr: Según el instituto de estadísticas de la ciudad, el costo salarial real de la contrucción recuperó fuerte en los últimos me…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100988980003045506",
+    "created_at": "Fri Sep 18 16:43:01 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: El presidente habla por muchos de nosotros",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100988904170049572",
+    "created_at": "Fri Sep 18 16:42:43 +0000 2026",
+    "full_text": "RT @PrivilegioCero: EL JEFE, EN EL CORAZÓN DE LAS INVERSIONES 🟣\n\n@JMilei y @KarinaMileiOk recorrieron Compañía Mega en Bahía Blanca junto a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100988584664695118",
+    "created_at": "Fri Sep 18 16:41:27 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | TIPAZOS: La foto del presidente @JMilei junto a Marcelo Mindlin, titular de Pampa Energía, tras arribar a Bahía…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100988490863231401",
+    "created_at": "Fri Sep 18 16:41:05 +0000 2026",
+    "full_text": "RT @HoracioMarin_ok: Hoy recibimos al presidente @JMilei en Compañía Mega y recorrimos el nuevo tren de fraccionamiento de gas con una inve…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100988443832533500",
+    "created_at": "Fri Sep 18 16:40:54 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨📊 LA ARGENTINA DE MILEI ALCANZÓ UN RÉCORD ABSOLUTO DE LOS ÚLTIMOS 126 AÑOS\n\n💥 Alcanzamos los MEJORES TÉRMINOS DE INTERCAM…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100988362718863795",
+    "created_at": "Fri Sep 18 16:40:34 +0000 2026",
+    "full_text": "RT @slcaputo: @trebuquero @fvlonigro Nunca tiene razón Loningro, no es un constitucionalista, es un opositor, y además uno medio pelotudo.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100988324039086295",
+    "created_at": "Fri Sep 18 16:40:25 +0000 2026",
+    "full_text": "RT @leocifelli: 🇦🇷💪🏽",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100987933532512396",
+    "created_at": "Fri Sep 18 16:38:52 +0000 2026",
+    "full_text": "MAGA.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2100987898203894258",
+    "created_at": "Fri Sep 18 16:38:44 +0000 2026",
+    "full_text": "RT @elduckpost: 🇦🇷 | ¿QUÉ PORCENTAJE DE JÓVENES ARGENTINOS QUERÍA IRSE DEL PAÍS?\n\n🔵 Néstor Kirchner\n2005: 37,8% quería irse del país\n\n🔵 Cri…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100987732809937386",
+    "created_at": "Fri Sep 18 16:38:04 +0000 2026",
+    "full_text": "RT @fedesturze: Parece fácil, pero todos los días hay que trabajar para esto. No perdamos nunca esta disciplina con el gasto que es la únic…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100987686018220452",
+    "created_at": "Fri Sep 18 16:37:53 +0000 2026",
+    "full_text": "RT @fargosi: Algunos medios dicen que la Argentina y @JMilei colapsan\n\nMienten\n\nLa verdad es que LA ECONOMÍA CRECE \n\nEl PBI creció PIB 2% i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100987624890532200",
+    "created_at": "Fri Sep 18 16:37:38 +0000 2026",
+    "full_text": "RT @tonyaracre: Superávit reduciendo impuestos 3pp del PBI y aumentando el valor real de las prestaciones sociales fundamentales no lo logr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100984392046850520",
+    "created_at": "Fri Sep 18 16:24:48 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨SUPERAVIT FISCAL INQUEBRANTABLE🚨\n➡️El resultado fiscal primario base caja de AGO26 arrojó un superávit de $1.99B\n➡️Lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100984136253030757",
+    "created_at": "Fri Sep 18 16:23:47 +0000 2026",
+    "full_text": "RT @mediceneljefe: Los periodistas ensobrados mienten todos los días y la gente lo sabe. @JMilei lo dijo sin filtro y sin miedo. Por eso lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100984001548730696",
+    "created_at": "Fri Sep 18 16:23:15 +0000 2026",
+    "full_text": "RT @FAST_GAST: MILEI JUNTO A LOS TRABAJADORES EN BAHÍA BLANCA 🇦🇷\n\nEl presidente @JMilei  recorrió uno de los principales polos productivos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100983908661670344",
+    "created_at": "Fri Sep 18 16:22:52 +0000 2026",
+    "full_text": "RT @MazzucaMacu: Nadie quiere ir para atrás, el movimiento de Argentina, sus jóvenes y su futuro es para adelante, por eso hay q apoyar a J…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100983861819637941",
+    "created_at": "Fri Sep 18 16:22:41 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | AFUERA: El Ministerio de Seguridad de Milei anunció que, desde noviembre de 2025, se alcanzó la cifra de 20.000…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100983819448848413",
+    "created_at": "Fri Sep 18 16:22:31 +0000 2026",
+    "full_text": "RT @Lapatoneta1: Se terminaron las operaciones, palabra de @JMilei sobre @PatoBullrich : \"Cuál sería el problema de que escuche a Lali? Par…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100983374177251386",
+    "created_at": "Fri Sep 18 16:20:45 +0000 2026",
+    "full_text": "RT @RightNewsShow: 🚨🇺🇸🇨🇺 | Marco Rubio endureció su ofensiva contra el régimen comunista cubano, al que calificó como un Estado corrupto y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100983272134025595",
+    "created_at": "Fri Sep 18 16:20:21 +0000 2026",
+    "full_text": "RT @luispetri: El kirchnerismo miente. \n\nTransfirieron a Tandanor 2.500 millones de pesos en 2022 para poner la piedra fundamental y mover…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100983240928432162",
+    "created_at": "Fri Sep 18 16:20:13 +0000 2026",
+    "full_text": "RT @ZapataDiputado: Me reuní con el ministro de Defensa, Carlos Alberto Presti, para analizar el proyecto de Ley de Defensa de la Soberanía…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100982738379509776",
+    "created_at": "Fri Sep 18 16:18:13 +0000 2026",
+    "full_text": "RT @Witchreinaa: 🚨JAVIER MILEI HABLO DEL VIDEO QUE HIZO BULLRICH CON EL TEMA DE LALI🚨\n\n\"Cuál sería el problema de que escuche a Lali? Para…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100982518748950896",
+    "created_at": "Fri Sep 18 16:17:21 +0000 2026",
+    "full_text": "RT @FAST_GAST: El superávit fiscal, no se negocia!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100982499744616452",
+    "created_at": "Fri Sep 18 16:17:16 +0000 2026",
+    "full_text": "RT @RightNewsShow: 🚨🇦🇷 | Javier Milei explotó contra los periodistas que difunden información falsa: “Periodistas de mierda, después se que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100982453070356836",
+    "created_at": "Fri Sep 18 16:17:05 +0000 2026",
+    "full_text": "RT @CarajoStream: OTRO MES CON SUPERÁVIT FINANCIERO 🇦🇷\n\nEn agosto, el Sector Público registró un superávit primario de $1,99 billones. En l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100982267967386029",
+    "created_at": "Fri Sep 18 16:16:21 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei, junto a la Secretaria General de la Presidencia, Karina Milei, recorrió las instalaciones de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100982246358356251",
+    "created_at": "Fri Sep 18 16:16:16 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100982230973562889",
+    "created_at": "Fri Sep 18 16:16:12 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei junto a trabajadores de MEGA S.A., empresa que impulsa una inversión de US$ 365 millones en el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100982197020766372",
+    "created_at": "Fri Sep 18 16:16:04 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: HACIENDO A LA ARGENTINA GRANDE NUEVAMENTE \n\nEl presidente Javier Milei, Karina Milei y Diego Santilli recorriendo las…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100982180990087646",
+    "created_at": "Fri Sep 18 16:16:00 +0000 2026",
+    "full_text": "RT @mediceneljefe: HACIENDO A LA ARGENTINA GRANDE NUEVAMENTE. @JMilei, @KarinaMileiOk y @DiegoSantilli recorriendo Mega y Pampa Energía en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100969526233878979",
+    "created_at": "Fri Sep 18 15:25:43 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: RESULTADO FISCAL AGOSTO 2026 \n\nEn agosto de este año, el Sector Público Nacional registró un superávit primario de $1.9…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100969508512919943",
+    "created_at": "Fri Sep 18 15:25:39 +0000 2026",
+    "full_text": "RT @fargosi: No lo vas a ver en los medios:",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100969488665465029",
+    "created_at": "Fri Sep 18 15:25:34 +0000 2026",
+    "full_text": "RT @DiegoMac227: Dato mata relato.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100969455157227577",
+    "created_at": "Fri Sep 18 15:25:26 +0000 2026",
+    "full_text": "RT @JoseLuisDazaAR: Los resultados fiscales del Gobierno Nacional argentino son un ejemplo de seriedad y profesionalismo en el manejo del e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100969190987354610",
+    "created_at": "Fri Sep 18 15:24:23 +0000 2026",
+    "full_text": "RT @DiegoMac227: Mas claro, imposible",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100969090034614461",
+    "created_at": "Fri Sep 18 15:23:59 +0000 2026",
+    "full_text": "RT @javierlanari: El Banco Central acumuló compras por u$s 14.274 millones en lo que va del año. Esto permitió elevar las reservas a u$s 50…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100968890075423201",
+    "created_at": "Fri Sep 18 15:23:12 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei junto a Marcelo Mindlin, Presidente de Pampa Energía, durante su visita a Bahía Blanca. https:…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100966323761070445",
+    "created_at": "Fri Sep 18 15:13:00 +0000 2026",
+    "full_text": "RT @ezeatauche: Jujuy tiene productores, ingenios, trabajadores, conocimiento e infraestructura: solo nos faltaban reglas claras como las q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100966281901936715",
+    "created_at": "Fri Sep 18 15:12:50 +0000 2026",
+    "full_text": "RT @JMilei: FENÓMENO BARRIAL \n\nJavier Milei made ILTV's The 36, the most influential voices for Israel and the Jewish people in 2026. https…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100965765159489921",
+    "created_at": "Fri Sep 18 15:10:47 +0000 2026",
+    "full_text": "RT @QuotesforGoal: \"Luchamos contra tres gigantes, mi querido Sancho: la injusticia, el miedo y la ignorancia\"\n\nMiguel de Cervantes https:/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100964169570803720",
+    "created_at": "Fri Sep 18 15:04:26 +0000 2026",
+    "full_text": "RT @slcaputo: @marielfitz Burra.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2100964104194101743",
+    "created_at": "Fri Sep 18 15:04:11 +0000 2026",
+    "full_text": "RT @Felii_N: 29 de 32 meses de superávit fiscal.\n⚓️⚓️⚓️",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2100959922057789836",
     "created_at": "Fri Sep 18 14:47:34 +0000 2026",
     "full_text": "RT @dreidel1: Volvió el apocalipsis por IA. Por suerte, ya hay voluntarios para salvarnos regulándolo todo.\n\nCon el presidente @JMilei comp…",
