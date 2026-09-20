@@ -1,5 +1,565 @@
 [
   {
+    "id": "2101509295456092569",
+    "created_at": "Sun Sep 20 03:10:34 +0000 2026",
+    "full_text": "RT @FACA_arg: ANTISEMITISMO EN NOMBRE DE LOS DERECHOS HUMANOS https://t.co/27yFyDYaaA",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101509208730423404",
+    "created_at": "Sun Sep 20 03:10:14 +0000 2026",
+    "full_text": "RT @LaVonHayek: Fenómeno Mundial",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101509169438249352",
+    "created_at": "Sun Sep 20 03:10:04 +0000 2026",
+    "full_text": "RT @xestadominimo: “El Estado es esa organización que roba a la gente bajo el pretexto de protegerla”.\n \n - Murray Rothbard - https://t.co/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101508473921917198",
+    "created_at": "Sun Sep 20 03:07:18 +0000 2026",
+    "full_text": "RT @romidiezok: Además de los conocidos fusilamientos vinculados al Che Guevara, sabían que creó las UMAP? Eran campos de trabajo forzado d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101494950227526137",
+    "created_at": "Sun Sep 20 02:13:34 +0000 2026",
+    "full_text": "RT @golden_waldo: Me acuerdo hace 3 años veíamos esto sorprendidos, mientras los medios y las encuestas lo daban cuarto en la elección.\n\nSe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101494129028960312",
+    "created_at": "Sun Sep 20 02:10:18 +0000 2026",
+    "full_text": "RT @mediceneljefe: Tres años atrás, un joven en Bahía Blanca le pedía a @JMilei \"por favor, salvá a este país\". Hoy se reencontraron y la r…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101494070296084493",
+    "created_at": "Sun Sep 20 02:10:04 +0000 2026",
+    "full_text": "RT @Walterelunico71: NO LO VAS A VER EN LOS MEDIOS, PORQUE ELLOS DICEN QUE LA GENTE NO QUIERE AL PRESIDENTE...\n\nLA GENTE 👇🫂",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101494023500280123",
+    "created_at": "Sun Sep 20 02:09:53 +0000 2026",
+    "full_text": "RT @DiegoMac227: Que rara esa caída del consumo, sin luz y el local totalmente lleno. https://t.co/zxImDlSF57",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101491707745362024",
+    "created_at": "Sun Sep 20 02:00:41 +0000 2026",
+    "full_text": "RT @lisandroalm: Para los que gritan consumo interno, repitan con nosotros:\n\nMejorar la macro termina mejorando la micro. Cuando el peso no…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101472261186158823",
+    "created_at": "Sun Sep 20 00:43:25 +0000 2026",
+    "full_text": "RT @BrunoCandia7: Sencillamente espectacular, sin palabras.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101472232845226249",
+    "created_at": "Sun Sep 20 00:43:18 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: SIEMPRE FIELES AL LEON 🦁❤️ https://t.co/WCNlEGLGmL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101471556559864316",
+    "created_at": "Sun Sep 20 00:40:37 +0000 2026",
+    "full_text": "RT @Adriel_Mzz: 🚨 ¡GOBIERNO DE INSENSIBLES DICEN LOS KUKAS Y ENSOBRADOS FAKE! 💪🇦🇷🔥\n\nPresupuesto 2027:\n\nServicios sociales: 74,7%\nServicios…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101471292184494232",
+    "created_at": "Sun Sep 20 00:39:34 +0000 2026",
+    "full_text": "RT @CoherenciaFavor: https://t.co/dscgGsC1CK",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101470226332189172",
+    "created_at": "Sun Sep 20 00:35:20 +0000 2026",
+    "full_text": "RT @gerardohuesenok: Funcionarios y empleados de Raquel Graneros nos agredieron y amenazaron de muerte. La vieja política se siente dueña d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101468678705360939",
+    "created_at": "Sun Sep 20 00:29:11 +0000 2026",
+    "full_text": "RT @MILEISTAMILEI: El mejor nutricionista https://t.co/CJEhw1OlBw",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101468350723371187",
+    "created_at": "Sun Sep 20 00:27:52 +0000 2026",
+    "full_text": "RT @GordaMar_: La leyenda sigue viva https://t.co/AxkVXloWOt",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101468325352005843",
+    "created_at": "Sun Sep 20 00:27:46 +0000 2026",
+    "full_text": "RT @gusty_natasha: Brindo por la República Argentina, Faro de la Libertad en Occidente 🇦🇷🗽💜",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101468161405071397",
+    "created_at": "Sun Sep 20 00:27:07 +0000 2026",
+    "full_text": "RT @Leonys833185: https://t.co/3vnwIeN2Rt",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101467239308300736",
+    "created_at": "Sun Sep 20 00:23:27 +0000 2026",
+    "full_text": "RT @leocifelli: Bravooo ♥️  @JMilei @KarinaMileiOk vamossss!!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101467223021736434",
+    "created_at": "Sun Sep 20 00:23:23 +0000 2026",
+    "full_text": "RT @mediceneljefe: IMÁGENES DE BAHÍA BLANCA. VIVA LA LIBERTAD CARAJO!!! @JMilei @KarinaMileiOk https://t.co/Ye8occq4n7",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101467182957736219",
+    "created_at": "Sun Sep 20 00:23:14 +0000 2026",
+    "full_text": "RT @varelacorina1: AVISO IMPORTANTE🚨\nEl Presidente @JMilei NO FUE A HACER CAMPAÑA 👇\nY asi lo reciben 🙌",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101467155225055407",
+    "created_at": "Sun Sep 20 00:23:07 +0000 2026",
+    "full_text": "RT @Adriel_Mzz: EL MEJOR PRESIDENTE DEL MUNDO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101467135474090286",
+    "created_at": "Sun Sep 20 00:23:03 +0000 2026",
+    "full_text": "RT @martinvirgini: Este chico debe ser la representación más pura del movimiento y de lo que significa @JMilei para la Argentina. https://t…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101466698289234091",
+    "created_at": "Sun Sep 20 00:21:18 +0000 2026",
+    "full_text": "RT @MILEISTAMILEI: Cuando estoy por rendirme pero me acuerdo de las palabras de mi boxeador favorito https://t.co/OOew2G3PqQ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101466496316678538",
+    "created_at": "Sun Sep 20 00:20:30 +0000 2026",
+    "full_text": "RT @pini1967: TE LO MOSTRAMOS POR ACÁ, POR QUE NINGÚN  MEDIO PAUTERO TE LO VA A MOSTRAR !! https://t.co/8QPZAJi4jJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101466465643962800",
+    "created_at": "Sun Sep 20 00:20:23 +0000 2026",
+    "full_text": "RT @fargosi: Otro imperdible análisis de Gustavo Arabia @braga_dito \n\nAyuda a entender cómo se hacen las operetas de los medios, una consta…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101465504850325668",
+    "created_at": "Sun Sep 20 00:16:34 +0000 2026",
+    "full_text": "RT @golden_waldo: Ya vimos al tipazo de Bahía Blanca \nNecesito que esté pibardo aparezca cuando Milei vuelva a Salta. https://t.co/258aVLdu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101465464106807355",
+    "created_at": "Sun Sep 20 00:16:24 +0000 2026",
+    "full_text": "RT @gusty_natasha: Imagínate cuando arranquemos la campaña papaaaa! 💜🗽🇦🇷\n#VLLC🗽💜🇦🇷\n#MAGA🗽💜🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101465433391989105",
+    "created_at": "Sun Sep 20 00:16:17 +0000 2026",
+    "full_text": "RT @varelacorina1: 3 años después el amor está intacto. 👇 El es el chico de..\nSalvá este país por favor!! Recuerdan? 🥹 https://t.co/VvbPhHd…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101464776819789945",
+    "created_at": "Sun Sep 20 00:13:40 +0000 2026",
+    "full_text": "RT @Titanfdc: Increíble tener que aclarar tantas mentiras impulsadas por periodistas y distintos actores. Todos agentes de la Corona, claro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101464631805911130",
+    "created_at": "Sun Sep 20 00:13:06 +0000 2026",
+    "full_text": "RT @rcas1: El Peronismo siempre hace lo mismo\n\nDurante el primer gobierno de Perón (1946-1952), las reservas del BCRA colapsaron un 85%.\n\nF…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101464425160986954",
+    "created_at": "Sun Sep 20 00:12:16 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 ⚖️ | UUUH TREMENDO: APARECIÓ UNA SEÑORA SORPRENDIDA EN LA MARCHA ZURDA Y ARRUINÓ AL INTENDENTE DE LA MATANZA POR UNA DEN…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101463294838030549",
+    "created_at": "Sun Sep 20 00:07:47 +0000 2026",
+    "full_text": "RT @gusty_natasha: Che pero como! si a mí me dicen los de C5N que nos morimos de hambre!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101463085315731771",
+    "created_at": "Sun Sep 20 00:06:57 +0000 2026",
+    "full_text": "RT @elduckpost: 🇦🇷 | LEYES SANCIONADAS DURANTE LA PRESIDENCIA DE JAVIER MILEI\n\n🔹 REFORMAS DE MAYOR ALCANCE NACIONAL\n\n🟢 Ley de Bases y Punto…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458661507805635",
+    "created_at": "Sat Sep 19 23:49:22 +0000 2026",
+    "full_text": "RT @JMilei: IMÁGENES DE BAHÍA BLANCA.\nVIVA LA LIBERTAD CARAJO...!!! https://t.co/k1oxEvkCC6",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458624405033161",
+    "created_at": "Sat Sep 19 23:49:13 +0000 2026",
+    "full_text": "RT @Vida_Y_Libert4d: \"Cae la confianza en el gobierno\"\nLa confianza en el gobierno:",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458596080881676",
+    "created_at": "Sat Sep 19 23:49:07 +0000 2026",
+    "full_text": "RT @golden_waldo: Volvió aparecer el TIPAZO, el vocero espiritual de las fuerzas del cielo.\nEl que le pidió a Milei que salvara el país.\nEs…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458572081008678",
+    "created_at": "Sat Sep 19 23:49:01 +0000 2026",
+    "full_text": "RT @Titanfdc: Volvió el pibe de \"POR FAVOR SALVÁ ESTE PAÍS\".\n\nEmociona carajo, emociona. https://t.co/fvDzT7EPOZ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458540841804110",
+    "created_at": "Sat Sep 19 23:48:54 +0000 2026",
+    "full_text": "RT @Adriel_Mzz: 🚨 ¡VLLC DESDE BAHÍA BLANCA! 🏟️🇦🇷🔥\n\n¡MIRA LA CANTIDAD DE GENTE QUE QUIERE A PRESIDENTE !\n\n¡El Presidente @JMilei ya no tiene…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458528254713900",
+    "created_at": "Sat Sep 19 23:48:51 +0000 2026",
+    "full_text": "RT @OsistaAbrazo: Pude ver al javo de nuevo gordos. Estoy re contento. https://t.co/fZJussRiRp",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458473838162428",
+    "created_at": "Sat Sep 19 23:48:38 +0000 2026",
+    "full_text": "RT @CarlosPalangana: ⚠️Volvió \"Por Favor salva este país\"\n3 años después la fe sigue intacta. https://t.co/er33CLAY6P",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458423980126372",
+    "created_at": "Sat Sep 19 23:48:26 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Javo siendo Javo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458405160333787",
+    "created_at": "Sat Sep 19 23:48:21 +0000 2026",
+    "full_text": "RT @golden_waldo: Si crees que sos un pelotudo o un fracasado en la vida:\nRecordá que hay uno acá que le va a contar a sus nietos que se cr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458349581644115",
+    "created_at": "Sat Sep 19 23:48:08 +0000 2026",
+    "full_text": "RT @BenArgentino: El Javo con la gente, una relación ÚNICA !!\n\nMoraleja: Las juntadas de la gente de bien son infinitamente más poderosas q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458246104170745",
+    "created_at": "Sat Sep 19 23:47:43 +0000 2026",
+    "full_text": "RT @MatiasGarate15: Ni Avengers Doomsday te va a meter estos cameos.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458224872341625",
+    "created_at": "Sat Sep 19 23:47:38 +0000 2026",
+    "full_text": "RT @carolina_moine: #MileiEnPrimeraVueltaOFraude",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458186679017807",
+    "created_at": "Sat Sep 19 23:47:29 +0000 2026",
+    "full_text": "RT @OscarPa96778460: Yaya si no vino a despertar leones. \nLA LIBERTAD AVANZA  🇦🇷 https://t.co/CnXlOf0VEb",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458173529923991",
+    "created_at": "Sat Sep 19 23:47:26 +0000 2026",
+    "full_text": "RT @Santiago_Oria: ¿Que es “marchar por la bronca”?\n\nBásicamente que no te gusta la cara del Javo. Que te molesta su mera existencia. \n\nNo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458123621908743",
+    "created_at": "Sat Sep 19 23:47:14 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l Impresionante",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458102751010883",
+    "created_at": "Sat Sep 19 23:47:09 +0000 2026",
+    "full_text": "RT @Milei_Media: MILEI EN BAHIA BLANCA. EPICO @JMilei https://t.co/HJTZ0PtVEa",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101458084744876513",
+    "created_at": "Sat Sep 19 23:47:05 +0000 2026",
+    "full_text": "RT @liberalona: Milei sale a la calle y la manija es total. \n\nTráeme la urna ya mismo  https://t.co/BwWq1IyVbh",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457967870574940",
+    "created_at": "Sat Sep 19 23:46:37 +0000 2026",
+    "full_text": "RT @slcaputo: Para opinar con propiedad hay que saber de lo que se está hablando. Acá algunas aclaraciones sobre el proyecto de ley de Defe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457950682296557",
+    "created_at": "Sat Sep 19 23:46:33 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Gracias por el mensaje Alberto. Seguimos avanzando junto con los gobernadores que quieren una Argentina más justa y mejor…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457820432445651",
+    "created_at": "Sat Sep 19 23:46:02 +0000 2026",
+    "full_text": "RT @iasg2710: Lo hizo. Promesa cumplida.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457664740098296",
+    "created_at": "Sat Sep 19 23:45:25 +0000 2026",
+    "full_text": "RT @Adriel_Mzz: 🚨 ¡VUELVE EL PIBE QUE EMOCIONA! ❤️🇦🇷🔥\n\n“Por favor salvá este país” volvió a emocionar a toda la gente en Bahía Blanca.\n\n¡Pr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457593583517745",
+    "created_at": "Sat Sep 19 23:45:08 +0000 2026",
+    "full_text": "RT @FlaquitoFer10: Periodismo : La imagen positiva de milei esta bajando .\n\nRealidad: https://t.co/cHv2g7O69G",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457556841312707",
+    "created_at": "Sat Sep 19 23:44:59 +0000 2026",
+    "full_text": "RT @carolina_moine: A las provocaciones berretas premeditadas por el marketing rancio de la casta con canciones de militantes kirchneristas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457487081714168",
+    "created_at": "Sat Sep 19 23:44:42 +0000 2026",
+    "full_text": "RT @NegroCensurado: Como puede ser que un clip de 8 segundos me haga llorar la puta madre",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457450431828314",
+    "created_at": "Sat Sep 19 23:44:34 +0000 2026",
+    "full_text": "RT @gusty_natasha: La juventud es liberal gracias a @JMilei 💜🗽🇦🇷💪",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457396207952054",
+    "created_at": "Sat Sep 19 23:44:21 +0000 2026",
+    "full_text": "RT @FAST_GAST: El consumo no para y lo lloran todos los operadores de cuarta!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457312934473819",
+    "created_at": "Sat Sep 19 23:44:01 +0000 2026",
+    "full_text": "RT @nicpromanzio: La República Argentina tiene que tener las herramientas para garantizar su seguridad nacional. No es una cuestión de ideo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457287126941859",
+    "created_at": "Sat Sep 19 23:43:55 +0000 2026",
+    "full_text": "RT @LLAenPBA: Seguimos fortaleciendo nuestra presencia y nuestras propuestas en cada rincón de la Provincia. \n\nInauguramos una nueva sede p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457253597336052",
+    "created_at": "Sat Sep 19 23:43:47 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Se viene otro discurso histórico que cambiará el devenir de la humanidad, para bien.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457081157214291",
+    "created_at": "Sat Sep 19 23:43:05 +0000 2026",
+    "full_text": "RT @FAST_GAST: Explota de agradecimiento Bahia Blanca!!!!\n\nEl cariño y el apoyo hacia el presidente Javier Milei es de proporciones extraor…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457054565069285",
+    "created_at": "Sat Sep 19 23:42:59 +0000 2026",
+    "full_text": "RT @ElTrumpista: Así se defiende la soberanía argentina muchachos, con leyes y herramientas de verdad y con un país ordenado y estable.\n\nQu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101457007199023431",
+    "created_at": "Sat Sep 19 23:42:48 +0000 2026",
+    "full_text": "RT @brivael: A great man!\n\nBravo @JMilei https://t.co/6SLygsFNED",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101456623462170947",
+    "created_at": "Sat Sep 19 23:41:16 +0000 2026",
+    "full_text": "RT @DiegoMac227: Eso me hace recordar de aquellos que salen con rumores o con detalles de reuniones que nunca pasaron o de reuniones privad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101456076952555975",
+    "created_at": "Sat Sep 19 23:39:06 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇪🇸 | ESPAÑA DESPIERTA: El líder derechista Santiago Abascal congregó a una multitud de patriotas en Barcelona para de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101455891543294211",
+    "created_at": "Sat Sep 19 23:38:22 +0000 2026",
+    "full_text": "RT @MandrilandiaX: 🧠 🚫 https://t.co/2afTPEnXnZ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101454318457221566",
+    "created_at": "Sat Sep 19 23:32:07 +0000 2026",
+    "full_text": "IMÁGENES DE BAHÍA BLANCA.\nVIVA LA LIBERTAD CARAJO...!!! https://t.co/k1oxEvkCC6",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2101444008597745847",
+    "created_at": "Sat Sep 19 22:51:09 +0000 2026",
+    "full_text": "RT @Felii_N: 1ra. https://t.co/LiWbEjUx4j",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101443585618989132",
+    "created_at": "Sat Sep 19 22:49:28 +0000 2026",
+    "full_text": "RT @QuotesforGoal: \"Lo único necesario para el triunfo del mal es que los buenos no hagan nada\"\n\nEdmund Burke https://t.co/dSQHSCvl5w",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101441386532712455",
+    "created_at": "Sat Sep 19 22:40:44 +0000 2026",
+    "full_text": "RT @FAST_GAST: Los medios ensobrados no quieren mostrar el cariño y apoyo descomunal que recibe el presidente Javier Milei, de parte de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101441267607728544",
+    "created_at": "Sat Sep 19 22:40:15 +0000 2026",
+    "full_text": "RT @julianyosovitch: Gobierno de insensibles, dicen... https://t.co/z48EAlx2kl",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101441189463646601",
+    "created_at": "Sat Sep 19 22:39:57 +0000 2026",
+    "full_text": "RT @casigol66: El cambio que lidera Milei está sentando las bases para que Argentina vuelva a ser líder.\nEso no se discute y para lograrlo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101441128541348100",
+    "created_at": "Sat Sep 19 22:39:42 +0000 2026",
+    "full_text": "RT @AdrianRavier: Resumen semanal de capital humano 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101441078700527793",
+    "created_at": "Sat Sep 19 22:39:30 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Había mas gente ayer en Bahia Blanca bancando a Javier. Incluso el pibe de “salva este país” que vale por 100.000. https…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101440992863805493",
+    "created_at": "Sat Sep 19 22:39:10 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Adivinan el futuro, los periodistas... Y suelen fallar.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101440967412793665",
+    "created_at": "Sat Sep 19 22:39:04 +0000 2026",
+    "full_text": "RT @FAST_GAST: El apoyo de la gente al presidente @JMilei, es descomunal!!!\n\nVLLC!!\nMAGA!! https://t.co/QTi5kCIWfk",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2101440832381272498",
+    "created_at": "Sat Sep 19 22:38:31 +0000 2026",
+    "full_text": "RT @Santiago_Oria: EZEIZA HASTA LAS MANOS. Nunca se viajó tanto y se hizo tanto turismo como con este gobierno. https://t.co/4FwRM46v7j",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2101401468435583193",
     "created_at": "Sat Sep 19 20:02:06 +0000 2026",
     "full_text": "RT @RespOficial_Arg: ACERCA DEL PROYECTO DE LEY DE SOBERANÍA\n\nEn los últimos días circularon en los medios una serie de cuestionamientos y…",
