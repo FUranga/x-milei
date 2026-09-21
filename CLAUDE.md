@@ -1,3 +1,5 @@
+@../ai-workbench/AGENTS.md
+
 # x-milei
 
 Automated pipeline that scrapes @JMilei tweets from X/Twitter, analyzes word frequency and posting patterns, and publishes results to GitHub Pages.
