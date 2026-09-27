@@ -1,5 +1,243 @@
 [
   {
+    "id": "2104323749361422675",
+    "created_at": "Sun Sep 27 21:34:12 +0000 2026",
+    "full_text": "RT @LeonLibertari0: Nadie celebra la raíz… hasta que aparece la flor. https://t.co/jaDRUlbav4",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104322680786735156",
+    "created_at": "Sun Sep 27 21:29:58 +0000 2026",
+    "full_text": "RT @DiegoMac227: La paz, la soberanía y el progreso no se construyen con frases de consenso: requieren intereses definidos, aliados identif…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104322585366503896",
+    "created_at": "Sun Sep 27 21:29:35 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇪🇸  SE PUDRIÓ TODO ENTRE TN Y EL ECONOMISTA ESPAÑOL ANTONINI DE JIMÉNEZ QUE DEFENDIÓ A MILEI\n\n\"NOS SACARON EN MEDIO DEL P…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104322540839583955",
+    "created_at": "Sun Sep 27 21:29:24 +0000 2026",
+    "full_text": "RT @Leonys833185: https://t.co/aZSQrZonm1",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104322479967895761",
+    "created_at": "Sun Sep 27 21:29:10 +0000 2026",
+    "full_text": "RT @JMilei: FENÓMENO BARRIAL.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104321478166757492",
+    "created_at": "Sun Sep 27 21:25:11 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨“EL PERONISMO NO EXISTE MÁS, POR ESO NO TENEMOS QUE HABLAR DE PERONISMO”\n\nALBERTO BUELA ENTERRÓ POR COMPLETO A LOS KUKAS…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104321153829310734",
+    "created_at": "Sun Sep 27 21:23:54 +0000 2026",
+    "full_text": "RT @antoninidejimen: No paramos, por mucho que nos quieran parar. ¡Viva la libertad! https://t.co/8kgqY5M3ps",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104320871334601050",
+    "created_at": "Sun Sep 27 21:22:46 +0000 2026",
+    "full_text": "RT @AdrianRavier: Excelente posteo de @SFGaliani sobre el cambio que transita la Argentina 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104320844285767959",
+    "created_at": "Sun Sep 27 21:22:40 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇬🇧🇺🇳 | \"MASTERCLASS. Dejando en evidencia a un ejército de imbéciles que han dicho una cantidad obscena de estupide…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104320807073615939",
+    "created_at": "Sun Sep 27 21:22:31 +0000 2026",
+    "full_text": "RT @lanacionmas: 🔵 Hoy a las 20:30, en La Cornisa: un mano a mano imperdible\n\nLuis Majul entrevista en exclusiva al presidente Javier Milei…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104320749552996401",
+    "created_at": "Sun Sep 27 21:22:17 +0000 2026",
+    "full_text": "RT @AlejRozitchner: ¿Saben quién va a ser el presidente de la Argentina desde el 10 de diciembre del 2027? Milei. Todo el intento de crear…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104320638559097011",
+    "created_at": "Sun Sep 27 21:21:51 +0000 2026",
+    "full_text": "RT @majulluis: Esta noche desde las 20.30, entrevista a @JMilei en La Cornisa x @lanacionmas https://t.co/Kqgzj92Lg4",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104274887518892521",
+    "created_at": "Sun Sep 27 18:20:03 +0000 2026",
+    "full_text": "https://t.co/EuxkGCErb9",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2104266783284760801",
+    "created_at": "Sun Sep 27 17:47:51 +0000 2026",
+    "full_text": "RT @SFGaliani: 3/ Si la propuesta es subir el tipo de cambio para que las fábricas existentes vuelvan a producir y contratar en los mismos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104266772551532749",
+    "created_at": "Sun Sep 27 17:47:48 +0000 2026",
+    "full_text": "RT @SFGaliani: 2/ La Argentina está cambiando su estructura productiva. En una economía más abierta, con el desarrollo de Vaca Muerta y la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104266753186435291",
+    "created_at": "Sun Sep 27 17:47:44 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2104266701105958949",
+    "created_at": "Sun Sep 27 17:47:31 +0000 2026",
+    "full_text": "RT @SFGaliani: 1/ Leo a economistas que proponen depreciar el peso porque hay «capacidad ociosa». Creo que están planteando mal el problema…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104265669143343288",
+    "created_at": "Sun Sep 27 17:43:25 +0000 2026",
+    "full_text": "RT @jdoedoe101101: Tengo varias preguntas:\n\n- Por qué hay tantos morosos en Brasil (más que en Argentina) si la economía marcha perfecto su…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104265499714396276",
+    "created_at": "Sun Sep 27 17:42:45 +0000 2026",
+    "full_text": "RT @MFKanselo: EL DISCURSO COMPLETO DE JAVIER MILEI ANTE LA ONU | Cadena 3 Argentina https://t.co/FoHfUTEhFj vía @YouTube",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104265382676615459",
+    "created_at": "Sun Sep 27 17:42:17 +0000 2026",
+    "full_text": "RT @VoLSubstack: “Socialism is the philosophy of failure, the creed of ignorance, and the gospel of envy. Its inherent virtue is the equal…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104265088785924398",
+    "created_at": "Sun Sep 27 17:41:07 +0000 2026",
+    "full_text": "RT @istMilei: Cosa è la libertà di parola e di pensiero? https://t.co/NOUpgqWQ7b",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104264944942510385",
+    "created_at": "Sun Sep 27 17:40:32 +0000 2026",
+    "full_text": "RT @jackvlloyd: Capitalism is great.\n\nData centers are awesome.\n\nGun control is being struck down.\n\nThere is a free market revolution in So…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104263241924755832",
+    "created_at": "Sun Sep 27 17:33:46 +0000 2026",
+    "full_text": "RT @PrivilegioCero: KICILLOF DESTRUYE BUENOS AIRES 📉🤡\n\n@AdrianRavier le paró el carro al Gobernador: mientras @JMilei bajó tres puntos del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104263164871225768",
+    "created_at": "Sun Sep 27 17:33:28 +0000 2026",
+    "full_text": "RT @MFKanselo: Hoy entrevista exclusiva con Milei 🇦🇷🇦🇷🇦🇷👏 https://t.co/FMJa6fx1Z5",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104263124161585246",
+    "created_at": "Sun Sep 27 17:33:18 +0000 2026",
+    "full_text": "RT @Adriel_Mzz: 🚨 ¡VUELVEN CON USD 7.000 MILLONES! 🚀🇦🇷🔥  \n\n¡Presidente @JMilei regresa de Estados Unidos con +7.000 millones y más inversio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104263067735384080",
+    "created_at": "Sun Sep 27 17:33:05 +0000 2026",
+    "full_text": "RT @Canallalibertar: Che. ¿Bancan a este chad? https://t.co/kEUXU7mGB2",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104262814672035914",
+    "created_at": "Sun Sep 27 17:32:04 +0000 2026",
+    "full_text": "RT @agarra_pala: CAPITAL HUMANO LLEVÓ CONTROLES OFTALMOLÓGICOS Y ANTEOJOS A LOS 70 MUNICIPIOS DEL CHACO Y LLEGÓ HSTA EL IMPENETRABLE\n@JMile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104262176835780921",
+    "created_at": "Sun Sep 27 17:29:32 +0000 2026",
+    "full_text": "RT @MFKanselo: Las Malvinas son de interés Nacional! \n!\n https://t.co/coo2SIuhSe",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104261130520514574",
+    "created_at": "Sun Sep 27 17:25:23 +0000 2026",
+    "full_text": "RT @istMilei: Il nuovo Occidente!!! https://t.co/yduSzEsqzC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104261045191872625",
+    "created_at": "Sun Sep 27 17:25:03 +0000 2026",
+    "full_text": "RT @Mileistesfr: Rendez-vous à 19h mercredi soir pour accueillir Javier Milei!\n\nLe président argentin vient à Paris et passera par l’ambass…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104255624808726529",
+    "created_at": "Sun Sep 27 17:03:30 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Excelente explicación",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104254899479343144",
+    "created_at": "Sun Sep 27 17:00:37 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2104254794302955977",
+    "created_at": "Sun Sep 27 17:00:12 +0000 2026",
+    "full_text": "RT @Santiago_Oria: El protagonismo de @JMilei en la escena mundial. Lo lloran los periodistas locales cuya perspectiva no va mas lejos que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2104254643098288306",
+    "created_at": "Sun Sep 27 16:59:36 +0000 2026",
+    "full_text": "RT @pajaromartino: El aumento del riesgo país está relacionado al miedo de volver al populismo . El mejor ejemplo fueron las paso 2019 y el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2104226489772257633",
     "created_at": "Sun Sep 27 15:07:44 +0000 2026",
     "full_text": "RT @mediceneljefe: FENÓMENO BARRIAL. Peter Thiel ratificó que la sociedad argentina eligió el cambio para siempre con @JMilei. La transform…",
