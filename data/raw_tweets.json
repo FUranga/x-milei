@@ -1,5 +1,425 @@
 [
   {
+    "id": "2105063388741042275",
+    "created_at": "Tue Sep 29 22:33:16 +0000 2026",
+    "full_text": "RT @Felii_N: Tenemos superávit de cta cte y hay gente que sigue hablando de atraso cambiario, mamadera.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105063305211785499",
+    "created_at": "Tue Sep 29 22:32:56 +0000 2026",
+    "full_text": "RT @Adriel_Mzz: 🚨 ¡“GRACIAS CENTAURO”! 🏆🇦🇷🔥\n\n¡Presidente @JMilei en la ceremonia de distinción como Ciudadano Ilustre a Adolfo Cambiaso:\n\n“…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105063257451188447",
+    "created_at": "Tue Sep 29 22:32:45 +0000 2026",
+    "full_text": "RT @PrivilegioCero: RÉCORD HISTÓRICO DE EXPORTACIONES 📈🇦🇷\n\nLas ventas de servicios al exterior marcaron un récord absoluto impulsadas por l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105060419794571633",
+    "created_at": "Tue Sep 29 22:21:28 +0000 2026",
+    "full_text": "RT @SFGaliani: No todo dato es igualmente informativo para responder cualquier pregunta. Si una serie mensual es muy volátil, puede ser más…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105060247971021191",
+    "created_at": "Tue Sep 29 22:20:47 +0000 2026",
+    "full_text": "RT @lilialemoine: Los zurdos pelotudos creen que si un inversor no gana plata va a venir a regalarles puestos de trabajo y su fortuna. No l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105056825498382459",
+    "created_at": "Tue Sep 29 22:07:11 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | ORGULLO ARGENTINO: El presidente @JMilei distinguió a Adolfo Cambiasso como embajador extraordinario y plenipote…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105056719235862900",
+    "created_at": "Tue Sep 29 22:06:46 +0000 2026",
+    "full_text": "RT @braga_dito: https://t.co/vGurUTxBEq",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105056686364864901",
+    "created_at": "Tue Sep 29 22:06:38 +0000 2026",
+    "full_text": "RT @martinvars: ¡Ahí estaremos! Ayudando a 🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105056661371048284",
+    "created_at": "Tue Sep 29 22:06:32 +0000 2026",
+    "full_text": "RT @AmoaHamlet: EL MERCADO SIEMPRE GANA\n\nCuando intentan abolir el mercado, ¿qué pasa?\n\nCuando controlan los precios, aparece la escasez.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105055570050843000",
+    "created_at": "Tue Sep 29 22:02:12 +0000 2026",
+    "full_text": "RT @PrivilegioCero: ARGENTINA EN EL CENTRO DEL MUNDO 🇫🇷🇦🇷\n\nArranca Argentina Week en París con @JMilei, el gabinete económico y 13 gobernad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105055485145620713",
+    "created_at": "Tue Sep 29 22:01:52 +0000 2026",
+    "full_text": "UPs!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105055414811587058",
+    "created_at": "Tue Sep 29 22:01:35 +0000 2026",
+    "full_text": "RT @julianyosovitch: Osea digamos. La economia de @JMilei  es un desastre pero vamos a ser (segun el FMI), la 4ta economia que mas crezca e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105055374659244322",
+    "created_at": "Tue Sep 29 22:01:26 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: 🇦🇷🇦🇷🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105055348549705895",
+    "created_at": "Tue Sep 29 22:01:19 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI HOMENAJEÓ A LUDWIG VON MISES: El Presidente recordó al histórico economista austríaco en el aniversario de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105055326651519401",
+    "created_at": "Tue Sep 29 22:01:14 +0000 2026",
+    "full_text": "RT @fargosi: Hechos, no palabras 💪💪💪💪💪",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105055189535256952",
+    "created_at": "Tue Sep 29 22:00:41 +0000 2026",
+    "full_text": "RT @agarra_pala: 🔥 FEINMANN LE PEGÓ UNA PALIZA A AGUSTÍN ROSSI Y LOS KIRCHNERISTAS POR LA LLEGADA DE LOS F-16 A CÓRDOBA\n\n“AL IDIOTA DE ROSS…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105054882830913600",
+    "created_at": "Tue Sep 29 21:59:28 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷 “GRACIAS CENTAURO”\n\nHABLÓ EL PRESIDENTE MILEI EN LA CEREMONIA DE DISTINCIÓN COMO CIUDADANO ILUSTRE A ADOLFO CAMBIASO @J…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105054853386887327",
+    "created_at": "Tue Sep 29 21:59:21 +0000 2026",
+    "full_text": "RT @TommyShelby_30: LLEGÓ LA SEGUNDA TANDA DE LOS F-16 CARAJO 🇦🇷🇦🇷🇦🇷 https://t.co/mXLmEqs1nz",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105054411240124774",
+    "created_at": "Tue Sep 29 21:57:36 +0000 2026",
+    "full_text": "RT @MinDefensa_Ar: SE VIENE 🇦🇷\nLos F-16 de nuestra @fuerzaaerea_arg ya están en vuelo rumbo a la Argentina.\nDespegaron desde la Base Aérea…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105054390310592714",
+    "created_at": "Tue Sep 29 21:57:31 +0000 2026",
+    "full_text": "RT @MinDefensa_Ar: Nuestras Fuerzas Armadas incorporaron el sistema de fusiles ARAD-5 y ARAD-7 en una ceremonia presidida por el Ministro @…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105054328902086706",
+    "created_at": "Tue Sep 29 21:57:16 +0000 2026",
+    "full_text": "RT @tealdif: Se imaginan este quilombo en el mundo con un gobierno Kuka ?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105054132465774876",
+    "created_at": "Tue Sep 29 21:56:29 +0000 2026",
+    "full_text": "RT @istMilei: \"La libertà non è l’assenza di conflitto. È la possibilità di confliggere con le parole senza trasformare lo Stato nell’arma…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105054008758919189",
+    "created_at": "Tue Sep 29 21:56:00 +0000 2026",
+    "full_text": "RT @eve_barroso: Así llegaba hace instantes la segunda tanda de Lockheed Martin F-16AM/BM Fighting Falcon de la Fuerza Aérea Argentina.\n\n📍Á…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105053945227870223",
+    "created_at": "Tue Sep 29 21:55:45 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 CAPUTO TIRÓ UN DATAZO TREMENDO QUE HACE LLORAR A LOS KUKAS POR LAS EXPORTACIONES RÉCORD EN EL PAÍS\n\n💥📷 \"Estamos en EXPOR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105053923476447717",
+    "created_at": "Tue Sep 29 21:55:40 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | BASADO: El ministro Toto Caputo humilló al kirchnerismo con una espectacular comparación entre las últimas cuatr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105053899069567402",
+    "created_at": "Tue Sep 29 21:55:34 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇮🇹I FENÓMENO BARRIAL.\n\nUn libertario no tiene por qué ser moderado. ¡Debe ser libre!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105053766483628135",
+    "created_at": "Tue Sep 29 21:55:02 +0000 2026",
+    "full_text": "RT @fededomin: Los números hablan por sí solos. https://t.co/1RhaYoBe6O",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105053627588960458",
+    "created_at": "Tue Sep 29 21:54:29 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105053279495258285",
+    "created_at": "Tue Sep 29 21:53:06 +0000 2026",
+    "full_text": "RT @IanArgentinoS: Mañana arranca ARGENTINA WEEK PARÍS. Dos días intensos en los que vamos a mostrar una Argentina abierta a la inversión c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105052948963135696",
+    "created_at": "Tue Sep 29 21:51:47 +0000 2026",
+    "full_text": "RT @manuelquintar: Otro viaje de @JMilei que le trae a la Argentina un acuerdo historico que le generará infraestructura, trabajo y crecimi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105052786958147910",
+    "created_at": "Tue Sep 29 21:51:09 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Un orgullo acompañar la entrega del reconocimiento como Ciudadano Ilustre de la Ciudad de Buenos Aires a Adolfo Cambiaso…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105052162384412893",
+    "created_at": "Tue Sep 29 21:48:40 +0000 2026",
+    "full_text": "RT @VivianaIsasi: Inmigrantes que cometan delitos hay que expulsarlos: 92% de acuerdo\nEl gobierno está encarando un importante avance sobre…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105051679829704909",
+    "created_at": "Tue Sep 29 21:46:45 +0000 2026",
+    "full_text": "RT @SFGaliani: A veces conviene levantar la mirada y ver qué está pasando alrededor.\n\nA comienzos de 2026, las proyecciones de crecimiento…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105051567728857319",
+    "created_at": "Tue Sep 29 21:46:18 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | LA JUBILACIÓN SE RECUPERA CON MILEI: Gracias al proceso de estabilización macroeconómica que llevó adelante el G…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105051534417711259",
+    "created_at": "Tue Sep 29 21:46:10 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: LAS EXPORTACIONES DE BIENES Y SERVICIOS ALCANZARON UN MÁXIMO HISTÓRICO EN EL SEGUNDO TRIMESTRE DEL AÑO\n\n✅ Según datos de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105051379974938796",
+    "created_at": "Tue Sep 29 21:45:33 +0000 2026",
+    "full_text": "RT @AdrianRavier: Un 29 de septiembre de 1881 nacía Ludwig von Mises! Falleció en 1973, en un contexto de angustia viendo como la izquierda…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105051148071649336",
+    "created_at": "Tue Sep 29 21:44:38 +0000 2026",
+    "full_text": "RT @fededomin: Si tuviéramos que financiar todos los años USD 30.000-40.000 millones de déficit fiscal, como en los gobiernos anteriores, e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105051087006757360",
+    "created_at": "Tue Sep 29 21:44:23 +0000 2026",
+    "full_text": "RT @AdrianRavier: Hoy en la mañana explicaba en conferencia de prensa los dos shocks externos que impactan sobre emergentes. Por un lado el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105050992622387704",
+    "created_at": "Tue Sep 29 21:44:01 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇩🇰 | ÉXTASIS: Los cazas F-16 de la @FuerzaAerea_Arg ingresan a la plataforma del Área Material de Río Cuarto tras l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105050960339087790",
+    "created_at": "Tue Sep 29 21:43:53 +0000 2026",
+    "full_text": "RT @fargosi: ¿Cómo convertirán esto en negativo, los diarios de mañana a la mañana?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105050736371368426",
+    "created_at": "Tue Sep 29 21:43:00 +0000 2026",
+    "full_text": "Esta frase de uno de los ANCAPs más importantes del mundo no le caerá bien a muchos liberales de copetín...\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105050447136395749",
+    "created_at": "Tue Sep 29 21:41:51 +0000 2026",
+    "full_text": "RT @nnairob: Hoy es el aniversario del nacimiento de Ludwig von Mises.\n\n\"Si Ludwig von Mises viera estos tiempos, sin duda se sentiría orgu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105049731990712415",
+    "created_at": "Tue Sep 29 21:39:00 +0000 2026",
+    "full_text": "RT @AdrianRavier: Por primera vez en la historia, la Argentina lleva ante un tribunal internacional la explotación unilateral de sus recurs…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105049663942590475",
+    "created_at": "Tue Sep 29 21:38:44 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: ANTICIPAMOS LA RESPUESTA SANITARIA ANTE EL NIÑO\n\nAnte los posibles efectos de El Niño, estamos tomando medidas junto c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105049638457803026",
+    "created_at": "Tue Sep 29 21:38:38 +0000 2026",
+    "full_text": "RT @AmoaHamlet: DE MISES A MILEI\n\nHoy Ludwig von Mises cumpliría 145 años. Y resulta difícil imaginar un homenaje más potente que ver a sus…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105049073929834937",
+    "created_at": "Tue Sep 29 21:36:23 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei encabezó la ceremonia de distinción como ciudadano ilustre a Adolfo Cambiaso en el Palacio Lib…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105048927401660790",
+    "created_at": "Tue Sep 29 21:35:48 +0000 2026",
+    "full_text": "RT @KamikazeMilei: Caputo comparó la economía de los últimos cuatro gobiernos y destacó la evolución de la gestión de Milei en déficit, deu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105048795134247042",
+    "created_at": "Tue Sep 29 21:35:17 +0000 2026",
+    "full_text": "RT @julianyosovitch: Las tasas USA en maximos desde 2022. \n\nYa que hablamos de lo que deberia decir el Gob. Creo que deberian explicarle a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105048674875183236",
+    "created_at": "Tue Sep 29 21:34:48 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105048656147869720",
+    "created_at": "Tue Sep 29 21:34:44 +0000 2026",
+    "full_text": "RT @martinvars: Hoy por la noche Javier Milei vuela a París. Va a encabezar la Argentina Week, un foro de inversiones del 30 de septiembre…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105037968880640059",
+    "created_at": "Tue Sep 29 20:52:16 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Caputo: “HAY UNA DEUDA EN INFRAESTRUCTURA. En 10 años se fumaron 15 puntos del PBI en obra pública. Más de US$100.000 m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105036881083969803",
+    "created_at": "Tue Sep 29 20:47:56 +0000 2026",
+    "full_text": "RT @ivancarrino: Con Macri, una actividad lenta inclinó la balanza a favor de los economistas que querían bajar la tasa para subir un poco…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105036733457006788",
+    "created_at": "Tue Sep 29 20:47:21 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @LuisCaputoAR señala que Alberto Fernández, sin financiamiento, multiplicó a la vez la deuda y la emisión…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105036726045642781",
+    "created_at": "Tue Sep 29 20:47:19 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @LuisCaputoAR celebra que el sector privado esté levantando la infraestructura que el país no hizo durante…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105036706755883237",
+    "created_at": "Tue Sep 29 20:47:15 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @LuisCaputoAR, en el CFO Summit organizado por El Cronista, reafirma que el mayor orgullo del Gobierno es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105036695284371582",
+    "created_at": "Tue Sep 29 20:47:12 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Canciller @pabloquirno expone la estrategia integral del Gobierno frente al riesgo y la urgencia de la explotación…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105036679585431795",
+    "created_at": "Tue Sep 29 20:47:08 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Canciller @pabloquirno reafirma que la Argentina no acepta el statu quo sobre las Islas Malvinas y confirma que se…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105036669766271212",
+    "created_at": "Tue Sep 29 20:47:06 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Canciller @pabloquirno, en Infobae, advierte que las operadoras de hidrocarburos ahora deberán elegir entre operar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105036595652870343",
+    "created_at": "Tue Sep 29 20:46:48 +0000 2026",
+    "full_text": "RT @SFGaliani: Hay una discusión permanente en la Argentina sobre el tipo de cambio real. No recuerdo prácticamente un momento desde que so…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105036539877085338",
+    "created_at": "Tue Sep 29 20:46:35 +0000 2026",
+    "full_text": "RT @mises: Ludwig von Mises was born 145 years ago today. The world is a very different place than it was back then, but Mises’s impact con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2104973348551758212",
     "created_at": "Tue Sep 29 16:35:29 +0000 2026",
     "full_text": "FENÓMENO BARRIAL. \n\nhttps://t.co/DEqtEVHgPG",
