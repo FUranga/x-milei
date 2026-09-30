@@ -1,5 +1,537 @@
 [
   {
+    "id": "2105335669769773058",
+    "created_at": "Wed Sep 30 16:35:13 +0000 2026",
+    "full_text": "RT @FAST_GAST: Aca tenemos una clara muestra de los cobardes morales con micrófono, como Duffard que quiere que los delincuentes y corrupto…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105335650811527537",
+    "created_at": "Wed Sep 30 16:35:09 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | \"Me parece que a veces no puteamos lo suficiente a los periodistas... Decirles que son basuras corruptas es poco…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105335586068558218",
+    "created_at": "Wed Sep 30 16:34:53 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: MEJORES ESPACIOS DE TRABAJO PARA EL EQUIPO DE SALUD DEL GARRAHAN\n\nGracias al orden de las cuentas, podemos destinar lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105335556573913533",
+    "created_at": "Wed Sep 30 16:34:46 +0000 2026",
+    "full_text": "RT @DiegoMac227: Me puse a revisar los perfiles de X de varios periodistas que hoy andan escandalizados por la suba del riesgo país y, vaya…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105335370766221790",
+    "created_at": "Wed Sep 30 16:34:02 +0000 2026",
+    "full_text": "RT @DiegoJRecalde: Maru Duffard, que le preocupa mucho la pobreza, propone que liberen a la que les robó a los pobres para poder votarla. h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105335301799334173",
+    "created_at": "Wed Sep 30 16:33:45 +0000 2026",
+    "full_text": "RT @luisrodriguezrm: No son periodistas, son mercenarias que desde el día que les sacaron la pauta ✉️, empezaron a operar para que vuelva e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105335235655135565",
+    "created_at": "Wed Sep 30 16:33:30 +0000 2026",
+    "full_text": "RT @PregoneroL: 77.515 ñoquis ya purgaron en el gobierno nacional.\n\n¿Alguien me pasa el mismo gráfico de provincias y municipios?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105335193556935126",
+    "created_at": "Wed Sep 30 16:33:20 +0000 2026",
+    "full_text": "RT @FranFijap: EXCELENTE, PRESIDENTE. NO RETROCEDA NI UN MILÍMETRO ANTE ESTAS MOSQUITAS MUERTAS QUE QUIEREN LAVARLE LA CARA AL KIRCHNERISMO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105335081468313692",
+    "created_at": "Wed Sep 30 16:32:53 +0000 2026",
+    "full_text": "RT @inconsilio: Autos eléctricos puros de hasta US$35.000 FOB podrán entrar con arancel 0%; para híbridos el tope será US$18.000. El límite…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105335017224163823",
+    "created_at": "Wed Sep 30 16:32:37 +0000 2026",
+    "full_text": "RT @luisrodriguezrm: Duffard está a 5 minutos de pedir que también liberen a Maduro. Las viudas que nos dejó Lanata, una más pelotuda que o…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105334757244510427",
+    "created_at": "Wed Sep 30 16:31:36 +0000 2026",
+    "full_text": "RT @mileibarrial: Avanzan las ideas de la libertad en todo el mundo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105334736981725282",
+    "created_at": "Wed Sep 30 16:31:31 +0000 2026",
+    "full_text": "RT @javierlanari: Este cuadro es demoledor. Cualquier indicador que se mire es infinitamente mejor hoy. Deuda, exportaciones, pobreza, infl…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105334662822269412",
+    "created_at": "Wed Sep 30 16:31:13 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL (PARTE 2)\n\nhttps://t.co/ZZcyYGPYu2",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105329396957450636",
+    "created_at": "Wed Sep 30 16:10:18 +0000 2026",
+    "full_text": "SE CAEN LAS MÁSCARAS...",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105329298429063629",
+    "created_at": "Wed Sep 30 16:09:54 +0000 2026",
+    "full_text": "RT @lilialemoine: A Bregman y los kukas les molesta la nueva ley de Defensa de la Soberania Nacional porque... en el título IV se restringe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105328305306218656",
+    "created_at": "Wed Sep 30 16:05:57 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Soy fanático de esta época under de @JMilei \n\nEn la obra “El Consultorio del Dr. Milei” estaban en modo embrionario much…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105328219906056638",
+    "created_at": "Wed Sep 30 16:05:37 +0000 2026",
+    "full_text": "RT @JaviGarcia_Ok: De los creadores del \"cemento no se come\" llega \"la gente no come superávit fiscal\". 🤦‍♂️",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105328179661726036",
+    "created_at": "Wed Sep 30 16:05:27 +0000 2026",
+    "full_text": "RT @FAST_GAST: No hay nada más penoso que vender la moral por unos sobres, como hace Duffard.\n\nNOLSALP.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105328106294956130",
+    "created_at": "Wed Sep 30 16:05:10 +0000 2026",
+    "full_text": "RT @PregoneroL: ⚡️ El Gobierno Nacional duplicó el valor FOB para importar autos full eléctricos SIN ARANCELES hasta un valor de US$ 35.000…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105328028167680244",
+    "created_at": "Wed Sep 30 16:04:51 +0000 2026",
+    "full_text": "DESENMASCARANDO A LA CHORRA",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105327371482271825",
+    "created_at": "Wed Sep 30 16:02:15 +0000 2026",
+    "full_text": "DESENMASCARANDO MENTIROSOS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105327306437009416",
+    "created_at": "Wed Sep 30 16:01:59 +0000 2026",
+    "full_text": "RT @monedadeargy: 🇦🇷🤦‍♀️ TREMENDO EL \"MÁXIMO HISTÓRICO\" DEL RIESGO PAÍS https://t.co/IAOK2sSMja",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105326635415375920",
+    "created_at": "Wed Sep 30 15:59:19 +0000 2026",
+    "full_text": "RT @SalvaDiStefano: No compres dólares, mira las estadísticas. \nEs el petróleo y la minería estúpido. \n\nSon las exportaciones de petróleo y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105314501352624479",
+    "created_at": "Wed Sep 30 15:11:06 +0000 2026",
+    "full_text": "RT @JMilei: Para LA BASURA INMUNDA DUFFARD, si es alguien que comulga con sus nefastas ideas de izquierda, robar está bien. Pasaron cerca d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105314131310264331",
+    "created_at": "Wed Sep 30 15:09:38 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL https://t.co/v5a1t6sFIz",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105313479598948633",
+    "created_at": "Wed Sep 30 15:07:03 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105313442702017015",
+    "created_at": "Wed Sep 30 15:06:54 +0000 2026",
+    "full_text": "RT @LePoint: GRAND ENTRETIEN. Avant son voyage à Paris, Javier Milei (@JMilei) a reçu « Le Point », en Argentine. Il évoque Emmanuel Macron…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105313419998233077",
+    "created_at": "Wed Sep 30 15:06:48 +0000 2026",
+    "full_text": "RT @TomasSanchezAR: FENÓMENO BARRIAL \n@JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105313347558347152",
+    "created_at": "Wed Sep 30 15:06:31 +0000 2026",
+    "full_text": "RT @varelacorina1: La democracia que esta gente maneja es la de la corrupción. Nada que sea limpio y del lado de los ciudadanos para ellos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105313244110049516",
+    "created_at": "Wed Sep 30 15:06:06 +0000 2026",
+    "full_text": "RT @RightNewsShow: 🚨🇺🇸 | Elon Musk afirmó que la inteligencia artificial transformará los roles laborales y sostuvo que el resultado será m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105313160303665230",
+    "created_at": "Wed Sep 30 15:05:46 +0000 2026",
+    "full_text": "RT @JMilei: Me parece que a veces no puteamos lo suficiente a los periodistas... decirles que son basuras corruptas es poco...\nCIAO!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105313005961433093",
+    "created_at": "Wed Sep 30 15:05:10 +0000 2026",
+    "full_text": "RT @GoncebatGroup: @JMilei Esa gente que la quiere votar igual, tiene que entender que en Argentina corruptos condenados no se eligen más!!…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105312918283944236",
+    "created_at": "Wed Sep 30 15:04:49 +0000 2026",
+    "full_text": "RT @oavazquez: @JMilei para mí, estos periodistas están haciendo apología del delito.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105312901590585497",
+    "created_at": "Wed Sep 30 15:04:45 +0000 2026",
+    "full_text": "RT @Eugenia_DiMarco: @JMilei Me salió olor a sobre desde la pantalla. \nTremendo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105312837707202936",
+    "created_at": "Wed Sep 30 15:04:29 +0000 2026",
+    "full_text": "RT @vikingo_liberal: @JMilei Definitivamente no los odiamos lo suficientes, son igual o peor de delincuentes que los políticos más corrupto…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105312815557009580",
+    "created_at": "Wed Sep 30 15:04:24 +0000 2026",
+    "full_text": "RT @sabrijaidar: @JMilei Democracia es permitir que una condenada por corrupción pueda ser electa?? Demasiado generoso llamarte periodista……",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105312587026157893",
+    "created_at": "Wed Sep 30 15:03:30 +0000 2026",
+    "full_text": "RT @RogelioCuadrado: @JMilei Me parece a mi que no hace falta por qué quedan en evidencia solos.\nMaru Duffard era una de las que realizaba…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105312353701011657",
+    "created_at": "Wed Sep 30 15:02:34 +0000 2026",
+    "full_text": "RT @Jjalondon: @JMilei Totalmente! @maruduffard quiere votar delincuentes!! Muy bueno!! Gente que vivio durante años de las migajas del Est…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105312240115343651",
+    "created_at": "Wed Sep 30 15:02:07 +0000 2026",
+    "full_text": "RT @BorisOsista: @JMilei Duffard es la representación de una reverenda hija de mil puta, ser nefasto que aboga ser periodista para emitir l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105311965233221688",
+    "created_at": "Wed Sep 30 15:01:01 +0000 2026",
+    "full_text": "RT @LtGenRoca: @JMilei Recordemos que esa basura fingió indignacion ante su discurso de la caida de la natalidad, como parte de otra de tan…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105308917479911744",
+    "created_at": "Wed Sep 30 14:48:55 +0000 2026",
+    "full_text": "RT @Felii_N: 😁EKonomistas con Massa: “la macro esta destruida pero Massa como es peroncho y macho seguro la arregla”.\n\n😡EKonomistas con Mil…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105308917006037409",
+    "created_at": "Wed Sep 30 14:48:55 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Duffard haciendo lobby para que la chorra pueda ser candidata. Qué asco. Están desesperados por que vuelva la pauta.\n\nC…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105308916829888889",
+    "created_at": "Wed Sep 30 14:48:55 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ MILEI LE DIO UNA NOTA A UN MEDIO FRANCÉS, PRENDIÓ FUEGO A LOS KUKARDOS Y LLAMÓ A INVERSIONES\n\n🔥 \"Son BIENVENIDOS para v…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105308916808843510",
+    "created_at": "Wed Sep 30 14:48:55 +0000 2026",
+    "full_text": "RT @varelacorina1: Democracia para vos es tener un micrófono y decir abiertamente que se vote a una persona condenada por corrupción y que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105308916720848947",
+    "created_at": "Wed Sep 30 14:48:55 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Demoledor este cuadro. Destruye cualquier relato kuka",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105308916703994106",
+    "created_at": "Wed Sep 30 14:48:55 +0000 2026",
+    "full_text": "RT @RightNewsShow: 🚨🇦🇷 | Luis Caputo cuestionó a la oposición por criticar el crecimiento del Gobierno de Javier Milei y aseguró que, tenie…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105307591282995351",
+    "created_at": "Wed Sep 30 14:43:39 +0000 2026",
+    "full_text": "RT @fpedrosa2: Y sin la gente quisiera votar a Barreda.. ¿qué diría la periodista?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105307422655164688",
+    "created_at": "Wed Sep 30 14:42:58 +0000 2026",
+    "full_text": "RT @alejandrito: Felicitaciones a mi amigo el embajador Ian Sielecki por su liderazgo para hacer realidad la segunda edición de Argentina W…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105307358708822457",
+    "created_at": "Wed Sep 30 14:42:43 +0000 2026",
+    "full_text": "COOOOOOORRECTO",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105307326135832938",
+    "created_at": "Wed Sep 30 14:42:35 +0000 2026",
+    "full_text": "RT @pajaromartino: Con el déficit fiscal y la cuenta corriente que supimos tener, esta suba de tasas internacional nos hubiera volado por e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105289809216536865",
+    "created_at": "Wed Sep 30 13:32:59 +0000 2026",
+    "full_text": "RT @ViejoLibertario: De la \"Semana Argentina en Luanda (Angola)\" de CFK, a la \"ARGENTINA WEEK\" en Nueva York y en París, de @JMilei.\n\nCon t…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105289683081007357",
+    "created_at": "Wed Sep 30 13:32:29 +0000 2026",
+    "full_text": "RT @fedesturze: Seguimos bajando el gasto para poder seguir bajando impuestos. VLLC! https://t.co/jfXdECBfyX",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105289563052929299",
+    "created_at": "Wed Sep 30 13:32:00 +0000 2026",
+    "full_text": "RT @AleMonteoliva: LINDA FAMILIA\n\nEn esta casa de Mar del Plata vendían droga. Los vecinos denunciaron al 134, PNA investigó, allanó y detu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105289311918915738",
+    "created_at": "Wed Sep 30 13:31:01 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇫🇷 DIRECTOR DE CITIBANK SOBRE EL VIAJE DE MILEI A FRANCIA Y LA ARGENTINA WEEK\n\n\"EUROPA TAMBIEN ESTÁ INTERESADA EN QUE MILE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105288827744993329",
+    "created_at": "Wed Sep 30 13:29:05 +0000 2026",
+    "full_text": "RT @fargosi: El Presidente @JMilei entregando su designación como Embajador al gran Adolfo Cambiasso, acompañado por @KarinaMileiOk, @pablo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105288766516559875",
+    "created_at": "Wed Sep 30 13:28:50 +0000 2026",
+    "full_text": "RT @martinvars: La Corte Suprema argentina acaba de dejar sin efecto el freno a la derogación de la Ley de Tierras. El artículo 154 del DNU…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105288455437889744",
+    "created_at": "Wed Sep 30 13:27:36 +0000 2026",
+    "full_text": "RT @VoLSubstack: “It is easy to be conspicuously ‘compassionate’ if others are being forced to pay the cost.”\n\n— Murray Rothbard https://t.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105288139493515587",
+    "created_at": "Wed Sep 30 13:26:21 +0000 2026",
+    "full_text": "RT @casigol66: Hay tanto en juego.\nPara unos pocos, volver para robar miles de millones.  \nPara el resto de los argentinos, tener un futuro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105288098477441458",
+    "created_at": "Wed Sep 30 13:26:11 +0000 2026",
+    "full_text": "RT @istMilei: OPS... https://t.co/75p8IvLfWG",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105287905807905121",
+    "created_at": "Wed Sep 30 13:25:25 +0000 2026",
+    "full_text": "RT @JavierMileiDE: Nach der Argentinian Week, einer großen Unternehmerkonferenz in den USA, folgt nun Frankreich. Das Event findet vom 30.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105287730414673933",
+    "created_at": "Wed Sep 30 13:24:43 +0000 2026",
+    "full_text": "RT @RightNewsShow: 🚨🇧🇷 | Javier Negre explotó contra el dictador Lula da Silva y aseguró que otros cuatro años de su gobierno “van a ser un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105287546083160501",
+    "created_at": "Wed Sep 30 13:23:59 +0000 2026",
+    "full_text": "RT @merihelen123: Por favor!!! Escuchen a PAUTINO RODRÍGUES !!! CUATRO veces intenta hablar a favor de Kicillof!!!! Ahí van nuestros impues…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105269132526600267",
+    "created_at": "Wed Sep 30 12:10:49 +0000 2026",
+    "full_text": "BASURA CORRUPTA INMUNDA\nPeriodista la basura tenía que ser...\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105268546020520016",
+    "created_at": "Wed Sep 30 12:08:30 +0000 2026",
+    "full_text": "Para LA BASURA INMUNDA DUFFARD, si es alguien que comulga con sus nefastas ideas de izquierda, robar está bien. Pasaron cerca de 2.000 años y aún hoy existen SORETES que piden por Barrabás. ZURDA INMUNDA DE DOBLE MORAL.\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105267306083549487",
+    "created_at": "Wed Sep 30 12:03:34 +0000 2026",
+    "full_text": "RT @Santiago_Oria: LA LÓGICA CORRUPTA DE DUFFARD\n\nSi Milei putea: “eso es antidemocratico!”\n\nSi la corrupta más grande de la historia argen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105257532625129924",
+    "created_at": "Wed Sep 30 11:24:44 +0000 2026",
+    "full_text": "RT @OlgaMosser: No estamos frente a una simple elección, estamos ante el juicio final de nuestra historia.\n\nDurante décadas nos enseñaron q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105255043217993895",
+    "created_at": "Wed Sep 30 11:14:50 +0000 2026",
+    "full_text": "Me parece que a veces no puteamos lo suficiente a los periodistas... decirles que son basuras corruptas es poco...\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105246451865625043",
+    "created_at": "Wed Sep 30 10:40:42 +0000 2026",
+    "full_text": "RT @joacobl75: Cuando algun amante del Estado presente te diga “queremos obra pública” pregúntate quien la paga. Nada es Gratis. La pagas v…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105246388783337539",
+    "created_at": "Wed Sep 30 10:40:27 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105246364242510270",
+    "created_at": "Wed Sep 30 10:40:21 +0000 2026",
+    "full_text": "RT @DiegoMac227: Decir que Milei “vive en otro mundo” o que está “disociado de la realidad” simplemente porque su explicación de determinad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105245477612765218",
+    "created_at": "Wed Sep 30 10:36:50 +0000 2026",
+    "full_text": "RT @FerIglesias: Excelente iniciativa, Ian! Felicitaciones! @IanArgentinoS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105245404980011498",
+    "created_at": "Wed Sep 30 10:36:32 +0000 2026",
+    "full_text": "RT @Mileistesfr: C'est le grand soir!\n\nRendez-vous à 19h ce soir pour accueillir Javier Milei devant l'ambassade d'Argentine, avenue Kléber…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105245340580692370",
+    "created_at": "Wed Sep 30 10:36:17 +0000 2026",
+    "full_text": "RT @LaVonHayek: Toto en modo maquina de tirar factos. Sublime.\n@LuisCaputoAR https://t.co/DZhV8AcPyO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105245208837300232",
+    "created_at": "Wed Sep 30 10:35:46 +0000 2026",
+    "full_text": "RT @istMilei: Si presenta così a Parigi! https://t.co/JRcNtS8ZlK",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105245124100071514",
+    "created_at": "Wed Sep 30 10:35:25 +0000 2026",
+    "full_text": "RT @QuotesforGoal: \"No hay nada imposible para quien está dispuesto a intentarlo\"\n\nAlejandro Magno https://t.co/SCyziQUgJW",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105244582070104130",
+    "created_at": "Wed Sep 30 10:33:16 +0000 2026",
+    "full_text": "RT @jmilei_english: The UN became a useless organization that only serves to feed a caste of fatally arrogant parasites disguised as well-i…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2105151507452571749",
     "created_at": "Wed Sep 30 04:23:25 +0000 2026",
     "full_text": "RT @andresmego: Durante décadas Argentina viajó por el mundo explicando por qué necesitaba plata.\nEsta vez viaja a explicar por qué vale la…",
