@@ -1,5 +1,607 @@
 [
   {
+    "id": "2105793544006795361",
+    "created_at": "Thu Oct 01 22:54:39 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Durante el Argentina Week París, acompañé al Presidente @JMilei y a la secretaria General de la Presidencia @KarinaMileiO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105792481962885199",
+    "created_at": "Thu Oct 01 22:50:26 +0000 2026",
+    "full_text": "RT @MinDesreg_Ar: Un Gobierno que no tiene las cuentas en orden no va a respetar los derechos de propiedad.\n\nDurante su participación en la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105792224805970185",
+    "created_at": "Thu Oct 01 22:49:24 +0000 2026",
+    "full_text": "RT @MinDesreg_Ar: La diferencia entre hacer el bien y hacerse un bien. \n\nDurante su participación en la Argentina Week realizada en Francia…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105792051203715216",
+    "created_at": "Thu Oct 01 22:48:43 +0000 2026",
+    "full_text": "RT @MinDesreg_Ar: El superávit fiscal no es negociable. \n\nDurante su participación en la Argentina Week realizada en Francia, el Ministro @…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105791959763685734",
+    "created_at": "Thu Oct 01 22:48:21 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇫🇷👏 PERIODISTA DE A24 EN PARÍS SE RINDE ANTE MILEI TRAS EL DISCURSO SOBRE INVERSIONES Y LA REUNIÓN CON MACRON EN FRANCIA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105791575070523615",
+    "created_at": "Thu Oct 01 22:46:49 +0000 2026",
+    "full_text": "ALGUIEN LO ESTÁ VIENDO",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105791487283778041",
+    "created_at": "Thu Oct 01 22:46:28 +0000 2026",
+    "full_text": "RT @casigol66: Hablemos claro, en este momento el mundo está convulsionado, el precio del petróleo y gas por las nubes, la tasa de Estados…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105791174363529386",
+    "created_at": "Thu Oct 01 22:45:14 +0000 2026",
+    "full_text": "RT @SPettovelloOK: COMUNICADO OFICIAL.\n@JMilei https://t.co/XpTQQjL5QM",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105791146681041345",
+    "created_at": "Thu Oct 01 22:45:07 +0000 2026",
+    "full_text": "RT @mileibarrial: \"Los sectores agrícolas argentinos y europeos pueden complementarse\" https://t.co/MjL9OQMgFO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105790662742315427",
+    "created_at": "Thu Oct 01 22:43:12 +0000 2026",
+    "full_text": "RT @pabloquirno: Todo nuestro respaldo al presidente @Rodrigo_PazP y al gobierno de Bolivia en la lucha contra el narcotráfico, la corrupci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105790571944296814",
+    "created_at": "Thu Oct 01 22:42:50 +0000 2026",
+    "full_text": "RT @Rolo_Figueroa: NEUQUÉN TIENE MUCHO PARA OFRECER AL MUNDO\n\nEs un honor haber sido invitados, como parte de la comitiva de la #ArgentinaW…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105790155952922688",
+    "created_at": "Thu Oct 01 22:41:11 +0000 2026",
+    "full_text": "RT @DiegoMac227: La mentirosa serial de Silvia Mercado al parecer le falto mirar el X de los gobernadores antes de que saliera a publicar m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105790080782651825",
+    "created_at": "Thu Oct 01 22:40:53 +0000 2026",
+    "full_text": "RT @AdrianRavier: Los números que el Presidente  @JMilei presentó en París hablan solos. \n📍 Inflación: del 211% a alrededor del 30%.\n 📍 Rie…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105790024566354333",
+    "created_at": "Thu Oct 01 22:40:40 +0000 2026",
+    "full_text": "RT @GonzaloDom201: Nunca antes visto.\nCada viaje de milei termina en miles de millones que se invierten en Argentina!!\n\nVIVA LA LIBERTAD CA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105789757603172808",
+    "created_at": "Thu Oct 01 22:39:36 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Extraordinaria reunión 🇦🇷🇦🇷🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105786518040465440",
+    "created_at": "Thu Oct 01 22:26:44 +0000 2026",
+    "full_text": "RT @JPValdesok: #ArgentinaWeek | Junto a otros 9 gobernadores, el presidente @JMilei y ministros, nos reunimos con líderes empresariales eu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105786499711029339",
+    "created_at": "Thu Oct 01 22:26:39 +0000 2026",
+    "full_text": "RT @MFKanselo: La inflación seguirá bajando! Lo anticipamos 🇦🇷🇦🇷🇦🇷👏Gracias al Respecto @JMilei 👏👏👏 https://t.co/3UM2irvgiC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105786421005193578",
+    "created_at": "Thu Oct 01 22:26:21 +0000 2026",
+    "full_text": "RT @SPettovelloOK: COMUNICADO OFICIAL.\n@JMilei https://t.co/jNMjSljtYG",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105785432592327062",
+    "created_at": "Thu Oct 01 22:22:25 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🦁 EL JAVO FUE TAPA EN EL DIARIO 'LE POINT' DESPUÉS DE SU MEGA-DISCURSO QUE HIZO LLORAR A LOS KUKARDOS\n\n💥 \"Si ODIAS A FRAN…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105785349377024465",
+    "created_at": "Thu Oct 01 22:22:05 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇫🇷lGran visita y reuniones durante la Argentina Week París. https://t.co/eJAvNEdvnO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105785212290453923",
+    "created_at": "Thu Oct 01 22:21:32 +0000 2026",
+    "full_text": "RT @DiegoMac227: Una mentirosa serial salio a decir que Milei no hablo con los gobernadores, entonces, esta foto es algo de mi imaginación?…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105785150181093632",
+    "created_at": "Thu Oct 01 22:21:18 +0000 2026",
+    "full_text": "RT @travaglinigra: No se cansan de ser HDP después se enojan",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105784980005642321",
+    "created_at": "Thu Oct 01 22:20:37 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei mantuvo una reunión bilateral con el Presidente de la República Francesa, Emmanuel Macron, en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105784890557972672",
+    "created_at": "Thu Oct 01 22:20:16 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILAGRO ECONÓMICO ARGENTINO: El secretario general de la OCDE, Mathias Cormann, destacó la \"ambiciosa agenda de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105784834530427124",
+    "created_at": "Thu Oct 01 22:20:02 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇫🇷l Argentina week París. https://t.co/BG16DQd2O2",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105784670122041471",
+    "created_at": "Thu Oct 01 22:19:23 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇫🇷l Que raro, pero si una mentirosa serial esta diciendo que Milei no hablo con los gobernadores que viajaron a París. h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105774656141574263",
+    "created_at": "Thu Oct 01 21:39:36 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🏴‍☠️ MILEI ACORRALÓ A LOS INGLESES POR MALVINAS\n💥 Lloran los piratas. Rechazaron el arbitraje porque saben que Argentina…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105773047718318130",
+    "created_at": "Thu Oct 01 21:33:12 +0000 2026",
+    "full_text": "RT @amos_burke: Nosotros no cambiamos, Lanata no cambió y vos estabas en este grupo @maruduffard. Quien defeccionó? https://t.co/G2gvTxr1gd",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105772716221403315",
+    "created_at": "Thu Oct 01 21:31:53 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇫🇷l Karina Milei, el ministro de Economía Luis Caputo y el embajador argentino en Francia Ian Sielecki encabezaron en Pa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105772511283527835",
+    "created_at": "Thu Oct 01 21:31:04 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇫🇷l En París, Milei firmó el libro de honor de la Organización para la Cooperación y el Desarrollo Económicos, junto a s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105765106202136886",
+    "created_at": "Thu Oct 01 21:01:39 +0000 2026",
+    "full_text": "RT @pajaromartino: De ganar  @JMilei  el año que viene hay una chance importante que Argentina sea investment grande en su mandato",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105764775296664035",
+    "created_at": "Thu Oct 01 21:00:20 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei, junto al Ministro de Economía, Luis Caputo, y al Canciller, Pablo Quirno, mantuvo un encuentr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105764699963117939",
+    "created_at": "Thu Oct 01 21:00:02 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei fue recibido por el Presidente de la República Francesa, Emmanuel Macron, en el Palacio del El…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105764368730247598",
+    "created_at": "Thu Oct 01 20:58:43 +0000 2026",
+    "full_text": "RT @FAST_GAST: El mundo entero habla de cómo el Presidente Javier Milei está sacando a la Argentina adelante, gracias a sus reformas, pero…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105763307802026328",
+    "created_at": "Thu Oct 01 20:54:30 +0000 2026",
+    "full_text": "RT @MatiasGarate15: Cómo puede ser que Silvia Mercado siga teniendo la posibilidad de entrar a Casa Rosada y hacer preguntas al vocero cuan…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762958957514775",
+    "created_at": "Thu Oct 01 20:53:07 +0000 2026",
+    "full_text": "RT @PrivilegioCero: SERIEDAD Y RESPONSABILIDAD ECONÓMICA 🏛️🇦🇷\n\nEl Ministro @LuisCaputoAR llevó tranquilidad a los inversores internacionale…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762921309515786",
+    "created_at": "Thu Oct 01 20:52:58 +0000 2026",
+    "full_text": "RT @juanfloreschaar: \"Las funciones del Estado se dividen en dos: aquellas que se pueden privatizar, y aquellas que se pueden eliminar.\" -…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762830943203381",
+    "created_at": "Thu Oct 01 20:52:36 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇫🇷l Karina Milei y el ministro Luis Caputo, junto al embajador Ian Sielecki, mantuvieron encuentros en la Embajada Argen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762778850226314",
+    "created_at": "Thu Oct 01 20:52:24 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷🇫🇷 TOTO CAPUTO LE ENVIÓ UN MENSAJE A LOS INVERSORES EN ARGENTINA WEEK EN PARÍS\n\n\"LA MAYORÍA DE LA GENTE NUNCA VA A VOTAR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762638219083929",
+    "created_at": "Thu Oct 01 20:51:50 +0000 2026",
+    "full_text": "RT @FAST_GAST: 🇦🇷 US$10.000 MILLONES DE INVERSIÓN DE TOTAL ENERGIES \n\nDurante la Argentina Week en París, la francesa TotalEnergies anunció…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762607651008723",
+    "created_at": "Thu Oct 01 20:51:43 +0000 2026",
+    "full_text": "RT @AdrianRavier: Tenemos energía, minerales, el frío del sur y gente con muchísimo talento. Justo lo que necesita la inteligencia artifici…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762574902141405",
+    "created_at": "Thu Oct 01 20:51:35 +0000 2026",
+    "full_text": "RT @Milei_Media: 🇦🇷 “EL 2028 VA A SER EL MEJOR AÑO ECONÓMICO DE LA HISTORIA ARGENTINA.”\n\nJavier Milei anticipó su perspectiva para los próx…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762558577963225",
+    "created_at": "Thu Oct 01 20:51:31 +0000 2026",
+    "full_text": "RT @CarajoStream: TOTALENERGIES INVERTIRÁ US$10.000 MILLONES 🇦🇷\n\nLa petrolera francesa anunció proyectos en Vaca Muerta y Tierra del Fuego.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762423961477587",
+    "created_at": "Thu Oct 01 20:50:59 +0000 2026",
+    "full_text": "RT @JBouttet: KARINA EN PARÍS 🇦🇷🇫🇷\n\nLa Secretaria General de la Presidencia @KarinaMileiOk junto a Brigitte Macron en el Palacio del Elíseo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105762305090916619",
+    "created_at": "Thu Oct 01 20:50:31 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: El Presidente Javier Milei haciendo grande a la Argentina nuevamente. VLLC!!!\n\n📍Argentina Week, París. https://t.co/M2…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105761882124525735",
+    "created_at": "Thu Oct 01 20:48:50 +0000 2026",
+    "full_text": "RT @CerviPablo: 🇦🇷📊 | Como dijo el Presidente @JMilei: “En la medida que la economía crezca, nosotros vamos a seguir bajando impuestos”.\n\nE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105761773680824784",
+    "created_at": "Thu Oct 01 20:48:24 +0000 2026",
+    "full_text": "RT @PrivilegioCero: EL RIGI COMO ARMA GEOPOLÍTICA DE POTENCIA 🌍🇦🇷\n\n@PabloQuirno dejó en claro que el RIGI no solo atrae inversiones millona…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105761721461653619",
+    "created_at": "Thu Oct 01 20:48:12 +0000 2026",
+    "full_text": "RT @IvanDuboisok: El mercado aborrece la incertidumbre, la falta de seguridad jurídica y los delitos como el robo, el fraude o la corrupció…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105761605833138663",
+    "created_at": "Thu Oct 01 20:47:44 +0000 2026",
+    "full_text": "RT @FerIglesias: Lo peor de esta idea demencial según la cual cada juez falla según su criterio personal de justicia y no según la ley es q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105761255827063272",
+    "created_at": "Thu Oct 01 20:46:21 +0000 2026",
+    "full_text": "RT @javierlanari: Ah pero Milei quiere proscribir a Cristina...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105761212873199928",
+    "created_at": "Thu Oct 01 20:46:10 +0000 2026",
+    "full_text": "RT @BolsonaroSP: Pois é, quem faz o diabo pelo poder não pode agora soltar a mão do diabo né... https://t.co/uhLdWGzmKP",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105761113816150264",
+    "created_at": "Thu Oct 01 20:45:47 +0000 2026",
+    "full_text": "RT @iasg2710: La Libertad Avanza ya no es solo argentina, es un movimiento que cruza fronteras. Los libertarios franceses recibiendo a Mile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105760972250153386",
+    "created_at": "Thu Oct 01 20:45:13 +0000 2026",
+    "full_text": "RT @Argenpoirot: En 2018 Lipovetzky le dijo a Milei que si no le gustaba la ley de alquileres arme un partido, gane las elecciones y derogu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105760081698828393",
+    "created_at": "Thu Oct 01 20:41:41 +0000 2026",
+    "full_text": "RT @tonyaracre: ¿Cuál es el mejor indicador de que la actividad y el consumo comenzaron a recuperarse en septiembre?\n\nTe lo informa tempran…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105758847415492698",
+    "created_at": "Thu Oct 01 20:36:46 +0000 2026",
+    "full_text": "TORPEDO A LA MENTIROSA SERIAL.\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2105758697368539416",
+    "created_at": "Thu Oct 01 20:36:11 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Que???? El presidente les agradeció 10 veces (en público y en privado) su participación en el viaje. Y los gobernadores e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745667213685219",
+    "created_at": "Thu Oct 01 19:44:24 +0000 2026",
+    "full_text": "RT @DiegoMac227: Quisiera comenzar con una verdad simple, pero poderosa: cualquier inversor que siga de cerca a la Argentina sabe que si nu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745628022079579",
+    "created_at": "Thu Oct 01 19:44:15 +0000 2026",
+    "full_text": "RT @Miguel_Boggiano: John Denton, Secretario General International Chamber of Commerce:\n\n“Las mejoras de Argentina en la OECD va a hacer qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745562452869571",
+    "created_at": "Thu Oct 01 19:43:59 +0000 2026",
+    "full_text": "RT @AdrianRavier: Queremos que inviertan, que generen empleo y que les vaya bien. Así de simple, y así de distinto a la Argentina de las úl…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745519184089444",
+    "created_at": "Thu Oct 01 19:43:49 +0000 2026",
+    "full_text": "RT @FAST_GAST: 🇦🇷 ARGENTINA WEEK EN PARÍS\n\nEl presidente @JMilei invitó de forma directa a los inversores internacionales a apostar por la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745483998367878",
+    "created_at": "Thu Oct 01 19:43:40 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🇦🇷 MILEI: \"SEREMOS EL MAYOR MILAGRO EN 250 AÑOS\"\n🚀Se terminó el país cerrado para 4 vivos. Anunció apertura total e Intel…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745434623021466",
+    "created_at": "Thu Oct 01 19:43:29 +0000 2026",
+    "full_text": "RT @agustin_pistone: Milei y Toto han trabajado incansablemente por reconstruir la relación fiscal-federal con los gobernadores.\n\nEs el gob…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745372467409168",
+    "created_at": "Thu Oct 01 19:43:14 +0000 2026",
+    "full_text": "RT @javierlanari: Decían que el acuerdo con la UE era perjudicial para Argentina. En el primer cuatrimestre de vigencia de ese acuerdo (may…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745331900252309",
+    "created_at": "Thu Oct 01 19:43:04 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: 🇦🇷🇦🇷🇦🇷 https://t.co/LthLXcuyoJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745292972695604",
+    "created_at": "Thu Oct 01 19:42:55 +0000 2026",
+    "full_text": "RT @eve_barroso: 🇦🇷 | @JMilei: \"Hemos erradicado la inflación en un 90%, 95%, y vamos a seguir haciéndolo y ese es el camino\"\n\nLa motosierr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105745045630460046",
+    "created_at": "Thu Oct 01 19:41:56 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ MILEI PRENDIÓ FUEGO EL MODELO KUKARDO EN LA ARGENTINA WEEK Y LA ROMPIÓ TODA\n\n🔥 \"Hoy les hablo desde el conocimiento del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105744795532771469",
+    "created_at": "Thu Oct 01 19:40:56 +0000 2026",
+    "full_text": "RT @pabloquirno: Esperando al Presidente! 🇦🇷🇦🇷🇦🇷 https://t.co/AtF6QJyxLb",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105744765270508003",
+    "created_at": "Thu Oct 01 19:40:49 +0000 2026",
+    "full_text": "RT @Miguel_Boggiano: Manuel Antelo: “En dos años vamos a haber sumado 2000 empleados”\n\n“Tenemos 9 marcas más y pensamos abrir en todo el pa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105744604712538326",
+    "created_at": "Thu Oct 01 19:40:11 +0000 2026",
+    "full_text": "RT @AmoaHamlet: ESTE ES EL RIESGO KUKA:\n\n➜ Más de 70 años de pobreza crónica.\n➜ Mas de 70 años de inflación elevada y recurrente.\n➜ 5 episo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105744376085500279",
+    "created_at": "Thu Oct 01 19:39:16 +0000 2026",
+    "full_text": "RT @martinpugliese: Durante décadas nos dedicamos a refutar racionalmente a la izquierda, creyendo que su problema era intelectual. Fue un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105744291100266544",
+    "created_at": "Thu Oct 01 19:38:56 +0000 2026",
+    "full_text": "RT @RaulJalil_ok: Comenzamos nuestra agenda en París participando de la Argentina Week junto al presidente Javier Milei, gobernadores de di…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105744133037912249",
+    "created_at": "Thu Oct 01 19:38:18 +0000 2026",
+    "full_text": "RT @manuelquintar: 🇦🇷 | LAS FUERZAS ARMADAS ARGENTINAS VOLVIERON A SER UNA PRIORIDAD\n\nEl Ministerio de Defensa presentó los primeros fusile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105744111219167684",
+    "created_at": "Thu Oct 01 19:38:13 +0000 2026",
+    "full_text": "RT @LiliLili949: Hola @maruduffard . Me destrozaste el corazón 💔 con tu cara compungida, cuando hablaste de la \"tragedia\" de Máximo que no…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743959322685527",
+    "created_at": "Thu Oct 01 19:37:37 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El ministro de Economía, @LuisCaputoAR, en su discurso de apertura del Argentina Week París: “El equipo económico tuvo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743926816911741",
+    "created_at": "Thu Oct 01 19:37:29 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: En su discurso de apertura de Argentina Week París, el ministro de Economía, @LuisCaputoAR, destacó la evolución del re…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743906516164846",
+    "created_at": "Thu Oct 01 19:37:24 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El ministro de Economía, @LuisCaputoAR, en su discurso de apertura del Argentina Week París, explicó que “la balanza co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743870487040418",
+    "created_at": "Thu Oct 01 19:37:16 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: En Argentina Week París, el Ministro @LuisCaputoAR analizó los resultados alcanzados durante las últimas cuatro preside…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743851101278492",
+    "created_at": "Thu Oct 01 19:37:11 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: ANUNCIO DE INVERSIÓN DE USD 1.200 MILLONES PARA AUMENTAR LA PRODUCCIÓN DE PETRÓLEO EN CERRO DRAGÓN\n\nDurante el Argentin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743803051290797",
+    "created_at": "Thu Oct 01 19:37:00 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El ministro de Economía, @LuisCaputoAR, durante la apertura de Argentina Week París: “Muchos inversores preguntan qué p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743756141998204",
+    "created_at": "Thu Oct 01 19:36:48 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇫🇷l Queremos profundizar los lazos entre el capital y los recursos humanos, tanto de Europa como de Argentina. Porque cr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743730263417138",
+    "created_at": "Thu Oct 01 19:36:42 +0000 2026",
+    "full_text": "RT @alejandrito: Fue un honor participar ayer en la Casa Blanca de la celebración del Mes de la Herencia Hispana, encabezada por el Preside…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743611375632821",
+    "created_at": "Thu Oct 01 19:36:14 +0000 2026",
+    "full_text": "RT @mediceneljefe: Selfie del DREAM TEAM de @JMilei en París: @PabloQuirno, @DiegoSantilli, @LuisCaputoAR, @JuanBMahiques, @MarioLugones_AR…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743546074505544",
+    "created_at": "Thu Oct 01 19:35:58 +0000 2026",
+    "full_text": "RT @Miguel_Boggiano: Federico Sturzenegger (@fedesturze):\n\n“El crecimiento de las inversiones en energía y minería vienen por dos desregula…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743510078914563",
+    "created_at": "Thu Oct 01 19:35:50 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇫🇷 | FENÓMENO BARRIAL: Los líderes de la agrupación mileísta francesa \"Les Mileistes Français\" conocieron por prime…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743470900191290",
+    "created_at": "Thu Oct 01 19:35:40 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇫🇷l \"Así, el próximo año vamos a concluir los cuatro años de este mandato con un crecimiento acumulado superior a los 16…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2105743408337715454",
+    "created_at": "Thu Oct 01 19:35:26 +0000 2026",
+    "full_text": "RT @lilialemoine: Sí Myriam, si mentís para operar contra tu propio Estado, siendo diputada, es traición a la Patria. Si un periodista ruso…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2105684301631128035",
     "created_at": "Thu Oct 01 15:40:33 +0000 2026",
     "full_text": "RT @PrivilegioCero: FEDERALISMO Y GESTIÓN EN PARÍS 🤝🇦🇷\n\n@JMilei junto a @KarinaMileiOK se reunió con 13 gobernadores para alinear prioridad…",
