@@ -1,5 +1,656 @@
 [
   {
+    "id": "2108601230993903966",
+    "created_at": "Fri Oct 09 16:51:24 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Muchas gracias al equipo de LLA Tigre-PBA por invitarme a exponer sobre la Batalla por el Modelo Argentino. Contraste de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108601207153397773",
+    "created_at": "Fri Oct 09 16:51:18 +0000 2026",
+    "full_text": "RT @DiegoMac227: A los medios golpistas que tanto operan y mienten no les gustará esta foto.\nExcelente reunión.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108601122600411584",
+    "created_at": "Fri Oct 09 16:50:58 +0000 2026",
+    "full_text": "RT @Milei_Media: 🌎LIBERANDO AL MUNDO DE LAS CADENAS DEL COMUNISMO\n\nLa llegada de Javier Milei a la política Argentina tuvo un efecto impres…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108600413775704369",
+    "created_at": "Fri Oct 09 16:48:09 +0000 2026",
+    "full_text": "RT @CarajoStream: EL BCRA LE RESPONDIÓ A LA AGN 🪙\n\nLa AGN informó una pérdida de USD 1.023 M en derivados sobre el oro. El Central explicó…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108600330258677960",
+    "created_at": "Fri Oct 09 16:47:49 +0000 2026",
+    "full_text": "RT @DiegoMac227: Uno que se cree creador de teoria que usa datos falsos para criticar a Milei y ahora otro que hace una auditoría y no sabe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108600284268143081",
+    "created_at": "Fri Oct 09 16:47:38 +0000 2026",
+    "full_text": "RT @tealdif: \"ERROR DE CÁLCULO\": PAGO EL SEGURO DEL AUTO Y NO CHOCÓ.\n\nPERDIO PLATA. https://t.co/gucPdthXB1",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108599732390035894",
+    "created_at": "Fri Oct 09 16:45:26 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: ANTONIO LAJE ENTERRÓ LA INFORMACIÓN FALSA DE LOS MEDIOS SOBRE EL TEMA ORO: https://t.co/12AFEy9lyu",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108599366738936024",
+    "created_at": "Fri Oct 09 16:43:59 +0000 2026",
+    "full_text": "RT @lilialemoine: Este debería ser el pensamiento canon de cualquier político.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108599241534828660",
+    "created_at": "Fri Oct 09 16:43:29 +0000 2026",
+    "full_text": "RT @JMilei: LOS ECONOMISTAS Y EL MAL USO DE LA MATEMÁTICA Y LA ESTADÍSTICA\nUn gran profesor de crecimiento nos contó una vez en clase un ch…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108599207183429767",
+    "created_at": "Fri Oct 09 16:43:21 +0000 2026",
+    "full_text": "RT @fargosi: Excelente !!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108599171783479730",
+    "created_at": "Fri Oct 09 16:43:13 +0000 2026",
+    "full_text": "RT @DiegoMac227: Impresionante MASTERCLASS del ministro.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108599122857005230",
+    "created_at": "Fri Oct 09 16:43:01 +0000 2026",
+    "full_text": "RT @liberttoons: Y como dijo un buen amigo mío… \n\n“Los de la flecha roja quieren decirle a los de la flecha verde que hacer”. 🚬🗣️\n\nSIGA MEJ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108599067735416920",
+    "created_at": "Fri Oct 09 16:42:48 +0000 2026",
+    "full_text": "RT @mediceneljefe: Excelente. Arcos revolucionó Río de Janeiro y ahora llega a la Argentina. Privatizar es extirpar la corrupción del Estad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108598834393694605",
+    "created_at": "Fri Oct 09 16:41:52 +0000 2026",
+    "full_text": "RT @EconomiaMises: “Si ellos siguen repitiendo sus mentiras, nosotros tenemos que seguir repitiendo la verdad.”\n\nLudwig von Mises",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108592923159756803",
+    "created_at": "Fri Oct 09 16:18:23 +0000 2026",
+    "full_text": "RT @brivael: Made with https://t.co/eEghvGVu5m",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108592829958131782",
+    "created_at": "Fri Oct 09 16:18:01 +0000 2026",
+    "full_text": "RT @DiegoMac227: VIVA LA LIBERTAD CARAJO. https://t.co/FbEfBTOUPJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108592813692629300",
+    "created_at": "Fri Oct 09 16:17:57 +0000 2026",
+    "full_text": "RT @FAST_GAST: Noche épica si las hubo!, Javier Milei es el único presidente en el mundo que genera la pasión de millones!!\n\nVLLC!!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108592750551613948",
+    "created_at": "Fri Oct 09 16:17:42 +0000 2026",
+    "full_text": "RT @FAST_GAST: Los datos derriban las mentiras que dicen los econochantas y los perisobres!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108592712538530000",
+    "created_at": "Fri Oct 09 16:17:33 +0000 2026",
+    "full_text": "RT @dievalen: La transformación no se detiene! 🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108592499027501085",
+    "created_at": "Fri Oct 09 16:16:42 +0000 2026",
+    "full_text": "RT @mediceneljefe: Como cada fin de semana largo: aeropuertos colapsados y economía real traccionando como nunca. La política de libertad d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108592418203283593",
+    "created_at": "Fri Oct 09 16:16:22 +0000 2026",
+    "full_text": "RT @ARGinUSA: 🇦🇷🤝🇺🇸 ARGENTINA AT SILICON VALLEY ⤵️ https://t.co/9qcqq7EAFn",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108592321419739253",
+    "created_at": "Fri Oct 09 16:15:59 +0000 2026",
+    "full_text": "RT @gusty_natasha: 😎🎤🎸🥁",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108592131291881604",
+    "created_at": "Fri Oct 09 16:15:14 +0000 2026",
+    "full_text": "MAGA!\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2108592034487411147",
+    "created_at": "Fri Oct 09 16:14:51 +0000 2026",
+    "full_text": "RT @AlanWentin21322: Viajo mucho por el mundo y me consta, lo que dice @DarioEpstein es exactamente así. En el mundo admiran a @JMilei, es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108591820259127448",
+    "created_at": "Fri Oct 09 16:14:00 +0000 2026",
+    "full_text": "RT @julianepherra8: 🔥🇦🇷 TREMENDO ANUNCIO DE MILEI SOBRE EL VIDEO DEL RECITAL EN EL MOVISTAR ARENA CON LA BANDA PRESIDENCIAL\n\n\"SE VIENE LA V…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108591744153498095",
+    "created_at": "Fri Oct 09 16:13:42 +0000 2026",
+    "full_text": "RT @LeofaccoTweet: L'ho conosciuto così...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108591707365286003",
+    "created_at": "Fri Oct 09 16:13:33 +0000 2026",
+    "full_text": "RT @JuventudLLAPBA: LOS PIBES ESTÁN CON JAVIER MILEI. NOS VEMOS MAÑANA🦁\n\n@JMilei https://t.co/aRI9CBVXlZ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108591592248353014",
+    "created_at": "Fri Oct 09 16:13:05 +0000 2026",
+    "full_text": "RT @lilialemoine: Laura, si en la inquisición hubieran puteado a las brujas en vez de torturarlas y quemarlas la Historia sería muy diferen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108591490213478480",
+    "created_at": "Fri Oct 09 16:12:41 +0000 2026",
+    "full_text": "RT @PrivilegioCero: VUELVE EL SHOW QUE CAMBIÓ LA HISTORIA 🎸🦁\n\nEl Presidente @JMilei confirmó el lanzamiento de la \"versión remaster\" de aqu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108590816981594572",
+    "created_at": "Fri Oct 09 16:10:01 +0000 2026",
+    "full_text": "RT @SPettovelloOK: https://t.co/jDxe6EGJ2X\n@JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108590793451503972",
+    "created_at": "Fri Oct 09 16:09:55 +0000 2026",
+    "full_text": "RT @julianyosovitch: Si el BCRA no se hubiese cubierto (hedgeado) contra la baja del oro, ahi si hubiese estado especulando! Pero se cubrio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108590611322274266",
+    "created_at": "Fri Oct 09 16:09:12 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: @slcaputo @Felii_N Correcto. El modus operandi,  siempre el mismo. Agarran un tema sensible y lo usan para afanar a 4 man…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108587156511834325",
+    "created_at": "Fri Oct 09 15:55:28 +0000 2026",
+    "full_text": "RT @PatoBullrich: Conversación profunda con el Presidente @JMilei. Hablamos de todo lo que vengo planteando, con total sinceridad.\n\nTMAP 🇦🇷…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108587051977244914",
+    "created_at": "Fri Oct 09 15:55:03 +0000 2026",
+    "full_text": "RT @dievalen: Luego de su presentación en Tigre, le entregué al presidente de la Cámara de Diputados, @MenemMartin, mi nuevo libro “Belgran…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108586694479851970",
+    "created_at": "Fri Oct 09 15:53:38 +0000 2026",
+    "full_text": "MARAVILLOSO VIDEO\nEs impresionante ver como todos los políticos tecnofóbicos repiten como loros argumentos cavernícolas. Sólo difieren en la comunicación fingiendo una supuesta empatía (al menos el del video es más honesto).\nMAGA!\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2108585368408715572",
+    "created_at": "Fri Oct 09 15:48:22 +0000 2026",
+    "full_text": "RT @brivael: Don't bet against super intelligence. https://t.co/epr8WWJ4C7",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108585058151825503",
+    "created_at": "Fri Oct 09 15:47:08 +0000 2026",
+    "full_text": "RT @MFKanselo: 🇦🇷🇦🇷🇦🇷👏 https://t.co/FkOHVxFOzm",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108585032818311583",
+    "created_at": "Fri Oct 09 15:47:02 +0000 2026",
+    "full_text": "RT @elrama_: Que el Auditor General de la Nacion no sepa analizar una posicion de Hedge es CAUSAL DE DESPIDO.\n\nComo ciudadano argentino me…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108584796800569650",
+    "created_at": "Fri Oct 09 15:46:05 +0000 2026",
+    "full_text": "RT @DailySowell: “We need leaders with experience in the real world, not experience in the phony world of politics.”\n\n— Thomas Sowell https…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108584576704491673",
+    "created_at": "Fri Oct 09 15:45:13 +0000 2026",
+    "full_text": "LA CRUEL VERDAD.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2108584444340638088",
+    "created_at": "Fri Oct 09 15:44:41 +0000 2026",
+    "full_text": "RT @slcaputo: Aproximadamente el 60% de las pensiones por invalidez son truchas. Certificados emitidos por los políticos para sus amigos, c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108584313696424357",
+    "created_at": "Fri Oct 09 15:44:10 +0000 2026",
+    "full_text": "RT @MFKanselo: Muy cierto @JMilei 🇦🇷🇦🇷🇦🇷👏 https://t.co/9QsZaSYzSy",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108584275264106807",
+    "created_at": "Fri Oct 09 15:44:01 +0000 2026",
+    "full_text": "FABULOSA ATENDIDA",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2108584197224874344",
+    "created_at": "Fri Oct 09 15:43:42 +0000 2026",
+    "full_text": "RT @AcostashowJuan: Los analistas de siempre! https://t.co/CZpNbFGHg7",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108581838302155251",
+    "created_at": "Fri Oct 09 15:34:20 +0000 2026",
+    "full_text": "RT @Itongadol: El empresario Marcos Galperín le dijo “Fuck off” a Mamdani por su mensaje sobre el 7 de octubre\n\nLeer más: https://t.co/HuVV…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108581646916006211",
+    "created_at": "Fri Oct 09 15:33:34 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Masterclass de @AleDiazARG",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108581455693562118",
+    "created_at": "Fri Oct 09 15:32:49 +0000 2026",
+    "full_text": "RT @AleMonteoliva: 200 KILOS DE COCAÍNA Y 5 DETENIDOS\n\nUna organización narco que se escondía atrás de locales comerciales para lavar diner…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108581403319222572",
+    "created_at": "Fri Oct 09 15:32:36 +0000 2026",
+    "full_text": "RT @jultarres: 🚨Desmentida oficial de @BancoCentral_AR a la auditoría de la @AuditoriaAGN sobre las posiciones de oro en su hoja de balance…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108581221512986647",
+    "created_at": "Fri Oct 09 15:31:53 +0000 2026",
+    "full_text": "RT @FAST_GAST: Javier Milei es el faro de Occidente!\nVLLC!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108581173874098523",
+    "created_at": "Fri Oct 09 15:31:42 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | “SE VIENE LA VERSIÓN REMASTER DE UNA NOCHE HISTÓRICA”: El presidente @JMilei anunció que lanzará un video comple…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108581136427323678",
+    "created_at": "Fri Oct 09 15:31:33 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Podrán imitarlo jamás igualarlo ! 🇦🇷✨",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108580970932601306",
+    "created_at": "Fri Oct 09 15:30:53 +0000 2026",
+    "full_text": "RT @mediceneljefe: Fenómeno Barrial. Argentina importará el modelo italiano que une estudio y trabajo con tecnicaturas para 2027. Se termin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108580931804000511",
+    "created_at": "Fri Oct 09 15:30:44 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Argentina importará un modelo educativo italiano que combina estudio y trabajo: las primeras tecnicaturas comenzarán en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108580808705376581",
+    "created_at": "Fri Oct 09 15:30:14 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l Viva La Libertad Carajo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108580319582384616",
+    "created_at": "Fri Oct 09 15:28:18 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷✈️ EXPLOTA POR COMPLETO AEROPARQUE POR EL FIN DE SEMANA LARGO Y LOS KUKAS LO LLORAN\n\n👉 Mientras los K te venden que el p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108579932557181270",
+    "created_at": "Fri Oct 09 15:26:46 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Fuerza querido amigo @BolsonaroSP contra la tiranía de este juez BASURA.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108575546858701275",
+    "created_at": "Fri Oct 09 15:09:20 +0000 2026",
+    "full_text": "RT @pajaromartino: Llama la atención que alguien que vendió dólar futuro muy por debajo del precio de mercado en 2015, dejándole al BCRA un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108575482836918741",
+    "created_at": "Fri Oct 09 15:09:05 +0000 2026",
+    "full_text": "RT @pajaromartino: Lamentable que la auditoría del BCRA la haga alguien que no entiende absolutamente nada de finanzas",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108571544897110228",
+    "created_at": "Fri Oct 09 14:53:26 +0000 2026",
+    "full_text": "MAGA!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2108571516640043052",
+    "created_at": "Fri Oct 09 14:53:19 +0000 2026",
+    "full_text": "RT @monedadeargy: 🇦🇷💪 ARGENTINA SE ESTÁ NORMALIZANDO COMO NUNCA\n✅ Velocidad\n✅ Convicción\n✅ Disciplina\n✅ Alineamiento de todos los sectores…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108571029014487548",
+    "created_at": "Fri Oct 09 14:51:23 +0000 2026",
+    "full_text": "RT @Itongadol: En un acto en homenaje a la Familia Bibas, la embajadora de Israel agradeció a la Argentina por el apoyo y llamó a “defender…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108533467528958098",
+    "created_at": "Fri Oct 09 12:22:07 +0000 2026",
+    "full_text": "RT @NegroCensurado: Yendo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108533025923285266",
+    "created_at": "Fri Oct 09 12:20:22 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇧🇷 | ESCÁNDALO DE CORRUPCIÓN DE LULA: EL BANQUERO PRESO DANIEL VORCARO DIJO HABER NEGOCIADO PAGOS MILLONARIOS AL INST…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108532866757837295",
+    "created_at": "Fri Oct 09 12:19:44 +0000 2026",
+    "full_text": "RT @Azabacheonline: 🚨 EL SOCIALISMO NO COMPITE, PERSEGUIDE\nEn vez de ganar en las urnas con ideas, Lula y su Corte atacan judicialmente a l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108532703318487453",
+    "created_at": "Fri Oct 09 12:19:05 +0000 2026",
+    "full_text": "RT @GusanoWormkick: Uff, adelantaron a la fiesta de la doma?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108532664944701808",
+    "created_at": "Fri Oct 09 12:18:56 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇧🇷 | UNA DIPUTADA ELECTA DE LULA LE EXIGÍA AL DICTADOR CERRAR TODAS LAS IGLESIAS CRISTIANAS “DE MIERDA”\n\nAna Elisa, c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108532612125938017",
+    "created_at": "Fri Oct 09 12:18:44 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ IVAN CARRINO PRENDIÓ TODO FUEGO EN LO DE ROSENDO POR EL DESASTRE ABSOLUTO DE LOS KUKAS\n\n🔥 \"Las políticas económicas de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108532582417649725",
+    "created_at": "Fri Oct 09 12:18:36 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇮🇹l FENÓMENO BARRIAL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108532549022556317",
+    "created_at": "Fri Oct 09 12:18:28 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: NUEVO RIGI APROBADO PARA AUMENTAR LA EXPLORACIÓN Y LA PRODUCCIÓN DE PETRÓLEO EN VACA MUERTA\n\nSe formalizó el proyecto d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108532521277210956",
+    "created_at": "Fri Oct 09 12:18:22 +0000 2026",
+    "full_text": "RT @gusty_natasha: En Europa Mílei es ídolo, y no me extraña, Javier tiene todo menos la tibieza europea por eso está tejiendo el cambio de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108532044334526692",
+    "created_at": "Fri Oct 09 12:16:28 +0000 2026",
+    "full_text": "RT @varelacorina1: https://t.co/cboBTcvI1o",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108531799227834481",
+    "created_at": "Fri Oct 09 12:15:30 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Tal cual, quien dice \"ultraderecha\" ya muestra la hilacha...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108531628968407332",
+    "created_at": "Fri Oct 09 12:14:49 +0000 2026",
+    "full_text": "RT @ziberiaI: Muy bueno este pibe. Lo destruye al ladrón de la UNR  https://t.co/JQEAA8HYJJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108530972857634858",
+    "created_at": "Fri Oct 09 12:12:13 +0000 2026",
+    "full_text": "RT @labatalla26: 🟨⬛️ Esto en bucle, por favor, es épico. Gracias por hacer tanto por la libertad @JMilei . VLLC!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108530507847774345",
+    "created_at": "Fri Oct 09 12:10:22 +0000 2026",
+    "full_text": "RT @pabloquirno: El periodismo económico no es lo tuyo. \n\nProbaría con el deportivo, ah no pará…Abrazo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108530059753517433",
+    "created_at": "Fri Oct 09 12:08:35 +0000 2026",
+    "full_text": "RT @martinvars: El Gobierno de Milei estudia llevar a Irán ante la Corte Internacional de Justicia de La Haya por el atentado a la AMIA. Es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108529598367498633",
+    "created_at": "Fri Oct 09 12:06:45 +0000 2026",
+    "full_text": "RT @ResnicoffMartin: El BCRA compró un seguro sobre su tenencia de oro por si bajaba. El oro subió entonces ganó plata con su tenencia de o…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108528236908982439",
+    "created_at": "Fri Oct 09 12:01:20 +0000 2026",
+    "full_text": "TMAP!\nMAGA!\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2108528060425175253",
+    "created_at": "Fri Oct 09 12:00:38 +0000 2026",
+    "full_text": "RT @fedesturze: Vi ayer en la discusión sobre la privatización de Aysa mucha atención mediática puesta en la participación de los socios lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108523383927308514",
+    "created_at": "Fri Oct 09 11:42:03 +0000 2026",
+    "full_text": "COLOSO acomoda a IGNORANTE\nEl nivel de precariedad conceptual y analítica de la gran mayoría de los economistas locales es feroz. No sé si por déficit severo de formación o por haber apostado en contra del gobierno y necesitan promover el caos para ver si pueden salvar la ropa.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2108522069453414451",
+    "created_at": "Fri Oct 09 11:36:50 +0000 2026",
+    "full_text": "RT @fedesturze: Una reflexión tardía sobre lo que me parece un error conceptual en esto de @mdalpog. El costo fiscal es el del GASTO públic…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108521589956317599",
+    "created_at": "Fri Oct 09 11:34:56 +0000 2026",
+    "full_text": "RT @gusty_natasha: La ignorancia es atrevida...\nGran reflexión para los mandriles econochantas y soretes pauteros que tiran humo para estab…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108521497992069163",
+    "created_at": "Fri Oct 09 11:34:34 +0000 2026",
+    "full_text": "RT @varelacorina1: https://t.co/m2DkHwN6cq",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108521390651396327",
+    "created_at": "Fri Oct 09 11:34:08 +0000 2026",
+    "full_text": "RT @iasg2710: El respeto se gana, no se pide. Y la Argentina lo está recuperando. Hace dos años nos decían que el mundo nos iba a dar vuelt…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108521154788921626",
+    "created_at": "Fri Oct 09 11:33:12 +0000 2026",
+    "full_text": "RT @eduardomenoni: 🚨🇧🇷 El candidato presidencial de Brasil Flávio Bolsonaro, sobre el Juez comunista Moraes:\n\n“El Senado va a proteger al S…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108521070823104847",
+    "created_at": "Fri Oct 09 11:32:52 +0000 2026",
+    "full_text": "RT @BolsonaroSP: 🇦🇷 MORAES FAMOSO EN LATINOAMÉRICA\n\nNunca fui notificado formalmente en este proceso. Por lo tanto, nunca pude defenderme,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108521005396193590",
+    "created_at": "Fri Oct 09 11:32:36 +0000 2026",
+    "full_text": "RT @AlanWentin21322: .@JMilei 👏👏\n\"Esto es una revolución moral. Si querés tenés los de muy lindos modales pero que te metían la mano en el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108519790981558666",
+    "created_at": "Fri Oct 09 11:27:47 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🗓️ ¡MILEI PREPARA UNA AGENDA INTERNACIONAL CON FUERTE PERFIL POLÍTICO!\n✈️ El Presidente tiene previstos viajes a Estados…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108519009800827153",
+    "created_at": "Fri Oct 09 11:24:40 +0000 2026",
+    "full_text": "EL CAMPEÓN DE LA CAMPAÑA DEL MIEDO (la que ha esparcido por todo el continente interfiriendo en elecciones de otros países) AHORA ENCUENTRA QUE LOS MONSTRUOS SON LOS QUE ESTÁN EN SUS FILAS...\nSAY NO MORE...",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2108517226093383875",
+    "created_at": "Fri Oct 09 11:17:35 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨EL PROFE ÁLVAREZ LE RESPONDE AL RECTOR K DE LA UNIVERSIDAD NACIONAL DE ROSARIO Y PUSO LOS PUNTOS EN TN\n\n\"5.500 millones\"…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108516820730651033",
+    "created_at": "Fri Oct 09 11:15:59 +0000 2026",
+    "full_text": "RT @Tv_Libertaria: 🇦🇷Javier Milei logró que América se vuelva de DERECHA, fue el FARO del Continente https://t.co/SWTdrlYce0",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108516782411567142",
+    "created_at": "Fri Oct 09 11:15:49 +0000 2026",
+    "full_text": "RT @julianyosovitch: El mundo se la está pegando pero en ARG no lo estamos sintiendo. Estos son los beneficios de haber hecho el delivery (…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2108516697061609863",
+    "created_at": "Fri Oct 09 11:15:29 +0000 2026",
+    "full_text": "RT @agarra_pala: IVAN CARRINO PRENDIÓ FUEGO TODO: \"CRISTINA Y KICILLOF HICIERON UN EXPERIMENTO DE EXTREMA REGULACIÓN\"\n@JMilei @ivancarrino…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2108422350148452517",
     "created_at": "Fri Oct 09 05:00:35 +0000 2026",
     "full_text": "RT @agarra_pala: 🇦🇷✈️ LOS PRÓXIMOS VIAJES DEL PRESIDENTE MILEI EN OCTUBRE QUE HACEN COLAPSAR AL ZURDAJE MUNDIAL\n\n\"VIAJE A ESTADOS UNIDOS Y…",
