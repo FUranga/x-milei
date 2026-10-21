@@ -1,5 +1,789 @@
 [
   {
+    "id": "2113027886018146441",
+    "created_at": "Wed Oct 21 22:01:20 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇪🇸🇦🇷 | “MILEI NO ESTÁ ALEJADO DE LA REALIDAD AL LLAMAR DICTADOR A PEDRO SÁNCHEZ”\n\nEl candidato derechista de VOX, San…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113027818720571633",
+    "created_at": "Wed Oct 21 22:01:04 +0000 2026",
+    "full_text": "RT @OPRArgentina: Discurso del Presidente Javier Milei en la presentación del Máster Universitario en Economía de la Escuela Austríaca, en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113027648205345166",
+    "created_at": "Wed Oct 21 22:00:24 +0000 2026",
+    "full_text": "RT @travaglinigra: Atendida magistral jajaja",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113027606744609005",
+    "created_at": "Wed Oct 21 22:00:14 +0000 2026",
+    "full_text": "RT @fargosi: Mientras el kirchnerismo pretende romper todo, nuestro presidente @JMilei sigue comprando reservas\n\nCórranse que estamos gober…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113027468731040129",
+    "created_at": "Wed Oct 21 21:59:41 +0000 2026",
+    "full_text": "RT @jm_frias: Bienvenido a tu casa, presidente @JMilei . Es una gran alegría recibirte en la @FDisenso .\n🇪🇸🤝🇦🇷 https://t.co/oSMIvG0c4x",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026998868271562",
+    "created_at": "Wed Oct 21 21:57:49 +0000 2026",
+    "full_text": "RT @MFKanselo: Discurso del Presidente Milei en la Universidad Rey Juan Carlos 🇦🇷🇦🇷🇦🇷👏 https://t.co/09UQ2U7heC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026939518881829",
+    "created_at": "Wed Oct 21 21:57:35 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇪🇸l Fenómeno barrial.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026816776806884",
+    "created_at": "Wed Oct 21 21:57:05 +0000 2026",
+    "full_text": "RT @hermanntertsch: -¡Santiago, que dicen los rojos y ladrones que ya no me quieres…!\n-¡Por eso estás ahora en mi despacho!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026768504500269",
+    "created_at": "Wed Oct 21 21:56:54 +0000 2026",
+    "full_text": "RT @AdrianRavier: Discurso completo del Presidente @JMilei en la Nueva Economía Fórum. 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026662711603277",
+    "created_at": "Wed Oct 21 21:56:29 +0000 2026",
+    "full_text": "RT @Miguel_Boggiano: Martín Varsavsky me contó que durante años no quiso invertir en Argentina. Con la llegada de Milei cambió su visión y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026578171244978",
+    "created_at": "Wed Oct 21 21:56:09 +0000 2026",
+    "full_text": "RT @Felii_N: BRILLANTE.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026537775898722",
+    "created_at": "Wed Oct 21 21:55:59 +0000 2026",
+    "full_text": "RT @CasaRosada: La Secretaria General de la Presidencia, Karina Milei, recibió en la Casa Rosada al Embajador de los Estados Unidos en la R…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026520008839187",
+    "created_at": "Wed Oct 21 21:55:55 +0000 2026",
+    "full_text": "RT @hermanntertsch: Maravilloso @JMilei respetando todo lo que es respetable y dejando muy claro todo lo que no lo es. ¡Gracias presidente…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026459573121231",
+    "created_at": "Wed Oct 21 21:55:40 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: En agosto de 2026, el Índice de Salarios del Sector Registrado marcó un crecimiento de 2,6% en relación al mes anterior…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026439851507991",
+    "created_at": "Wed Oct 21 21:55:36 +0000 2026",
+    "full_text": "RT @DiegoMac227: Es muy gracioso ver a un grupo minúsculo en la Universidad Rey Juan Carlos gritar ¡Aquí estamos los antifascistas! en prot…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113026147428823194",
+    "created_at": "Wed Oct 21 21:54:26 +0000 2026",
+    "full_text": "RT @MFKanselo: Estamos mucho mejor! Falta! Pero será! Total sinceridad del Presidente Milei 🇦🇷🇦🇷🇦🇷👏 https://t.co/TgSo9Ib1Vy",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113025655428567359",
+    "created_at": "Wed Oct 21 21:52:29 +0000 2026",
+    "full_text": "RT @AdrianRavier: En la Universidad Rey Juan Carlos de Madrid, junto al Presidente @JMilei y el profesor Dr. Don Jesús Huerta de Soto. 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113025630447288655",
+    "created_at": "Wed Oct 21 21:52:23 +0000 2026",
+    "full_text": "RT @hermanntertsch: ¿Cómo no van a odiar Sánchez y su banda de forajidos, que solo son expertos en robo, odio, mentira y violencia, a algui…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113025569940234570",
+    "created_at": "Wed Oct 21 21:52:08 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇪🇸l Maravilloso encuentro entre Milei y el Profesor Jesús Huerta de Soto.\n\nVLLC https://t.co/ky8TEmT3RH",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113025549681783088",
+    "created_at": "Wed Oct 21 21:52:03 +0000 2026",
+    "full_text": "RT @AleMonteoliva: MONA DE ALTO RIESGO\n\nDaiana “La Diabla” Leguizamón, condenada por extorsión y vinculada a Los Monos, ya está bajo el nue…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113025520782987426",
+    "created_at": "Wed Oct 21 21:51:56 +0000 2026",
+    "full_text": "RT @mediceneljefe: Bienvenida histórica de @IdiazAyuso a @JMilei en Madrid: \"Sus éxitos serán también los nuestros\". Las dos capitales de l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113025447210688657",
+    "created_at": "Wed Oct 21 21:51:39 +0000 2026",
+    "full_text": "RT @IdiazAyuso: Es una enorme alegría dar la bienvenida en Madrid a @JMilei, Presidente de Argentina. \n\nSentimos un profundo afecto por est…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113025260677378537",
+    "created_at": "Wed Oct 21 21:50:54 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇪🇸👏 \"DECIDIMOS TRABAJAR PARA QUE HAYA CIUDADANOS LIBRES, EMPEZAMOS A CAMBIAR EL CHIP Y DEJAR EL MAR ROJO ATRÁS, LA GENTE Q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113025108742926833",
+    "created_at": "Wed Oct 21 21:50:18 +0000 2026",
+    "full_text": "RT @labatalla26: 🟨⬛️ La más grande amistad de alumno y profesor. Dos gigantes en la teoría y en la práctica económica. @JMilei @JHS_Oficial…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113024752688459794",
+    "created_at": "Wed Oct 21 21:48:53 +0000 2026",
+    "full_text": "RT @DiegoMac227: Exactamente,  una gran calidad humana.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113024722778890471",
+    "created_at": "Wed Oct 21 21:48:46 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: ARGENTINA FARO DE LIBERTAD\n\n📍Nueva Economía Forum 2026, Madrid. https://t.co/4TUos2HMor",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113024528599359523",
+    "created_at": "Wed Oct 21 21:48:00 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: LAS EXPORTACIONES AGROINDUSTRIALES ALCANZARON UN NUEVO RÉCORD HISTÓRICO EN SEPTIEMBRE\n✅ En septiembre las exportaciones d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113024502607298818",
+    "created_at": "Wed Oct 21 21:47:54 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: EVOLUCIÓN DEL NIVEL DE ACTIVIDAD EN AGOSTO\n✅ El Estimador Mensual de Actividad Económica (EMAE) creció 0,1% mensual en la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113024442003841188",
+    "created_at": "Wed Oct 21 21:47:39 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: CRECEN SALARIOS, JUBILACIONES Y LA AUH\n✅ El Índice de Salarios (IS) del Sector Registrado creció 2,6% mensual en agosto,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113024417282621514",
+    "created_at": "Wed Oct 21 21:47:33 +0000 2026",
+    "full_text": "RT @mediceneljefe: @NicolasMayoraz expuso que la casta defiende una Ley de Expropiaciones de 1977 con juicios que duran más de 18 años y 6%…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113024350630936982",
+    "created_at": "Wed Oct 21 21:47:17 +0000 2026",
+    "full_text": "RT @wallstwolverine: Abascal, después de que Milei haya llamado “dictador” a Pedro Sánchez: “No creo que esté alejado de la realidad. Yo le…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113024271241126000",
+    "created_at": "Wed Oct 21 21:46:59 +0000 2026",
+    "full_text": "RT @Milei_Media: 🇦🇷 MILEI EN MADRID DESTRUYÓ A PEDRO SÁNCHEZ\n\n“Los socialistas prefieren reinar en el infierno a servir en el cielo”.\n\n🧵👇 h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113023874824847650",
+    "created_at": "Wed Oct 21 21:45:24 +0000 2026",
+    "full_text": "RT @MarcosdeQuinto: Hoy en @EspejoPublico decían algunos que @Santi_ABASCAL no quería “hacerse una foto” con @JMilei por “conveniencia elec…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113023827341201616",
+    "created_at": "Wed Oct 21 21:45:13 +0000 2026",
+    "full_text": "RT @mediceneljefe: Masterclass de @JMilei con el caso de los neumáticos: el paredón que obligaba a pagarlos cuatro veces más caro era un ro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113023366739398800",
+    "created_at": "Wed Oct 21 21:43:23 +0000 2026",
+    "full_text": "RT @gusty_natasha: El Presidente @JMilei mantuvo una reunión con la Presidente de la Comunidad de Madrid, @IdiazAyuso, durante su visita a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113023202763137271",
+    "created_at": "Wed Oct 21 21:42:44 +0000 2026",
+    "full_text": "RT @JMilei: 100 AÑOS DE PERDÓN...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113023085515587594",
+    "created_at": "Wed Oct 21 21:42:16 +0000 2026",
+    "full_text": "RT @mileibarrial: Pero cómo????? Si a mí el diario zurdo @el_pais y muchos más me dijeron que no se reunía y nadie quería verlo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113023009380499542",
+    "created_at": "Wed Oct 21 21:41:58 +0000 2026",
+    "full_text": "RT @ekammerath: Excelente Milei!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113022391295291674",
+    "created_at": "Wed Oct 21 21:39:30 +0000 2026",
+    "full_text": "RT @hermanntertsch: Aquí un gilipollas desde Madrid desinformando a otro gilipollas en Buenos Aires intentando decir que la visita de Javie…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113022242267566363",
+    "created_at": "Wed Oct 21 21:38:55 +0000 2026",
+    "full_text": "RT @FAST_GAST: El presidente Javier Milei y el profesor Jesús Huerta de Soto, dos titanes que día a día dan la batalla cultural a capa y es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113019984981209242",
+    "created_at": "Wed Oct 21 21:29:57 +0000 2026",
+    "full_text": "RT @luispetri: Occidente está en peligro porque abandonó todas las ideas y valores que lo hicieron grande. Ya lo dijo @JMilei en Davos. \n\nP…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113014691270369477",
+    "created_at": "Wed Oct 21 21:08:54 +0000 2026",
+    "full_text": "RT @Milei_Media: EL VIAJE DE MILEI A EUROPA\n\nJavier Milei mantuvo encuentros con Isabel Díaz Ayuso y su equipo de gobierno, Pedro Rollán y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113014657569231034",
+    "created_at": "Wed Oct 21 21:08:46 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇪🇸l Upssss.... que decian los ensobrados?",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113014642532552771",
+    "created_at": "Wed Oct 21 21:08:43 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨 MILEI HABLÓ DEL ESCÁNDALO DE CEUTA Y MOSTRÓ LOS PELIGROS DE DEJAR ENTRAR A MILES DE PERSONAS DE FORMA IRREGULAR\n\n👉 \"Se e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113014618042028039",
+    "created_at": "Wed Oct 21 21:08:37 +0000 2026",
+    "full_text": "RT @FAST_GAST: VLLC!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113014087722627448",
+    "created_at": "Wed Oct 21 21:06:31 +0000 2026",
+    "full_text": "RT @Santiago_Oria: CERRANDO ORTOS DE OPERADORES MENTIROSOS, TOMA 2",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113014070156890225",
+    "created_at": "Wed Oct 21 21:06:26 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Excelente el diputado @luispetri:\n\n“Occidente está en peligro, y en frente hay un enemigo que es despiadado, que es el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112990488055923034",
+    "created_at": "Wed Oct 21 19:32:44 +0000 2026",
+    "full_text": "RT @xestadominimo: Javier Milei es de los pocos gobernantes que siempre dicen la verdad. Pedro Sanchez es un impresentable dictador además…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112990448893452656",
+    "created_at": "Wed Oct 21 19:32:35 +0000 2026",
+    "full_text": "RT @rcas1: Cuando fue el año pico de la payasada woke?\n\nEn occidente y en tu país. \n(No todos despiertan al mismo ritmo)",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112990363673637175",
+    "created_at": "Wed Oct 21 19:32:14 +0000 2026",
+    "full_text": "RT @madrid_vox: Del socialismo a la prosperidad‼️ \n\n@JMilei ha demostrado que se puede plantar cara al modelo que empobrece y devolver al c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112990331134472367",
+    "created_at": "Wed Oct 21 19:32:07 +0000 2026",
+    "full_text": "RT @DiegoMac227: En este sentido, hagamos un poco de historia: la palabra liberal, como etiqueta política, nace en la Corte de Cádiz, a ini…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112990307872596432",
+    "created_at": "Wed Oct 21 19:32:01 +0000 2026",
+    "full_text": "RT @agarra_pala: MILEI SOLTÓ UNA BOMBA INESPERADA SOBRE ESPAÑA Y LOS KUKAS NO PARAN DE LLORAR\n@JMilei https://t.co/Ru0wNJhTO0",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112990206605562345",
+    "created_at": "Wed Oct 21 19:31:37 +0000 2026",
+    "full_text": "RT @hermanntertsch: El presidente argentino Javier @JMilei está que se sale.\nEs capaz de llegar a Madrid y provocar un ataque de nervios en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112990103303836039",
+    "created_at": "Wed Oct 21 19:31:12 +0000 2026",
+    "full_text": "RT @pabloquirno: “Sin horario, foto ni prensa…” https://t.co/A5bcsNRedi",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112990006876803498",
+    "created_at": "Wed Oct 21 19:30:49 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI DESTACÓ EL HISTÓRICO TRIUNFO DEL LIBERTARISMO EN ARGENTINA: El presidente afirmó que Occidente necesita vo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112989971548123604",
+    "created_at": "Wed Oct 21 19:30:41 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇪🇸l Diálogo entre Milei y Abascal. https://t.co/ORsgIIkYdY",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112989955354140898",
+    "created_at": "Wed Oct 21 19:30:37 +0000 2026",
+    "full_text": "RT @nnairob: Arjantin başkanı Javier Milei, Profesör Jesús Huerta de Soto ile bir araya geldi.\n\nKahvehane liberteryenleri için kötü bir gün…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112989848256532898",
+    "created_at": "Wed Oct 21 19:30:11 +0000 2026",
+    "full_text": "RT @dreidel1: I lived in New York for nearly twenty years.\n\nMamdani has been a disaster as mayor and he has shown just how despicable a per…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112989661777809511",
+    "created_at": "Wed Oct 21 19:29:27 +0000 2026",
+    "full_text": "RT @RightNewsShow: 🚨🇮🇱🇫🇷🇬🇧 | Benjamín Netanyahu explotó contra el islamismo radical y lanzó una demoledora advertencia sobre su impacto en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112989479707263329",
+    "created_at": "Wed Oct 21 19:28:44 +0000 2026",
+    "full_text": "100 AÑOS DE PERDÓN...",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2112989181597126701",
+    "created_at": "Wed Oct 21 19:27:32 +0000 2026",
+    "full_text": "RT @vitoquiles: Le pido ayuda al presidente Javier Milei para echar a la gentuza de extrema izquierda el próximo 29 de noviembre. https://t…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112989067743056218",
+    "created_at": "Wed Oct 21 19:27:05 +0000 2026",
+    "full_text": "RT @SPettovelloOK: COMUNICADO OFICIAL.\n@JMilei https://t.co/I7HqTculAj",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112989035115233746",
+    "created_at": "Wed Oct 21 19:26:58 +0000 2026",
+    "full_text": "RT @DiegoMac227: Al destructor de España se le olvida que intervino directamente en las elecciones de Argentina en el 2023 y 2025 cuando ha…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988980819976656",
+    "created_at": "Wed Oct 21 19:26:45 +0000 2026",
+    "full_text": "RT @gaceta_es: Santiago Abascal y Javier Milei conversan por videollamada y muestran su amistad y su alianza política: «Te agradezco mucho…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988939644547158",
+    "created_at": "Wed Oct 21 19:26:35 +0000 2026",
+    "full_text": "RT @rcas1: Lo único que genera la tecnología es progreso y bienestar para toda la humanidad.\n\nSi la tecnología generara desempleo, Japón no…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988841854259416",
+    "created_at": "Wed Oct 21 19:26:11 +0000 2026",
+    "full_text": "RT @FAST_GAST: El Presidente @JMilei  mantuvo una reunión con la Presidente de la Comunidad de Madrid, Isabel Díaz Ayuso, durante su visita…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988815765700871",
+    "created_at": "Wed Oct 21 19:26:05 +0000 2026",
+    "full_text": "RT @ninavars: Así se habla!!! 💥💥 https://t.co/MBGk7Y0pJA",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988518884442246",
+    "created_at": "Wed Oct 21 19:24:54 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: MÁS TECNOLOGÍA EN EL GARRAHAN PARA TRATAR EL CÁNCER EN PACIENTES PEDIÁTRICOS\n\nEl Garrahan puso en funcionamiento un nu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988494742348157",
+    "created_at": "Wed Oct 21 19:24:49 +0000 2026",
+    "full_text": "RT @CarajoStream: MILEI LIQUIDÓ A PEDRO SÁNCHEZ EN MADRID 🔥\n\nA la salida del Fórum Europa, Milei respondió a la provocación del PSOE: “No m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988447476461762",
+    "created_at": "Wed Oct 21 19:24:37 +0000 2026",
+    "full_text": "RT @hermanntertsch: Están los medios de la agit-prop del gobierno criminal de La Moncloa muy alborotados por la presencia de nuestro admira…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988346519556594",
+    "created_at": "Wed Oct 21 19:24:13 +0000 2026",
+    "full_text": "RT @MinDesreg_Ar: El Ministro de Desregulación y Transformación del Estado, @fedesturze, junto al jefe de Gabinete, @diegosantilli, partici…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988323341849052",
+    "created_at": "Wed Oct 21 19:24:08 +0000 2026",
+    "full_text": "RT @Felii_N: Los medios zurdos españoles llorando y demonizando a Milei porque es influyente. Cuando se iba All-verso de viaje, no se enter…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112988166734930151",
+    "created_at": "Wed Oct 21 19:23:31 +0000 2026",
+    "full_text": "RT @manuelquintar: El mejor Presidente de la historia dando cátedra en España.\n\nExcelente @JMilei 🇦🇷💪🏻",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112986548807647501",
+    "created_at": "Wed Oct 21 19:17:05 +0000 2026",
+    "full_text": "RT @FDisenso: Fue un honor recibir en la Fundación Disenso a @JMilei, presidente de la República Argentina y firmante de la Carta de Madrid…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112986488510325173",
+    "created_at": "Wed Oct 21 19:16:50 +0000 2026",
+    "full_text": "RT @DiegoMac227: Cuanta verdad\n\n\"Un Estado que, por su estructura y su tamaño, ha dejado de responder a las demandas genuinas de la poblaci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112986468838719948",
+    "created_at": "Wed Oct 21 19:16:46 +0000 2026",
+    "full_text": "RT @FAST_GAST: 🇦🇷 MILEI EN ESPAÑA: “LA ARGENTINA ESTÁ A LAS PUERTAS DE SU NUEVO GRAN RENACIMIENTO”.\n\nEl Presidente @JMilei  disertó en el N…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112986197836591126",
+    "created_at": "Wed Oct 21 19:15:41 +0000 2026",
+    "full_text": "RT @tonyaracre: Así es como vamos a mejorar la calidad de vida de la gente y ganar las elecciones en 2027:  Bajando la inflación y mejorand…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112984324916088844",
+    "created_at": "Wed Oct 21 19:08:15 +0000 2026",
+    "full_text": "UN NIÑO PRODIGIO\nEl día que la Banda Presidenncial esté para volver al ruedo tendremos en una canción a un invitado de lujo...",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2112983718688100824",
+    "created_at": "Wed Oct 21 19:05:50 +0000 2026",
+    "full_text": "RT @AnissimaAni: Gracias Javier . Cuando la calidad humana , supera a un a la gran calidad política . 😘@JMilei https://t.co/lpAIpyauWi",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112957463616266591",
+    "created_at": "Wed Oct 21 17:21:30 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇪🇸l Dando una Masterclass en España. https://t.co/mrukYxL559",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112956289613464035",
+    "created_at": "Wed Oct 21 17:16:50 +0000 2026",
+    "full_text": "RT @javierlanari: Más precisión. Mejor planificación. Más esperanza de vida. Un salto tecnológico enorme en el servicio de oncología. El tr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112956260144320568",
+    "created_at": "Wed Oct 21 17:16:43 +0000 2026",
+    "full_text": "RT @HospGarrahan: ENTRÓ EN FUNCIONAMIENTO NUESTRO NUEVO TOMOSIMULADOR, FUNDAMENTAL PARA TRATAR EL CÁNCER \n\nEl nuevo tomosimulador, adquirid…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112956223154749921",
+    "created_at": "Wed Oct 21 17:16:35 +0000 2026",
+    "full_text": "RT @EconomiaMises: “Los impuestos son un robo a gran escala, porque atentan contra el derecho de propiedad y su finalidad es mantener a una…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112956155408359847",
+    "created_at": "Wed Oct 21 17:16:18 +0000 2026",
+    "full_text": "RT @ezequielgigante: El cariño espontáneo de todas las edades. https://t.co/XPnv5iyEBs",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112955966735994908",
+    "created_at": "Wed Oct 21 17:15:33 +0000 2026",
+    "full_text": "RT @ppmadrid: La presidenta @IdiazAyuso ha mantenido un encuentro con el presidente de la República Argentina, @JMilei, en las instalacione…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112955860762644739",
+    "created_at": "Wed Oct 21 17:15:08 +0000 2026",
+    "full_text": "RT @tonyaracre: Hacer periodismo es contar la realidad e incluso opinar y editorializarla. Y si querés, podés imprimirle tu ideología tambi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112955725458620532",
+    "created_at": "Wed Oct 21 17:14:36 +0000 2026",
+    "full_text": "RT @cristiannmillo: Segundo día de baja de riesgo país ahora. Baja mas del 2%. A 650 basis. El riesgo país va al baile de la tasa americana…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112955661059313705",
+    "created_at": "Wed Oct 21 17:14:21 +0000 2026",
+    "full_text": "RT @ldacos1: ¡SALIERON TODOS EN MALÓN A TERGIVERSAR LAS PALABRAS DE MILEI!\n\nUna cosa es criticar al Gobierno y otra muy distinta es tergive…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112955151145152803",
+    "created_at": "Wed Oct 21 17:12:19 +0000 2026",
+    "full_text": "RT @Santi_ABASCAL: ¡Que me ocupa el despacho... ! 😂 https://t.co/qxkZS3NvTZ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112955050490212613",
+    "created_at": "Wed Oct 21 17:11:55 +0000 2026",
+    "full_text": "RT @juanif17: Si sos competente y no te pueden controlar, te van a odiar\n\nJavier Milei es ultra-competente y no lo pueden controlar, por es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112954895032578473",
+    "created_at": "Wed Oct 21 17:11:18 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇪🇸 | “ARGENTINA VA A EXPERIMENTAR UN PROCESO DE CRECIMIENTO COMO NUNCA SE HA VISTO EN SU HISTORIA”\n\nEl presidente J…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112954822475624801",
+    "created_at": "Wed Oct 21 17:11:01 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: Milei EXPLOTÓ contra el socialismo en España 🇪🇸 https://t.co/lS0vX2IlcD",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112954777390686472",
+    "created_at": "Wed Oct 21 17:10:50 +0000 2026",
+    "full_text": "RT @fededomin: Apoyar a dictadores es de zurdo, debilitar las fronteras es de zurdo, robarle al Estado es de zurdo, transar con cuanto movi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112954321981632628",
+    "created_at": "Wed Oct 21 17:09:01 +0000 2026",
+    "full_text": "RT @AdrianRavier: Precisamente por la inmigración descontrolada representada en estos números, el Presidente @JMilei repitió en Madrid que…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112953659642237394",
+    "created_at": "Wed Oct 21 17:06:23 +0000 2026",
+    "full_text": "RT @wallstwolverine: Milei: “Lo que está pasando en Ceuta es emblemático de la izquierda. Prefieren reinar en el infierno a servir en el ci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112953623848071432",
+    "created_at": "Wed Oct 21 17:06:15 +0000 2026",
+    "full_text": "RT @jmilei_english: Today, the world demands four things: energy, minerals, food, and a knowledge economy. Argentina is at the forefront of…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112953500925575339",
+    "created_at": "Wed Oct 21 17:05:46 +0000 2026",
+    "full_text": "RT @fedesturze: Argentina será próspera. VLLC!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112953486501458052",
+    "created_at": "Wed Oct 21 17:05:42 +0000 2026",
+    "full_text": "RT @dlacalle: Echar al socialismo es la única manera de recuperar la prosperidad y el crecimiento.\n\nEl socialismo es -siempre- miseria.\n\n@J…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112953441848807538",
+    "created_at": "Wed Oct 21 17:05:31 +0000 2026",
+    "full_text": "RT @MinDesreg_Ar: Cada gran revolución tecnológica despertó miedo y resistencia. Pasó con la escritura, con la máquina de vapor y con Inter…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112953415428894741",
+    "created_at": "Wed Oct 21 17:05:25 +0000 2026",
+    "full_text": "RT @BolsonaroSP: La alegría de quien jamás tendrá su rostro estampado en un misil iraní!\n@JMilei @vox_es @FDisenso 👏👏👏",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112953348190044470",
+    "created_at": "Wed Oct 21 17:05:09 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2112953326622920913",
+    "created_at": "Wed Oct 21 17:05:04 +0000 2026",
+    "full_text": "RT @DiegoMac227: La visita de Milei a España, sus declaraciones y sus discursos me confirman algo que siempre he admirado de él: nunca ha c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112953152785813728",
+    "created_at": "Wed Oct 21 17:04:23 +0000 2026",
+    "full_text": "RT @ViejoLibertario: 🚨🛎️🛎️🛎️ ATENCIÓN ESPAÑA 🇪🇸\n\nEscuchen a @JMilei, es un viajero en el tiempo y viene del futuro.\n\nEspaña, si no pega un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112952991464493373",
+    "created_at": "Wed Oct 21 17:03:44 +0000 2026",
+    "full_text": "RT @Santiago_Oria: CERRANDO ORTOS DE OPERADORES MENTIROSOS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112949227663855795",
+    "created_at": "Wed Oct 21 16:48:47 +0000 2026",
+    "full_text": "RT @OPRArgentina: En su visita a España, el Presidente Javier Milei mantuvo una reunión con autoridades de VOX, y saludó por videollamada a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112949206570631563",
+    "created_at": "Wed Oct 21 16:48:42 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei revolucionó todo en su visita a España 🇦🇷🇪🇸 https://t.co/zwPYA5Qo5c",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112949151075869133",
+    "created_at": "Wed Oct 21 16:48:28 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei mantuvo una reunión con la Presidente de la Comunidad de Madrid, Isabel Díaz Ayuso, durante su…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112949093337018647",
+    "created_at": "Wed Oct 21 16:48:15 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei explica que la revolución del petróleo y el gas nació de liberar el precio del barril con el Dec…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112949076387873098",
+    "created_at": "Wed Oct 21 16:48:11 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei denuncia que la izquierda fomenta la invasión que se vive en Ceuta porque cada inmigrante es un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112949064161484948",
+    "created_at": "Wed Oct 21 16:48:08 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei destaca que los jóvenes que quieren irse del país bajaron al 25%, después de rondar el 45% con C…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112949051905691652",
+    "created_at": "Wed Oct 21 16:48:05 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Presidente @JMilei, en su discurso del Nueva Economía Forum 2026, en Madrid, denuncia que cientos de miles de argen…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2112949003675394419",
+    "created_at": "Wed Oct 21 16:47:53 +0000 2026",
+    "full_text": "RT @SantilanJuli223: En medio de un año electoral decisivo en España, la irrupción de @JMilei funciona como un brutal memento mori para el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2112913389080989994",
     "created_at": "Wed Oct 21 14:26:22 +0000 2026",
     "full_text": "RT @ArgMilei: LONG LIVE FREEDOM DAMMIT!💪\n@JMilei",
