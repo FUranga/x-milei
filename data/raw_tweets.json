@@ -1,5 +1,131 @@
 [
   {
+    "id": "2113176334629282141",
+    "created_at": "Thu Oct 22 07:51:13 +0000 2026",
+    "full_text": "DE MANUAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2113084172336251180",
+    "created_at": "Thu Oct 22 01:45:00 +0000 2026",
+    "full_text": "RT @agustinromm: Javier Milei: \"La izquierda está aliada con el islamismo radical asesino pone-bombas, que en Argentina nos pusieron dos bo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113084123661378007",
+    "created_at": "Thu Oct 22 01:44:48 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🛢l Ustedes pueden ver que hoy Argentina se está convirtiendo en un tremendo exportador en temas de petróleo y gas. Hay u…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113083994975989760",
+    "created_at": "Thu Oct 22 01:44:18 +0000 2026",
+    "full_text": "RT @GAFrancosOk: Se necesita mucha convicción y valentía para hacer los cambios que está haciendo @JMilei https://t.co/HGDxfViiYe",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113083740968898793",
+    "created_at": "Thu Oct 22 01:43:17 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: 🇦🇷🇪🇸 | MILEI EN ESPAÑA: “LOS IMPUESTOS SON UN ROBO” https://t.co/yB1WhEMW0l",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113083684098351395",
+    "created_at": "Thu Oct 22 01:43:04 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Presidente de lujo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113083664141828470",
+    "created_at": "Thu Oct 22 01:42:59 +0000 2026",
+    "full_text": "RT @lilialemoine: ¡OPERACIÓN EN CURSO!\nEs burdo, pero lo hacen porque FUNCIONA. Y ES GRAVISIMO.\nLa prensa ha manipulado la imagen de @JMile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113068062136266830",
+    "created_at": "Thu Oct 22 00:40:59 +0000 2026",
+    "full_text": "RT @pabloquirno: TMAP 🇦🇷🇦🇷🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113068030486016035",
+    "created_at": "Thu Oct 22 00:40:52 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇪🇸🚨 EL PRESIDENTE MILEI JUNTO A JESÚS HUERTA DE SOTO EN LA UNIVERSIDAD REY JUAN CARLOS DE MADRID\n\n\"BINVENIDOS A ESTA CASA.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113067911380439539",
+    "created_at": "Thu Oct 22 00:40:23 +0000 2026",
+    "full_text": "RT @labatalla26: 🟨⬛️ Discurso íntegro del Presidente de Argentina @JMilei en el 10th Congreso de Economía Austriaca celebrado en Madrid. Es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113067859710779435",
+    "created_at": "Thu Oct 22 00:40:11 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇪🇸 | MILEI SE REUNIÓ CON ISABEL DÍAZ AYUSO EN MADRID: El presidente argentino mantuvo un encuentro con la president…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113067819432919498",
+    "created_at": "Thu Oct 22 00:40:01 +0000 2026",
+    "full_text": "RT @LaVonHayek: Excelente. \nNo lo entiende el que no quiere. https://t.co/gDq4apV21s",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113067792555745710",
+    "created_at": "Thu Oct 22 00:39:55 +0000 2026",
+    "full_text": "RT @DiegoMac227: Dato mata relato\n\n\"Es más: cuando llegamos al gobierno, la inflación viajaba al 1,5% diario, de vuelta 1,5% diario, que ve…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113067772934820136",
+    "created_at": "Thu Oct 22 00:39:50 +0000 2026",
+    "full_text": "RT @PanAmPost_es: 🇦🇷🇪🇸 | El presidente argentino, Javier Milei, se encuentra de gira en España y su presencia fue el acontecimiento polític…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113067708996817105",
+    "created_at": "Thu Oct 22 00:39:35 +0000 2026",
+    "full_text": "RT @FinanzasArgy: 🟢🇦🇷 Los salarios registrados subieron 2,6% en agosto y le ganaron a la inflación por tercer mes consecutivo, según INDEC.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113067621545644525",
+    "created_at": "Thu Oct 22 00:39:14 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇪🇸 | MILEI BASADÍSIMO CONTRA UN PERIODISTA ESPAÑOL: \"SI VOS QUERÉS ABRAZARTE A UN ESLOGAN EMOCIONAL, BIEN, AMO TU C…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113067495125057781",
+    "created_at": "Thu Oct 22 00:38:44 +0000 2026",
+    "full_text": "RT @dlacalle: Para los indignaditos.\nNunca olvides que Sánchez, Yolanda Díaz, Podemos y toda la ultraizquierda caviar llorona apoyaron e hi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113034786482913666",
+    "created_at": "Wed Oct 21 22:28:46 +0000 2026",
+    "full_text": "RT @laderechadiario: 🇦🇷🚀 | EFECTO MILEI: LOS SALARIOS CRECIERON 2,6% MENSUAL EN AGOSTO Y LE VOLVIERON A GANAR A LA INFLACIÓN\n\nEl ministro L…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2113027886018146441",
     "created_at": "Wed Oct 21 22:01:20 +0000 2026",
     "full_text": "RT @laderechadiario: 🚨🇪🇸🇦🇷 | “MILEI NO ESTÁ ALEJADO DE LA REALIDAD AL LLAMAR DICTADOR A PEDRO SÁNCHEZ”\n\nEl candidato derechista de VOX, San…",
