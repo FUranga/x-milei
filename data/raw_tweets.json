@@ -1,5 +1,201 @@
 [
   {
+    "id": "2113725194514633137",
+    "created_at": "Fri Oct 23 20:12:12 +0000 2026",
+    "full_text": "AMIGOS SON LOS AMIGOS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2113725120728444968",
+    "created_at": "Fri Oct 23 20:11:54 +0000 2026",
+    "full_text": "RT @pabloquirno: Excelente reunión con el Presidente @jmilei, Chris Landau (@DeputySecState), Juan Pablo Segura (@WHAAsstSecty), Viviana Bo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113721061409779799",
+    "created_at": "Fri Oct 23 19:55:46 +0000 2026",
+    "full_text": "RT @FAST_GAST: Totalmente orgulloso de militar al gran @JMilei, desde los comienzos hasta el presente!\nVLLC!!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113720921701634281",
+    "created_at": "Fri Oct 23 19:55:13 +0000 2026",
+    "full_text": "RT @ARGinUSA: 🇦🇷🤝🇺🇸",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113720655237566620",
+    "created_at": "Fri Oct 23 19:54:09 +0000 2026",
+    "full_text": "RT @ARGinUSA: 🇦🇷🤝🇺🇸",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113707041638453458",
+    "created_at": "Fri Oct 23 19:00:04 +0000 2026",
+    "full_text": "RT @aetchebarne: Ahora, en el Congreso de RELIAL en Medellín, el “coloso” @fedesturze arranca aplausos y carcajadas contando con maestría l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113707009593815227",
+    "created_at": "Fri Oct 23 18:59:56 +0000 2026",
+    "full_text": "RT @latatuadageral: Tipaso dios mío \nSe bajó del auto, saludo a todos, \nLe cantamos el cumple soplo la vela y se llevó las tortas lo amamos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113706936617054266",
+    "created_at": "Fri Oct 23 18:59:39 +0000 2026",
+    "full_text": "RT @agarra_pala: 🎥 COBERTURA EXCLUSIVA DE AGARRA LA PALA EN EL FESTEJO DEL CUMPLEAÑOS DEL PRESIDENTE JAVIER MILEI\n\n🦁 El TIPAZO QUE TENEMOS…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113706766487662774",
+    "created_at": "Fri Oct 23 18:58:58 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇧🇷🇦🇷 | SE VIENE: Eduardo Bolsonaro propuso liberalizar el Mercosur junto a Milei.\n\n\"Milei y Flávio tienen una converg…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113706740189430017",
+    "created_at": "Fri Oct 23 18:58:52 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: No dejen de ver lo que pasa en el mundo. Hoy Argentina es PALABRA MAYOR. Nuestro @JMilei es adorado por todos los seres…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113706701736030453",
+    "created_at": "Fri Oct 23 18:58:43 +0000 2026",
+    "full_text": "RT @ARGinUSA: 🇦🇷🤝🇺🇸",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113706355215204431",
+    "created_at": "Fri Oct 23 18:57:20 +0000 2026",
+    "full_text": "RT @fargosi: Efecto @JMilei en Alemania.\n\nEmpiezan a darse cuenta del desastre que cometen desde hace décadas.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113706170963681438",
+    "created_at": "Fri Oct 23 18:56:36 +0000 2026",
+    "full_text": "RT @HoracioCabak: Para los preocupados por los endeudados, un 25% del costo financiero son impuestos.\nY la mayoría son impuestos provincial…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113706092043886702",
+    "created_at": "Fri Oct 23 18:56:17 +0000 2026",
+    "full_text": "RT @AdrianRavier: Reglas claras y estables traen inversión, y la inversión trae empleo. El proyecto de Toyota en Zárate, adherido al RIGI,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113706074482372892",
+    "created_at": "Fri Oct 23 18:56:13 +0000 2026",
+    "full_text": "RT @SPettovelloOK: La ministra de Capital Humano, Sandra Pettovello, recibió a Patricia Jebsen, reconocida referente en empleabilidad, desa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113706046866731502",
+    "created_at": "Fri Oct 23 18:56:06 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l Tipazo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113705976419209494",
+    "created_at": "Fri Oct 23 18:55:50 +0000 2026",
+    "full_text": "RT @pabloquirno: Hoy recibí a Tristan Pascall, CEO de First Quantum Minerals, y a miembros de su Directorio, encabezados por su Presidente,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113705848124166555",
+    "created_at": "Fri Oct 23 18:55:19 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei recibió en Casa Rosada al Vicesecretario de Estado de los Estados Unidos, Christopher Landau.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113705796601270742",
+    "created_at": "Fri Oct 23 18:55:07 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei junto al Vicesecretario de Estado de los Estados Unidos, Christopher Landau, en Casa Rosada. h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113702665721151574",
+    "created_at": "Fri Oct 23 18:42:40 +0000 2026",
+    "full_text": "RT @slcaputo: Mal que le pese a alguno, cuando todo este proceso haya terminado la Argentina habrá cambiado para siempre porque sólo hay un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113702608133333362",
+    "created_at": "Fri Oct 23 18:42:27 +0000 2026",
+    "full_text": "RT @fededomin: Falta mucho. No se pueden arreglar 80 años de populismo en 34 meses, menos aún teniendo una oposición como Kicillof y Massa.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113702522473050504",
+    "created_at": "Fri Oct 23 18:42:06 +0000 2026",
+    "full_text": "RT @HoracioMarin_ok: Hoy recibimos al subsecretario de Estado de Estados Unidos, @ChrisLandauUSA; al secretario adjunto para Asuntos del He…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113702504902865175",
+    "created_at": "Fri Oct 23 18:42:02 +0000 2026",
+    "full_text": "RT @LeofaccoTweet: Bernardo Ferrero (@BernFerrr ), presidente dell'ISTITUTO JAVIER MILEI, insieme al presidente argentino alla \"Décima Conf…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113702488708927758",
+    "created_at": "Fri Oct 23 18:41:58 +0000 2026",
+    "full_text": "RT @SPettovelloOK: En el Centro de Formación Capital Humano capacitamos en oficios para facilitar una rápida salida laboral.\n\nComo Abel, qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113702467078906086",
+    "created_at": "Fri Oct 23 18:41:53 +0000 2026",
+    "full_text": "RT @AdrianRavier: Un médico que se recibe hoy puede tramitar su título y su matrícula nacional en un solo paso, sin costo y desde su casa.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113702445737971863",
+    "created_at": "Fri Oct 23 18:41:48 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: “El caso argentino genera admiración en el mundo” https://t.co/mDpYkA8Kbm",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113702429707444534",
+    "created_at": "Fri Oct 23 18:41:44 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l Tenemos al mejor presidente de la historia Argentina, un gran ser humano. https://t.co/vC9CRKbibS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2113701947135942860",
+    "created_at": "Fri Oct 23 18:39:49 +0000 2026",
+    "full_text": "RT @AleCiroAlvarez: QUIÉN CIERRA REALMENTE LAS UNIVERSIDADES?\n\nCumpliendo con lo que dijimos en la Comisión de Presupuesto, abajo les dejo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2113626167114699124",
     "created_at": "Fri Oct 23 13:38:42 +0000 2026",
     "full_text": "RT @LeofaccoTweet: Mentre 4 inutili idioti (tra cui qualche truffatore collettivo) pretendono di dare patenti di libertarismo, il president…",
