@@ -1,5 +1,61 @@
 [
   {
+    "id": "2114818530499535288",
+    "created_at": "Mon Oct 26 20:36:43 +0000 2026",
+    "full_text": "MASTERCLASS TOTAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2114818475684192614",
+    "created_at": "Mon Oct 26 20:36:30 +0000 2026",
+    "full_text": "RT @AcostashowJuan: El periodismo debe volver a estudiar ética, sobre todo! https://t.co/4oTIhxkEFo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2114818178333237750",
+    "created_at": "Mon Oct 26 20:35:19 +0000 2026",
+    "full_text": "RT @lilialemoine: Deberían pedir perdón por los \"errores\" que cometen PERO NO. Se victimizan y banalizan la represión y la censura. Mientra…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2114817996640186422",
+    "created_at": "Mon Oct 26 20:34:36 +0000 2026",
+    "full_text": "RT @SPettovelloOK: La ministra Sandra Pettovello firmó un convenio con representantes de la Cámara Argentina Fintech y del Instituto Argent…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2114816980167328229",
+    "created_at": "Mon Oct 26 20:30:34 +0000 2026",
+    "full_text": "RT @dlaje1: Felicito a toda la izquierda latinoamericana, por garantizar las condiciones para el desarrollo económico de sus respectivos pa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2114815652401643651",
+    "created_at": "Mon Oct 26 20:25:17 +0000 2026",
+    "full_text": "RT @fedesturze: La libertad funciona! Y por Dios … miren estos números. El mercado de capitales está desplazando a una velocidad increíble…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2114814259813298684",
+    "created_at": "Mon Oct 26 20:19:45 +0000 2026",
+    "full_text": "RT @tonyaracre: El ÍNDICE DE CONFIANZA EN EL GOBIERNO (ICG) SIGUE CRECIENDO EN OCTUBRE\n\nEste relevante indicador de la UTDT correlaciona mu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2114813388417069324",
+    "created_at": "Mon Oct 26 20:16:17 +0000 2026",
+    "full_text": "RT @mediceneljefe: En el mes 34, la confianza en @JMilei SUBE a 1,95 y SUPERA a Macri (1,76), CFK 1 (1,70), CFK 2 (1,65) y Alberto (1,28).…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2114760373811163412",
     "created_at": "Mon Oct 26 16:45:38 +0000 2026",
     "full_text": "RT @mila_manfredi: 26 de octubre. A un año de una de las victorias más épicas de todos los tiempos. El día que el acuerdo Milei-Santilli di…",
