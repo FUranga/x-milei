@@ -1,5 +1,159 @@
 [
   {
+    "id": "2115116260367204736",
+    "created_at": "Tue Oct 27 16:19:48 +0000 2026",
+    "full_text": "RT @liendovictoria: me pegan por decir lo que escuché en lugar de someterme a la percepción mayoritaria, y yo no puedo mentir: si hubiera e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115115566469968225",
+    "created_at": "Tue Oct 27 16:17:02 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Expertos en recortes maliciosos y tergiversaciones de lo dicho.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115115505564434553",
+    "created_at": "Tue Oct 27 16:16:48 +0000 2026",
+    "full_text": "RT @DiegoMac227: Maravilloso trabajo.\nImpecable, recomiendo su lectura.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115114154163855526",
+    "created_at": "Tue Oct 27 16:11:25 +0000 2026",
+    "full_text": "RT @ninavars: ¡Enhorabuena a mi marido y a todo el equipo de Gameto! \nUn gran avance para todas las mujeres que queremos tener hijos, pero…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115114062027616684",
+    "created_at": "Tue Oct 27 16:11:03 +0000 2026",
+    "full_text": "ADMIRABLE.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2115113994000224669",
+    "created_at": "Tue Oct 27 16:10:47 +0000 2026",
+    "full_text": "RT @martinvars: Gameto, mi sexto unicornio, acaba de ser comprado por Ferring por 1.380 millones de dólares\n\nEn 2020 hice una donación a la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115111835359650242",
+    "created_at": "Tue Oct 27 16:02:13 +0000 2026",
+    "full_text": "RT @DiegoJRecalde: Casi todos los periodistas nombrados por Milei piden que liberen a la condenada para que pueda competir.\nLa causa $Libra…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115111718648992210",
+    "created_at": "Tue Oct 27 16:01:45 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: Martin Menem expone a Hugo AlcoLondres HuMon \nEl operador de los Saguier (LaNación) insiste con sus operaciones y menti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115110195047108628",
+    "created_at": "Tue Oct 27 15:55:42 +0000 2026",
+    "full_text": "RT @dreidel1: New version of our paper with @JMilei!!\n\nThis time we're also launching a website with animations and interactive graphics. I…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115100969138565549",
+    "created_at": "Tue Oct 27 15:19:02 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: Nueva versión del paper de Milei y Reidel sobre La Escala Mínima Viable de una Economía. Además, en el website hay una…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115089712763347110",
+    "created_at": "Tue Oct 27 14:34:18 +0000 2026",
+    "full_text": "RT @SPettovelloOK: En Corrientes, con Ver para Ser Libres alcanzamos la cobertura total de la provincia. Más de 7 mil controles oftalmológi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115089602918633630",
+    "created_at": "Tue Oct 27 14:33:52 +0000 2026",
+    "full_text": "RT @mediceneljefe: Cátedra de @JoseLuisDazaAR sobre @JMilei: lo que se ha logrado en Argentina no tiene antecedentes en 30 años en democrac…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115077286311432471",
+    "created_at": "Tue Oct 27 13:44:55 +0000 2026",
+    "full_text": "NUEVA VERSIÓN del papar que hemos desarrollado con @dreidel1 .\nA disfrutar de nueva teoría económica de calidad y con aplicación concreta a la política económica de Argentina. \nMAGA!\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2115076547258294415",
+    "created_at": "Tue Oct 27 13:41:59 +0000 2026",
+    "full_text": "RT @dreidel1: De Lanús a Silicon Valley.\n\nEste sitio está alojado en @vercel. La fundó Guille Rauch (@rauchg).\n\nTalento tenemos. Dejémoslo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115076492522594453",
+    "created_at": "Tue Oct 27 13:41:46 +0000 2026",
+    "full_text": "RT @dreidel1: Prueben subir los impuestos en la animación de las máquinas hasta que la empresa deje de ser viable. \nDespués prueben bajarlo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115076373412798721",
+    "created_at": "Tue Oct 27 13:41:18 +0000 2026",
+    "full_text": "RT @dreidel1: Nueva versión de nuestro paper con @JMilei!!\n\nEsta vez estrenamos también un sitio web con animaciones y gráficos interactivo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115045525233729715",
+    "created_at": "Tue Oct 27 11:38:43 +0000 2026",
+    "full_text": "RT @tonyaracre: El BNA, lejos el Banco de mayor participación de mercado, anuncia que ya adjudicó el 100% del monto de la primera licitació…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115042838412964301",
+    "created_at": "Tue Oct 27 11:28:02 +0000 2026",
+    "full_text": "RT @InMilei: - Flavio Bolsonaro: We recognize Lula's victory 😔\n\n- Kast: Congratulations, Lula! 🥰\n- Fujimori: Congratulations, Lula! 🥰\n- Abe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115041934771093846",
+    "created_at": "Tue Oct 27 11:24:27 +0000 2026",
+    "full_text": "RT @Lek_ANCAP: El \"PUNTO DE NO RETORNO\" según Mises:\n\n\"Un Estado se vuelve casi irreformable en el punto en que la mayoría de la población…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115041533023900131",
+    "created_at": "Tue Oct 27 11:22:51 +0000 2026",
+    "full_text": "RT @NebulaMiuYodi: @LucatCopatBeyer https://t.co/gssbtk9vCd",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115041322352468400",
+    "created_at": "Tue Oct 27 11:22:01 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: VICTIMIZACIÓN COLECTIVISTA. \nVictimizarse en manada es muy de la época albertista. El periodismo hizo programas entero…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2115041252727013443",
+    "created_at": "Tue Oct 27 11:21:44 +0000 2026",
+    "full_text": "RT @DiegoMac227: El mejor congreso de la Escuela Austriaca se realiza en la Universidad Rey Juan Carlos, donde participo Milei con un discu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2114934157415465025",
     "created_at": "Tue Oct 27 04:16:11 +0000 2026",
     "full_text": "RT @AlejandraM37880: Cuando tenes el mejor presidente del mundo!!\nAura @JMilei https://t.co/h5KLpEz3Pk",
