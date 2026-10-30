@@ -1,5 +1,530 @@
 [
   {
+    "id": "2116207955322233120",
+    "created_at": "Fri Oct 30 16:37:48 +0000 2026",
+    "full_text": "RT @luisrodriguezrm: Elijan a su María Pauta Santillan favorita: https://t.co/3InhQInmRc",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116207912020570599",
+    "created_at": "Fri Oct 30 16:37:38 +0000 2026",
+    "full_text": "RT @julianyosovitch: La calma cambiaria se mantiene y la distancia entre el techo de la banda y el spot se amplió a 26,7%, cerca de máximos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116207765651632558",
+    "created_at": "Fri Oct 30 16:37:03 +0000 2026",
+    "full_text": "RT @visegrad24: Javier Milei:\n\n“Socialists propose redistribution of wealth because they're not capable of creating it themselves.” https:/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116207706885247201",
+    "created_at": "Fri Oct 30 16:36:49 +0000 2026",
+    "full_text": "RT @RightNewsShow: 🚨🇦🇷 | Luis “Toto” Caputo destacó el liderazgo internacional del presidente Javier Milei y afirmó que sus reformas económ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116207631522038113",
+    "created_at": "Fri Oct 30 16:36:31 +0000 2026",
+    "full_text": "RT @MelenaCreciente: NOL$ALP 💜",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116207390181740862",
+    "created_at": "Fri Oct 30 16:35:33 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇧🇷🇦🇷 | URGENTE — TIENE QUE PAGAR: El miserable periodista Pablo Duggan publicó los números de pasaporte de las hijas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116207252503662891",
+    "created_at": "Fri Oct 30 16:35:00 +0000 2026",
+    "full_text": "RT @lilialemoine: Rusia e Irán. RECUERDEN ESO.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116207080847646852",
+    "created_at": "Fri Oct 30 16:34:19 +0000 2026",
+    "full_text": "RT @MandrilandiaX: ESTO NO LO VAS A VER EN LOS MEDIOS:\n\n“El señor Presidente estuvo ayer en Catamarca. Generó una muchedumbre aclamando a J…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116206741163589887",
+    "created_at": "Fri Oct 30 16:32:58 +0000 2026",
+    "full_text": "RT @axelwahnish: Gran emoción participar de la presentación del libro “Rescatado. La esperanza que me mantuvo vivo en cautiverio”, escrito…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116203852189831531",
+    "created_at": "Fri Oct 30 16:21:30 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷✅ “ALCANZA EL SUELDO PARA VIVIR BIEN”\n\nLES FALLÓ LA OPERETA A LOS KIRCHNERISTAS DE AR12 Y SE LLEVARON UNA SORPRESA EN ON…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116203805444296711",
+    "created_at": "Fri Oct 30 16:21:19 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | CAPUTO DESTACÓ A MILEI COMO UNO DE LOS TRES LÍDERES MUNDIALES\n\n@LuisCaputoAR aseguró que el liderazgo internacio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116203754051481913",
+    "created_at": "Fri Oct 30 16:21:06 +0000 2026",
+    "full_text": "RT @elonmusk: My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will:\n\n1.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116203374920061310",
+    "created_at": "Fri Oct 30 16:19:36 +0000 2026",
+    "full_text": "EXTRAORDINARIO",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2116203322969329978",
+    "created_at": "Fri Oct 30 16:19:24 +0000 2026",
+    "full_text": "RT @tipitoenojado: Este es el SPOT de CFK mas sincero que vi en mi vida https://t.co/kV6NnN2EIf",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116203182019809650",
+    "created_at": "Fri Oct 30 16:18:50 +0000 2026",
+    "full_text": "RT @DiegoMac227: Excelente y mas claro imposible,  Milei es único y no existe dos candidatos para la presidencia. https://t.co/9elU4BIImk",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116203109198205030",
+    "created_at": "Fri Oct 30 16:18:33 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2116203090839810293",
+    "created_at": "Fri Oct 30 16:18:28 +0000 2026",
+    "full_text": "RT @marklevinshow: Milei is a great leader",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116203051203571736",
+    "created_at": "Fri Oct 30 16:18:19 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: Fenómeno Barrial",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116203020098601439",
+    "created_at": "Fri Oct 30 16:18:11 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷✅ “SE ACOMODÓ LA ECONOMÍA”\n\nESTUDIANTE DEJÓ BOQUIABIERTO AL KUKA DE C5N EN VILLA CRESPO Y OPINÓ SOBRE EL GOBIERNO DE MIL…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116202726912577854",
+    "created_at": "Fri Oct 30 16:17:01 +0000 2026",
+    "full_text": "MUCHOS LO ENTIENDEN\nSólo los mentirosos seriales se niegan a tomar el punto, ya que la mentira se ha transformado en su modo de vida.\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2116202094457688343",
+    "created_at": "Fri Oct 30 16:14:31 +0000 2026",
+    "full_text": "RT @basta_deverso: 🟢 GRAN CONSEJO PARA LOS PERIODISTAS!! \n\n\"Periodismo berreta, ustedes no nos dan lastima, el dia que dejen de operar..\"…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116201847811629389",
+    "created_at": "Fri Oct 30 16:13:32 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | SE CAE LA OPERETA KUKA: LA MORA BANCARIA VOLVIÓ A BAJAR EN SEPTIEMBRE Y MEJORÓ EL PAGO DE LAS FAMILIAS\n\nSegún da…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116201827314057245",
+    "created_at": "Fri Oct 30 16:13:27 +0000 2026",
+    "full_text": "RT @julianyosovitch: El crédito ARS al sector privado se recuperó con fuerza.  En NOV23, los préstamos en términos reales rondaban los $67…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116201757827088510",
+    "created_at": "Fri Oct 30 16:13:10 +0000 2026",
+    "full_text": "RT @BreakPointMP: 💸 ¡EL RIGI YA SUMA 48 PROYECTOS POR US$210.000 MILLONES!\n📊 Luis Caputo confirmó que 30 ya fueron aprobados por casi US$80…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116201660188127720",
+    "created_at": "Fri Oct 30 16:12:47 +0000 2026",
+    "full_text": "RT @fedesturze: Que gran movida! Para los economistas un bien con costo marginal cero tiene q usarse todo lo posible. El paseo a la noche e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116201468663386554",
+    "created_at": "Fri Oct 30 16:12:01 +0000 2026",
+    "full_text": "RT @IdiazAyuso: Buenos días. Que no se nos pase que Zapatero no ha explicado cómo tiene unas joyas valoradas en un millón de euros que, ade…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116201124604543401",
+    "created_at": "Fri Oct 30 16:10:39 +0000 2026",
+    "full_text": "RT @RightNewsShow: 🚨🇮🇱🇦🇷 | El primer ministro israelí, Benjamín Netanyahu, elogió al presidente Javier Milei, destacó su valentía y firmeza…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116201070753976756",
+    "created_at": "Fri Oct 30 16:10:27 +0000 2026",
+    "full_text": "RT @AXELKAISER: Hasta el Washington Post habla de la derivada autoritaria en Brasil. Y toda la izquierda celebrando al delincuente de Lula…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116201042534699488",
+    "created_at": "Fri Oct 30 16:10:20 +0000 2026",
+    "full_text": "RT @braga_dito: EL DATO DECISIVO NO ES SOLO QUE LOS AUDIOS SON FALSOS. \nLO GRAVE ES QUE UNA FALSIFICACIÓN  ADQUIRIÓ EL VALOR DE \"VERDAD POL…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116200648022831463",
+    "created_at": "Fri Oct 30 16:08:46 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ CAPUTO SACÓ LOS DATOS Y MOSTRÓ LA CANTIDAD DE PYMES QUE BUSCAN METERSE EN EL RIGI\n\n🔥 \"El objetivo de esta reunión es RE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116200567210996098",
+    "created_at": "Fri Oct 30 16:08:26 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇷 | LOS MEDIOS TUVIERON QUE ADMITIR SUS MENTIRAS: El periodista Joni Viale reconoció en TN que los grandes medios…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116200445710393795",
+    "created_at": "Fri Oct 30 16:07:58 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Excelente como María Ibarzábal explica todo lo que habilitó la aprobación de la Ley Bases: RIGI, reforma del Estado, mo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116200415746261151",
+    "created_at": "Fri Oct 30 16:07:50 +0000 2026",
+    "full_text": "RT @pabloquirno: Llegamos a la reunión de Cancilleres del G20 para mostrar una Argentina que, bajo el liderazgo del Presidente @JMilei, dec…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116200195989876852",
+    "created_at": "Fri Oct 30 16:06:58 +0000 2026",
+    "full_text": "RT @fedesturze: Vale la pena escuchar esta presentación! VLLC!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116200138586607914",
+    "created_at": "Fri Oct 30 16:06:44 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Excelente @MeryCastiglioni",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116200125596864707",
+    "created_at": "Fri Oct 30 16:06:41 +0000 2026",
+    "full_text": "RT @lilialemoine: La pauta hace rato es internacional... de otro modo no de explica por qué un periodista mentiría contra su propio gobiern…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116196036251119953",
+    "created_at": "Fri Oct 30 15:50:26 +0000 2026",
+    "full_text": "RT @FlaquitoFer10: Otra vez volvieron a mentir los Soretes ensobrados cómplices de los políticos corruptos 😡 👇 . https://t.co/aYBtOLYgaz",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116195477339193522",
+    "created_at": "Fri Oct 30 15:48:13 +0000 2026",
+    "full_text": "RT @AXELKAISER: Editorial de Wall Street Journal explica la persecución política y los presos políticos que el régimen proto autoritario qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116195354542563544",
+    "created_at": "Fri Oct 30 15:47:44 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Hoy con la militancia LLA de Flores y Parque Chacabuco.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116195325178175857",
+    "created_at": "Fri Oct 30 15:47:37 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇺🇸 | MILEI CONSIGUE UN RESPALDO HISTÓRICO DE TRUMP: Estados Unidos proyecta movilizar hasta USD 30.000 millones par…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116195274355839281",
+    "created_at": "Fri Oct 30 15:47:25 +0000 2026",
+    "full_text": "RT @aetchebarne: Los peritos determinaron que los audios de Spagnuolo tampoco eran auténticos. \n\nInsólito: es la primera noticia que aparec…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116195214058549626",
+    "created_at": "Fri Oct 30 15:47:10 +0000 2026",
+    "full_text": "RT @javierlanari: El 2026 será el tercer año consecutivo con equilibrio en las cuentas públicas. No ocurría hace prácticamente 20 años. El…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116194955777523939",
+    "created_at": "Fri Oct 30 15:46:09 +0000 2026",
+    "full_text": "RT @Miguel_Boggiano: José Luis Daza (@JoseLuisDazaAR) me explicó por qué espera que la economía argentina acelere su crecimiento. La baja d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116194919467368806",
+    "created_at": "Fri Oct 30 15:46:00 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷💰 \"EL RIGI ES EL NORTE DE LA ECONOMÍA QUE PODEMOS Y QUEREMOS SER\"\n\nMASTERCLASS DE LA SECRETARIA IBARZABAL MURPHY SOBRE E…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116194867562836320",
+    "created_at": "Fri Oct 30 15:45:48 +0000 2026",
+    "full_text": "RT @PatoBullrich: Tenemos media sanción a la Ley de Salud Mental.\n\nEsta Ley es intervenir a tiempo: cuidar a las personas que sufren, a las…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116193225119600743",
+    "created_at": "Fri Oct 30 15:39:16 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨SE NORMALIZA LA MORA EN LOS BANCOS🚨\n➡️Segun @1816_estrategia,  el ratio de irregularidad de familias bajó en SEP26 en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116192820465635677",
+    "created_at": "Fri Oct 30 15:37:40 +0000 2026",
+    "full_text": "RT @braga_dito: INFOBAE Y NACHO GIRÓN: CÓMO FABRICAN CRISIS DE AISLAMIENTO CON HECHOS NO ACREDITADOS\nLa nota reúne una escena de gabinete r…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116192714601402807",
+    "created_at": "Fri Oct 30 15:37:14 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | MILEI IMPULSA INVERSIONES MILLONARIAS CON SEGURIDAD JURÍDICA: La secretaria Legal y Técnica de la Presidencia, M…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116192400750096799",
+    "created_at": "Fri Oct 30 15:35:59 +0000 2026",
+    "full_text": "RT @TommyShelby_30: Excelente como María Ibarzábal explica todo lo que habilitó la aprobación de la Ley Bases: RIGI, reforma del Estado, mo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116191394448450008",
+    "created_at": "Fri Oct 30 15:32:00 +0000 2026",
+    "full_text": "RT @EconomiaMises: “El libre mercado es el único sistema que permite a los individuos beneficiarse de sus propias habilidades, en lugar de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116190783724241231",
+    "created_at": "Fri Oct 30 15:29:34 +0000 2026",
+    "full_text": "RT @AXELKAISER: El fraude del siglo: pagamos impuestos por lo que ganamos, pagamos impuestos por lo que gastamos y pagamos impuestos por lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116190582905229408",
+    "created_at": "Fri Oct 30 15:28:46 +0000 2026",
+    "full_text": "RT @mediceneljefe: @MenemMartin y una definición sin discusión: \"No hay dos candidatos en @LLibertadAvanza\". El liderazgo de @JMilei es úni…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116190446716129528",
+    "created_at": "Fri Oct 30 15:28:14 +0000 2026",
+    "full_text": "RT @isaacrrr7: Javier Milei: “No tengo nada en contra de los artistas. Yo mismo tuve una banda de rock. Mi problema es que si necesitas una…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116190395331727492",
+    "created_at": "Fri Oct 30 15:28:01 +0000 2026",
+    "full_text": "RT @Itongadol: Embajadora de Israel en Argentina: “El presidente Milei es para nosotros un amigo de verdad, que entiende lo que pasa en Isr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116190080326898098",
+    "created_at": "Fri Oct 30 15:26:46 +0000 2026",
+    "full_text": "RT @PilarRamirezmpr: Durante 16 años, la Ley de Salud Mental priorizó el discurso sobre las respuestas.\n\nMucho relato de derechos humanos.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116168183610528028",
+    "created_at": "Fri Oct 30 13:59:46 +0000 2026",
+    "full_text": "RT @mediceneljefe: Magistral @ClaudioZucho: devaluar no soluciona 20 años de atraso, solo licúa salarios. El problema es el costo argentino…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116168115549614235",
+    "created_at": "Fri Oct 30 13:59:29 +0000 2026",
+    "full_text": "RT @Tomidiazcueto: Datos de los ultimos 5 días:\n\n- Absolución de Milei en Libra.\n- Audios falsos en causa Andis.\n- Aumentó el indice de con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116168064379097460",
+    "created_at": "Fri Oct 30 13:59:17 +0000 2026",
+    "full_text": "RT @LLA_Diputados: OTRA REFORMA DEL DNU 70/23 🇦🇷 \n\n@MiriamNiveyro @JMilei https://t.co/eYHVQpkCRO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116167987778445731",
+    "created_at": "Fri Oct 30 13:58:59 +0000 2026",
+    "full_text": "RT @AdrianRavier: @FedericoFuriase explica que la suba del riesgo país está 100 % correlacionado con las adversidades del contexto internac…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116167805020131805",
+    "created_at": "Fri Oct 30 13:58:15 +0000 2026",
+    "full_text": "RT @fedesturze: Quizás no haya conciencia del beneficio potencial de esto. Permitirá exportaciones por unos 2.000 millones de dólares que s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116167754466095414",
+    "created_at": "Fri Oct 30 13:58:03 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: La Secretaria Legal y Técnica, María Ibarzabal, en el encuentro de IDEA, reafirma el desafío que planteó el Presidente…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116167172112208318",
+    "created_at": "Fri Oct 30 13:55:44 +0000 2026",
+    "full_text": "RT @econviews: 1/ 🟢La mora bancaria bajó en septiembre por primera vez de forma clara.\n\nCon el CENDEU, estimamos la irregularidad del crédi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116166987554398251",
+    "created_at": "Fri Oct 30 13:55:00 +0000 2026",
+    "full_text": "RT @braga_dito: MACRI / PRO-LLA\n\nMacri dijo que “no se ha avanzado nada” en el acuerdo PRO-LLA. La frase fue al título pero el cuerpo de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116166445302169644",
+    "created_at": "Fri Oct 30 13:52:51 +0000 2026",
+    "full_text": "RT @Felii_N: Aura. https://t.co/IsJOIkS6HJ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116165964618170414",
+    "created_at": "Fri Oct 30 13:50:57 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2116165763044147220",
+    "created_at": "Fri Oct 30 13:50:09 +0000 2026",
+    "full_text": "RT @AcostashowJuan: Buenos días periodistas! https://t.co/3zpO7c2cbf",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116165645758849173",
+    "created_at": "Fri Oct 30 13:49:41 +0000 2026",
+    "full_text": "RT @VivianaIsasi: LOS PERIODISTAS QUE SE SUBEN A LAS OPERETAS ELECTORALES EN MEDIO DE UNA CAMPAÑA NO PUEDEN SALIR IMPUNES \n\nEl daño que oca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116165558198542578",
+    "created_at": "Fri Oct 30 13:49:20 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: La Secretaria Legal y Técnica, María Ibarzabal, denuncia que la maraña regulatoria argentina frenó la inversión, prote…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116165474065014896",
+    "created_at": "Fri Oct 30 13:49:00 +0000 2026",
+    "full_text": "RT @Itongadol: CEO de la B’nai B’rith Internacional: ‘‘Quisiera que todos los líderes del mundo sean cercanos al mundo judío y a Israel com…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116159443515637787",
+    "created_at": "Fri Oct 30 13:25:02 +0000 2026",
+    "full_text": "RT @fedesturze: Y, un día, ganó la libertad. En este caso en CABA. Felicitaciones a todos los que votaron estos proyectos. A los que no los…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116159361710014932",
+    "created_at": "Fri Oct 30 13:24:42 +0000 2026",
+    "full_text": "RT @braga_dito: ANTE LOS DATOS LA HEREJÍA LA COMETE EL TÍTULO DE DONOVAN EN LA NACIÓN\n\nFlorencia Donovan titula “herejía” pero el cuerpo de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116158207101948197",
+    "created_at": "Fri Oct 30 13:20:07 +0000 2026",
+    "full_text": "RT @JonatanViale: Brasil.\n\nEn 2014, quien compitió contra el PT, está muerto.  \nEn 2018, quien compitió contra el PT, fue apuñalado.  \nEn 2…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116157938435817939",
+    "created_at": "Fri Oct 30 13:19:03 +0000 2026",
+    "full_text": "RT @VoLDaily: “Those who expect to reap the blessings of freedom must undergo the fatigues of supporting it.”\n\n— Thomas Paine https://t.co/…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116157867384312244",
+    "created_at": "Fri Oct 30 13:18:46 +0000 2026",
+    "full_text": "MAGA!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2116157767257862552",
+    "created_at": "Fri Oct 30 13:18:22 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: SALUD MENTAL: UN AVANCE PARA LOS PACIENTES Y SUS FAMILIAS\n\nLas personas que atraviesan problemas de salud mental y sus…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2116032131935736111",
     "created_at": "Fri Oct 30 04:59:08 +0000 2026",
     "full_text": "RT @jmilei_english: Judeo-Christian values are the foundation of the West and of free enterprise capitalism, which generated the greatest f…",
