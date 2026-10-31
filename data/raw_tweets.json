@@ -1,5 +1,404 @@
 [
   {
+    "id": "2116418223788654668",
+    "created_at": "Sat Oct 31 06:33:20 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | EL PRESIDENTE MÁS QUERIDO DE LA HISTORIA: Javier Milei fue recibido entre aplausos, ovaciones y gritos de “¡PRES…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116418137474105451",
+    "created_at": "Sat Oct 31 06:32:59 +0000 2026",
+    "full_text": "RT @AdrianRavier: @JMilei volvió a la Universidad Torcuato Di Tella. Conferencia completa 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116418060282142856",
+    "created_at": "Sat Oct 31 06:32:41 +0000 2026",
+    "full_text": "RT @FlavioArenales: Al terminar el discurso en la universidad torcuato di tella \nEl presidente @JMilei se saco selfies y firmo un dolar de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116418016611025329",
+    "created_at": "Sat Oct 31 06:32:30 +0000 2026",
+    "full_text": "RT @somoscorta: Así entró Javier Milei a la Universidad Torcuato Di Tella para dar una \"clase magistral\".\n\nhttps://t.co/ASi4qayayS https://…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116416713860190599",
+    "created_at": "Sat Oct 31 06:27:20 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: EL PROFE\n\nLos estudiantes de la Universidad Torcuato Di Tella invitaron al Presidente Javier Milei a brindar una clase…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116416667903221826",
+    "created_at": "Sat Oct 31 06:27:09 +0000 2026",
+    "full_text": "RT @FerroAnton: Periodismo argentino. \nY no es un chiste. https://t.co/GUMGdGyvKD",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116416428651757911",
+    "created_at": "Sat Oct 31 06:26:12 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ ASÍ ES COMO MILEI PRENDIÓ FUEGO TODO Y PIDIÓ CAMBIAR EL PAÍS PARA SIEMPRE\n\n🔥 \"Para ser un país GRANDE, tenes que ser LI…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116416128947818580",
+    "created_at": "Sat Oct 31 06:25:00 +0000 2026",
+    "full_text": "RT @slcaputo: Impresionante. Alguien dijo algo razonable.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116415185040646181",
+    "created_at": "Sat Oct 31 06:21:15 +0000 2026",
+    "full_text": "RT @Masilloo: El presidente esta en su mejor momento. https://t.co/KahudyxWKq",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116389541380534753",
+    "created_at": "Sat Oct 31 04:39:21 +0000 2026",
+    "full_text": "RT @FlavioArenales: Así lo recibían los jóvenes al presidente de la nación @JMilei  en la universidad torcuato di tella https://t.co/q4FDNP…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116389503812227446",
+    "created_at": "Sat Oct 31 04:39:12 +0000 2026",
+    "full_text": "RT @lilialemoine: 🫡 https://t.co/Lcyk2UL9Us",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116389478101119378",
+    "created_at": "Sat Oct 31 04:39:06 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: FUROR POR EL PROFE MILEI EN LA DI TELLA!!! VLLC!!! https://t.co/1tgInSgEvF",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116389452826185893",
+    "created_at": "Sat Oct 31 04:39:00 +0000 2026",
+    "full_text": "RT @Santiago_Oria: LA JUVENTUD ES LIBERAL https://t.co/P5qxmTv2Up",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116389395863416885",
+    "created_at": "Sat Oct 31 04:38:47 +0000 2026",
+    "full_text": "RT @Masilloo: El mejor presidente de la historia. Gracias Javier Gerardo Milei @JMilei 🥹🥹 https://t.co/F6cj1q1nRN",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116389148156186685",
+    "created_at": "Sat Oct 31 04:37:48 +0000 2026",
+    "full_text": "RT @Santiago_Oria: A sala completamente colmada, así esperan los alumnos de Di Tella a @JMilei https://t.co/HLvIl3zpVC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116389126756876679",
+    "created_at": "Sat Oct 31 04:37:43 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇦🇷 | OVACIONADO: ÉPICO RECIBIMIENTO AL PRESIDENTE MILEI EN LA CLASE MAGISTRAL DE LA UNIVERSIDAD DI TELLA\n\n“VAMOS JAVO!!”…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116389115042124055",
+    "created_at": "Sat Oct 31 04:37:40 +0000 2026",
+    "full_text": "RT @DiegoMac227: Fuentes usadas:\n\nRAFAM; SIPA; DPE-PBA; CUD; Censo 2022). Menos impuestos, más trabajo: https://t.co/KwX7xkQoGR  Municipios…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388982732832983",
+    "created_at": "Sat Oct 31 04:37:08 +0000 2026",
+    "full_text": "RT @Tcristina77: Y te das cuenta que el FUTURO ES LIBERAL cuando ves a los jóvenes AMAR a su LIDER que está transformando el mundo.\n\n@JMile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388960146505930",
+    "created_at": "Sat Oct 31 04:37:03 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨✅ “VIENEN BIEN, SI TE SABES ORGANIZAR”\n\nFALLO NUEVAMENTE LA OPERETA DE LOS KIRCHNERISTAS DE C5N EN UNA ENCUESTA CALLEJERA…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388948868002214",
+    "created_at": "Sat Oct 31 04:37:00 +0000 2026",
+    "full_text": "RT @SantilanJuli223: BAJANDO OPERETAS DE @LANACION",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388865975943421",
+    "created_at": "Sat Oct 31 04:36:40 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Vamos Javo ! 💥",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388639819104479",
+    "created_at": "Sat Oct 31 04:35:46 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l Milei el presidente mas querido por la juventud. https://t.co/hceuNitkcL",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388617773818101",
+    "created_at": "Sat Oct 31 04:35:41 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: Necesitamos el nombre de esta CHAD de la vida que hizo que a Mengolini se le quemen los pelos de la concha  https://t.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388369802330271",
+    "created_at": "Sat Oct 31 04:34:42 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇦🇷 | TODOS LOS ESTUDIANTES QUIEREN UNA FOTO CON MILEI TRAS LA MASTERCLASS EN UNIVERSIDAD DI TELLA\n\n\"Todas las fotos que q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388331160236442",
+    "created_at": "Sat Oct 31 04:34:33 +0000 2026",
+    "full_text": "RT @CeciRoffe: Universidad Torcuato Di Tella con el profe @JMilei https://t.co/lz9wzai0hM",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388261916467278",
+    "created_at": "Sat Oct 31 04:34:16 +0000 2026",
+    "full_text": "RT @EconomiaMises: “La inflación es una forma de impuestos, ya que el gobierno puede crear dinero nuevo de la nada y utilizarlo para quitar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388228336951484",
+    "created_at": "Sat Oct 31 04:34:08 +0000 2026",
+    "full_text": "RT @Tade_247oficial: La casta tiene miedo!!! \nhoy tuve el honor de escuchar y hacer cantar a @JMilei en Di tella, un honor escucharte presi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388137148555562",
+    "created_at": "Sat Oct 31 04:33:47 +0000 2026",
+    "full_text": "RT @Canallalibertar: Uno tras otro no pega una @C5N \n\nQue vuelvan los actores posta es menos patético y más gracioso  https://t.co/ysDC1HD6…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116388015396229439",
+    "created_at": "Sat Oct 31 04:33:18 +0000 2026",
+    "full_text": "RT @Tomidiazcueto: Espectacular entrevista en el programa de Mengolini. No es bait.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116387569730486329",
+    "created_at": "Sat Oct 31 04:31:31 +0000 2026",
+    "full_text": "RT @FlavioArenales: El presidente @jmilei en la universidad torcuato di tella\nDando un discurso con jóvenes https://t.co/sfFFEoDiDC",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116387544090775913",
+    "created_at": "Sat Oct 31 04:31:25 +0000 2026",
+    "full_text": "RT @Felii_N: Volando.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116386741963636993",
+    "created_at": "Sat Oct 31 04:28:14 +0000 2026",
+    "full_text": "RT @Felii_N: 100%. Es un patriota. Lo que está haciendo va a ser recordado por toda la historia. Es el que terminó con la larga noche kirch…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116386624573473109",
+    "created_at": "Sat Oct 31 04:27:46 +0000 2026",
+    "full_text": "RT @DiegoMac227: 📖l Estudiantes escuchando una Masterclass de Milei. https://t.co/6FjIifsEZo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116386560585163155",
+    "created_at": "Sat Oct 31 04:27:31 +0000 2026",
+    "full_text": "RT @pabloschiaffino: Cátedra! https://t.co/zLcgv7f5EE",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116386538388946955",
+    "created_at": "Sat Oct 31 04:27:25 +0000 2026",
+    "full_text": "RT @DiegoMac227: 📖l VIVA LA LIBERTAD CARAJO. https://t.co/KlGJj9nE3M",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116385959369486751",
+    "created_at": "Sat Oct 31 04:25:07 +0000 2026",
+    "full_text": "RT @AdrianRavier: Primero, reconstruir los cimientos con la Ley Bases y el DNU 70/23. Después, dar reglas estables a quienes invierten con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116385881929945425",
+    "created_at": "Sat Oct 31 04:24:49 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Por si a alguno todavía le quedaba alguna duda de que lo que pasó en la previa a las elecciones de medio término fue todo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116385793547612634",
+    "created_at": "Sat Oct 31 04:24:28 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: Gracias Rosario!!! Seguimos defendiendo las ideas de la libertad en todo el país. VLLC!!! https://t.co/7XLILKkENn",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116385771632361771",
+    "created_at": "Sat Oct 31 04:24:23 +0000 2026",
+    "full_text": "RT @HoracioMarin_ok: Hoy presentamos uno de los tres proyectos que estaremos incorporando al Régimen de Incentivo para Grandes Inversiones…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116385711980937579",
+    "created_at": "Sat Oct 31 04:24:08 +0000 2026",
+    "full_text": "RT @casigol66: La gente ama a Milei, dos días distintos, dos lugares diferentes. Lo adoran al Presidente. https://t.co/kLNeEXbyO5",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116385639750922282",
+    "created_at": "Sat Oct 31 04:23:51 +0000 2026",
+    "full_text": "TOMAR NOTA.\nCIAO!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2116385550219268448",
+    "created_at": "Sat Oct 31 04:23:30 +0000 2026",
+    "full_text": "RT @Fran_Casaretto_: El año que viene vamos a tener un problema grande porque la campaña kirchnerista va a estar bancada en buena parte con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116385325362631051",
+    "created_at": "Sat Oct 31 04:22:36 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | EL GARRAHAN AVANZA CON MILEI: MÁS CIRUGÍAS Y MEJOR ATENCIÓN PARA LOS NIÑOS\n\nGracias a la excelente gestión del G…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116385288452743480",
+    "created_at": "Sat Oct 31 04:22:27 +0000 2026",
+    "full_text": "RT @ElTrumpista: Periodista Kuka de AR12: “Cae un montón el consumo de carne, miren un pobre jubilado, seguro no come asado hace años”\n\nJub…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116385211315363949",
+    "created_at": "Sat Oct 31 04:22:09 +0000 2026",
+    "full_text": "RT @LnEnriquez: LA JUVENTUD DE @JMilei Y @romidiezok 🇦🇷🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116384967588516062",
+    "created_at": "Sat Oct 31 04:21:11 +0000 2026",
+    "full_text": "RT @ViejoLibertario: Aplausos para @FOPEA, y el  Periodismo en general, por reconocer que se habían SOBRE-Girado en informar especulaciones…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116384714349052157",
+    "created_at": "Sat Oct 31 04:20:11 +0000 2026",
+    "full_text": "RT @mediceneljefe: Prohibido olvidar: hace 3 años no había nafta y hacías horas de cola por culpa de los controles de precios. Destruyeron…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116382161271992353",
+    "created_at": "Sat Oct 31 04:10:02 +0000 2026",
+    "full_text": "RT @OPRArgentina: Discurso del Presidente Javier Milei en la Universidad Torcuato Di Tella. https://t.co/OSpopXFSoi",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116382145883075007",
+    "created_at": "Sat Oct 31 04:09:58 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l Masterclass",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116381885207117879",
+    "created_at": "Sat Oct 31 04:08:56 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | TIPAZO: EMOTIVO REGRESO DE MILEI A LA UNIVERSIDAD DI TELLA\n\nEl presidente @JMilei volvió a la institución donde…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116381682198618193",
+    "created_at": "Sat Oct 31 04:08:08 +0000 2026",
+    "full_text": "RT @LaVonHayek: Tremenda recepción al Javo en la UTDT. Ni idea que pasa en otras. https://t.co/bakfGaEps2",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116381652981010432",
+    "created_at": "Sat Oct 31 04:08:01 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Impresionante la cantidad de jóvenes que vinieron a ver a @JMilei en Di Tella. https://t.co/VUdkIbxVun",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116381626670170403",
+    "created_at": "Sat Oct 31 04:07:54 +0000 2026",
+    "full_text": "RT @Milei_Media: ASI ENTRABA @JMilei AL ENCUENTRO ORGANIZADO POR LOS ESTUDIANTES DE UNIVERSIDAD DI TELLA. VLLC…!!! https://t.co/F1hwjhmHrO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116381471426412633",
+    "created_at": "Sat Oct 31 04:07:17 +0000 2026",
+    "full_text": "VIVA LA LIBERTAD CARAJO",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2116381401180242380",
+    "created_at": "Sat Oct 31 04:07:01 +0000 2026",
+    "full_text": "RT @TommyShelby_30: El Presidente @JMilei ovacionado por la juventud en la Di Tella 👏🏻👏🏻👏🏻 https://t.co/p6BqIPzWeN",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116366928302182679",
+    "created_at": "Sat Oct 31 03:09:30 +0000 2026",
+    "full_text": "RT @pabloquirno: “Antes de publicar…”\n\nLas capturas abajo indican cuándo se publicó la nota (13:37) y cuándo el periodista de La Nación se…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2116331263220920637",
+    "created_at": "Sat Oct 31 00:47:47 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🇦🇷 MILEI EN MODO PROFESOR FUE OVACIONADO POR UNA MULTITUD DE ALUMNOS EN LA UNIVERSIDAD DI TELLA\n\n\"PRESIDENTE, PRESIDENTE.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2116282203336282387",
     "created_at": "Fri Oct 30 21:32:50 +0000 2026",
     "full_text": "RT @laderechadiario: 🚨🇦🇷🇧🇷 | PABLO QUIRNO DESMINTIÓ A LA NACIÓN POR UNA FAKE NEWS SOBRE BRASIL Y FLÁVIO BOLSONARO\n\nEl canciller de Milei de…",
