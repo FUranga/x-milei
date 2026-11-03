@@ -1,5 +1,614 @@
 [
   {
+    "id": "2117659074074439941",
+    "created_at": "Tue Nov 03 16:44:02 +0000 2026",
+    "full_text": "RT @AdrianRavier: Hasta la semana pasada, una empresa minera tenía que mandar sus lingotes de vuelta a la provincia de origen antes de expo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658981728706632",
+    "created_at": "Tue Nov 03 16:43:40 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: En el marco de la Conferencia Industrial de la @UIAok, el Ministro de Economía, @LuisCaputoAR, sostuvo que \"es el secto…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658968474505613",
+    "created_at": "Tue Nov 03 16:43:36 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: En la Conferencia Industrial organizada por @UIAok, el Ministro de Economía, @LuisCaputoAR, adelantó que “le vamos a es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658955887350042",
+    "created_at": "Tue Nov 03 16:43:33 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El Ministro de Economía, @LuisCaputoAR, en la 32° Conferencia Industrial de la @UIAok explicó que “estamos direccionand…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658940112540027",
+    "created_at": "Tue Nov 03 16:43:30 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: En la Conferencia Industrial organizada por la UIA, el Ministro de Economía, @LuisCaputoAR, anunció la extensión del pl…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658925398946210",
+    "created_at": "Tue Nov 03 16:43:26 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: Ante industriales reunidos en la Conferencia de la @UIAok, el Ministro de Economía, @LuisCaputoAR, anunció que “se susp…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658905840922946",
+    "created_at": "Tue Nov 03 16:43:22 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El Ministro de Economía, @LuisCaputoAR, en la 32° Conferencia Industrial organizada por @UIAok, resaltó que “venimos de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658893748728179",
+    "created_at": "Tue Nov 03 16:43:19 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El Ministro de Economía, @LuisCaputoAR, expuso en la 32° Conferencia Industrial organizada por @UIAok en la ciudad de B…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658840002916727",
+    "created_at": "Tue Nov 03 16:43:06 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: En el encuentro de la UIA, el ministro @LuisCaputoAR, adelantó que “las PyMEs podrán utilizar el 100% del saldo que ten…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658641578778767",
+    "created_at": "Tue Nov 03 16:42:19 +0000 2026",
+    "full_text": "RT @julianyosovitch: Ya se vio lo peor de la crisis economica? \n\nFernando Corvaro @LoboArgy   anticipa que se viene un rebote\n\nMira #Afterm…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658486427533631",
+    "created_at": "Tue Nov 03 16:41:42 +0000 2026",
+    "full_text": "RT @mediceneljefe: EXCELENTE MEDIDA. @JMilei cumple su palabra blindando la producción y el trabajo de los argentinos de bien. VLLC!!! http…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658450792698213",
+    "created_at": "Tue Nov 03 16:41:33 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 ESTO QUE DIJO CAPUTO HIZO QUE ESTALLEN LOS APLAUSOS DE UNA MANERA TREMENDA\n\n🔥 \"Mucha gente PERDIÓ LA ESPERANZA. Por eso…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658397197701599",
+    "created_at": "Tue Nov 03 16:41:20 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | AHORA — El vocero presidencial Adrián Ravier anunció que el Gobierno de Javier Milei impulsa un programa de educ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658368227651613",
+    "created_at": "Tue Nov 03 16:41:13 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: Durante su exposición en la conferencia industrial organizada por @UIAok, el ministro @LuisCaputoAR destacó “haber resu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117658336325698025",
+    "created_at": "Tue Nov 03 16:41:06 +0000 2026",
+    "full_text": "RT @Voceria_Ar: ARGENTINA SE PREPARA PARA LA HISTÓRICA VISITA DEL PAPA LEON XIV\n\nDesde ayer comenzaron a arribar a la Argentina los integra…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117657939225751657",
+    "created_at": "Tue Nov 03 16:39:31 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @LuisCaputoAR expone que el Gobierno del Presidente Milei tiene la mejor performance de los últimos cuatro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117657911954448489",
+    "created_at": "Tue Nov 03 16:39:25 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @LuisCaputoAR celebra que el RIGI ya suma 49 proyectos por 218.000 millones de dólares, con 30 aprobados p…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117657896129384576",
+    "created_at": "Tue Nov 03 16:39:21 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @LuisCaputoAR desmonta el mito de la restricción externa y explica que el problema era un modelo que casti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117657847630557560",
+    "created_at": "Tue Nov 03 16:39:09 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @LuisCaputoAR detalla el plan para el desarrollo económico e industrial: “Nosotros buscamos el desarrollo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117657827653116287",
+    "created_at": "Tue Nov 03 16:39:04 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Ministro @LuisCaputoAR, en la 32° Conferencia Industrial, desmonta el modelo kirchnerista que dejó catorce años sin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117633373111726246",
+    "created_at": "Tue Nov 03 15:01:54 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | AHORA — El vocero presidencial Adrián Ravier destacó que el Gobierno de Javier Milei ya realizó 18.000 desregula…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117632552382931217",
+    "created_at": "Tue Nov 03 14:58:38 +0000 2026",
+    "full_text": "RT @SPettovelloOK: SOBRE LA VISITA DEL PAPA.\n\n📻 Sandra Pettovello en Radio Mitre con Eduardo Feinmann\n“Alguien tiene que decirlo”\n\n🗣️ Sandr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117632528731287674",
+    "created_at": "Tue Nov 03 14:58:33 +0000 2026",
+    "full_text": "RT @Voceria_Ar: FIN A UNA REGULACIÓN INSÓLITA QUE ENCARECÍA LA EXPORTACIÓN DE MINERÍA\n\nHoy, por primera vez en la historia reciente, nuestr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117632494803550598",
+    "created_at": "Tue Nov 03 14:58:25 +0000 2026",
+    "full_text": "FENÓMENO BARRIAL",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2117630038866559433",
+    "created_at": "Tue Nov 03 14:48:39 +0000 2026",
+    "full_text": "RT @todonoticias: La ministra de Capital Humano, Sandra Pettovello, negó tensiones con la Iglesia y aseguró que León XIV \"no dará mensajes…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117629422530363435",
+    "created_at": "Tue Nov 03 14:46:12 +0000 2026",
+    "full_text": "RT @mediceneljefe: Cátedra de @LuisCaputoAR: chau embargos de ARCA hasta mayo y prórroga de deudas para las PyMEs. Con @JMilei el Estado de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117629369703117050",
+    "created_at": "Tue Nov 03 14:46:00 +0000 2026",
+    "full_text": "RT @KarenReichardt1: 🇦🇷 | GRAN NOTICIA PARA LAS PyMEs \n\n@LuisCaputoAR anunció en la UIA nuevas medidas para aliviar a las PyMEs: suspensión…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117614069892915398",
+    "created_at": "Tue Nov 03 13:45:12 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨SUBE LA RECAUDACION REAL EN OCTUBRE🚨\n➡️La recaudación total del mes de OCT26 fue de $21,6 B\n➡️Supone un aumento nomin…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117613871741460899",
+    "created_at": "Tue Nov 03 13:44:25 +0000 2026",
+    "full_text": "RT @isaacrrr7: 🚨🇦🇷🇮🇱 JAVIER MILEI: «Quienes se meten con Israel se meten con todo Occidente. No descansaremos para defender nuestra herenci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117613726563966988",
+    "created_at": "Tue Nov 03 13:43:50 +0000 2026",
+    "full_text": "RT @aetchebarne: El Presidente Milei recibió a las autoridades de Argentinos por la Educación \n\n“La Ministra Sandra Pettovello  @SPettovell…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117613669437628500",
+    "created_at": "Tue Nov 03 13:43:36 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨🎙️ “HAY QUE ESPERAR, DE A POCO VAMOS AVANZANDO. TRABAJO ES LO QUE SOBRA, NO HAY SACRIFICIO EN LA JUVENTUD Y QUIEREN TODO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117613645278355959",
+    "created_at": "Tue Nov 03 13:43:31 +0000 2026",
+    "full_text": "RT @GordoDan_: Boludo el kukismo lleva 20 años denunciando cipayismo e injerencia extranjera, y ahora importa dirigentes BRASILEÑOS para qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117613580254138723",
+    "created_at": "Tue Nov 03 13:43:15 +0000 2026",
+    "full_text": "RT @DiegoMac227: Si la oposición mentira descaradamente sobre el gobierno, ya me imagino la campaña sucia que se viene de aquí en adelante…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117613393137840471",
+    "created_at": "Tue Nov 03 13:42:30 +0000 2026",
+    "full_text": "RT @mediceneljefe: Cerró con los Macabeos y una definición enorme: la victoria no depende de la cantidad de soldados, sino de las fuerzas d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117613220999356625",
+    "created_at": "Tue Nov 03 13:41:49 +0000 2026",
+    "full_text": "RT @axelwahnish: CLARIDAD",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117613128309481756",
+    "created_at": "Tue Nov 03 13:41:27 +0000 2026",
+    "full_text": "RT @mediceneljefe: Los gerentes de la pobreza se quedaban con el 50% de la ayuda. Cortando intermediarios hoy se cubre hasta el 100% de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117613108055208205",
+    "created_at": "Tue Nov 03 13:41:22 +0000 2026",
+    "full_text": "RT @SPettovelloOK: LA EDUCACIÓN EN LA POLÍTICA\n\n📻 Sandra Pettovello en Radio Mitre con Eduardo Feinmann\n“Alguien tiene que decirlo”\n\n🗣️ San…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612774243115163",
+    "created_at": "Tue Nov 03 13:40:03 +0000 2026",
+    "full_text": "RT @ViejoLibertario: Gracias @JMilei, por las lágrimas de zurdos internacionales.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612676989809056",
+    "created_at": "Tue Nov 03 13:39:40 +0000 2026",
+    "full_text": "RT @Felii_N: Jajaja hicieron mierda a la gente, nos encerraron 2 años sin siquiera poder despedir a nuestros seres queridos y el tipo “no s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612618697384347",
+    "created_at": "Tue Nov 03 13:39:26 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | EL GOBIERNO DE MILEI YA REPARÓ MÁS DE 1.100 KILÓMETROS DE RUTAS NACIONALES CON INVERSIÓN 100% PRIVADA\n\nA través…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612492981465270",
+    "created_at": "Tue Nov 03 13:38:56 +0000 2026",
+    "full_text": "RT @jmilei_english: Populist demagoguery promises a paradise that always ends up being HELL.\n\nLONG LIVE FREEDOM, DAMN IT...!!! https://t.co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612420298367395",
+    "created_at": "Tue Nov 03 13:38:38 +0000 2026",
+    "full_text": "RT @Diego_Hartfield: Más claro imposible, para los que creen que hay que tirar plata a la calle. Porfa también piensen en las posibles cons…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612379030643003",
+    "created_at": "Tue Nov 03 13:38:29 +0000 2026",
+    "full_text": "RT @CerviPablo: EL POPULISMO ES UN INFIERNO DISFRAZADO DE PARAÍSO\n\n🗣️ @JMilei: “El infierno en términos económicos es una sociedad que vive…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612343605473727",
+    "created_at": "Tue Nov 03 13:38:20 +0000 2026",
+    "full_text": "RT @fargosi: Ya exportamos hasta hacienda en pié.\n\nLa libertad es maravillosa.\n\nEs con @JMilei  https://t.co/JvUKYdyqgv",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612312362164343",
+    "created_at": "Tue Nov 03 13:38:13 +0000 2026",
+    "full_text": "RT @AlejRozitchner: Muy bueno! Coincido.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612280510578826",
+    "created_at": "Tue Nov 03 13:38:05 +0000 2026",
+    "full_text": "RT @fedesturze: Seguimos achicando el Estado para bajar tus impuestos. Los ahorros ya suman unos 3500 millones de dólares anuales. Esto tam…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612261242020042",
+    "created_at": "Tue Nov 03 13:38:01 +0000 2026",
+    "full_text": "RT @DiegoMac227: ✅️l Excelente trabajo del ministro Sturzenegger.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117612235581177982",
+    "created_at": "Tue Nov 03 13:37:54 +0000 2026",
+    "full_text": "RT @fedesturze: EXPORTACIÓN DE GANADO EN PIE. El año pasado cuando sacamos la traba a la exportación de ganado en pie pensé que llevaría añ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117597107854983393",
+    "created_at": "Tue Nov 03 12:37:48 +0000 2026",
+    "full_text": "RT @Felii_N: Jajajaja 100% lobotomizados.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117596721119162738",
+    "created_at": "Tue Nov 03 12:36:16 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: Cipayismo peronista",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117596456823509297",
+    "created_at": "Tue Nov 03 12:35:13 +0000 2026",
+    "full_text": "RT @FerIglesias: Otro día que pasa y todavía no somos Suiza. Ponete las pilas, Milei!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117596090316795958",
+    "created_at": "Tue Nov 03 12:33:45 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | LOS REPARTIDORES DESMIENTEN EL DISCURSO KIRCHNERISTA:\n\nSe viraliza un video en el que trabajadores de aplicacion…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117595966958186863",
+    "created_at": "Tue Nov 03 12:33:16 +0000 2026",
+    "full_text": "RT @racgris23: @DiegoMac227 SON TODAS FINANCIADAS POR LOS KUKAS de sus usinas de NIDOS ESTATALES .",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117595947899224344",
+    "created_at": "Tue Nov 03 12:33:11 +0000 2026",
+    "full_text": "RT @DiegoMac227: Las manifestaciones \"multitudinarias\" en contra de Milei son la nada misma, sin un grupito minusculo pero bastante ruidoso…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117595816370057240",
+    "created_at": "Tue Nov 03 12:32:40 +0000 2026",
+    "full_text": "RT @agarra_pala: ✅🚨 “LLEGAMOS A FIN DE MES, ESTAMOS BIEN”\n\nUNA SEÑORA ARRUINÓ LA OPERETA K DEL CRONISTA DE AR12 Y HABLÓ SOBRE EL MODELO DE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117595692222849427",
+    "created_at": "Tue Nov 03 12:32:10 +0000 2026",
+    "full_text": "RT @SPettovelloOK: GERENTES DE LA POBREZA\n\n📻 Sandra Pettovello en Radio Mitre con Eduardo Feinmann\n“Alguien tiene que decirlo”\n\n🗣️ Eduardo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117587660541772079",
+    "created_at": "Tue Nov 03 12:00:15 +0000 2026",
+    "full_text": "RT @IvanDuboisok: Cuando se hacen las periodistas picantes pero son terribles b",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117587618783285487",
+    "created_at": "Tue Nov 03 12:00:05 +0000 2026",
+    "full_text": "RT @MFKanselo: Milei dos veces en Neuquén! Gran recibimiento 🇦🇷🇦🇷🇦🇷👏\n https://t.co/YKnlfAwdsl",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117587492169798101",
+    "created_at": "Tue Nov 03 11:59:35 +0000 2026",
+    "full_text": "RT @DiegoMac227: Quisiera saber cual es la excusa que diran los Kirchneristas para justificar tremendo robo de Lula. https://t.co/MsNPEsvhqS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117587396875182513",
+    "created_at": "Tue Nov 03 11:59:12 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | BASADA: Una jubilada defendió el rumbo económico de @JMilei y destruyó a quienes dicen que “no hay trabajo”.\n\n“D…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117584472170270847",
+    "created_at": "Tue Nov 03 11:47:35 +0000 2026",
+    "full_text": "RT @SofyGrimauu: • 4 conceptos FUNDAMENTALES en la gestion de este gobierno:\n-equilibrio fiscal\n-baja de la inflacion\n-libre mercado\n-baja…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117583712250380779",
+    "created_at": "Tue Nov 03 11:44:34 +0000 2026",
+    "full_text": "RT @fargosi: La catarata de mentiras y operetas contra @JMilei que hemos visto estos 3 años, será NADA comparada con todo lo que harán en e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117583619828957490",
+    "created_at": "Tue Nov 03 11:44:12 +0000 2026",
+    "full_text": "RT @indignadoxd: Aplausos para Analía Franchín, la domadora. Brancatelli y Geo: “Nunca se vio tanta violencia y odio, empezando por Milei”.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117583398352880006",
+    "created_at": "Tue Nov 03 11:43:19 +0000 2026",
+    "full_text": "RT @LucatCopatBeyer: El peronismo está tan perdido que tiene que pedirles a los brasileros que le enseñen a hacer una campaña electoral.\nDe…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117583284452393287",
+    "created_at": "Tue Nov 03 11:42:52 +0000 2026",
+    "full_text": "RT @wallstwolverine: Milei: “No defendemos a Israel por un capricho personal del presidente.\n\nDefendemos a Israel porque hoy es el baluarte…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117582543625089475",
+    "created_at": "Tue Nov 03 11:39:55 +0000 2026",
+    "full_text": "RT @agustin_pistone: ▶️ BAUSILI SOBRE LA ACTIVIDAD ECONÓMICA, EL CREDITO Y LOS MECANISMOS DE TRANSMISIÓN \n\n@Kicker0024: “Si nosotros inyect…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117582016627519489",
+    "created_at": "Tue Nov 03 11:37:50 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: La esperanza de generaciones enteras. https://t.co/XabTVoYvLQ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117582000370405524",
+    "created_at": "Tue Nov 03 11:37:46 +0000 2026",
+    "full_text": "RT @nadiajmarquez: Hermosa iglesia Visión de Futuro!!!!\nAplausos al mejor Presidente de la historia argentina!!!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117581969047384202",
+    "created_at": "Tue Nov 03 11:37:38 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇮🇱🇮🇷 | MILEI DEFENDIÓ A OCCIDENTE Y APUNTÓ CONTRA IRÁN, HEZBOLÁ Y LA IZQUIERDA INTERNACIONAL:\n\n“La Argentina sabe d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117581935174197452",
+    "created_at": "Tue Nov 03 11:37:30 +0000 2026",
+    "full_text": "RT @DiegoMac227: 📊 MILEI Y BAUSILI: DEL 25% AL 169% DE RESPALDO MONETARIO\n\nEn noviembre de 2023, la cobertura de los pasivos monetarios con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117581834426974487",
+    "created_at": "Tue Nov 03 11:37:06 +0000 2026",
+    "full_text": "RT @mediceneljefe: Clarísimo @GAFrancosOK: el único que garantiza la continuidad del proyecto de cambio es @JMilei. El rumbo es uno solo y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117581810121019720",
+    "created_at": "Tue Nov 03 11:37:00 +0000 2026",
+    "full_text": "RT @DiegoMac227: Prometen el paraíso inmediato, pero ese paraíso siempre queda a una matanza y a un robo sistemático de distancia. La prome…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117581463352725546",
+    "created_at": "Tue Nov 03 11:35:38 +0000 2026",
+    "full_text": "18.000...!!!\nVLLC!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2117581375326839092",
+    "created_at": "Tue Nov 03 11:35:17 +0000 2026",
+    "full_text": "RT @fedesturze: Finalmente llegamos a las 18.000 desregulaciones. La génesis de los aumentos de productividad. Gracias a todo el equipo de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117580499388363076",
+    "created_at": "Tue Nov 03 11:31:48 +0000 2026",
+    "full_text": "RT @DiegoMac227: Vaya mercenarios que llegaron de Brasil, obviamente son personajes que no creen en nada, simplemente son expertos en campa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117580391875780819",
+    "created_at": "Tue Nov 03 11:31:22 +0000 2026",
+    "full_text": "RT @SPettovelloOK: La ministra de Capital Humano, Sandra Pettovello, asistió junto al presidente Javier Milei, la secretaria general de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117580366068297786",
+    "created_at": "Tue Nov 03 11:31:16 +0000 2026",
+    "full_text": "RT @manuelquintar: 🇦🇷 ⚖️ | Nuestro Presidente @JMilei y una gran verdad sobre los valores morales:\n\n\"El camino de la justicia no siempre es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117574958444409146",
+    "created_at": "Tue Nov 03 11:09:47 +0000 2026",
+    "full_text": "RT @javierlanari: Esta foto es todo lo que está bien. Argentinos por la Educación fue la organización que más luchó para abrir las escuelas…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117574216853700926",
+    "created_at": "Tue Nov 03 11:06:50 +0000 2026",
+    "full_text": "RT @ARGinUSA: 🇦🇷🤝🇺🇸",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117574201540325438",
+    "created_at": "Tue Nov 03 11:06:46 +0000 2026",
+    "full_text": "RT @alejandrito: Hoy la Embajada recibió a la comitiva del Centro de Estudios Americanos, encabezada por su presidente, Luis María Savino,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117574074738032721",
+    "created_at": "Tue Nov 03 11:06:16 +0000 2026",
+    "full_text": "RT @marcos_galperin: En Iran te meten preso si festejás Halloween...ya sabemos a quienes les gusta esto.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117573996954726766",
+    "created_at": "Tue Nov 03 11:05:58 +0000 2026",
+    "full_text": "RT @tipitoenojado: Estos periodistas son gente DE MIERDA y deben ser tratados como tal. Y si queres hablar con ESTA MIERDA, asegurate que a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117573569248948274",
+    "created_at": "Tue Nov 03 11:04:16 +0000 2026",
+    "full_text": "RT @indignadoxd: Ya es un clásico de PH: Andy invita al famoso, arma la trampita con cara de inocente, y cuando el invitado se da cuenta y…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117572198412017810",
+    "created_at": "Tue Nov 03 10:58:49 +0000 2026",
+    "full_text": "RT @HoracioCabak: Hoy en @Observador1079",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117572182456803549",
+    "created_at": "Tue Nov 03 10:58:45 +0000 2026",
+    "full_text": "RT @EconomiaMises: “El dinero no es un invento del Estado, sino que surge de las relaciones económicas independientes del poder del gobiern…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117571902088659000",
+    "created_at": "Tue Nov 03 10:57:38 +0000 2026",
+    "full_text": "RT @PabloWende: Pero a quien se le puede ocurrir que Lula va a bancar la campaña del kirchnerismo el año que viene?? De ninguna manera un e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2117571237622771879",
+    "created_at": "Tue Nov 03 10:55:00 +0000 2026",
+    "full_text": "RT @DiegoMac227: Dato mata relato\n\nEn el informe que estoy desarrollando sobre el BCRS, los pasivos remunerados promediaron alrededor de 50…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2117498470395187628",
     "created_at": "Tue Nov 03 06:05:51 +0000 2026",
     "full_text": "RT @laderechadiario: 🚨🇦🇷🇮🇱 | MILEI FELICITÓ A NETANYAHU POR LA VICTORIA DEL LIKUD Y REAFIRMÓ SU APOYO A ISRAEL:\n\n“Quiero aprovechar para fe…",
