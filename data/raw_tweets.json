@@ -1,5 +1,369 @@
 [
   {
+    "id": "2118758769161285705",
+    "created_at": "Fri Nov 06 17:33:49 +0000 2026",
+    "full_text": "MASTERCLASS",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2118758733694017960",
+    "created_at": "Fri Nov 06 17:33:41 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El ministro de Economía, @LuisCaputoAR, participó de la reunión de fin de año de directores y delegados de la Sociedad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118758675762282508",
+    "created_at": "Fri Nov 06 17:33:27 +0000 2026",
+    "full_text": "RT @agarra_pala: 🚨 ASÍ RECIBIERON AL PRESIDENTE JAVIER MILEI EN LA RURAL\n\n🦁 Con todos DE PIE Y APLAUDIENDO, así fue como el Presidente fue…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118758613065814166",
+    "created_at": "Fri Nov 06 17:33:12 +0000 2026",
+    "full_text": "RT @SPettovelloOK: La ministra Sandra Pettovello firmó un acuerdo con Gustavo Weiss, presidente de la Cámara Argentina de la Construcción (…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118758591150604445",
+    "created_at": "Fri Nov 06 17:33:07 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: Durante su exposición en la @SociedadRural, el ministro @LuisCaputoAr sostuvo que ante la coyuntura de crisis económica…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118758552772936034",
+    "created_at": "Fri Nov 06 17:32:58 +0000 2026",
+    "full_text": "RT @Felii_N: 🦁🇦🇷📈",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118758524729671980",
+    "created_at": "Fri Nov 06 17:32:51 +0000 2026",
+    "full_text": "RT @DiegoMac227: Imperdible masterclass del ministro Caputo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118758507193209072",
+    "created_at": "Fri Nov 06 17:32:47 +0000 2026",
+    "full_text": "RT @braga_dito: Adorni renunció el 27/6 sin indagatoria. Hoy, 132 días después, el fiscal descarta el enriquecimiento ilícito. El ciclo pro…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118758435277685224",
+    "created_at": "Fri Nov 06 17:32:30 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: La ministra Sandra Pettovello firmó un acuerdo con Gustavo Weiss, presidente de la Cámara Argentina de la Construcción (C…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118758315765186982",
+    "created_at": "Fri Nov 06 17:32:01 +0000 2026",
+    "full_text": "RT @OPRArgentina: Discurso del Presidente Javier Milei en la reunión de fin de año de directores y delegados de la Sociedad Rural Argentina…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118751063427682561",
+    "created_at": "Fri Nov 06 17:03:12 +0000 2026",
+    "full_text": "RT @xestadominimo: \"El socialismo es fascista en política y el fascismo es socialista en economía\". \n\nAmbas ideologías asesinas y hermanas,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750920188035428",
+    "created_at": "Fri Nov 06 17:02:38 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ MILEI LA PUDRIÓ TODA Y PRENDIÓ FUEGO TODO EL RELATO KIRCHNERISTA\n\n🔥 \"No ALCANZA solo con recursos, hay que tener REGLAS…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750824566305038",
+    "created_at": "Fri Nov 06 17:02:15 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 TOTO CAPUTO DESTROZÓ OTRA DE LAS PROMESAS FALLIDAS CON LA QUE LOS KUKAS VENDIERON HUMO Y NUNCA CUMPLIERON\n\n💥 \"Esto era l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750720656601379",
+    "created_at": "Fri Nov 06 17:01:50 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l Milei sobre  Elon Musk.\n\n\"Es un proveedor de soluciones\" https://t.co/Y2aKIGgTVH",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750694685454697",
+    "created_at": "Fri Nov 06 17:01:44 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: La ministra de Capital Humano, Sandra Pettovello, firmó un acuerdo con el presidente de la Cámara Argentina de la Constru…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750287737352524",
+    "created_at": "Fri Nov 06 17:00:07 +0000 2026",
+    "full_text": "RT @AleMonteoliva: LO DEVOLVIMOS ¡SIN ESCALAS!\n\nA todos los narcos que intentan refugiarse en Argentina se los advertimos: los vamos a enco…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750244049404344",
+    "created_at": "Fri Nov 06 16:59:57 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: LAS MALVINAS SON ARGENTINAS POR HISTORIA Y POR DERECHO. VLLC!!! https://t.co/VK5rtQwwnb",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750216606085476",
+    "created_at": "Fri Nov 06 16:59:50 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: REORGANIZAMOS LOS CRITERIOS PARA RECONOCER LAS ESPECIALIDADES DE LOS PROFESIONALES DE LA SALUD\n\nDesde el inicio de la…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750093973033039",
+    "created_at": "Fri Nov 06 16:59:21 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | TOTO CAPUTO DESTACÓ LOS LOGROS ECONÓMICOS DEL GOBIERNO DE MILEI ANTE LA SOCIEDAD RURAL:\n\nEl ministro de Economía…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750085970280766",
+    "created_at": "Fri Nov 06 16:59:19 +0000 2026",
+    "full_text": "RT @Felii_N: Masterclass de Toto.\n⚓⚓⚓",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118750011261341782",
+    "created_at": "Fri Nov 06 16:59:01 +0000 2026",
+    "full_text": "RT @DiegoMac227: Milei sobre el espíritu empresarial.\n\n\"Este auditorio está lleno de héroes que le solucionan el hambre a cientos de millon…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118749930382676429",
+    "created_at": "Fri Nov 06 16:58:42 +0000 2026",
+    "full_text": "RT @MinCapHum_Ar: Gracias a la Cámara Argentina de la Construcción (CAMARCO) por la donación de materiales para las tareas de reacondiciona…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118748084205166694",
+    "created_at": "Fri Nov 06 16:51:22 +0000 2026",
+    "full_text": "RT @MinDefensa_Ar: El 6 de noviembre de 1820, la bandera argentina flameó por primera vez en Malvinas, proclamando nuestra soberanía. En 19…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118747879489642876",
+    "created_at": "Fri Nov 06 16:50:33 +0000 2026",
+    "full_text": "RT @FAST_GAST: Aunque la elite de la ultra izquierda/progresista quiera abatir al faro de Occidente (@JMilei), somos millones de leones los…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118747821461443032",
+    "created_at": "Fri Nov 06 16:50:19 +0000 2026",
+    "full_text": "RT @joacobl75: Masterclass de gestion liberal con sus resultados transformadores y batalla cultural del Presidente @JMilei en los 160 años…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118747783788183889",
+    "created_at": "Fri Nov 06 16:50:10 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: SE VIENE TESLA A LA ARGENTINA.\n\nVLLC @elonmusk 🇦🇷🇦🇷🇦🇷 https://t.co/VPZA2S1Dxp",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118747745808691688",
+    "created_at": "Fri Nov 06 16:50:01 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | “ELIMINAMOS EL DÉFICIT FISCAL EN EL PRIMER MES DE MANDATO”\n\nToto Caputo destacó el ajuste fiscal implementado po…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118747660156879153",
+    "created_at": "Fri Nov 06 16:49:41 +0000 2026",
+    "full_text": "RT @DiegoMac227: Las mayores mejoras tuvieron lugar en las provincias que eran las mas postergadas, entonces no solo estamos mejorando el c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118747622685212938",
+    "created_at": "Fri Nov 06 16:49:32 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Gracias a la Cámara Argentina de la Construcción (CAMARCO) por la donación de materiales para las tareas de reacondicion…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118747566087254381",
+    "created_at": "Fri Nov 06 16:49:18 +0000 2026",
+    "full_text": "RT @KarinaMileiOk: ¡Esta cuenta de Instagram NO ES MÍA! Ya la denuncié por suplantación de identidad. \n\nNo la sigan, ¡muchas gracias! https…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118744614601429048",
+    "created_at": "Fri Nov 06 16:37:35 +0000 2026",
+    "full_text": "RT @CasaRosada: El 6 de noviembre de 1820, la bandera albiceleste flameó por primera vez en las Islas Malvinas. Aquel día, el coronel David…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118743199107743848",
+    "created_at": "Fri Nov 06 16:31:57 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: FENÓMENO BARRIAL https://t.co/UloIRJ663y",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118743107587973608",
+    "created_at": "Fri Nov 06 16:31:35 +0000 2026",
+    "full_text": "RT @agarra_pala: 💣 TOTO CAPUTO TIRÓ DATOS TOTALMENTE BOMBA QUE DEMUESTRAN QUE LOS KUKAS SOLO QUIEREN DESTRUIR LA ECONOMÍA\n\n💥 \"En el Gobiern…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118743076818608582",
+    "created_at": "Fri Nov 06 16:31:28 +0000 2026",
+    "full_text": "RT @AdrianRavier: La Pampa no adhirió al RIGI. El gobernador parece arrepentido ante la evidencia. Neuquén vuela en crecimiento, y La Pampa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118742954898596313",
+    "created_at": "Fri Nov 06 16:30:59 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: ESTE ES EL CAMINO https://t.co/PWxxS5gMyI",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118742951396319488",
+    "created_at": "Fri Nov 06 16:30:58 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Excelente @JoseLuisDazaAR, como siempre",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118742920496828631",
+    "created_at": "Fri Nov 06 16:30:51 +0000 2026",
+    "full_text": "RT @fedesturze: Entiendo q algunos critiquen a @JMilei por las formas. Pero muchaches, lo q no pueden negar q es un presidente q está adela…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118742776640626968",
+    "created_at": "Fri Nov 06 16:30:16 +0000 2026",
+    "full_text": "RT @dlaje1: ¿Y ahora?\nSe quedaron sin $Libra y sin Andis; ahora sin Adorni.\nY en medio de este festival golpista fallido, cierto periodismo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118742742285033797",
+    "created_at": "Fri Nov 06 16:30:08 +0000 2026",
+    "full_text": "RT @fedesturze: Gracias @HernaniiBA por la invitación!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118742730297823637",
+    "created_at": "Fri Nov 06 16:30:05 +0000 2026",
+    "full_text": "RT @agarra_pala: 🌶️ CAPUTO SE LA PUDRIÓ TODA A LOS KUKAS Y MOSTRÓ COMO LA GENTE NO QUIERE VOLVER AL PASADO\n\n🔥 \"Cada día estamos haciendo LO…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118742676019581429",
+    "created_at": "Fri Nov 06 16:29:52 +0000 2026",
+    "full_text": "RT @Milei_Media: NI DESHIZO LA VALIJA...!!!\n\nHace horas volvió de la Cumbre Iberoamericana en España y ya está en la Rural con Nicolás Pino…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118742606955823407",
+    "created_at": "Fri Nov 06 16:29:36 +0000 2026",
+    "full_text": "RT @SPettovelloOK: La ministra de Capital Humano, Sandra Pettovello, firmó un acuerdo con el presidente de la Cámara Argentina de la Constr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118722700659093859",
+    "created_at": "Fri Nov 06 15:10:30 +0000 2026",
+    "full_text": "RT @OPRArgentina: https://t.co/CO3e1UEyNe",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118719007272391056",
+    "created_at": "Fri Nov 06 14:55:49 +0000 2026",
+    "full_text": "RT @Rafa_Libertario: Háblame de tener cojones...\n@JMilei va a España, se sienta frente al Rey y le dice que todo lo que aplica su President…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118718468077891968",
+    "created_at": "Fri Nov 06 14:53:41 +0000 2026",
+    "full_text": "RT @Santiago_Oria: En un mundo donde un socialismo-woke recargado quiere volver, se engrandece aún más la figura de Javier Gerardo Milei.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118718262330499152",
+    "created_at": "Fri Nov 06 14:52:52 +0000 2026",
+    "full_text": "RT @fedesturze: Una curiosidad del proceso de crecimiento q vive Argentina es la debilidad de la inversión. No debería haber crecido más fu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118704516816052372",
+    "created_at": "Fri Nov 06 13:58:15 +0000 2026",
+    "full_text": "RT @DiegoMac227: Masterclass del ministro Sturzenegger",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118704497744560592",
+    "created_at": "Fri Nov 06 13:58:10 +0000 2026",
+    "full_text": "RT @joacobl75: DATOS de gestión que muestran por qué somos optimistas sobre nuestro futuro argentino con la reelección de nuestro President…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118701798684860443",
+    "created_at": "Fri Nov 06 13:47:27 +0000 2026",
+    "full_text": "MASTERCLASS DEL COLOSO...!!!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2118701747577221387",
+    "created_at": "Fri Nov 06 13:47:14 +0000 2026",
+    "full_text": "RT @MinDesreg_Ar: Exposición completa del Ministro @fedesturze en el Foro ABECEB. https://t.co/3ulTkU66uj",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118693672531181769",
+    "created_at": "Fri Nov 06 13:15:09 +0000 2026",
+    "full_text": "RT @mediceneljefe: Magistral @JoseLuisDazaAR explicando el milagro económico: etapa de siembra con bases firmes para un crecimiento históri…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2118693443576762728",
+    "created_at": "Fri Nov 06 13:14:15 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: MÁS OPCIONES PARA PRODUCIR OXÍGENO MEDICINAL EN ARGENTINA\n\nEl oxígeno medicinal se utiliza para atender a personas con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2118647825525272873",
     "created_at": "Fri Nov 06 10:12:58 +0000 2026",
     "full_text": "RT @CarlosGuberman: @ManalCorwin @OECDtax El compromiso asumido por @JMilei de abrir las puertas del mundo se reflejan en acciones: lograr…",
