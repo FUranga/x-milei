@@ -1,5 +1,502 @@
 [
   {
+    "id": "2120676996564840863",
+    "created_at": "Thu Nov 12 00:36:10 +0000 2026",
+    "full_text": "RT @javierlanari: Hay momentos que son bisagra. Que marcan un antes y un después. Lo que vivimos con León es uno de ellos. No fue solo la v…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120674233361523129",
+    "created_at": "Thu Nov 12 00:25:12 +0000 2026",
+    "full_text": "RT @AdrianRavier: Días que quedarán en la historia. La Argentina recibió al Papa León XIV con fe, con alegría y con un enorme esfuerzo de t…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120673150056759672",
+    "created_at": "Thu Nov 12 00:20:53 +0000 2026",
+    "full_text": "RT @MagaSonSuporter: 🚨 UPDATE: After a HISTORIC trip, Argentina President Javier Milei gets emotional as he bids farewell to Pope Leo XIV…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120672912348733702",
+    "created_at": "Thu Nov 12 00:19:57 +0000 2026",
+    "full_text": "RT @MFKanselo: Anticipamos que el Presidente Milei tendría más y más liderazgo en el Mundo 🇦🇷🇦🇷🇦🇷👏 https://t.co/8dUbo9UTYz",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120672748645048569",
+    "created_at": "Thu Nov 12 00:19:18 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷l Argentina faro de occidente.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120669748480422106",
+    "created_at": "Thu Nov 12 00:07:22 +0000 2026",
+    "full_text": "RT @FulloneEnzo: Argentina es faro de faros.\n\nOccidente está en buenas manos.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120669731049083123",
+    "created_at": "Thu Nov 12 00:07:18 +0000 2026",
+    "full_text": "RT @ViejoLibertario: 90 HORAS PERFECTAS.\n\nEl Vaticano y el Gobierno argentino planificaron esta visita desde hace meses y al detalle.\n\nCada…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120666788148953179",
+    "created_at": "Wed Nov 11 23:55:37 +0000 2026",
+    "full_text": "RT @FAST_GAST: Argentina faro de luz de Occidente!!\nVLLC!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120666347411587403",
+    "created_at": "Wed Nov 11 23:53:51 +0000 2026",
+    "full_text": "RT @AgustinLaje: ¡Qué días que vivió la Argentina!\nQue sirvan para acercar a la gente a la fe verdadera.\n¡Viva Cristo Rey!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120665215255633988",
+    "created_at": "Wed Nov 11 23:49:22 +0000 2026",
+    "full_text": "RT @JMilei: ARGENTINA:\nFARO DE LUZ DE OCCIDENTE\nMuchas gracias a todos por estos días que quedarán grabados en las mejores páginas de la hi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120665136968929469",
+    "created_at": "Wed Nov 11 23:49:03 +0000 2026",
+    "full_text": "RT @caulo_agustin: Mejores páginas de la historia Argentina… \n\n🇻🇦🇦🇷🇻🇦🇦🇷🇻🇦🇦🇷🇻🇦🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120664716670369929",
+    "created_at": "Wed Nov 11 23:47:23 +0000 2026",
+    "full_text": "RT @vikingo_liberal: Emocionante despedida del Presidente @JMilei al Papa León XIV. Repfleja el esfuerzo y compromiso para con este evento…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120664618389393741",
+    "created_at": "Wed Nov 11 23:46:59 +0000 2026",
+    "full_text": "RT @Argenpoirot: El Papa lloro, Milei lloro, el pueblo lloro. \n\nGracias Santo Padre Leon XIV. \nGracias Argentina por todo lo que se hizo. Q…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120663987499290970",
+    "created_at": "Wed Nov 11 23:44:29 +0000 2026",
+    "full_text": "RT @AlejandraM37880: Argentina Faro de faros!\nGuardianes de los valores de occidente.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120663930024403214",
+    "created_at": "Wed Nov 11 23:44:15 +0000 2026",
+    "full_text": "RT @GordoDan_: El Javo es el mandatario más sincero de toda la historia argentina",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120663615870992819",
+    "created_at": "Wed Nov 11 23:43:00 +0000 2026",
+    "full_text": "RT @Azabacheonline: Exactamente, Argentina es el faro que no solo ilumina el continente, sino que resuena a nivel global, demostrando que l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120663551450747039",
+    "created_at": "Wed Nov 11 23:42:45 +0000 2026",
+    "full_text": "RT @GordoDan_: Impresionante lo contento que estoy. Verdaderamente Argentina es Faro de Occidente. https://t.co/FfC4tUigOh",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120663482919977267",
+    "created_at": "Wed Nov 11 23:42:29 +0000 2026",
+    "full_text": "RT @ElTrumpista: Maria Ibarzabal, Ministra de Leyes explica en A24 la histórica defensa de Argentina por la soberanía sobre las Islas Malvi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120663402599043257",
+    "created_at": "Wed Nov 11 23:42:09 +0000 2026",
+    "full_text": "MAGA!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2120663200869818728",
+    "created_at": "Wed Nov 11 23:41:21 +0000 2026",
+    "full_text": "RT @nicpromanzio: Es técnicamente impresionante el trabajo que está realizando Argentina llevando por primera vez en la historia al Reino U…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120663110608409024",
+    "created_at": "Wed Nov 11 23:41:00 +0000 2026",
+    "full_text": "RT @sonsimios: Abrazos de felicidad y emoción \nEl éxito fue contundente 🇦🇷💜🦁 https://t.co/Tpp54YihnI",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120662984372490637",
+    "created_at": "Wed Nov 11 23:40:30 +0000 2026",
+    "full_text": "RT @CatholicArena: Argentina President Javier Milei was literally in tears as he said adios to Pope Leo XIV \n\nAfter the incredible events o…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120662485934248191",
+    "created_at": "Wed Nov 11 23:38:31 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: El Presidente Javier Milei no pudo contener las lágrimas al despedir al Papa León XIV 🥹🦁 https://t.co/D7ADXdXO1e",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120662348578836600",
+    "created_at": "Wed Nov 11 23:37:58 +0000 2026",
+    "full_text": "RT @manuelquintar: Excelentes jornadas Presidente.\n\nArgentina faro de faros.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120662330237161975",
+    "created_at": "Wed Nov 11 23:37:54 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Bravo a ese team que dejó a Argentina en lo más alto a nivel mundial, gracias gracias gracias por la responsabilidad con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120662268253798441",
+    "created_at": "Wed Nov 11 23:37:39 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: \"Somos un pueblo de fe. Una fe que nos lleva a vencer el mal con el bien, conserva la esperanza en la adversidad y enc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120662108987859152",
+    "created_at": "Wed Nov 11 23:37:01 +0000 2026",
+    "full_text": "RT @TommyShelby_30: El Presidente J. Milei y Pablo Quirno, grandes responsables de que el Papa haya podido venir a la Argentina.\n\nMAGA 🇦🇷🇦🇷…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120648889363493080",
+    "created_at": "Wed Nov 11 22:44:29 +0000 2026",
+    "full_text": "RT @ekammerath: Así es! Días históricos se vivieron en Argentina. El mejor país del mundo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120648811924132131",
+    "created_at": "Wed Nov 11 22:44:11 +0000 2026",
+    "full_text": "RT @HoracioCabak: \"Argentina es lo vimos ayer, No nos dejemos convencer por las pequeñas minorías violentas; la gran mayoría de la Repúblic…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120648603035193727",
+    "created_at": "Wed Nov 11 22:43:21 +0000 2026",
+    "full_text": "RT @vikingo_liberal: Acá tienen a los responsables, del exito de este evento histórico para todos los argentinos. No es casualidad, es esfu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120647415568994806",
+    "created_at": "Wed Nov 11 22:38:38 +0000 2026",
+    "full_text": "RT @TommyShelby_30: MI PRESIDENTE CARAJO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120647151826948329",
+    "created_at": "Wed Nov 11 22:37:35 +0000 2026",
+    "full_text": "RT @agarra_pala: 🇦🇷🫂 EMOCIONANTE: EL CANCILLER QUIRNO LLENÓ DE ELOGIOS A MILEI TRAS LA DESPEDIDA DEL PAPA LEÓN EN EZEIZA\n\n\"Un hombre de fe,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120646734351134921",
+    "created_at": "Wed Nov 11 22:35:55 +0000 2026",
+    "full_text": "RT @lilialemoine: Gracias Javier",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120646684157915580",
+    "created_at": "Wed Nov 11 22:35:43 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Todavía no dimensionamos lo que acaba de pasar en Argentina. Esto es un pico en la historia del país. Acabamos de ver lo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120639707654549883",
+    "created_at": "Wed Nov 11 22:08:00 +0000 2026",
+    "full_text": "ARGENTINA:\nFARO DE LUZ DE OCCIDENTE\nMuchas gracias a todos por estos días que quedarán grabados en las mejores páginas de la historia de Argentina.\nAbrazo gigante! https://t.co/PF7PRY0UCF",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2120618628806496296",
+    "created_at": "Wed Nov 11 20:44:14 +0000 2026",
+    "full_text": "RT @carolina_moine: Un país que no se olvida de Dios, es impermeable a todos los intentos de los carceleros de la humanidad. \n\nNo es casual…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120618294306566385",
+    "created_at": "Wed Nov 11 20:42:55 +0000 2026",
+    "full_text": "RT @SantarossaLM: Esta foto muestra la gran calidad humana que tiene este gobierno y que realizaron un trabajo excepcional, para brindarnos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120617795000148155",
+    "created_at": "Wed Nov 11 20:40:56 +0000 2026",
+    "full_text": "RT @AleMonteoliva: Desde la sala del Comando Unificado, que ahora lleva el nombre de León XIV, junto a parte del equipo que trabajó durante…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120617730164293940",
+    "created_at": "Wed Nov 11 20:40:40 +0000 2026",
+    "full_text": "RT @Felii_N: Organización inmejorable del Gobierno Nacional en la visita del Papa. Felicitaciones a todos, los argentinos vivieron momentos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120615861442822357",
+    "created_at": "Wed Nov 11 20:33:15 +0000 2026",
+    "full_text": "RT @slcaputo: Es patetico y despreciable ver a miembros de la intelligentsia progresista salir al ataque del Presidente en búsqueda de gene…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120609502009479193",
+    "created_at": "Wed Nov 11 20:07:58 +0000 2026",
+    "full_text": "RT @FAST_GAST: Una imagen vale mas que mil palabras!! , todo el trabajo realizado obtuvo un beato resultado.\n\nGracias por regalarnos estos…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120609360586162368",
+    "created_at": "Wed Nov 11 20:07:25 +0000 2026",
+    "full_text": "MENSAJE PERFECTO.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2120609231682556353",
+    "created_at": "Wed Nov 11 20:06:54 +0000 2026",
+    "full_text": "RT @pabloquirno: Esta tarde despedimos con muchísima alegría, emoción y agradecimiento a Su Santidad León XIV finalizando su primera visita…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120608704865178034",
+    "created_at": "Wed Nov 11 20:04:48 +0000 2026",
+    "full_text": "ÚNICOS E INIGUALABLES.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2120601695902134554",
+    "created_at": "Wed Nov 11 19:36:57 +0000 2026",
+    "full_text": "RT @fedesturze: ORDENAMIENTO NORMATIVA EN INAME. Hace un tiempo @MinSalud_Ar y @ANMATsalud vienen trabajando para ordenar sus normas. La id…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120601516939616632",
+    "created_at": "Wed Nov 11 19:36:15 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Gracias @KarinaMileiOk por tu trabajo incansable en esta visita de Su Santidad León XIV. La Argentina y los argentinos s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120600638744674747",
+    "created_at": "Wed Nov 11 19:32:45 +0000 2026",
+    "full_text": "RT @davidhernan04: Te quiero mucho Milei. Nunca pensé que iba a bancar tanto a un economista y presidente. Gracias",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120599618396324222",
+    "created_at": "Wed Nov 11 19:28:42 +0000 2026",
+    "full_text": "RT @clarincom: EL MENSAJE DE MILEI A LEÓN XIV: \"GRACIAS SU SANTIDAD, LA ARGENTINA ES SU CASA\"\n\nEl Presidente le agradeció en las redes soci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120598873114812771",
+    "created_at": "Wed Nov 11 19:25:44 +0000 2026",
+    "full_text": "RT @gabimunozlla: Emocionante despedida de nuestro presidente y el Papa León XIV 😭\n@JMilei https://t.co/92PIafYrKh",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120598299782627575",
+    "created_at": "Wed Nov 11 19:23:28 +0000 2026",
+    "full_text": "RT @mediceneljefe: El emotivo y último saludo entre @JMilei y León XIV antes de que el Sumo Pontífice subiera al avión. Así se cerraron cua…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120598220535439460",
+    "created_at": "Wed Nov 11 19:23:09 +0000 2026",
+    "full_text": "RT @LnEnriquez: Gracias por todo @KarinaMileiOk, en especial por ser una de las piezas fundamentales de este cambio en el país, y esta visi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120598206631579697",
+    "created_at": "Wed Nov 11 19:23:05 +0000 2026",
+    "full_text": "RT @romidiezok: Pocos saben del incansable trabajo, la dedicación y el amor que pusiste para que esta visita fuera una realidad @KarinaMile…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120597989123391907",
+    "created_at": "Wed Nov 11 19:22:14 +0000 2026",
+    "full_text": "RT @PrivilegioCero: SATISFACCIÓN: MISIÓN CUMPLIDA 🇦🇷🇻🇦\n\nTras despedir al Papa León XIV, @JMilei, @KarinaMileiOk y @PabloQuirno celebraron e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120597964116652337",
+    "created_at": "Wed Nov 11 19:22:08 +0000 2026",
+    "full_text": "RT @gusty_natasha: Hasta el fin del mundo voy con ellos! Cuantas emociones tenemos en el pecho, en la garganta, gratitud, amor, unión, grac…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120596933882307043",
+    "created_at": "Wed Nov 11 19:18:02 +0000 2026",
+    "full_text": "RT @InMilei: Mission accomplished.  https://t.co/zSUGOsQrLi",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120595499048956223",
+    "created_at": "Wed Nov 11 19:12:20 +0000 2026",
+    "full_text": "https://t.co/oSahHrjgKq",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2120594043105083849",
+    "created_at": "Wed Nov 11 19:06:33 +0000 2026",
+    "full_text": "RT @MinSeguridad_Ar: Este fue el saludo del Presidente Javier Milei a las Fuerzas Federales de Seguridad y a las fuerzas policiales provinc…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120594021349306829",
+    "created_at": "Wed Nov 11 19:06:28 +0000 2026",
+    "full_text": "RT @mediceneljefe: Postal para la historia: un abrazo que simboliza capacidad de organización, respeto republicano y un inmenso trabajo con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120593944522248532",
+    "created_at": "Wed Nov 11 19:06:09 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Un abrazo que representa la satisfacción de lo que hemos logrados los Argentinos en esta visita histórica del Santo Padr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120593821134098582",
+    "created_at": "Wed Nov 11 19:05:40 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: GRACIAS SANTO PADRE\n\nLa Argentina lo despide lleno de emoción y gratitud. Su visita ya forma parte de nuestra historia…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120593711897915548",
+    "created_at": "Wed Nov 11 19:05:14 +0000 2026",
+    "full_text": "RT @TommyShelby_30: QUE TIPAZO EL JAVO HERMANO https://t.co/GPhNDF70Sb",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120592458518057167",
+    "created_at": "Wed Nov 11 19:00:15 +0000 2026",
+    "full_text": "RT @mediceneljefe: Lágrimas de emoción: @JMilei agradeciendo a León XIV y pidiendo oraciones por la Patria. El mundo elogia la organización…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120592144817705097",
+    "created_at": "Wed Nov 11 18:59:00 +0000 2026",
+    "full_text": "RT @porquetendencia: \"Ezeiza\":\nPorque el Papa León XIV finalizó su visita a Argentina y comienza su viaje hacia Perú https://t.co/MOOCFqWICq",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120592017759596723",
+    "created_at": "Wed Nov 11 18:58:30 +0000 2026",
+    "full_text": "RT @clarincom: EL ABRAZO EMOCIONADO DE MILEI CON KARINA Y QUIRNO\n\nApenas el papa León XIV saludó desde la escalera e ingresó al avión, el P…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120591632542449702",
+    "created_at": "Wed Nov 11 18:56:58 +0000 2026",
+    "full_text": "RT @mediceneljefe: ¡Argentina lo espera siempre! @JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120591601244266610",
+    "created_at": "Wed Nov 11 18:56:51 +0000 2026",
+    "full_text": "RT @AndreaFreguia: El corazón lleno de amor, gracias, gracias, gracias 🙏 ✨",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120591578125459741",
+    "created_at": "Wed Nov 11 18:56:45 +0000 2026",
+    "full_text": "RT @Mialygosa: 🇦🇷🤝🇻🇦 | El Papa Leon XIV finaliza su visita a la Argentina acompañado por el\nPresidente Javier Milei. https://t.co/1KrMkGMwNx",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120591418049569060",
+    "created_at": "Wed Nov 11 18:56:07 +0000 2026",
+    "full_text": "RT @TalidanMilei: POR DIOS\n\nES LA DESPEDIDA CON MÁS AURA DE TODA LA HISTORIA. 🇦🇷🇻🇦 https://t.co/mZg5fcvC2f",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120588059448115687",
+    "created_at": "Wed Nov 11 18:42:46 +0000 2026",
+    "full_text": "RT @LaVonHayek: Catholic Sat es de UK, vean lo que dice de Argentina, a ver si se convencen de una vez porque decimos Argentina, faro de fa…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120587322429214891",
+    "created_at": "Wed Nov 11 18:39:50 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇻🇦 | AHORA — El presidente Javier Milei despide al papa León XIV en el Aeropuerto de Ezeiza, tras su histórica visi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120587021215490135",
+    "created_at": "Wed Nov 11 18:38:39 +0000 2026",
+    "full_text": "RT @altashanta: Después de estos días hermosos, nos toca despedir al papa León XIV. Fue maravilloso vivir una visita que nos dejó tantas im…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2120582606169510083",
     "created_at": "Wed Nov 11 18:21:06 +0000 2026",
     "full_text": "RT @slcaputo: Faro de faros",
