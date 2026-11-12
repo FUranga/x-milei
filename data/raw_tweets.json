@@ -1,5 +1,187 @@
 [
   {
+    "id": "2120917628529135678",
+    "created_at": "Thu Nov 12 16:32:22 +0000 2026",
+    "full_text": "RT @manuelquintar: Gran noticia. MAGA 🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120916740645204082",
+    "created_at": "Thu Nov 12 16:28:50 +0000 2026",
+    "full_text": "RT @AleMonteoliva: 👏👏👏👏👏",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120916702670025045",
+    "created_at": "Thu Nov 12 16:28:41 +0000 2026",
+    "full_text": "RT @agustinromm: MI GOBIERNO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120916690225532953",
+    "created_at": "Thu Nov 12 16:28:38 +0000 2026",
+    "full_text": "RT @nadiajmarquez: 👏🏼👏🏼👏🏼👏🏼👏🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120914334847029320",
+    "created_at": "Thu Nov 12 16:19:16 +0000 2026",
+    "full_text": "VAAAAAAAAMOOOOOO COLOSO...!!!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2120914281864605964",
+    "created_at": "Thu Nov 12 16:19:04 +0000 2026",
+    "full_text": "RT @fedesturze: TWEET SOLO PARA ECONOMISTAS. Una alegría enorme haber recibido una aceptación condicional para publicar nuestro artículo \"P…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120913264146059411",
+    "created_at": "Thu Nov 12 16:15:01 +0000 2026",
+    "full_text": "RT @caulo_agustin: Orgullo absoluto! 🇦🇷🇻🇦\n\nGracias @pabloquirno por sumarme a un equipo en @Cancilleria_Ar que asumió este desafío con prof…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120913128854528100",
+    "created_at": "Thu Nov 12 16:14:29 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Canciller @pabloquirno rechaza de manera contundente que el régimen iraní califique de terroristas a las Fuerzas Ar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120913105098006729",
+    "created_at": "Thu Nov 12 16:14:23 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Canciller @pabloquirno reafirma que la Argentina va a usar todos los instrumentos de su legislación y de los foros…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120913093567848675",
+    "created_at": "Thu Nov 12 16:14:20 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Canciller @pabloquirno advierte que si el Tribunal Internacional del Mar falla a favor de la Argentina el Reino Uni…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120913079911289062",
+    "created_at": "Thu Nov 12 16:14:17 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Canciller @pabloquirno reafirma que el mensaje del Santo Padre es universal e interpela a cada uno desde sus respon…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120913060923638033",
+    "created_at": "Thu Nov 12 16:14:13 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Canciller @pabloquirno, en Radio Rivadavia, celebra la primera visita de un Santo Padre a la Argentina en 39 años c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120912619284386159",
+    "created_at": "Thu Nov 12 16:12:27 +0000 2026",
+    "full_text": "RT @CorajeEstoico: “Para ofender a un hombre fuerte, dile una mentira. Para ofender a un hombre débil, dile la verdad”\n\n— Marco Aurelio htt…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120908680228917639",
+    "created_at": "Thu Nov 12 15:56:48 +0000 2026",
+    "full_text": "VUELVE EL RALLY A LA ARGENTINA. \nHechos, no palabras.\nMAGA! https://t.co/fHgrLucIBy",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2120906511878647914",
+    "created_at": "Thu Nov 12 15:48:11 +0000 2026",
+    "full_text": "MASTERCLASS \n\nCC: @AdrianRavier",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2120905859018473573",
+    "created_at": "Thu Nov 12 15:45:35 +0000 2026",
+    "full_text": "RT @AdrianRavier: No hay contradicción entre la Doctrina Social de la Iglesia y la Economía de Mercado 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120905816458833993",
+    "created_at": "Thu Nov 12 15:45:25 +0000 2026",
+    "full_text": "RT @xestadominimo: “Hay dos sistemas: el capitalismo de libre empresa y el socialismo real o comunismo. Cualquier solución intermedia es in…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120905759118520762",
+    "created_at": "Thu Nov 12 15:45:12 +0000 2026",
+    "full_text": "RT @JuanbYofre: Felicitaciones por la organización. Todo excelente",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120905734208598360",
+    "created_at": "Thu Nov 12 15:45:06 +0000 2026",
+    "full_text": "RT @MarioNawfal: 🇦🇷🇻🇦 Pope Leo just departed Argentina after a 4-day visit, heading to Peru. \n\nMilei had tears in his eyes like a man who k…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120905678965354828",
+    "created_at": "Thu Nov 12 15:44:53 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: LAS EXPORTACIONES DE LAS PYMES ALCANZARON EL MAYOR VALOR EN 13 AÑOS\n✅ Entre enero y octubre de 2026, las exportaciones de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120905658761462247",
+    "created_at": "Thu Nov 12 15:44:48 +0000 2026",
+    "full_text": "RT @Azabacheonline: MILEI CON EL PAPA: IMAGEN QUE ENCIENDE EL CORAZÓN DE ARGENTINA\nVer @JMilei compartiendo ese momento tan humano y cercan…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120905633989795919",
+    "created_at": "Thu Nov 12 15:44:42 +0000 2026",
+    "full_text": "RT @mediceneljefe: El ENORME trabajo que no se ve detrás de cada actividad de @JMilei. La @SecGralNacion, a cargo de @KarinaMileiOk, abrió…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120888840952914135",
+    "created_at": "Thu Nov 12 14:37:58 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: IMPORTANTE 👇🏻\n\nYa está abierta la inscripción para la segunda Ronda de Negocios RIGI, que se realizará el 2 de diciembre…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120888494046257646",
+    "created_at": "Thu Nov 12 14:36:35 +0000 2026",
+    "full_text": "RT @SecGralNacion: 🇦🇷 LA SECRETARÍA GENERAL DE LA PRESIDENCIA LLEGA A LAS REDES SOCIALES\n\nLa Presidencia de la Nación tiene una historia qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120845990391427291",
+    "created_at": "Thu Nov 12 11:47:42 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: MÁS SEGURIDAD PARA LOS PACIENTES TRASPLANTADOS Y LOS DONANTES\n\nCada trasplante implica un proceso complejo en el que l…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2120845422210003122",
+    "created_at": "Thu Nov 12 11:45:26 +0000 2026",
+    "full_text": "RT @HippiesConOsde: La televisión española cortó 40 minutos de la entrevista que le hicieron a Abascal.\nLos zurdos son facistas en todo el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2120791891457225072",
     "created_at": "Thu Nov 12 08:12:43 +0000 2026",
     "full_text": "RT @Ottaviani_Gatti: https://t.co/1i0ZHotnk1",
