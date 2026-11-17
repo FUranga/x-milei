@@ -1,5 +1,355 @@
 [
   {
+    "id": "2122770743108747438",
+    "created_at": "Tue Nov 17 19:15:58 +0000 2026",
+    "full_text": "RT @Felii_N: EN OCTUBRE LA INFLACIÓN MAYORISTA FUE DE 1,6%\n\n✅ El IPIM registró en octubre una variación de 1,6% m/m.\n✅ En el mes, los produ…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122768731700900031",
+    "created_at": "Tue Nov 17 19:07:59 +0000 2026",
+    "full_text": "FUERTE CAÍDA DE LA INFLACIÓN MAYORISTA.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2122768610427121998",
+    "created_at": "Tue Nov 17 19:07:30 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: EN OCTUBRE LA INFLACIÓN MAYORISTA FUE DE 1,6%\n✅ El Índice de Precios Internos al por Mayor (IPIM) registró en octubre una…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122737408789684353",
+    "created_at": "Tue Nov 17 17:03:31 +0000 2026",
+    "full_text": "RT @JMilei: TREMENDA MASTERCLASS.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122737347447955727",
+    "created_at": "Tue Nov 17 17:03:16 +0000 2026",
+    "full_text": "RT @SPettovelloOK: .@JMilei \n\nhttps://t.co/9FEKhId3Py https://t.co/XARrV8Hiey",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122737293064610107",
+    "created_at": "Tue Nov 17 17:03:03 +0000 2026",
+    "full_text": "RT @Felii_N: Se cae el muro de Berlin kuka en la Argentina.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122737195073053059",
+    "created_at": "Tue Nov 17 17:02:40 +0000 2026",
+    "full_text": "RT @SPettovelloOK: La reducción de la pobreza es un dato respaldado por las estadísticas oficiales y explicado, fundamentalmente, por la de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122737173732405344",
+    "created_at": "Tue Nov 17 17:02:35 +0000 2026",
+    "full_text": "RT @DiegoMac227: Maravilloso mensaje del Papa León XIV, escuchen atentamente, sobre todo aquellos que quisieron politizar su mensaje y usar…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122731317930479790",
+    "created_at": "Tue Nov 17 16:39:19 +0000 2026",
+    "full_text": "RT @FzasDeLaVerdad: DARLE UN CONGRESO A LLA\nJavier Milei y LLA son la única salida que tiene nuestro país para dejar atrás un siglo de deca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122731277115695157",
+    "created_at": "Tue Nov 17 16:39:09 +0000 2026",
+    "full_text": "RT @wallstwolverine: Milei: “Si simplemente mantenemos lo que hemos logrado y no hacemos nada más, alcanzaremos a Estados Unidos en 35 años…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122731015835688979",
+    "created_at": "Tue Nov 17 16:38:07 +0000 2026",
+    "full_text": "RT @AlanWentin21322: DEL OTRO LADO NO HAY NADA\n\n@aetchebarne \"Acá el único que tiene las ideas y propuestas para el país es Javier Milei, d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122730753167343996",
+    "created_at": "Tue Nov 17 16:37:04 +0000 2026",
+    "full_text": "RT @rcas1: Evolución del salario privado no registrado.\n\nEl INDEC estima que el poder de compra es igual al 2018 (8 años atrás), con inflac…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122730583533273294",
+    "created_at": "Tue Nov 17 16:36:24 +0000 2026",
+    "full_text": "RT @MandrilandiaX: ENSEÑANZAS QUE DEJÓ JAVIER MILEI A LOS ARGENTINOS:\n\n🟣 La emisión monetaria genera INFLACIÓN.\n🟣 Nada es gratis. El estado…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122730514175893529",
+    "created_at": "Tue Nov 17 16:36:07 +0000 2026",
+    "full_text": "RT @javierlanari: Son muy pocos los países que tienen superávit fiscal: Noruega, Dinamarca, Irlanda y Suiza, entre otros. La Argentina ingr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122730407409971639",
+    "created_at": "Tue Nov 17 16:35:42 +0000 2026",
+    "full_text": "RT @SPettovelloOK: .@JMilei \n\nhttps://t.co/fb5KFDvYgi https://t.co/cSkCpIaBFz",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122730361796866512",
+    "created_at": "Tue Nov 17 16:35:31 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: LA MORTALIDAD INFANTIL ALCANZÓ SU PISO HISTÓRICO\n\nEn 2025, la mortalidad infantil en la Argentina descendió hasta alca…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122730341664194771",
+    "created_at": "Tue Nov 17 16:35:26 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇺🇾\"Yo, si la tengo que describir, es excelente la relación. Cosa que nunca habíamos logrado, con este gobierno sí lo log…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122730294281130161",
+    "created_at": "Tue Nov 17 16:35:15 +0000 2026",
+    "full_text": "RT @pabloquirno: Concluida la visita apostólica del Papa León XIV por Sudamérica, es oportuno reafirmar algo que siempre sostuvimos: el men…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122730217114382677",
+    "created_at": "Tue Nov 17 16:34:56 +0000 2026",
+    "full_text": "RT @fedesturze: Linda noticia! Felicitaciones a la provincia de Jujuy. Gracias DNU 70/23. Que sea un incentivo para que alguien se anime a…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122730194943222246",
+    "created_at": "Tue Nov 17 16:34:51 +0000 2026",
+    "full_text": "RT @istMilei: Un'altra promessa mantenuta! \nhttps://t.co/ogcyPUZIW8",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122721099834130939",
+    "created_at": "Tue Nov 17 15:58:43 +0000 2026",
+    "full_text": "RT @alanlinkauf: No sé si escucharon el disparo... El disparo que se dieron los medios y los opositores después de que el Papa dijera esto.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122720870506307728",
+    "created_at": "Tue Nov 17 15:57:48 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: Por la alta demanda en las inscripciones, se extiende el plazo para participar de la segunda Ronda de Negocios RIGI de…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122716647513379098",
+    "created_at": "Tue Nov 17 15:41:01 +0000 2026",
+    "full_text": "RT @Santiago_Oria: Es lo que vengo diciendo. Un Papa de gran honestidad y sinceridad. Viva León XIV.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122715648786670032",
+    "created_at": "Tue Nov 17 15:37:03 +0000 2026",
+    "full_text": "RT @altashanta: \"Lula va a hacer campaña para el kirchnerismo con bombo y platillos, también los británicos y van a tratar que no se avance…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122715124842578344",
+    "created_at": "Tue Nov 17 15:34:58 +0000 2026",
+    "full_text": "RT @PrivilegioCero: DEL 10% AL 90% DEL MUNDO 🌎📈\n\nCuando asumió, la Argentina comerciaba con el 10% de la población mundial. En 34 meses abr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122714770100867239",
+    "created_at": "Tue Nov 17 15:33:33 +0000 2026",
+    "full_text": "RT @fargosi: Es con @JMilei  https://t.co/2SfpXd09nj",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122714568132616359",
+    "created_at": "Tue Nov 17 15:32:45 +0000 2026",
+    "full_text": "RT @neuramedia: YPF baja un 20% el precio de sus lubricantes 📉\n\nEl CEO de la compañía, Horacio Marín, explicó que la decisión se tomó a par…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122710668667171287",
+    "created_at": "Tue Nov 17 15:17:16 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇺🇾l Para los que dicen que Milei daña las relaciones diplomáticas, aca una muestra de que tiene buena relación con un pr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122710568461021230",
+    "created_at": "Tue Nov 17 15:16:52 +0000 2026",
+    "full_text": "RT @AdrianRavier: A los interesados en la visita del Papa Leon XIV a la Argentina, y las distintas interpretaciones políticas que se ofreci…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122709245367894370",
+    "created_at": "Tue Nov 17 15:11:36 +0000 2026",
+    "full_text": "RT @slcaputo: Enorme el Papa Leon XIV sobre su paso por nuestro país y su vínculo con nuestro Presidente.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122709213520498749",
+    "created_at": "Tue Nov 17 15:11:29 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Tenemos un Papa espectacular. \nQue bendición para nuestro país que nos haya visitado. 🇻🇦🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122709194155417618",
+    "created_at": "Tue Nov 17 15:11:24 +0000 2026",
+    "full_text": "MAGA!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2122708693934334412",
+    "created_at": "Tue Nov 17 15:09:25 +0000 2026",
+    "full_text": "RT @neuramedia: Argentina está a punto de cerrar la inversión energética más grande de su historia 📈\n\nHoracio Marín, CEO de YPF, cuenta los…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122686863144075312",
+    "created_at": "Tue Nov 17 13:42:40 +0000 2026",
+    "full_text": "RT @nadiajmarquez: SOMOS EL EQUIPO DEL PRESIDENTE @JMilei EN #NEUQUÉN\nEsto es solo una parte de del GRAN equipo #neuquino que defiende las…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122686840373223919",
+    "created_at": "Tue Nov 17 13:42:35 +0000 2026",
+    "full_text": "RT @AndreaFreguia: Este Papa, es mega crack. Todas sus palabras llegan al alma y reconfortan. Se hizo esperar pero llegó el que los Argenti…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122686801580061124",
+    "created_at": "Tue Nov 17 13:42:25 +0000 2026",
+    "full_text": "RT @SPettovelloOK: El Papa León hablando sobre nuestro presidente @JMilei . El tiempo y las palabras ponen las cosas en su lugar. El propio…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122686746420756834",
+    "created_at": "Tue Nov 17 13:42:12 +0000 2026",
+    "full_text": "RT @fedesturze: Que crack este señor. Me hice fan. Pero no solo por esta reflexión, sino por todo lo que nos dejó.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122664729906676124",
+    "created_at": "Tue Nov 17 12:14:43 +0000 2026",
+    "full_text": "CAMBIO DE ÉPOCA.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2122664680220967167",
+    "created_at": "Tue Nov 17 12:14:31 +0000 2026",
+    "full_text": "RT @horacioalonso16: Dato. Sin u$s, Massa obligó a empresas a financiar importaciones. Prometía pagar dsp. Perdió y se fue. La deuda con To…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662452785529202",
+    "created_at": "Tue Nov 17 12:05:40 +0000 2026",
+    "full_text": "RT @IvanDuboisok: El fenómeno barrial\n\nDice: Viva la libertad carajo! https://t.co/e9t8nE4frd",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662410490151211",
+    "created_at": "Tue Nov 17 12:05:30 +0000 2026",
+    "full_text": "RT @juanfloreschaar: 🚨🇦🇷 | TITÁNICO: Milei ya devolvió a los argentinos 4 puntos del PBI en impuestos.\nSon USD 28.000 millones.\n https://t.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662333394588059",
+    "created_at": "Tue Nov 17 12:05:12 +0000 2026",
+    "full_text": "RT @BreakPointMP: 🦁 ¡INCREIBLE CIERRE DE MILEI: ARGENTINA PUEDE CONVERTIRSE EN LA MAYOR POTENCIA DEL MUNDO!\n🚀 Proyectó que, creciendo al 7%…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662295671013471",
+    "created_at": "Tue Nov 17 12:05:03 +0000 2026",
+    "full_text": "RT @Felii_N: Totalmente.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662219246694819",
+    "created_at": "Tue Nov 17 12:04:44 +0000 2026",
+    "full_text": "RT @FAST_GAST: Los kukas no saben con quien se metieron , las redes son Libertarias!\n\nVLLC!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662199445299524",
+    "created_at": "Tue Nov 17 12:04:40 +0000 2026",
+    "full_text": "RT @martinvars: Pero la economía argentina no va bien dicen los medios....",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662163697254826",
+    "created_at": "Tue Nov 17 12:04:31 +0000 2026",
+    "full_text": "RT @DiegoMac227: LEGO abre su primera tienda oficial en el shopping más grande del país https://t.co/VpSOFkbA80",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662146685223182",
+    "created_at": "Tue Nov 17 12:04:27 +0000 2026",
+    "full_text": "RT @AlejRozitchner: El kirchnerismo se alimenta y sostiene con ocultamientos y mentiras, el mileísmo con verdades y realidad.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662115630551446",
+    "created_at": "Tue Nov 17 12:04:20 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷🇺🇸 | HISTÓRICO — MILEI PARTICIPARÁ DEL DESEMBARCO OFICIAL DE TESLA EN ARGENTINA:\n\nEl presidente asistirá el viernes…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122662062279077944",
+    "created_at": "Tue Nov 17 12:04:07 +0000 2026",
+    "full_text": "RT @eve_barroso: Mientras otros discuten si invertir en la Argentina, el Gobierno de @JMilei le saca trabas al que ya decidió hacerlo.\n\nEl…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2122661987800711593",
+    "created_at": "Tue Nov 17 12:03:49 +0000 2026",
+    "full_text": "RT @EconomiaMises: “Privar al individuo de la libertad de elección en el consumo conduce a la abolición de toda libertad.”\n\nLudwig von Mises",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2122652140975927303",
     "created_at": "Tue Nov 17 11:24:42 +0000 2026",
     "full_text": "TREMENDA MASTERCLASS.",
