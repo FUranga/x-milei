@@ -1,5 +1,306 @@
 [
   {
+    "id": "2125333908095119425",
+    "created_at": "Tue Nov 24 21:01:05 +0000 2026",
+    "full_text": "RT @DiegoMac227: Ayer escuchaba a varios periodistas deseosos y casi excitados para que el dato de actividad fuera negativo, ya tenian prep…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125332063502974985",
+    "created_at": "Tue Nov 24 20:53:45 +0000 2026",
+    "full_text": "RT @SantilanJuli223: Decían que era un FENÓMENO BARRIAL, pero el eco ya cruza océanos. @JMilei recibió en la Casa Rosada al presidente de P…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125331724758372744",
+    "created_at": "Tue Nov 24 20:52:24 +0000 2026",
+    "full_text": "RT @ViejoLibertario: El lobo siempre será el malo, si la historia la cuenta Caperucita.\n\n@JMilei siempre será el malo, si la historia la cu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125331128265462114",
+    "created_at": "Tue Nov 24 20:50:02 +0000 2026",
+    "full_text": "RT @SFGaliani: De los datos de actividad económica que acaba de publicar el INDEC, es interesante destacar que los últimos dos meses regist…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125329912147980295",
+    "created_at": "Tue Nov 24 20:45:12 +0000 2026",
+    "full_text": "RT @AmoaHamlet: Los zurdos tienen normalizado denunciar la concentración de riqueza, pero nunca se atreven a denunciar con la misma energía…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125328719141359939",
+    "created_at": "Tue Nov 24 20:40:27 +0000 2026",
+    "full_text": "RT @aetchebarne: Informe de EMAE con un buen gráfico del economista jefe de @liberyprogre @dgpiccardo1 \nBuen dato de actividad económica (m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125328136019558623",
+    "created_at": "Tue Nov 24 20:38:08 +0000 2026",
+    "full_text": "RT @WeimarClub: Der Kapitalismus produziert so viel Wohlstand, dass selbst Sozialisten genug Freizeit haben, um auf ihren iPhones über das…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125325179324891216",
+    "created_at": "Tue Nov 24 20:26:24 +0000 2026",
+    "full_text": "RT @PabloWende: Lula hizo campaña contra la motosierra de Milei. Y ahora resulta que se la pide prestada para ajustar 10.000 palos verdes d…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125324977457213540",
+    "created_at": "Tue Nov 24 20:25:35 +0000 2026",
+    "full_text": "RT @Tomidiazcueto: Massa aumentó el dólar blue en un año lo que aumentó con Milei en tres años.\n\nMassa lo recibió a $290 el blue y tuvo pic…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125324785160712245",
+    "created_at": "Tue Nov 24 20:24:50 +0000 2026",
+    "full_text": "RT @indignadoxd: No lo vas a ver en los medios ensobrados: la Argentina de Milei registró en 2025 la cifra más baja de femicidios en 9 años…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125324769994084660",
+    "created_at": "Tue Nov 24 20:24:46 +0000 2026",
+    "full_text": "RT @ElPelucaMilei: Logramos domar la hiperinflación galopante que nos dejó el Kirchnerismo. https://t.co/bSAIFZPbWZ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125324275116847461",
+    "created_at": "Tue Nov 24 20:22:48 +0000 2026",
+    "full_text": "RT @lilialemoine: \"La peronería necesita que Argentina fracase. Porque si el liberalismo funciona, se les termina el negocio de vender la m…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125322960160366874",
+    "created_at": "Tue Nov 24 20:17:34 +0000 2026",
+    "full_text": "RT @AlejandraM37880: Todo marcha acorde al plan. \n@JMilei",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125322333237715402",
+    "created_at": "Tue Nov 24 20:15:05 +0000 2026",
+    "full_text": "RT @AmoaHamlet: El político no crea ningún tipo de riqueza, pero tiene una imaginación extraordinaria para encontrarle destino al dinero aj…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125322096511217712",
+    "created_at": "Tue Nov 24 20:14:09 +0000 2026",
+    "full_text": "RT @mediceneljefe: Alto Palermo repleto durante el fin de semana largo. Estas imágenes también forman parte de la realidad, aunque no entre…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125322058288804247",
+    "created_at": "Tue Nov 24 20:13:59 +0000 2026",
+    "full_text": "RT @arg_endatos: 20 gráficos para entender la economía argentina https://t.co/zEcIyA2ACy",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125321408100303297",
+    "created_at": "Tue Nov 24 20:11:24 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | HISTÓRICO — LA MAYOR INVERSIÓN PRIVADA DE LA HISTORIA ARGENTINA\n\nEl vocero presidencial de Milei, Adrián Ravier,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125321388324241903",
+    "created_at": "Tue Nov 24 20:11:20 +0000 2026",
+    "full_text": "RT @LoboArgy: En septiembre empezaron los mejores 18 meses.\nAl final toto no estuvo tan lejos.\nLos kukas se van a tener que buscar otro rel…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125321145452843515",
+    "created_at": "Tue Nov 24 20:10:22 +0000 2026",
+    "full_text": "RT @ivancarrino: Con datos del EMAE de hoy, tenemos: A 33 meses de la devaluación oficial, la actividad económica está 3,5% por arriba del…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125320935683076396",
+    "created_at": "Tue Nov 24 20:09:32 +0000 2026",
+    "full_text": "RT @PabloWende: Lloraban atraso cambiario y ahora que el dólar sube 4% desde el piso de 1550 y…también lloran. Pónganse de acuerdo",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125320829026398505",
+    "created_at": "Tue Nov 24 20:09:06 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: EN SEPTIEMBRE LA ACTIVIDAD CRECIÓ 1,1%\n\nEl Estimador Mensual de Actividad Económica (EMAE) registró un crecimiento de 1…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125318536922902936",
+    "created_at": "Tue Nov 24 20:00:00 +0000 2026",
+    "full_text": "RT @julianyosovitch: 🚨INFLACIÓN SEMANAL EN 0%🚨\n➡️El IPC-OJF de alta frecuencia de Ferreres midió en la 3era semana de NOV26 una inflación g…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125318461694079200",
+    "created_at": "Tue Nov 24 19:59:42 +0000 2026",
+    "full_text": "RT @PabloWende: La economía cayó 1,8% en el tercer trimestre y entró en recesión. Ahora bien. Ya agosto y septiembre dieron para arriba 0,5…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125318237101412448",
+    "created_at": "Tue Nov 24 19:58:48 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Nuevo RIGI por USD 11.700 millones 🇦🇷🇦🇷🇦🇷",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125318120483238027",
+    "created_at": "Tue Nov 24 19:58:21 +0000 2026",
+    "full_text": "RT @Felii_N: El indicador tendencia-ciclo se mantuvo sin variaciones en relación a agosto. Este indicador se ubicó 6,1% por encima del nive…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125317875896406327",
+    "created_at": "Tue Nov 24 19:57:22 +0000 2026",
+    "full_text": "MAGA!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2125317816077402418",
+    "created_at": "Tue Nov 24 19:57:08 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: EL NIVEL DE ACTIVIDAD CRECIÓ 1,1% MENSUAL EN SEPTIEMBRE\n✅ El Estimador Mensual de Actividad Económica (EMAE) registró un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125303112562839808",
+    "created_at": "Tue Nov 24 18:58:42 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: UN HOSPITAL DE NIÑOS NO SE TOMA POR LA FUERZA\n\nLa diputada Romina Del Plá y el Partido Obrero volvieron a usar un hosp…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125302995768279419",
+    "created_at": "Tue Nov 24 18:58:15 +0000 2026",
+    "full_text": "RT @fedesturze: La Resolución 903/26 de @ANACargentina elimina un trámite inútil: la renovación de los CESA (autorización para operar). Por…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125302964596117730",
+    "created_at": "Tue Nov 24 18:58:07 +0000 2026",
+    "full_text": "MAGA!",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2125302934078730250",
+    "created_at": "Tue Nov 24 18:58:00 +0000 2026",
+    "full_text": "RT @HoracioMarin_ok: SEGUIMOS CRECIENDO EN VACA MUERTA\n\nPresentamos la solicitud de adhesión al Régimen de Incentivo para Grandes Inversion…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125289142665834545",
+    "created_at": "Tue Nov 24 18:03:12 +0000 2026",
+    "full_text": "TOMAR NOTA.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2125289071874392324",
+    "created_at": "Tue Nov 24 18:02:55 +0000 2026",
+    "full_text": "RT @locuralamia: Esto no te lo van a enseñar en sociales de la UBA https://t.co/9yVFMoUOaZ",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125288523087376784",
+    "created_at": "Tue Nov 24 18:00:44 +0000 2026",
+    "full_text": "RT @FranciscaBadar1: O MUNDO ESTÁ TÃO LOUCO QUE TEM PESSOAS ODIANDO QUEM PAGA SEU SALÁRIO E AMANDO QUEM TE COBRA IMPOSTOS.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125288073462243423",
+    "created_at": "Tue Nov 24 17:58:57 +0000 2026",
+    "full_text": "RT @SPettovelloOK: Desde el Ministerio de Capital Humano, a través de la Secretaría de Niñez, Adolescencia y Familia, realizaremos el Segun…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125287985440501791",
+    "created_at": "Tue Nov 24 17:58:36 +0000 2026",
+    "full_text": "RT @javierlanari: Principio de revelación. Ningún dirigente kirchnerista repudió el homenaje de la UBA a Santucho. Para ellos Santucho no e…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125287899822199090",
+    "created_at": "Tue Nov 24 17:58:15 +0000 2026",
+    "full_text": "RT @Jairo_Henoch: 🔴 AHORA: El presidente de derecha de Polonia ingresa a Casa Rosada a marcha de Avenida de las Camelias para reunirse con…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125269693996945577",
+    "created_at": "Tue Nov 24 16:45:55 +0000 2026",
+    "full_text": "RT @dlaje1: Dedicado a los sommeliers del riesgo país 👇 https://t.co/7hlS4KpWnO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125269527189463483",
+    "created_at": "Tue Nov 24 16:45:15 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇵🇱l Milei junto al Presidente de la República de Polonia, Karol Nawrocki. https://t.co/HRlQwWx05M",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125269374218965355",
+    "created_at": "Tue Nov 24 16:44:39 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei junto al Presidente de la República de Polonia, Karol Nawrocki, en Casa Rosada. https://t.co/9…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125269339997700448",
+    "created_at": "Tue Nov 24 16:44:30 +0000 2026",
+    "full_text": "RT @OPRArgentina: El Presidente Javier Milei recibe en Casa Rosada al Presidente de la República de Polonia, Karol Nawrocki. https://t.co/k…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125269314718605510",
+    "created_at": "Tue Nov 24 16:44:24 +0000 2026",
+    "full_text": "RT @javierlanari: La confianza no se compra con planes, subsidios o bolsos. La confianza se construye y se gana. Es la antesala al voto. Es…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125269295995433110",
+    "created_at": "Tue Nov 24 16:44:20 +0000 2026",
+    "full_text": "RT @Mariolugones_ar: LOS CHICOS DEL GARRAHAN MERECEN UN HOSPITAL SIN VIOLENTOS\n\nEs inaceptable que un grupo de políticos y sindicalistas vu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2125193193255759995",
     "created_at": "Tue Nov 24 11:41:56 +0000 2026",
     "full_text": "RT @fargosi: No lo vas a ver en los medios, que solo pintan un panorama de caos e inoperancia legislativa.\n\nPor eso, no publican nada bueno…",
