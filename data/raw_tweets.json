@@ -1,5 +1,208 @@
 [
   {
+    "id": "2125421320485626239",
+    "created_at": "Wed Nov 25 02:48:25 +0000 2026",
+    "full_text": "EDUCANDO...",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2125421233420263667",
+    "created_at": "Wed Nov 25 02:48:05 +0000 2026",
+    "full_text": "RT @JoseLuisDazaAR: Un mensaje para el periodismo: \n\nDos trimestres consecutivos de caída del PBI no implican una recesión. \n\nEn Estados Un…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125421187865956728",
+    "created_at": "Wed Nov 25 02:47:54 +0000 2026",
+    "full_text": "RT @hrubini: Si sube porque sube, si no sube porque no sube....  muy de gataflora...",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125379944104505760",
+    "created_at": "Wed Nov 25 00:04:00 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: A PESAR DE LAS FAKE NEWS, LA ACTIVIDAD ECONÓMICA VOLVIÓ A CRECER EN SEPTIEMBRE Y LOS PRIMEROS 9 MESES DEL AÑO MARCAN C…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125378108786155667",
+    "created_at": "Tue Nov 24 23:56:43 +0000 2026",
+    "full_text": "RT @ziberiaI: Esto no es recesión, amigos. Es estabilidad en un mundo con todas en contra, incluso el círculo rojo de adentro. \nBestial el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125376878584230330",
+    "created_at": "Tue Nov 24 23:51:50 +0000 2026",
+    "full_text": "RT @KarolPopieramy: 🇵🇱🤝🇦🇷 Tak się robi politykę międzynarodową 😎 https://t.co/Ds184iv4hi",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125375533709984160",
+    "created_at": "Tue Nov 24 23:46:29 +0000 2026",
+    "full_text": "RT @xestadominimo: “Los impuestos son un robo a gran escala, porque atentan contra el derecho de propiedad y su finalidad es mantener a una…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125375313119186991",
+    "created_at": "Tue Nov 24 23:45:36 +0000 2026",
+    "full_text": "RT @agarra_pala: ✅💣 \"EL NIVEL DE ACTIVIDAD CRECIÓ 1,1% MENSUAL EN SEPTIEMBRE\"\n\nEL POSTEO DEL MINISTRO TOTO CAPUTO SOBRE EL NUEVO DATO DEL E…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125375297163813205",
+    "created_at": "Tue Nov 24 23:45:33 +0000 2026",
+    "full_text": "RT @usdtermo: Agosto y septiembre dieron para arriba 0,5% y 1,1%. El mes que viene no vamos a estar en recesión porque probablemente tambié…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125375060386988370",
+    "created_at": "Tue Nov 24 23:44:36 +0000 2026",
+    "full_text": "RT @Felii_N: MASTERCLASS\n⚓️⚓️⚓️",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125374844447449255",
+    "created_at": "Tue Nov 24 23:43:45 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: Entrevista al Secretario de Finanzas, @FedericoFuriase, con @majulluis por @lanacionmas. https://t.co/fZETPixZDh",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125373192571064593",
+    "created_at": "Tue Nov 24 23:37:11 +0000 2026",
+    "full_text": "RT @pike_capit3704: La visión de país de Milei es a largo plazo.\n\nCuando Milei habla de hacer Argentina potencia mundial, te habla de décad…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125373064015946182",
+    "created_at": "Tue Nov 24 23:36:40 +0000 2026",
+    "full_text": "RT @Milei_Media: SE VIENE NUEVO LIBRO DE MILEI...!!!\n\n\"La moral como política de Estado\" llega en tres tomos: la construcción de la idea, c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125372819831726393",
+    "created_at": "Tue Nov 24 23:35:42 +0000 2026",
+    "full_text": "RT @AdrianRavier: Conferencia de prensa de hoy martes 24/11 👇",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125372780917243931",
+    "created_at": "Tue Nov 24 23:35:33 +0000 2026",
+    "full_text": "RT @mariaelihuber: \"Creemos que el robo es robo y no se legitima porque los ladrones organizados llamen “impuestos” a sus robos\".\n\nMurray N…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125372668518293767",
+    "created_at": "Tue Nov 24 23:35:06 +0000 2026",
+    "full_text": "RT @LeskiewiczRafa: 🇵🇱🤝🇦🇷 https://t.co/jsI7P1ORVO",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125372167378305062",
+    "created_at": "Tue Nov 24 23:33:06 +0000 2026",
+    "full_text": "RT @mediceneljefe: FENÓMENO BARRIAL. @JMilei recibió en Casa Rosada al presidente de Polonia, @NawrockiKn. Argentina vuelve a encontrarse c…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125372074529054776",
+    "created_at": "Tue Nov 24 23:32:44 +0000 2026",
+    "full_text": "RT @DiegoMac227: 🇦🇷🇵🇱",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125371935936692629",
+    "created_at": "Tue Nov 24 23:32:11 +0000 2026",
+    "full_text": "RT @NawrockiKn: Agradezco al presidente de Argentina, @JMilei, su invitación! \n\nChcemy wzmacniać współpracę gospodarczą Polski i Argentyny,…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125371673344151994",
+    "created_at": "Tue Nov 24 23:31:09 +0000 2026",
+    "full_text": "RT @tobillosdepapel: Saben por qué los jubilados cobran mal? Porque en 2022 la inflación fue del 94,79% y a los jubilados se les aumentó el…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125352922347446638",
+    "created_at": "Tue Nov 24 22:16:38 +0000 2026",
+    "full_text": "RT @GordoDan_: LA ECONOMÍA CRECIÓ EN SEPTIEMBRE JAJAJJAJAJAJAJAAJJJAJA QUE VAN A HACER LOS KUKITAS AHORA",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125352906895351919",
+    "created_at": "Tue Nov 24 22:16:34 +0000 2026",
+    "full_text": "RT @centuarg: Javier Milei no llegó a la política para administrar las ideas de su tiempo, sino para cuestionar sus fundamentos. Desafió co…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125351727725461573",
+    "created_at": "Tue Nov 24 22:11:53 +0000 2026",
+    "full_text": "RT @DiegoMac227: Donde estan los periodistas que anunciaban que Toto iba a renunciar y que el dato actividad económica iba a dar negativo?…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125343071302992092",
+    "created_at": "Tue Nov 24 21:37:29 +0000 2026",
+    "full_text": "RT @ViejoLibertario: Si un encuestador cobrara por sus aciertos, creo que ese negocio no podría haber prosperado. Por lo que \"sospecho\", qu…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125342364440899850",
+    "created_at": "Tue Nov 24 21:34:41 +0000 2026",
+    "full_text": "RT @AdrianRavier: Un hospital pediátrico no es lugar para la violencia. En el Garrahan se atiende a los chicos con las enfermedades más com…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125340442783052130",
+    "created_at": "Tue Nov 24 21:27:03 +0000 2026",
+    "full_text": "RT @DiegoMac227: Dato.\n\n👇🏼",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125340123638452303",
+    "created_at": "Tue Nov 24 21:25:47 +0000 2026",
+    "full_text": "RT @SantilanJuli223: Decían que era un FENÓMENO BARRIAL, pero el eco ya cruza océanos. @JMilei recibió en la Casa Rosada al presidente de P…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125340049516454251",
+    "created_at": "Tue Nov 24 21:25:29 +0000 2026",
+    "full_text": "RT @AdrianRavier: Hasta hace pocos años, la Argentina tenía que importar gas cada invierno. Hoy aprueba la mayor inversión privada de su hi…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2125340030306779292",
+    "created_at": "Tue Nov 24 21:25:24 +0000 2026",
+    "full_text": "RT @DiegoMac227: Nuevamente los periodistas y golpistas quedan en ridículo.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2125333908095119425",
     "created_at": "Tue Nov 24 21:01:05 +0000 2026",
     "full_text": "RT @DiegoMac227: Ayer escuchaba a varios periodistas deseosos y casi excitados para que el dato de actividad fuera negativo, ya tenian prep…",
