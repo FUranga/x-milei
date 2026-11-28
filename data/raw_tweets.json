@@ -1,5 +1,180 @@
 [
   {
+    "id": "2126492531902783516",
+    "created_at": "Sat Nov 28 01:45:02 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: LA JUVENTUD AVANZA EN MISIONES!!! VLLC!!! https://t.co/BELUnHuHwN",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126492517390786697",
+    "created_at": "Sat Nov 28 01:44:59 +0000 2026",
+    "full_text": "RT @pabloquirno: Estuve conversando con @edufeiok en @A24COM a la espera del fallo del Tribunal Internacional del Derecho del Mar al que  s…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126492488818962623",
+    "created_at": "Sat Nov 28 01:44:52 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: TODO FALSO. HABLAN DE UN FALLO DE SEPTIEMBRE QUE NO TIENE QUE VER CON LA PRIVATIZACIÓN DE AYSA Y LO VENDEN COMO SI FUE…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126462940434079858",
+    "created_at": "Fri Nov 27 23:47:27 +0000 2026",
+    "full_text": "RT @pabloquirno: Llaman “simbólica” a la ley que probablemente sea una de las más importantes del Presidente @JMilei.",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126462561285767480",
+    "created_at": "Fri Nov 27 23:45:57 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: El Canciller @pabloquirno, en A24 con Eduardo Feinmann, explica que en el Tribunal del Mar no se discute la soberanía…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126455919877693611",
+    "created_at": "Fri Nov 27 23:19:33 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: MEDIA SANCIÓN PARA LA REFORMA ELECTORAL.\n\nUn ahorro de 200 millones de dólares para los argentinos. VLLC!!! https://t.…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126455817570492636",
+    "created_at": "Fri Nov 27 23:19:09 +0000 2026",
+    "full_text": "RT @pabloquirno: El Congreso aprobó el acuerdo de libre comercio MERCOSUR–EFTA 🇮🇸🇱🇮🇳🇴🇨🇭\n\nAbre a nuestros productos un mercado de 15 millone…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126455701069279738",
+    "created_at": "Fri Nov 27 23:18:41 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: Correctísima explicación",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126450487557869665",
+    "created_at": "Fri Nov 27 22:57:58 +0000 2026",
+    "full_text": "RT @Argenpoirot: RIESGO PAIS 12% ABAJO. \n\nDOLAR BAJA por segundo día consecutivo \n\nNo lo vieron en medios, no? @JMilei \n\nQue lo sepan todos!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126450458579636566",
+    "created_at": "Fri Nov 27 22:57:51 +0000 2026",
+    "full_text": "CONTUNDENTE.",
+    "is_repost": false,
+    "type": "Post"
+  },
+  {
+    "id": "2126450418481816000",
+    "created_at": "Fri Nov 27 22:57:41 +0000 2026",
+    "full_text": "RT @elprofesorcaleb: Si el gobierno consigue aprobar dos leyes en el Congreso y al otro día bajan el dólar y el riesgo país, y suben los bo…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126450389474001041",
+    "created_at": "Fri Nov 27 22:57:35 +0000 2026",
+    "full_text": "RT @Felii_N: Primer Gobernador de LLA, vamos con todo Adrián!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126450305264919007",
+    "created_at": "Fri Nov 27 22:57:14 +0000 2026",
+    "full_text": "RT @GordoDan_: DEROGAMOS LAS PASO, BAJA EL DÓLAR, BAJA RIESGO PAÍS, SUBEN LOS BONOS",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126450262034235595",
+    "created_at": "Fri Nov 27 22:57:04 +0000 2026",
+    "full_text": "RT @fedesturze: Mamita! El nivel de reformas estructurales que está metiendo el país. MAGA! VLLC!",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126438801434345841",
+    "created_at": "Fri Nov 27 22:11:32 +0000 2026",
+    "full_text": "RT @RespOficial_Arg: HITOS DE LA SEMANA\n\n✅ Se aprobó la mayor inversión privada de la historia argentina\n✅ Se presentó la adhesión al RIGI…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126438780328452529",
+    "created_at": "Fri Nov 27 22:11:27 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: EL TURISMO INTERNACIONAL RECEPTIVO CRECIÓ 13,8% INTERANUAL EN OCTUBRE\n✅ En octubre el turismo internacional receptivo reg…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126438762011898281",
+    "created_at": "Fri Nov 27 22:11:22 +0000 2026",
+    "full_text": "RT @laderechadiario: 🚨🇦🇷 | URGENTE — ADRIÁN RAVIER CONFORMÓ UN FRENTE ELECTORAL PARA COMPETIR COMO CANDIDATO A GOBERNADOR DE LA PAMPA EN 20…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126429933803356634",
+    "created_at": "Fri Nov 27 21:36:18 +0000 2026",
+    "full_text": "RT @DiegoMac227: Cuando camino por mi barrio y un chico grita VLLC, entendi el por que.\n\nQue grande.\nImperdible los 3 tomos. https://t.co/h…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126429837804109892",
+    "created_at": "Fri Nov 27 21:35:55 +0000 2026",
+    "full_text": "RT @LLibertadAvanza: TENEMOS EL CONGRESO MÁS REFORMISTA DE LA HISTORIA!!!\n\nPOR TERCER AÑO CONSECUTIVO LOS ARGENTINOS TIENE UN PRESUPUESTO S…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126429819437248513",
+    "created_at": "Fri Nov 27 21:35:50 +0000 2026",
+    "full_text": "RT @agarra_pala: 🦁 “DEJENSE DE HINCHAR…LA GENTE NO QUIERE VOLVER A LOS 20 TIPOS DE CAMBIOS, DESABASTECIMIENTO, PIQUETES, NARCOTRÁFICOS, INF…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126429782162428149",
+    "created_at": "Fri Nov 27 21:35:41 +0000 2026",
+    "full_text": "RT @MinEconomia_Ar: El Viceministro de Economía, @JoseLuisDaza, participó en el programa Las Tres Anclas de @CarajoStream y habló de la dec…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126429745667567979",
+    "created_at": "Fri Nov 27 21:35:33 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: LAS EXPORTACIONES AGROINDUSTRIALES ALCANZARON EN OCTUBRE UN NUEVO RÉCORD HISTÓRICO\n\n✅ Las exportaciones de la agroindustr…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126429725211918339",
+    "created_at": "Fri Nov 27 21:35:28 +0000 2026",
+    "full_text": "RT @LuisCaputoAR: La inversión más importante de nuestra historia, y el proyect finance más grande de Latinoamérica!\nGracias Claudio Descal…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126429708825092605",
+    "created_at": "Fri Nov 27 21:35:24 +0000 2026",
+    "full_text": "RT @JoseLuisDazaAR: Un año histórico: la revolución institucional argentina que el ruido no deja ver\n\nEl enorme ruido y griterío diario en…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
+    "id": "2126429694794842329",
+    "created_at": "Fri Nov 27 21:35:21 +0000 2026",
+    "full_text": "RT @AdrianRavier: UNA SEMANA MÁS CAMBIANDO LA ARGENTINA\n\n🇦🇷 SE APROBÓ LA REFORMA DE LA CARTA ORGÁNICA DEL BCRA: La estabilidad de la moneda…",
+    "is_repost": true,
+    "type": "Repost"
+  },
+  {
     "id": "2126354329091154286",
     "created_at": "Fri Nov 27 16:35:52 +0000 2026",
     "full_text": "RT @diegosantilli: Lo último que quiere que veas el kirchnerismo: baja el Riesgo País en la Argentina.",
